@@ -21,6 +21,7 @@ This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3.
 1. Use shaft for x-end idler bearing (instead of screw) and dual bearing 16T idler
 1. Easier to remove extruder for maintenance (changing the PTFE tube for example)
 1. Include a tool to insert Z bearing easily
+1. Open source by providing STL and Autodesk Fusion 360 files
 
 ### Ongoing
 
@@ -29,6 +30,7 @@ This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3.
 1. Rework x-carriage-cover to make it easier to use during maintenance
 1. Create MK3 and MK2s version
 1. Use a shorter PTFE tube to improve flexible filament extrusion
+1. Provide STEP files
 
 
 ## Status
