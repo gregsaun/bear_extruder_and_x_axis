@@ -10,9 +10,10 @@ This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3.
 
 ### Already implemented
 
-1. Extruder motor is closer by 4mm to X rods to avoid vibration
+1. Extruder motor is closer by 5mm to X rods to avoid vibration
 1. Extruder is lighter
 1. Perfect filament path (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
+1. Self-centring of motor to get a perfect position of Bondtech drive gear
 1. Ventilation of hotend sink as been highly improved
 1. Perfect belt alignment (top and bottom of belts are parallel)
 1. X ends have been beefed up
@@ -25,9 +26,7 @@ This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3.
 
 ### Ongoing
 
-1. Use only one screw for extruder idler
-1. Try to move extruder motor even closer to rods
-1. Rework x-carriage-cover to make it easier to use during maintenance
+1. Try to make x-carriage-cover easier to use during maintenance
 1. Create MK3 and MK2s version
 1. Use a shorter PTFE tube to improve flexible filament extrusion
 1. Provide STEP files
