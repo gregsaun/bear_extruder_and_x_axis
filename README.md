@@ -39,7 +39,7 @@ This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3.
 
 ## Compatibility
 
-:warning: The extruder and X axis are not compatible with original parts due to the improved belt path.
+:warning: **None** of the original extruder and X axis are compatible with this project! Belt path, X motor position, screws and positions, screw length (...) differ.
 
 
 ## Sources and inspiration
