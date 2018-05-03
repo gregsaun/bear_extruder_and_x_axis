@@ -11,7 +11,7 @@
 | Steel shaft 3mm in diameter and 14mm long | 1 | does not need to be hardened | |
 | M3x10mm socket head screw (ISO 4762) | 12 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) |
 | M3x14mm socket head screw (ISO 4762) | 4 | | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) |
-| M3x18mm socket head screw (ISO 4762) | 13 | | [McMaster-Carr](https://www.mcmaster.com/#91292a029/=1coixwt) |
+| M3x18mm socket head screw (ISO 4762) | 15 | | [McMaster-Carr](https://www.mcmaster.com/#91292a029/=1coixwt) |
 | M3x35mm socket head screw (ISO 4762) | 2 | | [McMaster-Carr](https://www.mcmaster.com/#91292a033/=1coj8ei) |
 | M3x40mm socket head screw (ISO 4762) | 2 | | [McMaster-Carr](https://www.mcmaster.com/#91292a024/=1coj8pe) |
 | M3 Hex nuts | 10 | | [McMaster-Carr](https://www.mcmaster.com/#91828a211/=1cojadu) | 
