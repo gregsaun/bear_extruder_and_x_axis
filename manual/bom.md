@@ -18,6 +18,7 @@
 | M3x40mm socket head screw (ISO 4762) | 2 | | [McMaster-Carr](https://www.mcmaster.com/#91292a024/=1coj8pe) |
 | M3 Hex nuts | 10 | | [McMaster-Carr](https://www.mcmaster.com/#91828a211/=1cojadu) | 
 | M3 Square nuts | 12 | Get them from original extruder | | 
+| M3 Nylon washer, 0.5mm thick | 2 | Get them from original extruder | | 
 | Original spring from MK2.5/MK3 extruder idler | 1 | :warning: MK2s spring might not work | |
 | Bondtech gears with its shaft | 1 | | [Bondtech](http://shop.bondtech.se/en/drivegears/drivegear-kit-175-direct.html) |
 
