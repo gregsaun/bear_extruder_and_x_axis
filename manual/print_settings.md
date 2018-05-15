@@ -13,21 +13,21 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 
 All those parts are optimized for PETG. If you print in ABS you might end up with too small all due to shrinkage.
 
-| Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Brim |
-|:----|:----:|:----:|:----:|:----:|:----:|:----:|
-| cable_guide_back_a      | 1 | 0.20mm | 20% | 2 | 5 | No |
-| cable_guide_back_b      | 1 | 0.20mm | 20% | 2 | 5 | No |
-| extruder_body           | 1 | 0.20mm | 20% | 2 | 5 | No |
-| extruder_cover          | 1 | 0.20mm | 20% | 2 | 5 | No |
-| extruder_idler          | 1 | 0.20mm | 20% | 2 | 5 | No |
-| extruder_idler_plug     | 1 | 0.20mm | 20% | 2 | 5 | No |
-| filament_sensor_cover   | 1 | 0.20mm | 20% | 2 | 5 | No |
-| x_carriage              | 1 | 0.20mm | 20% | 2 | 5 | No |
-| x_carriage_back         | 1 | 0.20mm | 20% | 2 | 5 | No |
-| x_end_idler             | 1 | 0.20mm | 20% | 2 | 5 | No |
-| x_end_idler_idler_mount | 1 | 0.20mm | 20% | 2 | 5 | No |
-| x_end_motor             | 1 | 0.20mm | 20% | 2 | 5 | No |
-| z_bearing_installer     | 1 | 0.20mm | 20% | 2 | 5 | No |
+| Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Brim | Support |
+|:----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| cable_guide_back_a      | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| cable_guide_back_b      | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| extruder_body           | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| extruder_cover          | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| extruder_idler          | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| extruder_idler_plug     | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| filament_sensor_cover   | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| x_carriage              | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| x_carriage_back         | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| x_end_idler             | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| x_end_idler_idler_mount | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| x_end_motor             | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| z_bearing_installer     | 1 | 0.20mm | 20% | 2 | 5 | No | No |
 
 
 
