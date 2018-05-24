@@ -55,6 +55,7 @@ Here is a list of sources and inspiration :
 
 * Prusa : http://www.prusa3d.com
 * Zaribo : http://zaribo.org
+* Vecko Kojchevski : https://www.thingiverse.com/vekoj/designs
 * Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3
 * Prusa MK2/S X-Carriage Adjustable Tensioner by Jon Madden : https://www.thingiverse.com/thing:2770019
 
