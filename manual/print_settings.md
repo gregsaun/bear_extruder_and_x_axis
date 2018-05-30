@@ -20,7 +20,6 @@ All those parts are optimized for PETG. If you print in ABS you might end up wit
 | extruder_body           | 1 | 0.20mm | 20% | 2 | 5 | No | No |
 | extruder_cover          | 1 | 0.20mm | 20% | 2 | 5 | No | No |
 | extruder_idler          | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| extruder_idler_plug     | 1 | 0.20mm | 20% | 2 | 5 | No | No |
 | filament_sensor_cover   | 1 | 0.20mm | 20% | 2 | 5 | No | No |
 | x_carriage              | 1 | 0.20mm | 20% | 2 | 5 | No | No |
 | x_carriage_back         | 1 | 0.20mm | 20% | 2 | 5 | No | No |

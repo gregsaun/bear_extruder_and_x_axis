@@ -38,7 +38,6 @@
 | extruder_body           | 1 |
 | extruder_cover          | 1 |
 | extruder_idler          | 1 |
-| extruder_idler_plug     | 1 |
 | filament_sensor_cover   | 1 |
 | x_carriage              | 1 |
 | x_carriage_back         | 1 |
