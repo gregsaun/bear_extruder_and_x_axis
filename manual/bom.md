@@ -8,7 +8,7 @@
 |----------|:------------:|--------|------|
 | Original Prusa i3 MK2s, MK2.5 or MK3 printer | 1 | | www.prusa3d.com |
 | GT2 16T toothed idler, 3mm bore, dual bearing | 1 | for x end idler | |
-| Steel shaft 3mm in diameter and 14mm long | 1 | does not need to be hardened | |
+| Steel shaft 3mm in diameter and 14mm long | 1 | | https://www.mcmaster.com/#93600a364/=1dbmkt6 |
 | M2x12mm socket head screw (ISO 4762) | 2 | | [McMaster-Carr](https://www.mcmaster.com/#91292a834/=1cok8m8) |
 | M3x10mm socket head screw (ISO 4762) | 12 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) |
 | M3x14mm socket head screw (ISO 4762) | 4 | | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) |
