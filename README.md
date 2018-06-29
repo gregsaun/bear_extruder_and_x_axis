@@ -58,5 +58,6 @@ Here is a list of sources and inspiration :
 * Vecko Kojchevski : https://www.thingiverse.com/vekoj/designs
 * Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3
 * Prusa MK2/S X-Carriage Adjustable Tensioner by Jon Madden : https://www.thingiverse.com/thing:2770019
+* Jan Imrich from [Kurzy Kocour](https://www.facebook.com/KurzyKocour/) maker space for all it's hard work on issue #602
 
 Huge thanks to these projects, without them this project can not exist!
