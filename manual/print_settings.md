@@ -11,22 +11,26 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 
 ### Parameters
 
-All those parts are optimized for PETG. If you print in ABS you might end up with too small all due to shrinkage.
+* Filament type : PETG
+* Infill type : Gyroid recommended
+* Support : No
+* Brim : No
 
-| Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Brim | Support |
-|:----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| cable_guide_back_a      | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| cable_guide_back_b      | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| extruder_body           | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| extruder_cover          | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| extruder_idler          | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| filament_sensor_cover   | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| x_carriage              | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| x_carriage_back         | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| x_end_idler             | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| x_end_idler_idler_mount | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| x_end_motor             | 1 | 0.20mm | 20% | 2 | 5 | No | No |
-| z_bearing_installer     | 1 | 0.20mm | 20% | 2 | 5 | No | No |
+| Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
+|:----|:----:|:----:|:----:|:----:|:----:|
+| cable_guide_back_a      | 1 | 0.20mm | 20% | 4 | 5 |
+| cable_guide_back_b      | 1 | 0.20mm | 20% | 4 | 5 |
+| extruder_body           | 1 | 0.20mm | 20% | 4 | 5 |
+| extruder_cover          | 1 | 0.20mm | 20% | 4 | 5 |
+| extruder_idler_bondtech | 1 | 0.20mm | 20% | 4 | 5 |
+| filament_sensor_cover   | 1 | 0.20mm | 20% | 3 | 5 |
+| hotend_collet_clip      | 1 | 0.20mm | 20% | 3 | 5 |
+| x_carriage              | 1 | 0.20mm | 20% | 3 | 5 |
+| x_carriage_back         | 1 | 0.20mm | 20% | 3 | 5 |
+| x_end_idler             | 1 | 0.20mm | 30% | 4 | 5 |
+| x_end_idler_idler_mount | 1 | 0.20mm | 30% | 4 | 5 |
+| x_end_motor             | 1 | 0.20mm | 30% | 4 | 5 |
+| z_bearing_installer     | 1 | 0.20mm | 20% | 2-3 | 5 |
 
 
 
@@ -34,8 +38,8 @@ All those parts are optimized for PETG. If you print in ABS you might end up wit
 
 All prints have been tested with these material
 
-* slic3r Prusa Edition 1.39.1
-* Prusa MK2s printer
-* Extrudr MF-PETG Neon Orange and Black
-* Heat bed : 75-80°C
-* Nozzle : 215-225°C
+* slic3r Prusa Edition 1.40.1
+* Bear Full Upgrade MK2.5 printer
+* Filament PM PETG
+* Heat bed : 80-85°C
+* Nozzle : 230-235°C

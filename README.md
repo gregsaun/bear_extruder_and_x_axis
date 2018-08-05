@@ -8,27 +8,33 @@ This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3.
 
 ## Features
 
+Here is a list of improved features over stock Prusa extruder.
+
 ### Already implemented
 
-1. Extruder motor is closer by 5mm to X rods to avoid vibration
-1. Extruder is lighter
+1. Extruder motor is closer by 4.5mm to X rods to avoid vibration
+1. Lighter
+1. X ends and extruder are much stronger
 1. Perfect filament path (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
-1. Self-centring of motor to get a perfect position of Bondtech drive gear
-1. Ventilation of hotend sink as been highly improved
-1. Perfect belt alignment (top and bottom of belts are parallel)
-1. X ends have been beefed up
-1. X motor is closer to X axis rods to reduce vibration
-1. New tensioning system that keeps the belt perfectly aligned no matter the adjustment
-1. Use shaft for x-end idler bearing (instead of screw) and dual bearing 16T idler
-1. Easier to remove extruder for maintenance (changing the PTFE tube for example)
+1. Reduce inconsistent extrusion : 
+   * Perfect filament path
+   * Stiffer
+   * As an option: use bearing instead of Bondtech "idler" gear to reduce gear meshing issue. See [optional parts](optional_parts/)
+   * Hotend cooling improved (even better than Prusa MK3 R3 parts)
+   * Self-centring of extruder motor
+1. Easier to maintain : 
+   * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt
+   * No zip ties needed for X carriage bearings
+   * Less screws
+1. Perfect belt alignment
+1. Belt path closer to top smooth rod to reduce vibration
 1. Include a tool to insert Z bearing easily
 1. Open source by providing STL and Autodesk Fusion 360 files
 
 ### Ongoing
 
-1. Try to make x-carriage-cover easier to use during maintenance
+1. Try to move motor even closer
 1. Create MK3 and MK2s version
-1. Use a shorter PTFE tube to improve flexible filament extrusion
 1. Provide STEP files
 
 
@@ -59,5 +65,6 @@ Here is a list of sources and inspiration :
 * Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3
 * Prusa MK2/S X-Carriage Adjustable Tensioner by Jon Madden : https://www.thingiverse.com/thing:2770019
 * Jan Imrich from [Kurzy Kocour](https://www.facebook.com/KurzyKocour/) maker space for all it's hard work on issue #602
+* The 602 Wasteland Discord server
 
 Huge thanks to these projects, without them this project can not exist!
