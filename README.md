@@ -26,7 +26,7 @@ Here is a list of improved features over stock Prusa extruder.
 1. Easier to maintain : 
    * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt
    * No zip ties needed for X carriage bearings
-   * Belt tensioning system easier to ease
+   * Simple belt tensioning system with 3mm of adjustment
    * Less screws
 1. Perfect belt alignment
 1. Belt path closer to top smooth rod to reduce vibration
