@@ -54,7 +54,7 @@ The manual contains bill of material (BOM), print settings and assembly instruct
 
 ## Compatibility
 
-:warning: Original extruder and X axis is compatible with this project! Belt path, X motor position, screws positions and length (...) differ.
+:warning: Original extruder and X axis is **NOT** compatible with this project! Belt path, X motor position, screws positions and length (...) differ.
 
 
 ## Sources and inspiration
