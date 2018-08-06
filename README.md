@@ -59,27 +59,27 @@ The manual contains bill of material (BOM), print settings and assembly instruct
 
 ## Images
 
-[Bear extruder](doc/photos/5D3_2226.jpg)
+![Bear extruder](doc/photos/5D3_2226.jpg)
 
-[Bear extruder](doc/photos/5D3_2229.jpg)
+![Bear extruder](doc/photos/5D3_2229.jpg)
 
-[Bear extruder](doc/photos/5D3_2231.jpg)
+![Bear extruder](doc/photos/5D3_2231.jpg)
 
-[Bear extruder](doc/photos/5D3_2238.jpg)
+![Bear extruder](doc/photos/5D3_2238.jpg)
 
-[Bear extruder](doc/photos/5D3_2239.jpg)
+![Bear extruder](doc/photos/5D3_2239.jpg)
 
-[Bear extruder](doc/photos/5D3_2245.jpg)
+![Bear extruder](doc/photos/5D3_2245.jpg)
 
-[Bear extruder](doc/photos/5D3_2248.jpg)
+![Bear extruder](doc/photos/5D3_2248.jpg)
 
-[Bear extruder](doc/photos/5D3_2261.jpg)
+![Bear extruder](doc/photos/5D3_2261.jpg)
 
-[Bear extruder](doc/photos/5D3_2262.jpg)
+![Bear extruder](doc/photos/5D3_2262.jpg)
 
-[Bear extruder](doc/photos/5D3_2251.jpg)
+![Bear X end idler](doc/photos/5D3_2251.jpg)
 
-[Bear extruder](doc/photos/5D3_2252.jpg)
+![Bear X end motor](doc/photos/5D3_2252.jpg)
 
 
 ## Sources and inspiration
