@@ -12,19 +12,21 @@ Here is a list of improved features over stock Prusa extruder.
 
 ### Already implemented
 
-1. Extruder motor is closer by 4.5mm to X rods to avoid vibration
 1. Lighter
-1. X ends and extruder are much stronger
-1. Perfect filament path (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
+1. Extruder motor is closer by 4.5mm to X rods (decrease the lever arm)
+1. X ends and extruder are much stiffer
 1. Reduce inconsistent extrusion : 
-   * Perfect filament path
-   * Stiffer
-   * As an option: use bearing instead of Bondtech "idler" gear to reduce gear meshing issue. See [optional parts](optional_parts/)
+   * Perfect filament path (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
+   * Extruder body is much stiffer
+   * Optional: use bearing instead of Bondtech "idler" gear to reduce gear meshing issue. See [optional parts](optional_parts/)
    * Hotend cooling improved (even better than Prusa MK3 R3 parts)
    * Self-centring of extruder motor
+   * Bondtech drive gears no more at the end of the motor shaft
+   * Includes hotend collet clip
 1. Easier to maintain : 
    * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt
    * No zip ties needed for X carriage bearings
+   * Belt tensioning system easier to ease
    * Less screws
 1. Perfect belt alignment
 1. Belt path closer to top smooth rod to reduce vibration
@@ -52,7 +54,7 @@ The manual contains bill of material (BOM), print settings and assembly instruct
 
 ## Compatibility
 
-:warning: **NONE** of the original extruder and X axis is compatible with this project! Belt path, X motor position, screws positions and length (...) differ.
+:warning: Original extruder and X axis is compatible with this project! Belt path, X motor position, screws positions and length (...) differ.
 
 
 ## Sources and inspiration
