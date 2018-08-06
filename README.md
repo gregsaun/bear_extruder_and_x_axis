@@ -57,6 +57,11 @@ The manual contains bill of material (BOM), print settings and assembly instruct
 :warning: Original extruder and X axis is **NOT** compatible with this project! Belt path, X motor position, screws positions and length (...) differ.
 
 
+## Optional parts
+
+Official optional parts [are here](optional_parts)
+
+
 ## Images
 
 ![Bear extruder](doc/photos/5D3_2226.jpg)
