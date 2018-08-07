@@ -23,3 +23,8 @@ This optional extruder idler uses a bearing instead of the Bondtech drive gear. 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----|:----:|:----:|:----:|:----:|:----:|
 | extruder_idler_bearing  | 1 | 0.20mm | 20% | 4 | 5 |
+
+
+## Assembly
+
+![Extruder idler assembly](assembly.jpg)
