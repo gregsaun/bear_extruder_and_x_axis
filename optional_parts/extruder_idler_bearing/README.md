@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This optional extruder idler uses a bearing instead of the Bondtech drive gear. This reduce the inconsistent extrusion due to Bondtech gears meshing.
+This optional extruder idler replaces the Bondtech "idler" gear by a 623zz bearing to eliminate gear meshing issue
 
 ## Bill of Materials
 
