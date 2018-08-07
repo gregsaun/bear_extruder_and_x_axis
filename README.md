@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3. It is a following of the Prusa's printers improvements I started few months ago with my [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade)
+This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3. It is a following of the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but is still compatible with original Prusa's 3D printers.
 
 
 ## Features
@@ -13,12 +13,12 @@ Here is a list of improved features over stock Prusa extruder.
 ### Already implemented
 
 1. Lighter
-1. Extruder motor is closer by 4.5mm to X rods (decrease the lever arm)
-1. X ends and extruder are much stiffer
+1. Extruder motor is closer by 4.5mm to X rods to decrease the lever arm
+1. Reduce flexing of X-axis-ends and extruder
 1. Reduce inconsistent extrusion : 
    * Perfect filament path (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
    * Extruder body is much stiffer
-   * Optional: use bearing instead of Bondtech "idler" gear to reduce gear meshing issue. See [optional parts](optional_parts/)
+   * Optional: replacement of Bondtech "idler" gear by a 623zz bearing to eliminate gear meshing issue. See [extruder_idler_bearing in optional parts](optional_parts/extruder_idler_bearing)
    * Hotend cooling improved (even better than Prusa MK3 R3 parts)
    * Self-centring of extruder motor
    * Bondtech drive gears no more at the end of the motor shaft
@@ -31,7 +31,7 @@ Here is a list of improved features over stock Prusa extruder.
 1. Perfect belt alignment
 1. Belt path closer to top smooth rod to reduce vibration
 1. Include a tool to insert Z bearing easily
-1. Open source by providing STL and Autodesk Fusion 360 files
+1. Open source by providing STL and Autodesk Fusion 360 files (STEP file will come later)
 
 ### Ongoing
 
@@ -49,12 +49,14 @@ Here is a list of improved features over stock Prusa extruder.
 
 The manual contains bill of material (BOM), print settings and assembly instructions.
 
-[Read it here](manual/)
+[Read the manual here](manual/)
 
 
 ## Compatibility
 
 :warning: Original extruder and X axis is **NOT** compatible with this project! Belt path, X motor position, screws positions and length (...) differ.
+
+This project is compatible with [Bear Upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade) frame as well as original Prusa 3D printers.
 
 
 ## Optional parts
@@ -96,7 +98,7 @@ Here is a list of sources and inspiration :
 * Vecko Kojchevski : https://www.thingiverse.com/vekoj/designs
 * Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3
 * Prusa MK2/S X-Carriage Adjustable Tensioner by Jon Madden : https://www.thingiverse.com/thing:2770019
-* Jan Imrich from [Kurzy Kocour](https://www.facebook.com/KurzyKocour/) maker space for all it's hard work on issue #602
+* Jan Imrich from [Kurzy Kocour](https://www.facebook.com/KurzyKocour/) maker space for all it's hard work on inconsistency issue
 * The 602 Wasteland Discord server
 
 Huge thanks to these projects, without them this project can not exist!
