@@ -84,9 +84,13 @@ Official optional parts [are here](optional_parts)
 
 ![Bear extruder](doc/photos/5D3_2262.jpg)
 
-![Bear X end idler](doc/photos/5D3_2251.jpg)
+![Bear X end motor](doc/photos/5D3_4117.jpg)
 
-![Bear X end motor](doc/photos/5D3_2252.jpg)
+![Bear X end motor](doc/photos/5D3_4108.jpg)
+
+![Bear X end idler](doc/photos/5D3_4113.jpg)
+
+![Bear X end idler](doc/photos/5D3_4116.jpg)
 
 
 ## Sources and inspiration
