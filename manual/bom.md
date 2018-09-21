@@ -46,4 +46,3 @@
 | x_end_idler             | 1 |
 | x_end_idler_idler_mount | 1 |
 | x_end_motor             | 1 |
-| z_bearing_installer     | 1 |
