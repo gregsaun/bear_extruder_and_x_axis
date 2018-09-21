@@ -1,10 +1,12 @@
 # Bear X axis and Extruder
 
-## Introduction
+## Extruder idler with bearing
+
+### Introduction
 
 This optional extruder idler replaces the Bondtech "idler" gear by a 623zz bearing to eliminate gear meshing issue
 
-## Bill of Materials
+### Bill of Materials
 
 | Part     | Number<br>(pce) | Detail |
 |----------|:---------------:|--------|
@@ -13,7 +15,7 @@ This optional extruder idler replaces the Bondtech "idler" gear by a 623zz beari
 | Bondtech shaft | 1 | |
 
 
-## Printed Parts
+### Printed Parts
 
 * Filament type : PETG
 * Infill type : Gyroid recommended
@@ -25,6 +27,6 @@ This optional extruder idler replaces the Bondtech "idler" gear by a 623zz beari
 | extruder_idler_bearing  | 1 | 0.20mm | 20% | 4 | 5 |
 
 
-## Assembly
+### Assembly
 
 ![Extruder idler assembly](assembly.jpg)
