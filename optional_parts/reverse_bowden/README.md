@@ -25,7 +25,7 @@ The vslot mount is available in two versions: angled or normal.
 
 ### Printed Parts
 
-* Filament type : PLA or PETG
+* Filament type : PETG
 * Infill type : Gyroid recommended
 * Support : No
 * Brim : No
