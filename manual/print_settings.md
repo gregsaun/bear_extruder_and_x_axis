@@ -15,6 +15,7 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 * Infill type : Gyroid recommended
 * Support : No
 * Brim : No
+* Detect thin walls : No
 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----|:----:|:----:|:----:|:----:|:----:|
@@ -30,16 +31,3 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 | x_end_idler             | 1 | 0.20mm | 30% | 4 | 5 |
 | x_end_idler_idler_mount | 1 | 0.20mm | 30% | 4 | 5 |
 | x_end_motor             | 1 | 0.20mm | 30% | 4 | 5 |
-| z_bearing_installer     | 1 | 0.20mm | 20% | 2-3 | 5 |
-
-
-
-### Material used
-
-All prints have been tested with these material
-
-* slic3r Prusa Edition 1.40.1
-* Bear Full Upgrade MK2.5 printer
-* Filament PM PETG
-* Heat bed : 80-85°C
-* Nozzle : 230-235°C
