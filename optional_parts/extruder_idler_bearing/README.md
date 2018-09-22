@@ -27,6 +27,11 @@ This optional extruder idler replaces the Bondtech "idler" gear by a 623zz beari
 | extruder_idler_bearing  | 1 | 0.20mm | 20% | 4 | 5 |
 
 
+### Sources
+
+Source file is available in the extruder source here : [root/src](/bear_extruder_and_x_axis/src)
+
+
 ### Assembly
 
 ![Extruder idler assembly](assembly.jpg)
