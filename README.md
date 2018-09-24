@@ -25,18 +25,23 @@ Here is a list of improved features over stock Prusa extruder.
    * Includes hotend collet clip
 1. Easier to maintain : 
    * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt
+   * Z bearings installation made easier thanks to clamps
+   * Simple and precise belt tensioning system with 3mm of adjustment
+   * PINDA or the nozzle fan can be removed without disassembling the extruder body
+   * Improved extruder body and cover assembly
    * No zip ties needed for X carriage bearings
-   * Simple belt tensioning system with 3mm of adjustment
    * Less screws
 1. Perfect belt alignment
 1. Belt path closer to top smooth rod to reduce vibration
 1. Include a tool to insert Z bearing easily
+1. Support Prusa MMU2 multi color system
+1. Optional: reverse bowden to improve smooth movement of filament before entering the extruder
 1. Open source by providing STL and Autodesk Fusion 360 files (STEP file will come later)
 
 ### Ongoing
 
-1. Try to move motor even closer
-1. Create MK3 and MK2s version
+1. MK2s version
+1. Fan shroud
 1. Provide STEP files
 
 
