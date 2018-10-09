@@ -8,7 +8,7 @@
 |----------|:------------:|--------|------|
 | Original Prusa i3 MK2s, MK2.5 or MK3 printer | 1 | | www.prusa3d.com |
 | GT2 20T toothed idler, 3mm bore, dual bearing | 1 | for x end idler | |
-| Steel shaft 3mm in diameter and 14mm long | 1 | | [McMaster-Carr](https://www.mcmaster.com/#93600a364/=1dbmkt6) |
+| Dowel pin 3mm in diameter and 14mm long | 1 | Needs to fit the GT2 idler bearing. Cut a M3 screw if you cannot find one | [McMaster-Carr](https://www.mcmaster.com/#93600a364/=1dbmkt6) |
 | M3x10mm socket head screw (ISO 4762) | 14 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) |
 | M3x14mm socket head screw (ISO 4762) | 4 | | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) |
 | M3x18mm socket head screw (ISO 4762) | 8 | | [McMaster-Carr](https://www.mcmaster.com/#91292a029/=1coixwt) |
