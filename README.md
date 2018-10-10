@@ -1,14 +1,17 @@
 # Bear Extruder And X Axis
 
 
+
 ## Introduction
 
 This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3. It is a following of the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but is still compatible with original Prusa's 3D printers.
 
 
+
 ## Features
 
 Here is a list of improved features over stock Prusa extruder.
+
 
 ### Already implemented
 
@@ -38,6 +41,7 @@ Here is a list of improved features over stock Prusa extruder.
 1. Optional: reverse bowden to improve smooth movement of filament before entering the extruder
 1. Open source by providing STL and Autodesk Fusion 360 files (STEP file will come later)
 
+
 ### Ongoing
 
 1. MK2s version
@@ -45,9 +49,11 @@ Here is a list of improved features over stock Prusa extruder.
 1. Provide STEP files
 
 
+
 ## Status
 
 :warning: This is an ongoing development, not even a beta version for now. Use it with care. Any feedback is very welcome :relaxed:
+
 
 
 ## Manual
@@ -57,6 +63,7 @@ The manual contains bill of material (BOM), print settings and assembly instruct
 [Read the manual here](manual/)
 
 
+
 ## Compatibility
 
 :warning: Original extruder and X axis is **NOT** compatible with this project! Belt path, X motor position, screws positions and length (...) differ.
@@ -64,9 +71,11 @@ The manual contains bill of material (BOM), print settings and assembly instruct
 This project is compatible with [Bear Upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade) frame as well as original Prusa 3D printers.
 
 
+
 ## Optional parts
 
 Official optional parts [are here](optional_parts)
+
 
 
 ## Images
@@ -96,6 +105,39 @@ Official optional parts [are here](optional_parts)
 ![Bear X end idler](doc/photos/5D3_4113.jpg)
 
 ![Bear X end idler](doc/photos/5D3_4116.jpg)
+
+
+
+## Community
+
+Here are the places were the Bear project is the most active. Do not hesitate to ask if you have a question :
+
+* Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
+* Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
+* GitHub : [github.com/gregsaun](https://github.com/gregsaun)
+* Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
+* Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
+
+
+
+## Thank you
+
+Thank you to everybody from Facebook group and The 602 Wasteland community.
+
+Thank you to all my Patreon : Arnaud Christel, Barry from RC-CnC, Darren Furniss, Malo87, Mark Leino, Orlando from all3dmakers, Sleene, Steven Daglish, Vishesh from 3Dprintonics.
+
+Thank you to all my tippers on Thingiverse : Lucullus, NatDenkin, FurniBird, kabar03.
+
+Thank you for having purchased a kit from an official distributor.
+
+Thank you Openbuilds for your hardware, community and state of mind.
+
+Thank you to people that have helped me in the early days of the project : DoItWithSmile (jay3D), kabar03, xequtor and fishmsk, karlosek.
+
+Thank you for all your comments and issues on GitHub and Thingiverse.
+
+Thank you to Nathan Denkin for improving my english (I know it is not an easy task!) and for building a better assembly guide.
+
 
 
 ## Sources and inspiration
