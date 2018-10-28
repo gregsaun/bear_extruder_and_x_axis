@@ -1,4 +1,4 @@
-# Bear X axis and Extruder
+# Bear X Axis And Extruder
 
 ## Sunon to replace Noctua
 
@@ -9,7 +9,7 @@ To pass through the heatsink blades you need some pressure and the Noctua does n
 Fortunately, there is *almost* a drop-in replacement for the Noctua from Sunon which is way more powerful but more noisier (you cannot get pressure with same noise level...) :
 Sunon MF40100V1-1000U-G99
 
-I said *almost* drop-in because you will need to solder a longer cable and crimp a connector, which is not always easy to do (specially crimping). The total cable length needs to be 750mm long. I recommend AWG 26 wire.
+I said *almost* drop-in because you will need to solder a longer cable and crimp a connector, which is not always easy to do (specially crimping). The total cable length needs to be 700mm long. I recommend AWG 26 wire.
 
 Connector used on the RAMBo is Molex SL 70066 and contacts are Molex SL 70058.
 
