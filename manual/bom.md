@@ -27,7 +27,7 @@
 #### List of recommended spares
 * M3 screws (10mm, 14mm and 18mm at least)
 * Hex nuts and square nuts
-* GT2 20T toothed idler if you get a cheap one
+* 2GT 20T toothed idler if you get a cheap one
 
 
 ### Printed Parts
