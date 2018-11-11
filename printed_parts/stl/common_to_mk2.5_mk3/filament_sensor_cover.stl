@@ -22464,14 +22464,14 @@ solid filament_sensor_cover.stl
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 7.55 3.7 0
+    vertex 9.55 3.7 0
     vertex 6.93536 -6.75883 0
     vertex 1.55 -3 0
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 7.55 3.7 0
+    vertex 9.55 3.7 0
     vertex 7.11904 -6.78524 0
     vertex 6.93536 -6.75883 0
     endloop
@@ -22591,7 +22591,7 @@ solid filament_sensor_cover.stl
   facet normal -0 0 -1
     outer loop
     vertex -8.55 3.7 0
-    vertex 7.55 3.7 0
+    vertex 9.55 3.7 0
     vertex 1.55 -3 0
     endloop
   endfacet
@@ -23262,23 +23262,16 @@ solid filament_sensor_cover.stl
   endfacet
   facet normal 0 0 -1
     outer loop
+    vertex 16.75 -13.55 0
     vertex 8.43875 -7.725 0
-    vertex 8.33842 -7.56889 0
-    vertex 16.75 -13.55 0
+    vertex 9.55 3.7 0
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal 0 -0 -1
     outer loop
-    vertex 16.75 -13.55 0
-    vertex 8.33842 -7.56889 0
-    vertex 7.55 3.7 0
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-    vertex 16.75 -13.55 0
-    vertex 7.55 3.7 0
+    vertex 9.55 3.7 0
     vertex 16.75 13.55 0
+    vertex 16.75 -13.55 0
     endloop
   endfacet
   facet normal 1 0 0
@@ -23596,6 +23589,13 @@ solid filament_sensor_cover.stl
     vertex 8.24441 -8.00054 0.3
     endloop
   endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 9.55 3.7 0
+    vertex 8.43875 -7.725 0
+    vertex 8.33842 -7.56889 0
+    endloop
+  endfacet
   facet normal -0.596292 -0.383212 -0.705397
     outer loop
     vertex 8.43875 -7.725 0
@@ -23612,9 +23612,93 @@ solid filament_sensor_cover.stl
   endfacet
   facet normal 0 0 -1
     outer loop
+    vertex 9.55 3.7 0
     vertex 8.33842 -7.56889 0
     vertex 8.22371 -7.42302 0
-    vertex 7.55 3.7 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 8.22371 -7.42302 0
+    vertex 8.09565 -7.28872 0
+    vertex 9.55 3.7 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 9.55 3.7 0
+    vertex 8.09565 -7.28872 0
+    vertex 7.95541 -7.1672 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 9.55 3.7 0
+    vertex 7.95541 -7.1672 0
+    vertex 7.80425 -7.05956 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 7.80425 -7.05956 0
+    vertex 7.64354 -6.96677 0
+    vertex 9.55 3.7 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 9.55 3.7 0
+    vertex 7.64354 -6.96677 0
+    vertex 7.47474 -6.88968 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 9.55 3.7 0
+    vertex 7.47474 -6.88968 0
+    vertex 7.29938 -6.82899 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 7.29938 -6.82899 0
+    vertex 7.11904 -6.78524 0
+    vertex 9.55 3.7 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 9.55 7.8 0
+    vertex 16.75 13.55 0
+    vertex 9.55 3.7 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+    vertex 9.55 7.8 0
+    vertex 9.55 3.7 0
+    vertex 9.55 7.3 0.5
+    endloop
+  endfacet
+  facet normal 0 0.707107 -0.707107
+    outer loop
+    vertex -8.05 4.2 0.5
+    vertex 9.55 3.7 0
+    vertex -8.55 3.7 0
+    endloop
+  endfacet
+  facet normal 0 0.707107 -0.707107
+    outer loop
+    vertex 9.55 4.2 0.5
+    vertex 9.55 3.7 0
+    vertex -8.05 4.2 0.5
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+    vertex 9.55 7.3 0.5
+    vertex 9.55 3.7 0
+    vertex 9.55 4.2 0.5
     endloop
   endfacet
   facet normal -0.55748 -0.438406 -0.704994
@@ -23631,130 +23715,109 @@ solid filament_sensor_cover.stl
     vertex 8.06973 -7.70965 0.3
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal -0.513493 -0.489608 -0.704705
     outer loop
-    vertex 16.75 13.55 0
-    vertex 7.55 3.7 0
-    vertex 7.55 7.8 0
-    endloop
-  endfacet
-  facet normal -1 0 0
-    outer loop
-    vertex 7.55 7.8 0
-    vertex 7.55 3.7 0
-    vertex 7.55 7.3 0.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-    vertex 7.55 3.7 0
     vertex 8.22371 -7.42302 0
+    vertex 7.96091 -7.5792 0.3
     vertex 8.09565 -7.28872 0
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal -0.541312 -0.451569 -0.709272
     outer loop
-    vertex 7.55 3.7 0
+    vertex 8.22371 -7.42302 0
+    vertex 8.06973 -7.70965 0.3
+    vertex 7.96091 -7.5792 0.3
+    endloop
+  endfacet
+  facet normal -0.464724 -0.536337 -0.704538
+    outer loop
     vertex 8.09565 -7.28872 0
+    vertex 7.83925 -7.46063 0.3
     vertex 7.95541 -7.1672 0
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal -0.491816 -0.504653 -0.709537
+    outer loop
+    vertex 8.09565 -7.28872 0
+    vertex 7.96091 -7.5792 0.3
+    vertex 7.83925 -7.46063 0.3
+    endloop
+  endfacet
+  facet normal -0.411679 -0.578115 -0.704488
     outer loop
     vertex 7.95541 -7.1672 0
+    vertex 7.70605 -7.3552 0.3
     vertex 7.80425 -7.05956 0
-    vertex 7.55 3.7 0
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal -0.437251 -0.552447 -0.709658
     outer loop
-    vertex 7.55 3.7 0
+    vertex 7.95541 -7.1672 0
+    vertex 7.83925 -7.46063 0.3
+    vertex 7.70605 -7.3552 0.3
+    endloop
+  endfacet
+  facet normal -0.354822 -0.614568 -0.704562
+    outer loop
     vertex 7.80425 -7.05956 0
+    vertex 7.5627 -7.26403 0.3
     vertex 7.64354 -6.96677 0
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal -0.378131 -0.594492 -0.709645
     outer loop
-    vertex 7.55 3.7 0
+    vertex 7.80425 -7.05956 0
+    vertex 7.70605 -7.3552 0.3
+    vertex 7.5627 -7.26403 0.3
+    endloop
+  endfacet
+  facet normal -0.294723 -0.645339 -0.704753
+    outer loop
     vertex 7.64354 -6.96677 0
+    vertex 7.41075 -7.18808 0.3
     vertex 7.47474 -6.88968 0
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal -0.315078 -0.630354 -0.709493
     outer loop
-    vertex 7.47474 -6.88968 0
-    vertex 7.29938 -6.82899 0
-    vertex 7.55 3.7 0
+    vertex 7.64354 -6.96677 0
+    vertex 7.5627 -7.26403 0.3
+    vertex 7.41075 -7.18808 0.3
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal -0.23194 -0.670137 -0.705067
     outer loop
-    vertex 7.55 3.7 0
+    vertex 7.47474 -6.88968 0
+    vertex 7.25179 -7.12815 0.3
     vertex 7.29938 -6.82899 0
+    endloop
+  endfacet
+  facet normal -0.248684 -0.659687 -0.709203
+    outer loop
+    vertex 7.47474 -6.88968 0
+    vertex 7.41075 -7.18808 0.3
+    vertex 7.25179 -7.12815 0.3
+    endloop
+  endfacet
+  facet normal -0.167078 -0.688743 -0.705491
+    outer loop
+    vertex 7.29938 -6.82899 0
+    vertex 7.08751 -7.08489 0.3
     vertex 7.11904 -6.78524 0
     endloop
   endfacet
-  facet normal 0 0.707107 -0.707107
+  facet normal -0.179664 -0.682172 -0.708775
     outer loop
-    vertex -8.05 4.2 0.5
-    vertex 7.55 3.7 0
-    vertex -8.55 3.7 0
+    vertex 7.29938 -6.82899 0
+    vertex 7.25179 -7.12815 0.3
+    vertex 7.08751 -7.08489 0.3
     endloop
   endfacet
-  facet normal 0 0.707107 -0.707107
+  facet normal -0.108638 -0.697604 -0.7082
     outer loop
-    vertex 7.55 4.2 0.5
-    vertex 7.55 3.7 0
-    vertex -8.05 4.2 0.5
-    endloop
-  endfacet
-  facet normal -1 0 0
-    outer loop
-    vertex 7.55 7.3 0.5
-    vertex 7.55 3.7 0
-    vertex 7.55 4.2 0.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-    vertex 16.75 13.55 0
-    vertex 7.55 7.8 0
-    vertex -7.15638 13.55 0
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -7.15638 13.55 0
-    vertex 16.75 13.55 0.6
-    vertex 16.75 13.55 0
-    endloop
-  endfacet
-  facet normal 1 -0 0
-    outer loop
-    vertex 16.75 13.55 0.6
-    vertex 16.75 -13.55 0.6
-    vertex 16.75 13.55 0
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-    vertex -7.15638 13.55 0
-    vertex 7.55 7.8 0
-    vertex -8.55 7.8 0
-    endloop
-  endfacet
-  facet normal -0 -0.707107 -0.707107
-    outer loop
-    vertex -8.55 7.8 0
-    vertex 7.55 7.8 0
-    vertex -8.05 7.3 0.5
-    endloop
-  endfacet
-  facet normal 0 -0.707107 -0.707107
-    outer loop
-    vertex -8.05 7.3 0.5
-    vertex 7.55 7.8 0
-    vertex 7.55 7.3 0.5
+    vertex 7.11904 -6.78524 0
+    vertex 7.08751 -7.08489 0.3
+    vertex 6.91965 -7.05875 0.3
     endloop
   endfacet
   facet normal -0 0 -1
@@ -23764,11 +23827,32 @@ solid filament_sensor_cover.stl
     vertex -16.75 5.5 0
     endloop
   endfacet
+  facet normal 0 -0 -1
+    outer loop
+    vertex -8.55 7.8 0
+    vertex -7.15638 13.55 0
+    vertex 9.55 7.8 0
+    endloop
+  endfacet
   facet normal -0.642788 0.766044 0
     outer loop
     vertex -16.75 5.5 0
     vertex -7.15638 13.55 0.6
     vertex -7.15638 13.55 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 9.55 7.8 0
+    vertex -7.15638 13.55 0
+    vertex 16.75 13.55 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -7.15638 13.55 0
+    vertex 16.75 13.55 0.6
+    vertex 16.75 13.55 0
     endloop
   endfacet
   facet normal 0 1 0
@@ -23790,6 +23874,13 @@ solid filament_sensor_cover.stl
     vertex -11.619 5.06476 0
     vertex -11.7994 5.02101 0
     vertex -8.55 7.8 0
+    endloop
+  endfacet
+  facet normal -0 -0.707107 -0.707107
+    outer loop
+    vertex -8.55 7.8 0
+    vertex 9.55 7.8 0
+    vertex -8.05 7.3 0.5
     endloop
   endfacet
   facet normal 0 0 -1
@@ -24065,109 +24156,18 @@ solid filament_sensor_cover.stl
     vertex -11.9107 4.66192 0.3
     endloop
   endfacet
-  facet normal -0.513493 -0.489608 -0.704705
+  facet normal 0 -0.707107 -0.707107
     outer loop
-    vertex 8.22371 -7.42302 0
-    vertex 7.96091 -7.5792 0.3
-    vertex 8.09565 -7.28872 0
+    vertex -8.05 7.3 0.5
+    vertex 9.55 7.8 0
+    vertex 9.55 7.3 0.5
     endloop
   endfacet
-  facet normal -0.541312 -0.451569 -0.709272
+  facet normal 1 -0 0
     outer loop
-    vertex 8.22371 -7.42302 0
-    vertex 8.06973 -7.70965 0.3
-    vertex 7.96091 -7.5792 0.3
-    endloop
-  endfacet
-  facet normal -0.464724 -0.536337 -0.704538
-    outer loop
-    vertex 8.09565 -7.28872 0
-    vertex 7.83925 -7.46063 0.3
-    vertex 7.95541 -7.1672 0
-    endloop
-  endfacet
-  facet normal -0.491816 -0.504653 -0.709537
-    outer loop
-    vertex 8.09565 -7.28872 0
-    vertex 7.96091 -7.5792 0.3
-    vertex 7.83925 -7.46063 0.3
-    endloop
-  endfacet
-  facet normal -0.411679 -0.578115 -0.704488
-    outer loop
-    vertex 7.95541 -7.1672 0
-    vertex 7.70605 -7.3552 0.3
-    vertex 7.80425 -7.05956 0
-    endloop
-  endfacet
-  facet normal -0.437251 -0.552447 -0.709658
-    outer loop
-    vertex 7.95541 -7.1672 0
-    vertex 7.83925 -7.46063 0.3
-    vertex 7.70605 -7.3552 0.3
-    endloop
-  endfacet
-  facet normal -0.354822 -0.614568 -0.704562
-    outer loop
-    vertex 7.80425 -7.05956 0
-    vertex 7.5627 -7.26403 0.3
-    vertex 7.64354 -6.96677 0
-    endloop
-  endfacet
-  facet normal -0.378131 -0.594492 -0.709645
-    outer loop
-    vertex 7.80425 -7.05956 0
-    vertex 7.70605 -7.3552 0.3
-    vertex 7.5627 -7.26403 0.3
-    endloop
-  endfacet
-  facet normal -0.294723 -0.645339 -0.704753
-    outer loop
-    vertex 7.64354 -6.96677 0
-    vertex 7.41075 -7.18808 0.3
-    vertex 7.47474 -6.88968 0
-    endloop
-  endfacet
-  facet normal -0.315078 -0.630354 -0.709493
-    outer loop
-    vertex 7.64354 -6.96677 0
-    vertex 7.5627 -7.26403 0.3
-    vertex 7.41075 -7.18808 0.3
-    endloop
-  endfacet
-  facet normal -0.23194 -0.670137 -0.705067
-    outer loop
-    vertex 7.47474 -6.88968 0
-    vertex 7.25179 -7.12815 0.3
-    vertex 7.29938 -6.82899 0
-    endloop
-  endfacet
-  facet normal -0.248684 -0.659687 -0.709203
-    outer loop
-    vertex 7.47474 -6.88968 0
-    vertex 7.41075 -7.18808 0.3
-    vertex 7.25179 -7.12815 0.3
-    endloop
-  endfacet
-  facet normal -0.167078 -0.688743 -0.705491
-    outer loop
-    vertex 7.29938 -6.82899 0
-    vertex 7.08751 -7.08489 0.3
-    vertex 7.11904 -6.78524 0
-    endloop
-  endfacet
-  facet normal -0.179664 -0.682172 -0.708775
-    outer loop
-    vertex 7.29938 -6.82899 0
-    vertex 7.25179 -7.12815 0.3
-    vertex 7.08751 -7.08489 0.3
-    endloop
-  endfacet
-  facet normal -0.108638 -0.697604 -0.7082
-    outer loop
-    vertex 7.11904 -6.78524 0
-    vertex 7.08751 -7.08489 0.3
-    vertex 6.91965 -7.05875 0.3
+    vertex 16.75 13.55 0.6
+    vertex 16.75 -13.55 0.6
+    vertex 16.75 13.55 0
     endloop
   endfacet
   facet normal -1 -0 0
@@ -25117,23 +25117,23 @@ solid filament_sensor_cover.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 7.55 4.2 0.5
+    vertex 9.55 4.2 0.5
     vertex -8.05 4.2 0.5
-    vertex 7.55 4.2 1.4
+    vertex 9.55 4.2 1.4
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex 7.55 7.3 0.5
-    vertex 7.55 4.2 0.5
-    vertex 7.55 7.3 1.4
+    vertex 9.55 7.3 0.5
+    vertex 9.55 4.2 0.5
+    vertex 9.55 7.3 1.4
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-    vertex 7.55 7.3 1.4
-    vertex 7.55 4.2 0.5
-    vertex 7.55 4.2 1.4
+    vertex 9.55 7.3 1.4
+    vertex 9.55 4.2 0.5
+    vertex 9.55 4.2 1.4
     endloop
   endfacet
   facet normal 1 0 0
@@ -25145,7 +25145,7 @@ solid filament_sensor_cover.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 7.55 4.2 1.4
+    vertex 9.55 4.2 1.4
     vertex -8.05 4.2 0.5
     vertex -8.05 4.2 1.4
     endloop
@@ -25153,7 +25153,7 @@ solid filament_sensor_cover.stl
   facet normal 0 -1 0
     outer loop
     vertex -8.05 7.3 0.5
-    vertex 7.55 7.3 0.5
+    vertex 9.55 7.3 0.5
     vertex -8.05 7.3 1.4
     endloop
   endfacet
@@ -25167,21 +25167,21 @@ solid filament_sensor_cover.stl
   facet normal 0 -1 0
     outer loop
     vertex -8.05 7.3 1.4
-    vertex 7.55 7.3 0.5
-    vertex 7.55 7.3 1.4
+    vertex 9.55 7.3 0.5
+    vertex 9.55 7.3 1.4
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
     vertex -8.05 7.3 1.4
-    vertex 7.55 4.2 1.4
+    vertex 9.55 4.2 1.4
     vertex -8.05 4.2 1.4
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 7.55 7.3 1.4
-    vertex 7.55 4.2 1.4
+    vertex 9.55 7.3 1.4
+    vertex 9.55 4.2 1.4
     vertex -8.05 7.3 1.4
     endloop
   endfacet
