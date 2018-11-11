@@ -5273,15 +5273,8 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.9178 -9.75 8.51126
-    vertex -11.9856 -9.75 7.3
-    vertex -13.7142 -9.75 8.65758
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex -13.9178 -9.75 8.51126
     vertex -12.4 -9.75 6.88564
-    vertex -11.9856 -9.75 7.3
+    vertex -13.7142 -9.75 8.65758
     endloop
   endfacet
   facet normal -0.586288 -0.000417029 0.810103
@@ -5329,7 +5322,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.7142 -9.75 8.65758
-    vertex -11.9856 -9.75 7.3
+    vertex -12.4 -9.75 6.88564
     vertex -13.5013 -9.75 8.79014
     endloop
   endfacet
@@ -5364,7 +5357,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.5013 -9.75 8.79014
-    vertex -11.9856 -9.75 7.3
+    vertex -12.4 -9.75 6.88564
     vertex -13.2802 -9.75 8.90837
     endloop
   endfacet
@@ -5399,8 +5392,15 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.2802 -9.75 8.90837
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -13.0517 -9.75 9.01177
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex -13.2802 -9.75 8.90837
+    vertex -12.4 -9.75 6.88564
+    vertex -11.6823 -9.75 7.3
     endloop
   endfacet
   facet normal -0.172055 -0.894114 0.413469
@@ -5434,7 +5434,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.0517 -9.75 9.01177
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.817 -9.75 9.09986
     endloop
   endfacet
@@ -5469,7 +5469,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex -12.817 -9.75 9.09986
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.5769 -9.75 9.17229
     endloop
   endfacet
@@ -5504,7 +5504,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex -12.5769 -9.75 9.17229
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.3326 -9.75 9.22872
     endloop
   endfacet
@@ -5546,7 +5546,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex -12.3326 -9.75 9.22872
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.085 -9.75 9.26892
     endloop
   endfacet
@@ -5592,9 +5592,9 @@ solid extruder_idler_bearing.stl
     vertex -11.8354 -9.75 9.2927
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal 0 -1 -0
     outer loop
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -11.8354 -9.75 9.2927
     vertex -12.085 -9.75 9.26892
     endloop
@@ -5629,7 +5629,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -11.5848 -9.75 9.29997
     vertex -11.8354 -9.75 9.2927
     endloop
@@ -5666,14 +5666,14 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex -11.3342 -9.75 9.29069
     vertex -11.5848 -9.75 9.29997
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -11.5848 -9.75 9.29997
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     endloop
   endfacet
   facet normal 0.0313031 -0.894113 0.446746
@@ -5706,7 +5706,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -11.0847 -9.75 9.2649
     vertex -11.3342 -9.75 9.29069
     endloop
@@ -5741,7 +5741,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -10.8375 -9.75 9.22272
     vertex -11.0847 -9.75 9.2649
     endloop
@@ -5778,7 +5778,7 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex -10.5937 -9.75 9.16433
     vertex -10.8375 -9.75 9.22272
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     endloop
   endfacet
   facet normal 0.108142 -0.894276 0.434254
@@ -5811,7 +5811,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -10.3542 -9.75 9.08998
     vertex -10.5937 -9.75 9.16433
     endloop
@@ -5853,7 +5853,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -10.1201 -9.75 9
     vertex -10.3542 -9.75 9.08998
     endloop
@@ -5911,7 +5911,7 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex -10.8 -9.75 6.88564
     vertex -10.1201 -9.75 9
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     endloop
   endfacet
   facet normal 0 -1 0
@@ -6427,36 +6427,36 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -11.9856 12.2 7.3
-    vertex -11.2144 -9.75 7.3
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 12.2 7.3
+    vertex -11.5177 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     endloop
   endfacet
-  facet normal -0.707106 0 -0.707107
+  facet normal -0.5 0 -0.866026
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -10.8 -9.75 6.88564
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -11.2144 12.2 7.3
-    vertex -11.2144 -9.75 7.3
-    vertex -11.9856 12.2 7.3
+    vertex -11.5177 12.2 7.3
+    vertex -11.5177 -9.75 7.3
+    vertex -11.6823 12.2 7.3
     endloop
   endfacet
-  facet normal 0.707106 0 -0.707107
+  facet normal 0.5 0 -0.866026
     outer loop
     vertex -12.4 12.2 6.88564
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.4 -9.75 6.88564
     endloop
   endfacet
-  facet normal 0.707106 0 -0.707107
+  facet normal 0.5 0 -0.866026
     outer loop
-    vertex -11.9856 12.2 7.3
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 12.2 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.4 12.2 6.88564
     endloop
   endfacet
@@ -6467,11 +6467,11 @@ solid extruder_idler_bearing.stl
     vertex -10.8 12.2 6.88564
     endloop
   endfacet
-  facet normal -0.707106 0 -0.707107
+  facet normal -0.5 0 -0.866026
     outer loop
     vertex -10.8 12.2 6.88564
     vertex -10.8 -9.75 6.88564
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     endloop
   endfacet
   facet normal -0.626928 4.52539e-005 -0.779078
@@ -8604,14 +8604,14 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -9.35841 12.2 7.33991
     vertex -9.22414 12.2 7.16291
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -9.22414 12.2 7.16291
     vertex -10.8 12.2 6.88564
     endloop
@@ -8646,7 +8646,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -9.50584 12.2 7.50612
     vertex -9.35841 12.2 7.33991
     endloop
@@ -8683,7 +8683,7 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex -9.66556 12.2 7.66055
     vertex -9.50584 12.2 7.50612
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     endloop
   endfacet
   facet normal 0.483851 0.706238 0.516832
@@ -8716,7 +8716,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -9.83664 12.2 7.80229
     vertex -9.66556 12.2 7.66055
     endloop
@@ -8751,7 +8751,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -10.0181 12.2 7.93053
     vertex -9.83664 12.2 7.80229
     endloop
@@ -8802,7 +8802,14 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex -13.1709 12.2 7.93767
     vertex -10.0181 12.2 7.93053
-    vertex -11.2144 12.2 7.3
+    vertex -11.6823 12.2 7.3
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -11.6823 12.2 7.3
+    vertex -10.0181 12.2 7.93053
+    vertex -11.5177 12.2 7.3
     endloop
   endfacet
   facet normal 0.514435 0.00119353 0.857528
@@ -9353,15 +9360,8 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     vertex -13.3529 12.2 7.81025
-    vertex -13.1709 12.2 7.93767
-    endloop
-  endfacet
-  facet normal 0 1 -0
-    outer loop
-    vertex -11.2144 12.2 7.3
-    vertex -11.9856 12.2 7.3
     vertex -13.1709 12.2 7.93767
     endloop
   endfacet
@@ -9395,7 +9395,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     vertex -13.5246 12.2 7.66928
     vertex -13.3529 12.2 7.81025
     endloop
@@ -9432,7 +9432,7 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex -13.6851 12.2 7.51557
     vertex -13.5246 12.2 7.66928
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     endloop
   endfacet
   facet normal -0.509641 0.705815 0.492028
@@ -9465,7 +9465,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     vertex -13.8332 12.2 7.35004
     vertex -13.6851 12.2 7.51557
     endloop
@@ -9500,7 +9500,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     vertex -13.9683 12.2 7.17365
     vertex -13.8332 12.2 7.35004
     endloop
@@ -9544,7 +9544,7 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex -12.4 12.2 6.88564
     vertex -13.9683 12.2 7.17365
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     endloop
   endfacet
   facet normal -0.601588 0.706066 0.37358
@@ -22171,7 +22171,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 3.814 9.3 9.35211
+    vertex 3.8139 9.3 9.35212
     vertex 11.0476 9.3 6.48122
     endloop
   endfacet
@@ -22185,183 +22185,183 @@ solid extruder_idler_bearing.stl
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 3.64285 9.3 9.369
-    vertex 3.814 9.3 9.35211
+    vertex 3.64254 9.3 9.36904
+    vertex 3.8139 9.3 9.35212
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.39761 9.3 10.2026
+    vertex 2.3965 9.3 10.2045
     vertex -3.6 9.3 6.48122
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 2.39761 9.3 10.2026
-    vertex 2.49296 9.3 10.0595
+    vertex 2.3965 9.3 10.2045
+    vertex 2.49179 9.3 10.061
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 2.49296 9.3 10.0595
-    vertex 2.6019 9.3 9.92636
+    vertex 2.49179 9.3 10.061
+    vertex 2.60072 9.3 9.92766
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.6019 9.3 9.92636
-    vertex 2.72337 9.3 9.80461
-    vertex -3.6 9.3 6.48122
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -3.6 9.3 6.48122
-    vertex 2.72337 9.3 9.80461
-    vertex 2.85621 9.3 9.69536
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -3.6 9.3 6.48122
-    vertex 2.85621 9.3 9.69536
-    vertex 2.99913 9.3 9.59969
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.99913 9.3 9.59969
-    vertex 3.15075 9.3 9.51851
+    vertex 2.60072 9.3 9.92766
+    vertex 2.72223 9.3 9.80565
     vertex -3.6 9.3 6.48122
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 3.15075 9.3 9.51851
-    vertex 3.30961 9.3 9.4526
+    vertex 2.72223 9.3 9.80565
+    vertex 2.85513 9.3 9.69617
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 3.30961 9.3 9.4526
-    vertex 3.47417 9.3 9.4026
+    vertex 2.85513 9.3 9.69617
+    vertex 2.99816 9.3 9.60027
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.47417 9.3 9.4026
-    vertex 3.64285 9.3 9.369
+    vertex 2.99816 9.3 9.60027
+    vertex 3.14991 9.3 9.5189
+    vertex -3.6 9.3 6.48122
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -3.6 9.3 6.48122
+    vertex 3.14991 9.3 9.5189
+    vertex 3.30893 9.3 9.45284
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -3.6 9.3 6.48122
+    vertex 3.30893 9.3 9.45284
+    vertex 3.47367 9.3 9.40272
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.47367 9.3 9.40272
+    vertex 3.64254 9.3 9.36904
     vertex -3.6 9.3 6.48122
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
     vertex 11.0476 9.3 6.48122
-    vertex 3.814 9.3 9.35211
-    vertex 3.98599 9.3 9.35211
+    vertex 3.8139 9.3 9.35212
+    vertex 3.9861 9.3 9.35212
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
     vertex 11.0476 9.3 6.48122
-    vertex 3.98599 9.3 9.35211
-    vertex 4.15715 9.3 9.369
+    vertex 3.9861 9.3 9.35212
+    vertex 4.15746 9.3 9.36904
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.32583 9.3 9.4026
+    vertex 4.32633 9.3 9.40272
     vertex 11.0476 9.3 6.48122
-    vertex 4.15715 9.3 9.369
+    vertex 4.15746 9.3 9.36904
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.59838 9.3 10.6781
+    vertex 5.59905 9.3 10.6808
     vertex 8.59846 9.3 13.2101
     vertex 11.0476 9.3 6.48122
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.59838 9.3 10.6781
+    vertex 5.59905 9.3 10.6808
     vertex 11.0476 9.3 6.48122
-    vertex 5.54876 9.3 10.5134
+    vertex 5.54962 9.3 10.5158
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.54876 9.3 10.5134
+    vertex 5.54962 9.3 10.5158
     vertex 11.0476 9.3 6.48122
-    vertex 5.48322 9.3 10.3544
+    vertex 5.48423 9.3 10.3565
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.48322 9.3 10.3544
+    vertex 5.48423 9.3 10.3565
     vertex 11.0476 9.3 6.48122
-    vertex 5.40238 9.3 10.2026
+    vertex 5.40349 9.3 10.2045
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.40238 9.3 10.2026
+    vertex 5.40349 9.3 10.2045
     vertex 11.0476 9.3 6.48122
-    vertex 5.30704 9.3 10.0595
+    vertex 5.3082 9.3 10.061
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.30704 9.3 10.0595
+    vertex 5.3082 9.3 10.061
     vertex 11.0476 9.3 6.48122
-    vertex 5.1981 9.3 9.92636
+    vertex 5.19928 9.3 9.92766
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.1981 9.3 9.92636
+    vertex 5.19928 9.3 9.92766
     vertex 11.0476 9.3 6.48122
-    vertex 5.07663 9.3 9.80461
+    vertex 5.07777 9.3 9.80565
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.07663 9.3 9.80461
+    vertex 5.07777 9.3 9.80565
     vertex 11.0476 9.3 6.48122
-    vertex 4.94379 9.3 9.69536
+    vertex 4.94487 9.3 9.69617
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.94379 9.3 9.69536
+    vertex 4.94487 9.3 9.69617
     vertex 11.0476 9.3 6.48122
-    vertex 4.80087 9.3 9.59969
+    vertex 4.80184 9.3 9.60027
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.80087 9.3 9.59969
+    vertex 4.80184 9.3 9.60027
     vertex 11.0476 9.3 6.48122
-    vertex 4.64925 9.3 9.51851
+    vertex 4.65008 9.3 9.5189
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.64925 9.3 9.51851
+    vertex 4.65008 9.3 9.5189
     vertex 11.0476 9.3 6.48122
-    vertex 4.49039 9.3 9.4526
+    vertex 4.49107 9.3 9.45284
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.49039 9.3 9.4526
+    vertex 4.49107 9.3 9.45284
     vertex 11.0476 9.3 6.48122
-    vertex 4.32583 9.3 9.4026
+    vertex 4.32633 9.3 9.40272
     endloop
   endfacet
   facet normal -1 0 0
@@ -22826,51 +22826,51 @@ solid extruder_idler_bearing.stl
     vertex -8.30557 -4.23959 9.26122
     endloop
   endfacet
-  facet normal 0 0.703343 0.710851
+  facet normal 0 0.703333 0.710861
     outer loop
-    vertex 3.814 9.3 9.35211
+    vertex 3.8139 9.3 9.35212
     vertex 3.9 9.1 9.55
-    vertex 3.98599 9.3 9.35211
+    vertex 3.9861 9.3 9.35212
     endloop
   endfacet
-  facet normal 0.0697734 0.7034 0.707361
+  facet normal 0.0698527 0.703389 0.707364
     outer loop
-    vertex 3.64285 9.3 9.369
+    vertex 3.64254 9.3 9.36904
     vertex 3.73798 9.1 9.55849
-    vertex 3.814 9.3 9.35211
+    vertex 3.8139 9.3 9.35212
     endloop
   endfacet
-  facet normal 0.0368136 0.71082 0.70241
+  facet normal 0.0368136 0.710819 0.70241
     outer loop
-    vertex 3.814 9.3 9.35211
+    vertex 3.8139 9.3 9.35212
     vertex 3.73798 9.1 9.55849
     vertex 3.9 9.1 9.55
     endloop
   endfacet
-  facet normal -0.0697734 0.7034 0.707361
+  facet normal -0.0698527 0.703389 0.707364
     outer loop
-    vertex 3.98599 9.3 9.35211
+    vertex 3.9861 9.3 9.35212
     vertex 4.06202 9.1 9.55849
-    vertex 4.15715 9.3 9.369
+    vertex 4.15746 9.3 9.36904
     endloop
   endfacet
-  facet normal -0.0368138 0.71082 0.70241
+  facet normal -0.0368139 0.710819 0.70241
     outer loop
-    vertex 3.98599 9.3 9.35211
+    vertex 3.9861 9.3 9.35212
     vertex 3.9 9.1 9.55
     vertex 4.06202 9.1 9.55849
     endloop
   endfacet
-  facet normal -0.138836 0.703571 0.69693
+  facet normal -0.139008 0.703554 0.696914
     outer loop
-    vertex 4.15715 9.3 9.369
+    vertex 4.15746 9.3 9.36904
     vertex 4.22226 9.1 9.58387
-    vertex 4.32583 9.3 9.4026
+    vertex 4.32633 9.3 9.40272
     endloop
   endfacet
-  facet normal -0.110052 0.710695 0.694839
+  facet normal -0.110051 0.710701 0.694833
     outer loop
-    vertex 4.15715 9.3 9.369
+    vertex 4.15746 9.3 9.36904
     vertex 4.06202 9.1 9.55849
     vertex 4.22226 9.1 9.58387
     endloop
@@ -22878,14 +22878,14 @@ solid extruder_idler_bearing.stl
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.31678 9.3 10.3544
-    vertex 2.39761 9.3 10.2026
+    vertex 2.31577 9.3 10.3565
+    vertex 2.3965 9.3 10.2045
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.45103 9.3 11.8359
-    vertex 2.15192 9.3 11.018
+    vertex 2.15177 9.3 11.0212
     vertex -3.6 9.3 11.5
     endloop
   endfacet
@@ -22899,78 +22899,78 @@ solid extruder_idler_bearing.stl
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.15192 9.3 11.018
-    vertex 2.16841 9.3 10.8468
+    vertex 2.15177 9.3 11.0212
+    vertex 2.16798 9.3 10.8498
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.16841 9.3 10.8468
-    vertex 2.20162 9.3 10.6781
+    vertex 2.16798 9.3 10.8498
+    vertex 2.20095 9.3 10.6808
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.20162 9.3 10.6781
-    vertex 2.25124 9.3 10.5134
+    vertex 2.20095 9.3 10.6808
+    vertex 2.25037 9.3 10.5158
     vertex -3.6 9.3 11.5
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.25124 9.3 10.5134
-    vertex 2.31678 9.3 10.3544
+    vertex 2.25037 9.3 10.5158
+    vertex 2.31577 9.3 10.3565
     endloop
   endfacet
-  facet normal 0.589726 0.705637 0.392809
+  facet normal 0.590082 0.705764 0.392046
     outer loop
-    vertex 2.39761 9.3 10.2026
+    vertex 2.3965 9.3 10.2045
     vertex 2.64602 9.1 10.1889
-    vertex 2.49296 9.3 10.0595
+    vertex 2.49179 9.3 10.061
     endloop
   endfacet
-  facet normal 0.626016 0.704975 0.333339
+  facet normal 0.626346 0.705093 0.332468
     outer loop
-    vertex 2.31678 9.3 10.3544
+    vertex 2.31577 9.3 10.3565
     vertex 2.55766 9.1 10.325
-    vertex 2.39761 9.3 10.2026
+    vertex 2.3965 9.3 10.2045
     endloop
   endfacet
-  facet normal 0.591708 0.708682 0.384255
+  facet normal 0.591828 0.70854 0.384332
     outer loop
-    vertex 2.39761 9.3 10.2026
+    vertex 2.3965 9.3 10.2045
     vertex 2.55766 9.1 10.325
     vertex 2.64602 9.1 10.1889
     endloop
   endfacet
-  facet normal 0.547719 0.706409 0.44832
+  facet normal 0.548094 0.706541 0.447654
     outer loop
-    vertex 2.49296 9.3 10.0595
+    vertex 2.49179 9.3 10.061
     vertex 2.74812 9.1 10.0628
-    vertex 2.6019 9.3 9.92636
+    vertex 2.60072 9.3 9.92766
     endloop
   endfacet
-  facet normal 0.548924 0.707881 0.444508
+  facet normal 0.549042 0.707728 0.444604
     outer loop
-    vertex 2.49296 9.3 10.0595
+    vertex 2.49179 9.3 10.061
     vertex 2.64602 9.1 10.1889
     vertex 2.74812 9.1 10.0628
     endloop
   endfacet
-  facet normal 0.500682 0.706961 0.499524
+  facet normal 0.501245 0.706823 0.499155
     outer loop
-    vertex 2.6019 9.3 9.92636
+    vertex 2.60072 9.3 9.92766
     vertex 2.74812 9.1 10.0628
-    vertex 2.72337 9.3 9.80461
+    vertex 2.72223 9.3 9.80565
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.45103 9.3 11.8359
     vertex -3.28703 9.3 12.1647
-    vertex 2.15192 9.3 11.018
+    vertex 2.15177 9.3 11.0212
     endloop
   endfacet
   facet normal -0.89488 0 0.446307
@@ -22994,65 +22994,156 @@ solid extruder_idler_bearing.stl
     vertex -3.28703 6.35 12.1647
     endloop
   endfacet
-  facet normal 0.707474 0.703447 0.0681366
+  facet normal 0.707556 0.703485 0.0668799
     outer loop
-    vertex 2.15192 9.3 11.018
+    vertex 2.15177 9.3 11.0212
     vertex 2.35849 9.1 10.938
-    vertex 2.16841 9.3 10.8468
+    vertex 2.16798 9.3 10.8498
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 2.15192 9.3 11.018
+    vertex 2.15177 9.3 11.0212
     vertex -3.28703 9.3 12.1647
     vertex -3.10832 9.3 12.4858
     endloop
   endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.15177 9.3 11.0212
+    vertex -3.10832 9.3 12.4858
+    vertex -2.91528 9.3 12.7985
+    endloop
+  endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.15192 9.3 11.018
-    vertex -3.10832 9.3 12.4858
-    vertex 2.15232 9.3 11.19
+    vertex -2.91528 9.3 12.7985
+    vertex -2.7083 9.3 13.1022
+    vertex 2.15177 9.3 11.0212
     endloop
   endfacet
-  facet normal 0.710843 0.703349 -0.00164071
+  facet normal -0 1 0
     outer loop
-    vertex 2.15232 9.3 11.19
+    vertex 2.15177 9.3 11.0212
+    vertex -2.7083 9.3 13.1022
+    vertex -2.4878 9.3 13.3961
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.15177 9.3 11.0212
+    vertex -2.4878 9.3 13.3961
+    vertex -2.25423 9.3 13.6798
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -2.25423 9.3 13.6798
+    vertex -2.00808 9.3 13.9527
+    vertex 2.15177 9.3 11.0212
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.15177 9.3 11.0212
+    vertex -2.00808 9.3 13.9527
+    vertex -1.74984 9.3 14.2141
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.15177 9.3 11.0212
+    vertex -1.74984 9.3 14.2141
+    vertex -1.48004 9.3 14.4636
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -1.48004 9.3 14.4636
+    vertex -1.19924 9.3 14.7006
+    vertex 2.15177 9.3 11.0212
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.15177 9.3 11.0212
+    vertex -1.19924 9.3 14.7006
+    vertex -0.90801 9.3 14.9247
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.15177 9.3 11.0212
+    vertex -0.90801 9.3 14.9247
+    vertex -0.606945 9.3 15.1354
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -0.606945 9.3 15.1354
+    vertex -0.296658 9.3 15.3323
+    vertex 2.15177 9.3 11.0212
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.15177 9.3 11.0212
+    vertex -0.296658 9.3 15.3323
+    vertex 0.0222111 9.3 15.5149
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.15177 9.3 11.0212
+    vertex 0.0222111 9.3 15.5149
+    vertex 0.349013 9.3 15.6829
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.15177 9.3 11.0212
+    vertex 0.349013 9.3 15.6829
+    vertex 2.1525 9.3 11.1934
+    endloop
+  endfacet
+  facet normal 0.710832 0.703356 -0.00298217
+    outer loop
+    vertex 2.1525 9.3 11.1934
     vertex 2.35 9.1 11.1
-    vertex 2.15192 9.3 11.018
+    vertex 2.15177 9.3 11.0212
     endloop
   endfacet
-  facet normal 0.702442 0.710788 0.0368145
+  facet normal 0.702479 0.710752 0.0368164
     outer loop
-    vertex 2.15192 9.3 11.018
+    vertex 2.15177 9.3 11.0212
     vertex 2.35 9.1 11.1
     vertex 2.35849 9.1 10.938
     endloop
   endfacet
-  facet normal 0.697163 0.70366 0.137212
+  facet normal 0.697326 0.703724 0.136051
     outer loop
-    vertex 2.16841 9.3 10.8468
+    vertex 2.16798 9.3 10.8498
     vertex 2.38387 9.1 10.7777
-    vertex 2.20162 9.3 10.6781
+    vertex 2.20095 9.3 10.6808
     endloop
   endfacet
-  facet normal 0.694915 0.710618 0.110066
+  facet normal 0.694981 0.710552 0.110077
     outer loop
-    vertex 2.16841 9.3 10.8468
+    vertex 2.16798 9.3 10.8498
     vertex 2.35849 9.1 10.938
     vertex 2.38387 9.1 10.7777
     endloop
   endfacet
-  facet normal 0.680018 0.703986 0.204889
+  facet normal 0.68025 0.704072 0.20382
     outer loop
-    vertex 2.20162 9.3 10.6781
+    vertex 2.20095 9.3 10.6808
     vertex 2.42586 9.1 10.621
-    vertex 2.25124 9.3 10.5134
+    vertex 2.25037 9.3 10.5158
     endloop
   endfacet
-  facet normal 0.679891 0.710324 0.182177
+  facet normal 0.679981 0.710231 0.182201
     outer loop
-    vertex 2.20162 9.3 10.6781
+    vertex 2.20095 9.3 10.6808
     vertex 2.38387 9.1 10.7777
     vertex 2.42586 9.1 10.621
     endloop
@@ -23071,13 +23162,6 @@ solid extruder_idler_bearing.stl
     vertex -3.10832 6.35 12.4858
     endloop
   endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex -3.10832 9.3 12.4858
-    vertex -2.91528 9.3 12.7985
-    endloop
-  endfacet
   facet normal -0.850901 0 0.525325
     outer loop
     vertex -3.10832 9.3 12.4858
@@ -23090,146 +23174,6 @@ solid extruder_idler_bearing.stl
     vertex -3.10832 9.3 12.4858
     vertex -3.10832 6.35 12.4858
     vertex -2.91528 6.35 12.7985
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex -2.91528 9.3 12.7985
-    vertex -2.7083 9.3 13.1022
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -2.7083 9.3 13.1022
-    vertex -2.4878 9.3 13.3961
-    vertex 2.15232 9.3 11.19
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex -2.4878 9.3 13.3961
-    vertex -2.25423 9.3 13.6798
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex -2.25423 9.3 13.6798
-    vertex -2.00808 9.3 13.9527
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -2.00808 9.3 13.9527
-    vertex -1.74984 9.3 14.2141
-    vertex 2.15232 9.3 11.19
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex -1.74984 9.3 14.2141
-    vertex -1.48004 9.3 14.4636
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex -1.48004 9.3 14.4636
-    vertex -1.19924 9.3 14.7006
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -1.19924 9.3 14.7006
-    vertex -0.90801 9.3 14.9247
-    vertex 2.15232 9.3 11.19
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex -0.90801 9.3 14.9247
-    vertex -0.606945 9.3 15.1354
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex -0.606945 9.3 15.1354
-    vertex -0.296658 9.3 15.3323
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -0.296658 9.3 15.3323
-    vertex 0.0222111 9.3 15.5149
-    vertex 2.15232 9.3 11.19
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex 0.0222111 9.3 15.5149
-    vertex 0.349013 9.3 15.6829
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex 0.349013 9.3 15.6829
-    vertex 0.683078 9.3 15.836
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 0.683078 9.3 15.836
-    vertex 1.02372 9.3 15.9739
-    vertex 2.15232 9.3 11.19
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex 1.02372 9.3 15.9739
-    vertex 1.37025 9.3 16.0961
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex 1.37025 9.3 16.0961
-    vertex 1.72195 9.3 16.2026
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 1.72195 9.3 16.2026
-    vertex 2.07811 9.3 16.2931
-    vertex 2.15232 9.3 11.19
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex 2.07811 9.3 16.2931
-    vertex 2.16959 9.3 11.3611
-    endloop
-  endfacet
-  facet normal 0.707233 0.703365 -0.071405
-    outer loop
-    vertex 2.16959 9.3 11.3611
-    vertex 2.35849 9.1 11.262
-    vertex 2.15232 9.3 11.19
-    endloop
-  endfacet
-  facet normal 0.702398 0.710832 -0.0368123
-    outer loop
-    vertex 2.15232 9.3 11.19
-    vertex 2.35849 9.1 11.262
-    vertex 2.35 9.1 11.1
     endloop
   endfacet
   facet normal -0.826278 0 0.563262
@@ -23400,6 +23344,13 @@ solid extruder_idler_bearing.stl
     vertex 0.349013 6.35 15.6829
     endloop
   endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 11.1934
+    vertex 0.349013 9.3 15.6829
+    vertex 0.683078 9.3 15.836
+    endloop
+  endfacet
   facet normal -0.416595 0 0.909092
     outer loop
     vertex 0.349013 9.3 15.6829
@@ -23414,6 +23365,55 @@ solid extruder_idler_bearing.stl
     vertex 0.683078 6.35 15.836
     endloop
   endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 11.1934
+    vertex 0.683078 9.3 15.836
+    vertex 1.02372 9.3 15.9739
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 1.02372 9.3 15.9739
+    vertex 1.37025 9.3 16.0961
+    vertex 2.1525 9.3 11.1934
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 11.1934
+    vertex 1.37025 9.3 16.0961
+    vertex 1.72195 9.3 16.2026
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 11.1934
+    vertex 1.72195 9.3 16.2026
+    vertex 2.07811 9.3 16.2931
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.17014 9.3 11.3647
+    vertex 2.1525 9.3 11.1934
+    endloop
+  endfacet
+  facet normal 0.707115 0.703339 -0.0728237
+    outer loop
+    vertex 2.17014 9.3 11.3647
+    vertex 2.35849 9.1 11.262
+    vertex 2.1525 9.3 11.1934
+    endloop
+  endfacet
+  facet normal 0.702399 0.710831 -0.0368124
+    outer loop
+    vertex 2.1525 9.3 11.1934
+    vertex 2.35849 9.1 11.262
+    vertex 2.35 9.1 11.1
+    endloop
+  endfacet
   facet normal -0.375064 0 0.926999
     outer loop
     vertex 0.683078 9.3 15.836
@@ -23472,93 +23472,9 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.16959 9.3 11.3611
-    vertex 2.07811 9.3 16.2931
-    vertex 2.20358 9.3 11.5297
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.20358 9.3 11.5297
-    vertex 2.07811 9.3 16.2931
-    vertex 2.25396 9.3 11.6942
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.25396 9.3 11.6942
-    vertex 2.07811 9.3 16.2931
-    vertex 2.32024 9.3 11.8529
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.32024 9.3 11.8529
-    vertex 2.07811 9.3 16.2931
-    vertex 2.40177 9.3 12.0043
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.40177 9.3 12.0043
-    vertex 2.07811 9.3 16.2931
-    vertex 2.49777 9.3 12.147
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.49777 9.3 12.147
-    vertex 2.07811 9.3 16.2931
-    vertex 2.60732 9.3 12.2796
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.60732 9.3 12.2796
-    vertex 2.07811 9.3 16.2931
-    vertex 2.72936 9.3 12.4008
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.72936 9.3 12.4008
-    vertex 2.07811 9.3 16.2931
-    vertex 2.8627 9.3 12.5094
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.8627 9.3 12.5094
-    vertex 2.07811 9.3 16.2931
-    vertex 3.00606 9.3 12.6045
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.00606 9.3 12.6045
-    vertex 2.07811 9.3 16.2931
-    vertex 3.15806 9.3 12.6849
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.15806 9.3 12.6849
-    vertex 2.07811 9.3 16.2931
-    vertex 3.31722 9.3 12.7501
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.31722 9.3 12.7501
-    vertex 2.07811 9.3 16.2931
-    vertex 3.53266 9.3 12.85
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.07811 9.3 16.2931
     vertex 2.438 9.3 16.3674
-    vertex 3.53266 9.3 12.85
+    vertex 3.65706 9.3 12.8331
+    vertex 2.07811 9.3 16.2931
     endloop
   endfacet
   facet normal -0.202133 0 0.979358
@@ -23566,6 +23482,97 @@ solid extruder_idler_bearing.stl
     vertex 2.07811 9.3 16.2931
     vertex 2.438 6.35 16.3674
     vertex 2.438 9.3 16.3674
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 3.65706 9.3 12.8331
+    vertex 3.48792 9.3 12.8008
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 3.48792 9.3 12.8008
+    vertex 3.32276 9.3 12.7521
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 3.32276 9.3 12.7521
+    vertex 3.1632 9.3 12.6873
+    vertex 2.07811 9.3 16.2931
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 3.1632 9.3 12.6873
+    vertex 3.01077 9.3 12.6072
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 3.01077 9.3 12.6072
+    vertex 2.86694 9.3 12.5125
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 2.86694 9.3 12.5125
+    vertex 2.73312 9.3 12.4042
+    vertex 2.07811 9.3 16.2931
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.73312 9.3 12.4042
+    vertex 2.6106 9.3 12.2832
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.6106 9.3 12.2832
+    vertex 2.50056 9.3 12.1507
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 2.50056 9.3 12.1507
+    vertex 2.40407 9.3 12.0081
+    vertex 2.07811 9.3 16.2931
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.40407 9.3 12.0081
+    vertex 2.32206 9.3 11.8567
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.32206 9.3 11.8567
+    vertex 2.25533 9.3 11.698
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 2.25533 9.3 11.698
+    vertex 2.20453 9.3 11.5334
+    vertex 2.07811 9.3 16.2931
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.20453 9.3 11.5334
+    vertex 2.17014 9.3 11.3647
     endloop
   endfacet
   facet normal -0.202133 0 0.979358
@@ -23575,235 +23582,11 @@ solid extruder_idler_bearing.stl
     vertex 2.438 6.35 16.3674
     endloop
   endfacet
-  facet normal 0.696681 0.703496 -0.140461
-    outer loop
-    vertex 2.20358 9.3 11.5297
-    vertex 2.38387 9.1 11.4223
-    vertex 2.16959 9.3 11.3611
-    endloop
-  endfacet
-  facet normal 0.69478 0.710754 -0.110045
-    outer loop
-    vertex 2.16959 9.3 11.3611
-    vertex 2.38387 9.1 11.4223
-    vertex 2.35849 9.1 11.262
-    endloop
-  endfacet
-  facet normal 0.679299 0.703739 -0.208096
-    outer loop
-    vertex 2.25396 9.3 11.6942
-    vertex 2.42586 9.1 11.579
-    vertex 2.20358 9.3 11.5297
-    endloop
-  endfacet
-  facet normal 0.679672 0.710549 -0.182117
-    outer loop
-    vertex 2.20358 9.3 11.5297
-    vertex 2.42586 9.1 11.579
-    vertex 2.38387 9.1 11.4223
-    endloop
-  endfacet
-  facet normal 0.655266 0.704094 -0.273639
-    outer loop
-    vertex 2.32024 9.3 11.8529
-    vertex 2.484 9.1 11.7304
-    vertex 2.25396 9.3 11.6942
-    endloop
-  endfacet
-  facet normal 0.657225 0.710219 -0.252281
-    outer loop
-    vertex 2.25396 9.3 11.6942
-    vertex 2.484 9.1 11.7304
-    vertex 2.42586 9.1 11.579
-    endloop
-  endfacet
-  facet normal 0.62483 0.704566 -0.336413
-    outer loop
-    vertex 2.40177 9.3 12.0043
-    vertex 2.55766 9.1 11.875
-    vertex 2.32024 9.3 11.8529
-    endloop
-  endfacet
-  facet normal 0.627661 0.709761 -0.319814
-    outer loop
-    vertex 2.32024 9.3 11.8529
-    vertex 2.55766 9.1 11.875
-    vertex 2.484 9.1 11.7304
-    endloop
-  endfacet
-  facet normal 0.588312 0.705148 -0.395797
-    outer loop
-    vertex 2.49777 9.3 12.147
-    vertex 2.64602 9.1 12.0111
-    vertex 2.40177 9.3 12.0043
-    endloop
-  endfacet
-  facet normal 0.591287 0.709181 -0.383982
-    outer loop
-    vertex 2.40177 9.3 12.0043
-    vertex 2.64602 9.1 12.0111
-    vertex 2.55766 9.1 11.875
-    endloop
-  endfacet
-  facet normal 0.546084 0.705841 -0.451199
-    outer loop
-    vertex 2.60732 9.3 12.2796
-    vertex 2.74812 9.1 12.1372
-    vertex 2.49777 9.3 12.147
-    endloop
-  endfacet
-  facet normal 0.548463 0.708471 -0.444136
-    outer loop
-    vertex 2.49777 9.3 12.147
-    vertex 2.74812 9.1 12.1372
-    vertex 2.64602 9.1 12.0111
-    endloop
-  endfacet
-  facet normal 0.498591 0.706647 -0.502053
-    outer loop
-    vertex 2.72936 9.3 12.4008
-    vertex 2.86285 9.1 12.2519
-    vertex 2.60732 9.3 12.2796
-    endloop
-  endfacet
-  facet normal 0.499626 0.707633 -0.49963
-    outer loop
-    vertex 2.60732 9.3 12.2796
-    vertex 2.86285 9.1 12.2519
-    vertex 2.74812 9.1 12.1372
-    endloop
-  endfacet
-  facet normal 0.446856 0.706717 -0.548517
-    outer loop
-    vertex 2.8627 9.3 12.5094
-    vertex 2.86285 9.1 12.2519
-    vertex 2.72936 9.3 12.4008
-    endloop
-  endfacet
-  facet normal 0.391301 0.705905 -0.590408
-    outer loop
-    vertex 3.00606 9.3 12.6045
-    vertex 2.98893 9.1 12.354
-    vertex 2.8627 9.3 12.5094
-    endloop
-  endfacet
-  facet normal 0.444706 0.707562 -0.549175
-    outer loop
-    vertex 2.8627 9.3 12.5094
-    vertex 2.98893 9.1 12.354
-    vertex 2.86285 9.1 12.2519
-    endloop
-  endfacet
-  facet normal 0.332024 0.704706 -0.627017
-    outer loop
-    vertex 3.15806 9.3 12.6849
-    vertex 3.20852 9.13468 12.5259
-    vertex 3.00606 9.3 12.6045
-    endloop
-  endfacet
-  facet normal 0.332963 0.705301 -0.625849
-    outer loop
-    vertex 3.00606 9.3 12.6045
-    vertex 3.20852 9.13468 12.5259
-    vertex 3.125 9.1 12.4423
-    endloop
-  endfacet
-  facet normal 0.384412 0.708407 -0.591935
-    outer loop
-    vertex 3.00606 9.3 12.6045
-    vertex 3.125 9.1 12.4423
-    vertex 2.98893 9.1 12.354
-    endloop
-  endfacet
-  facet normal 0.270239 0.701024 -0.659952
-    outer loop
-    vertex 3.31722 9.3 12.7501
-    vertex 3.29524 9.179 12.6126
-    vertex 3.15806 9.3 12.6849
-    endloop
-  endfacet
-  facet normal 0.284076 0.708425 -0.646092
-    outer loop
-    vertex 3.15806 9.3 12.6849
-    vertex 3.29524 9.179 12.6126
-    vertex 3.20852 9.13468 12.5259
-    endloop
-  endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.31722 9.3 12.7501
-    vertex 3.53266 9.3 12.85
-    vertex 3.48201 9.3 12.7993
-    endloop
-  endfacet
-  facet normal 0.205179 0.697394 -0.686691
-    outer loop
-    vertex 3.48201 9.3 12.7993
-    vertex 3.38607 9.23376 12.7034
-    vertex 3.31722 9.3 12.7501
-    endloop
-  endfacet
-  facet normal 0.234344 0.711 -0.662995
-    outer loop
-    vertex 3.31722 9.3 12.7501
-    vertex 3.38607 9.23376 12.7034
-    vertex 3.29524 9.179 12.6126
-    endloop
-  endfacet
-  facet normal 0.707103 0 -0.70711
-    outer loop
-    vertex 3.48201 9.3 12.7993
-    vertex 3.53266 9.3 12.85
-    vertex 3.53266 5 12.85
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 9.3 12.85
     vertex 2.438 9.3 16.3674
     vertex 2.80087 9.3 16.4253
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 9.3 12.85
-    vertex 2.80087 9.3 16.4253
-    vertex 3.166 9.3 16.4668
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.166 9.3 16.4668
-    vertex 3.53262 9.3 16.4917
-    vertex 3.53266 9.3 12.85
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 9.3 12.85
-    vertex 3.53262 9.3 16.4917
-    vertex 3.9 9.3 16.5
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.53266 9.3 12.85
-    vertex 3.9 9.3 16.5
-    vertex 4.26734 9.3 12.85
-    endloop
-  endfacet
-  facet normal -0 0 -1
-    outer loop
-    vertex 3.53266 9.3 12.85
-    vertex 4.26734 9.3 12.85
-    vertex 3.53266 5 12.85
-    endloop
-  endfacet
-  facet normal 0.707105 3.67167e-008 -0.707109
-    outer loop
-    vertex 3.53266 5 12.85
-    vertex 3.38607 9.23376 12.7034
-    vertex 3.48201 9.3 12.7993
+    vertex 3.65706 9.3 12.8331
     endloop
   endfacet
   facet normal -0.15765 0 0.987495
@@ -23820,6 +23603,90 @@ solid extruder_idler_bearing.stl
     vertex 2.80087 6.35 16.4253
     endloop
   endfacet
+  facet normal 0.133242 0.703109 -0.698487
+    outer loop
+    vertex 3.65706 9.3 12.8331
+    vertex 3.54809 9.17517 12.6866
+    vertex 3.48792 9.3 12.8008
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.65706 9.3 12.8331
+    vertex 2.80087 9.3 16.4253
+    vertex 3.83109 9.3 12.85
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.65706 9.3 12.8331
+    vertex 3.83109 9.3 12.85
+    vertex 3.82856 9.3 12.8485
+    endloop
+  endfacet
+  facet normal 0.0649245 0.69192 -0.719049
+    outer loop
+    vertex 3.82856 9.3 12.8485
+    vertex 3.73145 9.25084 12.7925
+    vertex 3.65706 9.3 12.8331
+    endloop
+  endfacet
+  facet normal 0.0879719 0.70999 -0.698695
+    outer loop
+    vertex 3.65706 9.3 12.8331
+    vertex 3.73145 9.25084 12.7925
+    vertex 3.63819 9.20941 12.7386
+    endloop
+  endfacet
+  facet normal 0.137682 0.700866 -0.699879
+    outer loop
+    vertex 3.65706 9.3 12.8331
+    vertex 3.63819 9.20941 12.7386
+    vertex 3.54809 9.17517 12.6866
+    endloop
+  endfacet
+  facet normal 0.201479 0.702264 -0.682811
+    outer loop
+    vertex 3.48792 9.3 12.8008
+    vertex 3.46054 9.14769 12.6361
+    vertex 3.32276 9.3 12.7521
+    endloop
+  endfacet
+  facet normal 0.172469 0.708783 -0.684018
+    outer loop
+    vertex 3.48792 9.3 12.8008
+    vertex 3.54809 9.17517 12.6866
+    vertex 3.46054 9.14769 12.6361
+    endloop
+  endfacet
+  facet normal 0.267162 0.703443 -0.658629
+    outer loop
+    vertex 3.32276 9.3 12.7521
+    vertex 3.29086 9.11179 12.5381
+    vertex 3.1632 9.3 12.6873
+    endloop
+  endfacet
+  facet normal 0.214895 0.707288 -0.673471
+    outer loop
+    vertex 3.32276 9.3 12.7521
+    vertex 3.46054 9.14769 12.6361
+    vertex 3.37498 9.12665 12.5867
+    endloop
+  endfacet
+  facet normal 0.256054 0.706554 -0.65971
+    outer loop
+    vertex 3.32276 9.3 12.7521
+    vertex 3.37498 9.12665 12.5867
+    vertex 3.29086 9.11179 12.5381
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.80087 9.3 16.4253
+    vertex 3.166 9.3 16.4668
+    vertex 3.83109 9.3 12.85
+    endloop
+  endfacet
   facet normal -0.112836 0 0.993614
     outer loop
     vertex 2.80087 9.3 16.4253
@@ -23832,6 +23699,55 @@ solid extruder_idler_bearing.stl
     vertex 2.80087 9.3 16.4253
     vertex 2.80087 6.35 16.4253
     vertex 3.166 6.35 16.4668
+    endloop
+  endfacet
+  facet normal 0.500182 0 -0.86592
+    outer loop
+    vertex 3.83109 5 12.85
+    vertex 3.82856 9.3 12.8485
+    vertex 3.83109 9.3 12.85
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 3.83109 9.3 12.85
+    vertex 3.166 9.3 16.4668
+    vertex 3.53262 9.3 16.4917
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 3.83109 9.3 12.85
+    vertex 3.53262 9.3 16.4917
+    vertex 3.9 9.3 16.5
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.83109 9.3 12.85
+    vertex 3.9 9.3 16.5
+    vertex 3.96891 9.3 12.85
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 3.96891 5 12.85
+    vertex 3.83109 9.3 12.85
+    vertex 3.96891 9.3 12.85
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 3.83109 5 12.85
+    vertex 3.83109 9.3 12.85
+    vertex 3.96891 5 12.85
+    endloop
+  endfacet
+  facet normal 0.499994 -1.47859e-007 -0.866029
+    outer loop
+    vertex 3.83109 5 12.85
+    vertex 3.73145 9.25084 12.7925
+    vertex 3.82856 9.3 12.8485
     endloop
   endfacet
   facet normal -0.0677979 0 0.997699
@@ -23864,7 +23780,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 12.85
+    vertex 3.96891 9.3 12.85
     vertex 3.9 9.3 16.5
     vertex 4.19072 9.3 16.4915
     endloop
@@ -23885,7 +23801,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 12.85
+    vertex 3.96891 9.3 12.85
     vertex 4.19072 9.3 16.4915
     vertex 4.48046 9.3 16.4662
     endloop
@@ -23894,19 +23810,19 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex 4.48046 9.3 16.4662
     vertex 4.76824 9.3 16.424
-    vertex 4.26734 9.3 12.85
+    vertex 3.96891 9.3 12.85
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 12.85
+    vertex 3.96891 9.3 12.85
     vertex 4.76824 9.3 16.424
     vertex 5.05308 9.3 16.3652
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 12.85
+    vertex 3.96891 9.3 12.85
     vertex 5.05308 9.3 16.3652
     vertex 5.33401 9.3 16.2899
     endloop
@@ -23915,91 +23831,28 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex 5.33401 9.3 16.2899
     vertex 5.6101 9.3 16.1985
-    vertex 4.26734 9.3 12.85
+    vertex 3.96891 9.3 12.85
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 12.85
+    vertex 3.96891 9.3 12.85
     vertex 5.6101 9.3 16.1985
-    vertex 5.8804 9.3 16.0911
+    vertex 4.14293 9.3 12.8331
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 12.85
-    vertex 5.8804 9.3 16.0911
-    vertex 6.144 9.3 15.9682
+    vertex 3.96891 9.3 12.85
+    vertex 4.14293 9.3 12.8331
+    vertex 3.97144 9.3 12.8485
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal -0.500182 0 -0.86592
     outer loop
-    vertex 6.144 9.3 15.9682
-    vertex 6.4 9.3 15.8301
-    vertex 4.26734 9.3 12.85
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.26734 9.3 12.85
-    vertex 6.4 9.3 15.8301
-    vertex 6.64754 9.3 15.6774
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.26734 9.3 12.85
-    vertex 6.64754 9.3 15.6774
-    vertex 6.88579 9.3 15.5106
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 6.88579 9.3 15.5106
-    vertex 7.11394 9.3 15.3302
-    vertex 4.26734 9.3 12.85
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.26734 9.3 12.85
-    vertex 7.11394 9.3 15.3302
-    vertex 7.33121 9.3 15.1369
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.26734 9.3 12.85
-    vertex 7.33121 9.3 15.1369
-    vertex 7.53687 9.3 14.9312
-    endloop
-  endfacet
-  facet normal 0 1 -0
-    outer loop
-    vertex 7.53687 9.3 14.9312
-    vertex 4.48278 9.3 12.7501
-    vertex 4.26734 9.3 12.85
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.26734 9.3 12.85
-    vertex 4.48278 9.3 12.7501
-    vertex 4.31799 9.3 12.7993
-    endloop
-  endfacet
-  facet normal -0.707107 0 -0.707107
-    outer loop
-    vertex 4.26734 9.3 12.85
-    vertex 4.31799 9.3 12.7993
-    vertex 4.26734 5 12.85
-    endloop
-  endfacet
-  facet normal 0 -0 -1
-    outer loop
-    vertex 3.53266 5 12.85
-    vertex 4.26734 9.3 12.85
-    vertex 4.26734 5 12.85
+    vertex 3.96891 9.3 12.85
+    vertex 3.97144 9.3 12.8485
+    vertex 3.96891 5 12.85
     endloop
   endfacet
   facet normal 0.0871541 -0 0.996195
@@ -24072,6 +23925,13 @@ solid extruder_idler_bearing.stl
     vertex 5.6101 6.35 16.1985
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 5.6101 9.3 16.1985
+    vertex 5.8804 9.3 16.0911
+    vertex 4.14293 9.3 12.8331
+    endloop
+  endfacet
   facet normal 0.369204 -0 0.929348
     outer loop
     vertex 5.6101 9.3 16.1985
@@ -24086,6 +23946,62 @@ solid extruder_idler_bearing.stl
     vertex 5.8804 6.35 16.0911
     endloop
   endfacet
+  facet normal -0.0649245 0.69192 -0.719049
+    outer loop
+    vertex 4.14293 9.3 12.8331
+    vertex 4.06855 9.25084 12.7925
+    vertex 3.97144 9.3 12.8485
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.14293 9.3 12.8331
+    vertex 5.8804 9.3 16.0911
+    vertex 6.144 9.3 15.9682
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.14293 9.3 12.8331
+    vertex 6.144 9.3 15.9682
+    vertex 6.4 9.3 15.8301
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 6.4 9.3 15.8301
+    vertex 6.64754 9.3 15.6774
+    vertex 4.14293 9.3 12.8331
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.14293 9.3 12.8331
+    vertex 6.64754 9.3 15.6774
+    vertex 4.31208 9.3 12.8008
+    endloop
+  endfacet
+  facet normal -0.133501 0.701705 -0.699848
+    outer loop
+    vertex 4.31208 9.3 12.8008
+    vertex 4.16181 9.20941 12.7386
+    vertex 4.14293 9.3 12.8331
+    endloop
+  endfacet
+  facet normal -0.0879719 0.70999 -0.698695
+    outer loop
+    vertex 4.14293 9.3 12.8331
+    vertex 4.16181 9.20941 12.7386
+    vertex 4.06855 9.25084 12.7925
+    endloop
+  endfacet
+  facet normal -0.499994 -1.47138e-007 -0.866029
+    outer loop
+    vertex 3.96891 5 12.85
+    vertex 3.97144 9.3 12.8485
+    vertex 4.06855 9.25084 12.7925
+    endloop
+  endfacet
   facet normal 0.422623 -0 0.906306
     outer loop
     vertex 5.8804 9.3 16.0911
@@ -24128,6 +24044,13 @@ solid extruder_idler_bearing.stl
     vertex 6.64754 6.35 15.6774
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.31208 9.3 12.8008
+    vertex 6.64754 9.3 15.6774
+    vertex 6.88579 9.3 15.5106
+    endloop
+  endfacet
   facet normal 0.573581 -0 0.819149
     outer loop
     vertex 6.64754 9.3 15.6774
@@ -24142,6 +24065,41 @@ solid extruder_idler_bearing.stl
     vertex 6.88579 6.35 15.5106
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.31208 9.3 12.8008
+    vertex 6.88579 9.3 15.5106
+    vertex 7.11394 9.3 15.3302
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.31208 9.3 12.8008
+    vertex 7.11394 9.3 15.3302
+    vertex 4.47723 9.3 12.7521
+    endloop
+  endfacet
+  facet normal -0.201478 0.702264 -0.682811
+    outer loop
+    vertex 4.47723 9.3 12.7521
+    vertex 4.33945 9.14769 12.6361
+    vertex 4.31208 9.3 12.8008
+    endloop
+  endfacet
+  facet normal -0.172468 0.708784 -0.684018
+    outer loop
+    vertex 4.31208 9.3 12.8008
+    vertex 4.33945 9.14769 12.6361
+    vertex 4.25191 9.17517 12.6866
+    endloop
+  endfacet
+  facet normal -0.135444 0.70346 -0.69771
+    outer loop
+    vertex 4.31208 9.3 12.8008
+    vertex 4.25191 9.17517 12.6866
+    vertex 4.16181 9.20941 12.7386
+    endloop
+  endfacet
   facet normal 0.620238 -0 0.784414
     outer loop
     vertex 6.88579 9.3 15.5106
@@ -24156,6 +24114,13 @@ solid extruder_idler_bearing.stl
     vertex 7.11394 6.35 15.3302
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.47723 9.3 12.7521
+    vertex 7.11394 9.3 15.3302
+    vertex 7.33121 9.3 15.1369
+    endloop
+  endfacet
   facet normal 0.664793 -0 0.747028
     outer loop
     vertex 7.11394 9.3 15.3302
@@ -24170,6 +24135,41 @@ solid extruder_idler_bearing.stl
     vertex 7.33121 6.35 15.1369
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.47723 9.3 12.7521
+    vertex 7.33121 9.3 15.1369
+    vertex 7.53687 9.3 14.9312
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.47723 9.3 12.7521
+    vertex 7.53687 9.3 14.9312
+    vertex 4.6368 9.3 12.6873
+    endloop
+  endfacet
+  facet normal -0.267165 0.703443 -0.658628
+    outer loop
+    vertex 4.6368 9.3 12.6873
+    vertex 4.50914 9.11179 12.5381
+    vertex 4.47723 9.3 12.7521
+    endloop
+  endfacet
+  facet normal -0.256058 0.706554 -0.659709
+    outer loop
+    vertex 4.47723 9.3 12.7521
+    vertex 4.50914 9.11179 12.5381
+    vertex 4.42502 9.12665 12.5867
+    endloop
+  endfacet
+  facet normal -0.214893 0.707288 -0.673473
+    outer loop
+    vertex 4.47723 9.3 12.7521
+    vertex 4.42502 9.12665 12.5867
+    vertex 4.33945 9.14769 12.6361
+    endloop
+  endfacet
   facet normal 0.707107 -0 0.707107
     outer loop
     vertex 7.33121 9.3 15.1369
@@ -24186,9 +24186,9 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 7.73022 9.3 14.7139
-    vertex 4.64194 9.3 12.6849
+    vertex 4.6368 9.3 12.6873
     vertex 7.53687 9.3 14.9312
+    vertex 7.73022 9.3 14.7139
     endloop
   endfacet
   facet normal 0.747024 -0 0.664797
@@ -24196,13 +24196,6 @@ solid extruder_idler_bearing.stl
     vertex 7.53687 9.3 14.9312
     vertex 7.73022 6.35 14.7139
     vertex 7.73022 9.3 14.7139
-    endloop
-  endfacet
-  facet normal 0 1 -0
-    outer loop
-    vertex 7.53687 9.3 14.9312
-    vertex 4.64194 9.3 12.6849
-    vertex 4.48278 9.3 12.7501
     endloop
   endfacet
   facet normal 0.747024 -0 0.664797
@@ -24214,9 +24207,30 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
+    vertex 4.6368 9.3 12.6873
     vertex 7.73022 9.3 14.7139
     vertex 7.91061 9.3 14.4858
-    vertex 4.64194 9.3 12.6849
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.6368 9.3 12.6873
+    vertex 7.91061 9.3 14.4858
+    vertex 4.78923 9.3 12.6072
+    endloop
+  endfacet
+  facet normal -0.330374 0.703941 -0.628745
+    outer loop
+    vertex 4.78923 9.3 12.6072
+    vertex 4.59231 9.10294 12.4901
+    vertex 4.6368 9.3 12.6873
+    endloop
+  endfacet
+  facet normal -0.294837 0.70843 -0.641247
+    outer loop
+    vertex 4.6368 9.3 12.6873
+    vertex 4.59231 9.10294 12.4901
+    vertex 4.50914 9.11179 12.5381
     endloop
   endfacet
   facet normal 0.784418 -0 0.620233
@@ -24233,58 +24247,9 @@ solid extruder_idler_bearing.stl
     vertex 7.91061 6.35 14.4858
     endloop
   endfacet
-  facet normal -0.27024 0.701024 -0.659951
-    outer loop
-    vertex 4.64194 9.3 12.6849
-    vertex 4.50475 9.179 12.6126
-    vertex 4.48278 9.3 12.7501
-    endloop
-  endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.64194 9.3 12.6849
-    vertex 7.91061 9.3 14.4858
-    vertex 4.79394 9.3 12.6045
-    endloop
-  endfacet
-  facet normal -0.332024 0.704705 -0.627018
-    outer loop
-    vertex 4.79394 9.3 12.6045
-    vertex 4.59148 9.13468 12.5259
-    vertex 4.64194 9.3 12.6849
-    endloop
-  endfacet
-  facet normal -0.284075 0.708424 -0.646094
-    outer loop
-    vertex 4.64194 9.3 12.6849
-    vertex 4.59148 9.13468 12.5259
-    vertex 4.50475 9.179 12.6126
-    endloop
-  endfacet
-  facet normal -0.205177 0.697394 -0.68669
-    outer loop
-    vertex 4.48278 9.3 12.7501
-    vertex 4.41393 9.23376 12.7034
-    vertex 4.31799 9.3 12.7993
-    endloop
-  endfacet
-  facet normal -0.234343 0.711001 -0.662994
-    outer loop
-    vertex 4.48278 9.3 12.7501
-    vertex 4.50475 9.179 12.6126
-    vertex 4.41393 9.23376 12.7034
-    endloop
-  endfacet
-  facet normal -0.707103 -8.21264e-008 -0.70711
-    outer loop
-    vertex 4.26734 5 12.85
-    vertex 4.31799 9.3 12.7993
-    vertex 4.41393 9.23376 12.7034
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.79394 9.3 12.6045
+    vertex 4.78923 9.3 12.6072
     vertex 7.91061 9.3 14.4858
     vertex 8.07744 9.3 14.2475
     endloop
@@ -24305,37 +24270,37 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.79394 9.3 12.6045
+    vertex 4.78923 9.3 12.6072
     vertex 8.07744 9.3 14.2475
     vertex 8.23013 9.3 14
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.79394 9.3 12.6045
+    vertex 4.78923 9.3 12.6072
     vertex 8.23013 9.3 14
-    vertex 4.9373 9.3 12.5094
+    vertex 4.93306 9.3 12.5125
     endloop
   endfacet
-  facet normal -0.391305 0.705903 -0.590408
+  facet normal -0.389287 0.706272 -0.5913
     outer loop
-    vertex 4.9373 9.3 12.5094
+    vertex 4.93306 9.3 12.5125
     vertex 4.81107 9.1 12.354
-    vertex 4.79394 9.3 12.6045
+    vertex 4.78923 9.3 12.6072
     endloop
   endfacet
-  facet normal -0.384409 0.708408 -0.591936
+  facet normal -0.384626 0.70801 -0.592271
     outer loop
-    vertex 4.79394 9.3 12.6045
+    vertex 4.78923 9.3 12.6072
     vertex 4.81107 9.1 12.354
     vertex 4.675 9.1 12.4423
     endloop
   endfacet
-  facet normal -0.332966 0.705301 -0.625847
+  facet normal -0.335179 0.705909 -0.623978
     outer loop
-    vertex 4.79394 9.3 12.6045
+    vertex 4.78923 9.3 12.6072
     vertex 4.675 9.1 12.4423
-    vertex 4.59148 9.13468 12.5259
+    vertex 4.59231 9.10294 12.4901
     endloop
   endfacet
   facet normal 0.851115 -0 0.524979
@@ -24354,7 +24319,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.9373 9.3 12.5094
+    vertex 4.93306 9.3 12.5125
     vertex 8.23013 9.3 14
     vertex 8.36816 9.3 13.744
     endloop
@@ -24375,28 +24340,21 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.9373 9.3 12.5094
+    vertex 4.93306 9.3 12.5125
     vertex 8.36816 9.3 13.744
-    vertex 5.07064 9.3 12.4008
+    vertex 5.06688 9.3 12.4042
     endloop
   endfacet
-  facet normal -0.446855 0.706715 -0.54852
+  facet normal -0.444987 0.707118 -0.549518
     outer loop
-    vertex 5.07064 9.3 12.4008
-    vertex 4.93715 9.1 12.2519
-    vertex 4.9373 9.3 12.5094
-    endloop
-  endfacet
-  facet normal -0.444708 0.707559 -0.549177
-    outer loop
-    vertex 4.9373 9.3 12.5094
-    vertex 4.93715 9.1 12.2519
+    vertex 5.06688 9.3 12.4042
     vertex 4.81107 9.1 12.354
+    vertex 4.93306 9.3 12.5125
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.07064 9.3 12.4008
+    vertex 5.06688 9.3 12.4042
     vertex 8.36816 9.3 13.744
     vertex 8.49108 9.3 13.4804
     endloop
@@ -24417,21 +24375,28 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.07064 9.3 12.4008
+    vertex 5.06688 9.3 12.4042
     vertex 8.49108 9.3 13.4804
-    vertex 5.19267 9.3 12.2796
+    vertex 5.1894 9.3 12.2832
     endloop
   endfacet
-  facet normal -0.498591 0.706645 -0.502056
+  facet normal -0.497437 0.706267 -0.503729
     outer loop
-    vertex 5.19267 9.3 12.2796
+    vertex 5.1894 9.3 12.2832
     vertex 4.93715 9.1 12.2519
-    vertex 5.07064 9.3 12.4008
+    vertex 5.06688 9.3 12.4042
+    endloop
+  endfacet
+  facet normal -0.444986 0.707118 -0.54952
+    outer loop
+    vertex 5.06688 9.3 12.4042
+    vertex 4.93715 9.1 12.2519
+    vertex 4.81107 9.1 12.354
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.19267 9.3 12.2796
+    vertex 5.1894 9.3 12.2832
     vertex 8.49108 9.3 13.4804
     vertex 8.59846 9.3 13.2101
     endloop
@@ -24452,476 +24417,623 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.19267 9.3 12.2796
+    vertex 5.1894 9.3 12.2832
     vertex 8.59846 9.3 13.2101
-    vertex 5.30222 9.3 12.147
+    vertex 5.29944 9.3 12.1507
     endloop
   endfacet
-  facet normal -0.546086 0.705841 -0.451196
+  facet normal -0.5451 0.705523 -0.452882
     outer loop
-    vertex 5.30222 9.3 12.147
+    vertex 5.29944 9.3 12.1507
     vertex 5.05187 9.1 12.1372
-    vertex 5.19267 9.3 12.2796
+    vertex 5.1894 9.3 12.2832
     endloop
   endfacet
-  facet normal -0.499628 0.707633 -0.499628
+  facet normal -0.499361 0.708009 -0.499361
     outer loop
-    vertex 5.19267 9.3 12.2796
+    vertex 5.1894 9.3 12.2832
     vertex 5.05187 9.1 12.1372
     vertex 4.93715 9.1 12.2519
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.30222 9.3 12.147
+    vertex 5.29944 9.3 12.1507
     vertex 8.59846 9.3 13.2101
-    vertex 5.39823 9.3 12.0043
+    vertex 5.39593 9.3 12.0081
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.39823 9.3 12.0043
+    vertex 5.39593 9.3 12.0081
     vertex 8.59846 9.3 13.2101
-    vertex 5.47976 9.3 11.8529
+    vertex 5.47794 9.3 11.8567
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.47976 9.3 11.8529
+    vertex 5.47794 9.3 11.8567
     vertex 8.59846 9.3 13.2101
-    vertex 5.54604 9.3 11.6942
+    vertex 5.54467 9.3 11.698
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.54604 9.3 11.6942
+    vertex 5.54467 9.3 11.698
     vertex 8.59846 9.3 13.2101
-    vertex 5.59641 9.3 11.5297
+    vertex 5.59547 9.3 11.5334
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.59641 9.3 11.5297
+    vertex 5.59547 9.3 11.5334
     vertex 8.59846 9.3 13.2101
-    vertex 5.6304 9.3 11.3611
+    vertex 5.62986 9.3 11.3647
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.6304 9.3 11.3611
+    vertex 5.62986 9.3 11.3647
     vertex 8.59846 9.3 13.2101
-    vertex 5.64768 9.3 11.19
+    vertex 5.6475 9.3 11.1934
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.64768 9.3 11.19
+    vertex 5.6475 9.3 11.1934
     vertex 8.59846 9.3 13.2101
-    vertex 5.64808 9.3 11.018
+    vertex 5.64823 9.3 11.0212
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.64808 9.3 11.018
+    vertex 5.64823 9.3 11.0212
     vertex 8.59846 9.3 13.2101
-    vertex 5.63159 9.3 10.8468
+    vertex 5.63202 9.3 10.8498
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.63159 9.3 10.8468
+    vertex 5.63202 9.3 10.8498
     vertex 8.59846 9.3 13.2101
-    vertex 5.59838 9.3 10.6781
+    vertex 5.59905 9.3 10.6808
     endloop
   endfacet
-  facet normal -0.588309 0.705146 -0.395805
+  facet normal -0.587495 0.704888 -0.397469
     outer loop
-    vertex 5.39823 9.3 12.0043
+    vertex 5.39593 9.3 12.0081
     vertex 5.15398 9.1 12.0111
-    vertex 5.30222 9.3 12.147
+    vertex 5.29944 9.3 12.1507
     endloop
   endfacet
-  facet normal -0.548464 0.708469 -0.444139
+  facet normal -0.548221 0.708779 -0.443943
     outer loop
-    vertex 5.30222 9.3 12.147
+    vertex 5.29944 9.3 12.1507
     vertex 5.15398 9.1 12.0111
     vertex 5.05187 9.1 12.1372
     endloop
   endfacet
-  facet normal -0.624829 0.704568 -0.336412
+  facet normal -0.624174 0.704362 -0.338053
     outer loop
-    vertex 5.47976 9.3 11.8529
+    vertex 5.47794 9.3 11.8567
     vertex 5.24234 9.1 11.875
-    vertex 5.39823 9.3 12.0043
+    vertex 5.39593 9.3 12.0081
     endloop
   endfacet
-  facet normal -0.591288 0.709183 -0.383978
+  facet normal -0.591081 0.709427 -0.383844
     outer loop
-    vertex 5.39823 9.3 12.0043
+    vertex 5.39593 9.3 12.0081
     vertex 5.24234 9.1 11.875
     vertex 5.15398 9.1 12.0111
     endloop
   endfacet
-  facet normal -0.655265 0.704097 -0.273633
+  facet normal -0.654756 0.703942 -0.275245
     outer loop
-    vertex 5.54604 9.3 11.6942
+    vertex 5.54467 9.3 11.698
     vertex 5.31599 9.1 11.7304
-    vertex 5.47976 9.3 11.8529
+    vertex 5.47794 9.3 11.8567
     endloop
   endfacet
-  facet normal -0.62766 0.709764 -0.319809
+  facet normal -0.627494 0.709949 -0.319725
     outer loop
-    vertex 5.47976 9.3 11.8529
+    vertex 5.47794 9.3 11.8567
     vertex 5.31599 9.1 11.7304
     vertex 5.24234 9.1 11.875
     endloop
   endfacet
-  facet normal -0.679299 0.703738 -0.208101
+  facet normal -0.678935 0.703631 -0.209642
     outer loop
-    vertex 5.59641 9.3 11.5297
+    vertex 5.59547 9.3 11.5334
     vertex 5.37414 9.1 11.579
-    vertex 5.54604 9.3 11.6942
+    vertex 5.54467 9.3 11.698
     endloop
   endfacet
-  facet normal -0.657223 0.710218 -0.252288
+  facet normal -0.657095 0.710353 -0.252239
     outer loop
-    vertex 5.54604 9.3 11.6942
+    vertex 5.54467 9.3 11.698
     vertex 5.37414 9.1 11.579
     vertex 5.31599 9.1 11.7304
     endloop
   endfacet
-  facet normal -0.69668 0.703497 -0.140457
+  facet normal -0.696445 0.70343 -0.14195
     outer loop
-    vertex 5.6304 9.3 11.3611
+    vertex 5.62986 9.3 11.3647
     vertex 5.41613 9.1 11.4223
-    vertex 5.59641 9.3 11.5297
+    vertex 5.59547 9.3 11.5334
     endloop
   endfacet
-  facet normal -0.679672 0.71055 -0.182112
+  facet normal -0.679592 0.710631 -0.182091
     outer loop
-    vertex 5.59641 9.3 11.5297
+    vertex 5.59547 9.3 11.5334
     vertex 5.41613 9.1 11.4223
     vertex 5.37414 9.1 11.579
     endloop
   endfacet
-  facet normal -0.707235 0.703364 -0.0714061
+  facet normal -0.707116 0.703337 -0.0728336
     outer loop
-    vertex 5.64768 9.3 11.19
+    vertex 5.6475 9.3 11.1934
     vertex 5.44151 9.1 11.262
-    vertex 5.6304 9.3 11.3611
+    vertex 5.62986 9.3 11.3647
     endloop
   endfacet
-  facet normal -0.69478 0.710753 -0.11005
+  facet normal -0.694742 0.710791 -0.110044
     outer loop
-    vertex 5.6304 9.3 11.3611
+    vertex 5.62986 9.3 11.3647
     vertex 5.44151 9.1 11.262
     vertex 5.41613 9.1 11.4223
     endloop
   endfacet
-  facet normal -0.710841 0.703351 -0.00163972
+  facet normal -0.710828 0.703359 -0.00297822
     outer loop
-    vertex 5.64808 9.3 11.018
+    vertex 5.64823 9.3 11.0212
     vertex 5.45 9.1 11.1
-    vertex 5.64768 9.3 11.19
+    vertex 5.6475 9.3 11.1934
     endloop
   endfacet
-  facet normal -0.702397 0.710833 -0.036803
+  facet normal -0.702397 0.710834 -0.036803
     outer loop
-    vertex 5.64768 9.3 11.19
+    vertex 5.6475 9.3 11.1934
     vertex 5.45 9.1 11.1
     vertex 5.44151 9.1 11.262
     endloop
   endfacet
-  facet normal -0.707476 0.703445 0.0681378
+  facet normal -0.707558 0.703482 0.066887
     outer loop
-    vertex 5.63159 9.3 10.8468
+    vertex 5.63202 9.3 10.8498
     vertex 5.44151 9.1 10.938
-    vertex 5.64808 9.3 11.018
+    vertex 5.64823 9.3 11.0212
     endloop
   endfacet
-  facet normal -0.702442 0.710788 0.0368052
+  facet normal -0.702478 0.710753 0.036807
     outer loop
-    vertex 5.64808 9.3 11.018
+    vertex 5.64823 9.3 11.0212
     vertex 5.44151 9.1 10.938
     vertex 5.45 9.1 11.1
     endloop
   endfacet
-  facet normal -0.697162 0.703661 0.137207
+  facet normal -0.697327 0.703725 0.136041
     outer loop
-    vertex 5.59838 9.3 10.6781
+    vertex 5.59905 9.3 10.6808
     vertex 5.41613 9.1 10.7777
-    vertex 5.63159 9.3 10.8468
+    vertex 5.63202 9.3 10.8498
     endloop
   endfacet
-  facet normal -0.694916 0.710617 0.110071
+  facet normal -0.694984 0.710549 0.110082
     outer loop
-    vertex 5.63159 9.3 10.8468
+    vertex 5.63202 9.3 10.8498
     vertex 5.41613 9.1 10.7777
     vertex 5.44151 9.1 10.938
     endloop
   endfacet
-  facet normal -0.680018 0.703985 0.204893
+  facet normal -0.68025 0.704069 0.203831
     outer loop
-    vertex 5.54876 9.3 10.5134
+    vertex 5.54962 9.3 10.5158
     vertex 5.37414 9.1 10.621
-    vertex 5.59838 9.3 10.6781
+    vertex 5.59905 9.3 10.6808
     endloop
   endfacet
-  facet normal -0.679891 0.710325 0.182172
+  facet normal -0.679981 0.710233 0.182196
     outer loop
-    vertex 5.59838 9.3 10.6781
+    vertex 5.59905 9.3 10.6808
     vertex 5.37414 9.1 10.621
     vertex 5.41613 9.1 10.7777
     endloop
   endfacet
-  facet normal -0.656219 0.704424 0.270489
+  facet normal -0.656508 0.704527 0.269515
     outer loop
-    vertex 5.48322 9.3 10.3544
+    vertex 5.48423 9.3 10.3565
     vertex 5.31599 9.1 10.4696
-    vertex 5.54876 9.3 10.5134
+    vertex 5.54962 9.3 10.5158
     endloop
   endfacet
-  facet normal -0.657519 0.709903 0.252402
+  facet normal -0.657628 0.709787 0.252444
     outer loop
-    vertex 5.54876 9.3 10.5134
+    vertex 5.54962 9.3 10.5158
     vertex 5.31599 9.1 10.4696
     vertex 5.37414 9.1 10.621
     endloop
   endfacet
-  facet normal -0.626017 0.704976 0.333335
+  facet normal -0.626345 0.705092 0.332471
     outer loop
-    vertex 5.40238 9.3 10.2026
+    vertex 5.40349 9.3 10.2045
     vertex 5.24234 9.1 10.325
-    vertex 5.48322 9.3 10.3544
+    vertex 5.48423 9.3 10.3565
     endloop
   endfacet
-  facet normal -0.628026 0.709356 0.319996
+  facet normal -0.628143 0.709225 0.320055
     outer loop
-    vertex 5.48322 9.3 10.3544
+    vertex 5.48423 9.3 10.3565
     vertex 5.24234 9.1 10.325
     vertex 5.31599 9.1 10.4696
     endloop
   endfacet
-  facet normal -0.589726 0.705636 0.392811
+  facet normal -0.590085 0.705761 0.392048
     outer loop
-    vertex 5.30704 9.3 10.0595
+    vertex 5.3082 9.3 10.061
     vertex 5.15398 9.1 10.1889
-    vertex 5.40238 9.3 10.2026
+    vertex 5.40349 9.3 10.2045
     endloop
   endfacet
-  facet normal -0.591708 0.708684 0.384251
+  facet normal -0.591831 0.708538 0.38433
     outer loop
-    vertex 5.40238 9.3 10.2026
+    vertex 5.40349 9.3 10.2045
     vertex 5.15398 9.1 10.1889
     vertex 5.24234 9.1 10.325
     endloop
   endfacet
-  facet normal -0.54772 0.706409 0.448317
+  facet normal -0.548095 0.706539 0.447655
     outer loop
-    vertex 5.1981 9.3 9.92636
+    vertex 5.19928 9.3 9.92766
     vertex 5.05187 9.1 10.0628
-    vertex 5.30704 9.3 10.0595
+    vertex 5.3082 9.3 10.061
     endloop
   endfacet
-  facet normal -0.548923 0.70788 0.444511
+  facet normal -0.549043 0.707726 0.444608
     outer loop
-    vertex 5.30704 9.3 10.0595
+    vertex 5.3082 9.3 10.061
     vertex 5.05187 9.1 10.0628
     vertex 5.15398 9.1 10.1889
     endloop
   endfacet
-  facet normal -0.500679 0.706962 0.499526
+  facet normal -0.501248 0.706821 0.499154
     outer loop
-    vertex 5.07663 9.3 9.80461
+    vertex 5.07777 9.3 9.80565
     vertex 5.05187 9.1 10.0628
-    vertex 5.1981 9.3 9.92636
+    vertex 5.19928 9.3 9.92766
     endloop
   endfacet
-  facet normal -0.449766 0.706118 0.546908
+  facet normal -0.450286 0.706007 0.546623
     outer loop
-    vertex 4.94379 9.3 9.69536
+    vertex 4.94487 9.3 9.69617
     vertex 4.93715 9.1 9.94813
-    vertex 5.07663 9.3 9.80461
+    vertex 5.07777 9.3 9.80565
     endloop
   endfacet
-  facet normal -0.499865 0.707298 0.499865
+  facet normal -0.499774 0.707427 0.499774
     outer loop
-    vertex 5.07663 9.3 9.80461
+    vertex 5.07777 9.3 9.80565
     vertex 4.93715 9.1 9.94813
     vertex 5.05187 9.1 10.0628
     endloop
   endfacet
-  facet normal -0.394307 0.705385 0.589028
+  facet normal -0.394777 0.7053 0.588814
     outer loop
-    vertex 4.80087 9.3 9.59969
+    vertex 4.80184 9.3 9.60027
     vertex 4.81107 9.1 9.84602
-    vertex 4.94379 9.3 9.69536
+    vertex 4.94487 9.3 9.69617
     endloop
   endfacet
-  facet normal -0.444319 0.708184 0.548686
+  facet normal -0.444259 0.708279 0.548611
     outer loop
-    vertex 4.94379 9.3 9.69536
+    vertex 4.94487 9.3 9.69617
     vertex 4.81107 9.1 9.84602
     vertex 4.93715 9.1 9.94813
     endloop
   endfacet
-  facet normal -0.334882 0.704763 0.62543
+  facet normal -0.335276 0.704704 0.625286
     outer loop
-    vertex 4.64925 9.3 9.51851
+    vertex 4.65008 9.3 9.5189
     vertex 4.675 9.1 9.75766
-    vertex 4.80087 9.3 9.59969
+    vertex 4.80184 9.3 9.60027
     endloop
   endfacet
-  facet normal -0.384112 0.70894 0.591492
+  facet normal -0.384073 0.709011 0.591432
     outer loop
-    vertex 4.80087 9.3 9.59969
+    vertex 4.80184 9.3 9.60027
     vertex 4.675 9.1 9.75766
     vertex 4.81107 9.1 9.84602
     endloop
   endfacet
-  facet normal -0.272065 0.704253 0.65575
+  facet normal -0.272388 0.704211 0.655661
     outer loop
-    vertex 4.49039 9.3 9.4526
+    vertex 4.49107 9.3 9.45284
     vertex 4.53044 9.1 9.684
-    vertex 4.64925 9.3 9.51851
+    vertex 4.65008 9.3 9.5189
     endloop
   endfacet
-  facet normal -0.319899 0.709569 0.627835
+  facet normal -0.319877 0.709615 0.627794
     outer loop
-    vertex 4.64925 9.3 9.51851
+    vertex 4.65008 9.3 9.5189
     vertex 4.53044 9.1 9.684
     vertex 4.675 9.1 9.75766
     endloop
   endfacet
-  facet normal -0.206496 0.703856 0.679667
+  facet normal -0.206746 0.703827 0.67962
     outer loop
-    vertex 4.32583 9.3 9.4026
+    vertex 4.32633 9.3 9.40272
     vertex 4.37898 9.1 9.62586
-    vertex 4.49039 9.3 9.4526
+    vertex 4.49107 9.3 9.45284
     endloop
   endfacet
-  facet normal -0.252338 0.71007 0.657363
+  facet normal -0.252328 0.710097 0.657338
     outer loop
-    vertex 4.49039 9.3 9.4526
+    vertex 4.49107 9.3 9.45284
     vertex 4.37898 9.1 9.62586
     vertex 4.53044 9.1 9.684
     endloop
   endfacet
-  facet normal -0.182144 0.710446 0.679772
+  facet normal -0.18214 0.71046 0.679759
     outer loop
-    vertex 4.32583 9.3 9.4026
+    vertex 4.32633 9.3 9.40272
     vertex 4.22226 9.1 9.58387
     vertex 4.37898 9.1 9.62586
     endloop
   endfacet
-  facet normal 0.65622 0.704422 0.270488
+  facet normal 0.330377 0.703941 -0.628743
     outer loop
-    vertex 2.25124 9.3 10.5134
-    vertex 2.484 9.1 10.4696
-    vertex 2.31678 9.3 10.3544
+    vertex 3.1632 9.3 12.6873
+    vertex 3.20769 9.10294 12.4901
+    vertex 3.01077 9.3 12.6072
     endloop
   endfacet
-  facet normal 0.657521 0.709904 0.252394
+  facet normal 0.294837 0.708431 -0.641246
     outer loop
-    vertex 2.25124 9.3 10.5134
+    vertex 3.1632 9.3 12.6873
+    vertex 3.29086 9.11179 12.5381
+    vertex 3.20769 9.10294 12.4901
+    endloop
+  endfacet
+  facet normal 0.389287 0.706272 -0.5913
+    outer loop
+    vertex 2.98893 9.1 12.354
+    vertex 2.86694 9.3 12.5125
+    vertex 3.01077 9.3 12.6072
+    endloop
+  endfacet
+  facet normal 0.33518 0.705908 -0.623979
+    outer loop
+    vertex 3.01077 9.3 12.6072
+    vertex 3.20769 9.10294 12.4901
+    vertex 3.125 9.1 12.4423
+    endloop
+  endfacet
+  facet normal 0.384629 0.708009 -0.59227
+    outer loop
+    vertex 3.01077 9.3 12.6072
+    vertex 3.125 9.1 12.4423
+    vertex 2.98893 9.1 12.354
+    endloop
+  endfacet
+  facet normal 0.444987 0.707119 -0.549518
+    outer loop
+    vertex 2.98893 9.1 12.354
+    vertex 2.73312 9.3 12.4042
+    vertex 2.86694 9.3 12.5125
+    endloop
+  endfacet
+  facet normal 0.497432 0.706268 -0.503734
+    outer loop
+    vertex 2.73312 9.3 12.4042
+    vertex 2.86285 9.1 12.2519
+    vertex 2.6106 9.3 12.2832
+    endloop
+  endfacet
+  facet normal 0.444986 0.707118 -0.54952
+    outer loop
+    vertex 2.86285 9.1 12.2519
+    vertex 2.73312 9.3 12.4042
+    vertex 2.98893 9.1 12.354
+    endloop
+  endfacet
+  facet normal 0.545102 0.705525 -0.452878
+    outer loop
+    vertex 2.6106 9.3 12.2832
+    vertex 2.74812 9.1 12.1372
+    vertex 2.50056 9.3 12.1507
+    endloop
+  endfacet
+  facet normal 0.499357 0.708012 -0.499362
+    outer loop
+    vertex 2.6106 9.3 12.2832
+    vertex 2.86285 9.1 12.2519
+    vertex 2.74812 9.1 12.1372
+    endloop
+  endfacet
+  facet normal 0.587492 0.70489 -0.397471
+    outer loop
+    vertex 2.50056 9.3 12.1507
+    vertex 2.64602 9.1 12.0111
+    vertex 2.40407 9.3 12.0081
+    endloop
+  endfacet
+  facet normal 0.548222 0.70878 -0.44394
+    outer loop
+    vertex 2.50056 9.3 12.1507
+    vertex 2.74812 9.1 12.1372
+    vertex 2.64602 9.1 12.0111
+    endloop
+  endfacet
+  facet normal 0.624173 0.704364 -0.338053
+    outer loop
+    vertex 2.40407 9.3 12.0081
+    vertex 2.55766 9.1 11.875
+    vertex 2.32206 9.3 11.8567
+    endloop
+  endfacet
+  facet normal 0.591078 0.709429 -0.383846
+    outer loop
+    vertex 2.40407 9.3 12.0081
+    vertex 2.64602 9.1 12.0111
+    vertex 2.55766 9.1 11.875
+    endloop
+  endfacet
+  facet normal 0.65476 0.703941 -0.275239
+    outer loop
+    vertex 2.32206 9.3 11.8567
+    vertex 2.484 9.1 11.7304
+    vertex 2.25533 9.3 11.698
+    endloop
+  endfacet
+  facet normal 0.627492 0.709949 -0.319728
+    outer loop
+    vertex 2.32206 9.3 11.8567
+    vertex 2.55766 9.1 11.875
+    vertex 2.484 9.1 11.7304
+    endloop
+  endfacet
+  facet normal 0.678932 0.703633 -0.20965
+    outer loop
+    vertex 2.25533 9.3 11.698
+    vertex 2.42586 9.1 11.579
+    vertex 2.20453 9.3 11.5334
+    endloop
+  endfacet
+  facet normal 0.657099 0.710352 -0.252232
+    outer loop
+    vertex 2.25533 9.3 11.698
+    vertex 2.484 9.1 11.7304
+    vertex 2.42586 9.1 11.579
+    endloop
+  endfacet
+  facet normal 0.696444 0.703432 -0.14195
+    outer loop
+    vertex 2.20453 9.3 11.5334
+    vertex 2.38387 9.1 11.4223
+    vertex 2.17014 9.3 11.3647
+    endloop
+  endfacet
+  facet normal 0.679589 0.710634 -0.182095
+    outer loop
+    vertex 2.20453 9.3 11.5334
+    vertex 2.42586 9.1 11.579
+    vertex 2.38387 9.1 11.4223
+    endloop
+  endfacet
+  facet normal 0.69474 0.710794 -0.110038
+    outer loop
+    vertex 2.17014 9.3 11.3647
+    vertex 2.38387 9.1 11.4223
+    vertex 2.35849 9.1 11.262
+    endloop
+  endfacet
+  facet normal 0.656507 0.704526 0.269521
+    outer loop
+    vertex 2.25037 9.3 10.5158
+    vertex 2.484 9.1 10.4696
+    vertex 2.31577 9.3 10.3565
+    endloop
+  endfacet
+  facet normal 0.657628 0.70979 0.252435
+    outer loop
+    vertex 2.25037 9.3 10.5158
     vertex 2.42586 9.1 10.621
     vertex 2.484 9.1 10.4696
     endloop
   endfacet
-  facet normal 0.628025 0.709355 0.319999
+  facet normal 0.628143 0.709224 0.320059
     outer loop
-    vertex 2.31678 9.3 10.3544
+    vertex 2.31577 9.3 10.3565
     vertex 2.484 9.1 10.4696
     vertex 2.55766 9.1 10.325
     endloop
   endfacet
-  facet normal 0.449764 0.70612 0.546907
+  facet normal 0.450284 0.706008 0.546622
     outer loop
-    vertex 2.72337 9.3 9.80461
+    vertex 2.72223 9.3 9.80565
     vertex 2.86285 9.1 9.94813
-    vertex 2.85621 9.3 9.69536
+    vertex 2.85513 9.3 9.69617
     endloop
   endfacet
-  facet normal 0.499861 0.7073 0.499865
+  facet normal 0.49977 0.707429 0.499774
     outer loop
-    vertex 2.72337 9.3 9.80461
+    vertex 2.72223 9.3 9.80565
     vertex 2.74812 9.1 10.0628
     vertex 2.86285 9.1 9.94813
     endloop
   endfacet
-  facet normal 0.394305 0.705386 0.589028
+  facet normal 0.394775 0.705301 0.588815
     outer loop
-    vertex 2.85621 9.3 9.69536
+    vertex 2.85513 9.3 9.69617
     vertex 2.98893 9.1 9.84602
-    vertex 2.99913 9.3 9.59969
+    vertex 2.99816 9.3 9.60027
     endloop
   endfacet
-  facet normal 0.444318 0.708185 0.548685
+  facet normal 0.444258 0.708281 0.54861
     outer loop
-    vertex 2.85621 9.3 9.69536
+    vertex 2.85513 9.3 9.69617
     vertex 2.86285 9.1 9.94813
     vertex 2.98893 9.1 9.84602
     endloop
   endfacet
-  facet normal 0.334882 0.704762 0.625431
+  facet normal 0.33528 0.704703 0.625285
     outer loop
-    vertex 2.99913 9.3 9.59969
+    vertex 2.99816 9.3 9.60027
     vertex 3.125 9.1 9.75766
-    vertex 3.15075 9.3 9.51851
+    vertex 3.14991 9.3 9.5189
     endloop
   endfacet
-  facet normal 0.384115 0.708939 0.591491
+  facet normal 0.384076 0.70901 0.591431
     outer loop
-    vertex 2.99913 9.3 9.59969
+    vertex 2.99816 9.3 9.60027
     vertex 2.98893 9.1 9.84602
     vertex 3.125 9.1 9.75766
     endloop
   endfacet
-  facet normal 0.272065 0.704252 0.655751
+  facet normal 0.272384 0.704211 0.655663
     outer loop
-    vertex 3.15075 9.3 9.51851
+    vertex 3.14991 9.3 9.5189
     vertex 3.26956 9.1 9.684
-    vertex 3.30961 9.3 9.4526
+    vertex 3.30893 9.3 9.45284
     endloop
   endfacet
-  facet normal 0.319899 0.709568 0.627836
+  facet normal 0.319877 0.709616 0.627793
     outer loop
-    vertex 3.15075 9.3 9.51851
+    vertex 3.14991 9.3 9.5189
     vertex 3.125 9.1 9.75766
     vertex 3.26956 9.1 9.684
     endloop
   endfacet
-  facet normal 0.206498 0.703855 0.679666
+  facet normal 0.206747 0.703827 0.67962
     outer loop
-    vertex 3.30961 9.3 9.4526
+    vertex 3.30893 9.3 9.45284
     vertex 3.42102 9.1 9.62586
-    vertex 3.47417 9.3 9.4026
+    vertex 3.47367 9.3 9.40272
     endloop
   endfacet
-  facet normal 0.252337 0.710069 0.657364
+  facet normal 0.252328 0.710097 0.657338
     outer loop
-    vertex 3.30961 9.3 9.4526
+    vertex 3.30893 9.3 9.45284
     vertex 3.26956 9.1 9.684
     vertex 3.42102 9.1 9.62586
     endloop
   endfacet
-  facet normal 0.138836 0.703571 0.69693
+  facet normal 0.139007 0.703554 0.696914
     outer loop
-    vertex 3.47417 9.3 9.4026
+    vertex 3.47367 9.3 9.40272
     vertex 3.57774 9.1 9.58387
-    vertex 3.64285 9.3 9.369
+    vertex 3.64254 9.3 9.36904
     endloop
   endfacet
-  facet normal 0.182144 0.710446 0.679772
+  facet normal 0.18214 0.71046 0.679759
     outer loop
-    vertex 3.47417 9.3 9.4026
+    vertex 3.47367 9.3 9.40272
     vertex 3.42102 9.1 9.62586
     vertex 3.57774 9.1 9.58387
     endloop
   endfacet
-  facet normal 0.110052 0.710695 0.694839
+  facet normal 0.110051 0.710701 0.694833
     outer loop
-    vertex 3.64285 9.3 9.369
+    vertex 3.64254 9.3 9.36904
     vertex 3.57774 9.1 9.58387
     vertex 3.73798 9.1 9.55849
     endloop
@@ -25803,14 +25915,14 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.49606 -11.25 12.95
+    vertex 3.80429 -11.25 12.95
     vertex 3.83093 -11.25 12.1978
     vertex 3.69388 -11.25 12.1805
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal 0 1 -0
     outer loop
-    vertex 3.49606 -11.25 12.95
+    vertex 3.80429 -11.25 12.95
     vertex 3.69388 -11.25 12.1805
     vertex 3.075 -11.25 12.5289
     endloop
@@ -25852,7 +25964,7 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.49606 -11.25 12.95
+    vertex 3.80429 -11.25 12.95
     vertex 3.96907 -11.25 12.1978
     vertex 3.83093 -11.25 12.1978
     endloop
@@ -25899,18 +26011,18 @@ solid extruder_idler_bearing.stl
     vertex 4.10612 -11.25 12.1805
     endloop
   endfacet
-  facet normal 0 1 -0
+  facet normal 0 1 0
     outer loop
-    vertex 4.30394 -11.25 12.95
+    vertex 3.99571 -11.25 12.95
     vertex 4.10612 -11.25 12.1805
     vertex 3.96907 -11.25 12.1978
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-    vertex 4.30394 -11.25 12.95
+    vertex 3.99571 -11.25 12.95
     vertex 3.96907 -11.25 12.1978
-    vertex 3.49606 -11.25 12.95
+    vertex 3.80429 -11.25 12.95
     endloop
   endfacet
   facet normal -0.248693 -0 -0.968582
@@ -25955,11 +26067,11 @@ solid extruder_idler_bearing.stl
     vertex 4.725 -11.25 12.5289
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal 0 1 -0
     outer loop
     vertex 4.725 -11.25 12.5289
     vertex 4.10612 -11.25 12.1805
-    vertex 4.30394 -11.25 12.95
+    vertex 3.99571 -11.25 12.95
     endloop
   endfacet
   facet normal -0.368126 -0 -0.929776
@@ -27768,10 +27880,10 @@ solid extruder_idler_bearing.stl
     vertex 4.95698 -9.2833 12.367
     endloop
   endfacet
-  facet normal -0.707108 0 -0.707106
+  facet normal -0.500001 0 -0.866025
     outer loop
     vertex 4.725 -11.25 12.5289
-    vertex 4.30394 -11.25 12.95
+    vertex 3.99571 -11.25 12.95
     vertex 4.725 -3.4499 12.5289
     endloop
   endfacet
@@ -27791,30 +27903,30 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 4.30394 -11.25 12.95
-    vertex 3.49606 -11.25 12.95
-    vertex 4.30394 -3.4499 12.95
+    vertex 3.80429 -11.25 12.95
+    vertex 3.80429 -3.4499 12.95
+    vertex 3.99571 -11.25 12.95
     endloop
   endfacet
-  facet normal -0.707108 0 -0.707106
+  facet normal -0.500001 0 -0.866025
     outer loop
     vertex 4.725 -3.4499 12.5289
-    vertex 4.30394 -11.25 12.95
-    vertex 4.30394 -3.4499 12.95
-    endloop
-  endfacet
-  facet normal 0.707108 0 -0.707105
-    outer loop
-    vertex 3.49606 -11.25 12.95
-    vertex 3.075 -11.25 12.5289
-    vertex 3.49606 -3.4499 12.95
+    vertex 3.99571 -11.25 12.95
+    vertex 3.99571 -3.4499 12.95
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 4.30394 -3.4499 12.95
-    vertex 3.49606 -11.25 12.95
-    vertex 3.49606 -3.4499 12.95
+    vertex 3.99571 -11.25 12.95
+    vertex 3.80429 -3.4499 12.95
+    vertex 3.99571 -3.4499 12.95
+    endloop
+  endfacet
+  facet normal 0.500001 0 -0.866025
+    outer loop
+    vertex 3.80429 -11.25 12.95
+    vertex 3.075 -11.25 12.5289
+    vertex 3.80429 -3.4499 12.95
     endloop
   endfacet
   facet normal 0.543776 0.000616197 -0.83923
@@ -27824,9 +27936,9 @@ solid extruder_idler_bearing.stl
     vertex 3.075 -11.25 12.5289
     endloop
   endfacet
-  facet normal 0.707108 0 -0.707105
+  facet normal 0.500001 0 -0.866025
     outer loop
-    vertex 3.49606 -3.4499 12.95
+    vertex 3.80429 -3.4499 12.95
     vertex 3.075 -11.25 12.5289
     vertex 3.075 -3.4499 12.5289
     endloop
@@ -27936,31 +28048,24 @@ solid extruder_idler_bearing.stl
     vertex 2.38808 -9.2833 11.7607
     endloop
   endfacet
-  facet normal -0.5 -0.707108 -0.499999
+  facet normal -0.353555 -0.707104 -0.612374
     outer loop
-    vertex 4.26734 -3.35331 12.85
+    vertex 3.96894 -3.35 12.8501
     vertex 4.725 -3.4499 12.5289
-    vertex 4.30394 -3.4499 12.95
+    vertex 3.99571 -3.4499 12.95
     endloop
   endfacet
-  facet normal -0.500001 -0.707105 -0.500001
+  facet normal -0.353555 -0.707105 -0.612373
     outer loop
-    vertex 4.66583 -3.35331 12.4515
+    vertex 4.67505 -3.35 12.4424
     vertex 4.725 -3.4499 12.5289
-    vertex 4.26734 -3.35331 12.85
+    vertex 3.96894 -3.35 12.8501
     endloop
   endfacet
-  facet normal -0.351012 -0.707097 -0.613843
-    outer loop
-    vertex 4.66583 -3.35331 12.4515
-    vertex 4.67473 -3.35 12.4426
-    vertex 4.725 -3.4499 12.5289
-    endloop
-  endfacet
-  facet normal -0.384727 -0.706707 -0.593759
+  facet normal -0.384764 -0.706639 -0.593816
     outer loop
     vertex 4.725 -3.4499 12.5289
-    vertex 4.67473 -3.35 12.4426
+    vertex 4.67505 -3.35 12.4424
     vertex 4.8671 -3.4499 12.4369
     endloop
   endfacet
@@ -27973,141 +28078,85 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 -0.707103 -0.70711
     outer loop
-    vertex 3.49606 -3.4499 12.95
-    vertex 4.26256 -3.35 12.8501
-    vertex 4.30394 -3.4499 12.95
-    endloop
-  endfacet
-  facet normal -0.500125 -0.707074 -0.499921
-    outer loop
-    vertex 4.26734 -3.35331 12.85
-    vertex 4.30394 -3.4499 12.95
-    vertex 4.26256 -3.35 12.8501
+    vertex 3.80429 -3.4499 12.95
+    vertex 3.96894 -3.35 12.8501
+    vertex 3.99571 -3.4499 12.95
     endloop
   endfacet
   facet normal -0 -0.707103 -0.70711
     outer loop
-    vertex 3.53744 -3.35 12.8501
-    vertex 4.26256 -3.35 12.8501
-    vertex 3.49606 -3.4499 12.95
+    vertex 3.83106 -3.35 12.8501
+    vertex 3.96894 -3.35 12.8501
+    vertex 3.80429 -3.4499 12.95
     endloop
   endfacet
-  facet normal 0.500146 -0.707069 -0.499907
+  facet normal 0.353556 -0.707102 -0.612376
     outer loop
-    vertex 3.53266 -3.35331 12.85
-    vertex 3.53744 -3.35 12.8501
-    vertex 3.49606 -3.4499 12.95
-    endloop
-  endfacet
-  facet normal 0.5 -0.707108 -0.499998
-    outer loop
-    vertex 3.53266 -3.35331 12.85
-    vertex 3.49606 -3.4499 12.95
+    vertex 3.80429 -3.4499 12.95
     vertex 3.075 -3.4499 12.5289
-    endloop
-  endfacet
-  facet normal -0.707107 0 -0.707107
-    outer loop
-    vertex 4.26734 0.600001 12.85
-    vertex 4.66583 -3.35331 12.4515
-    vertex 4.26734 -3.35331 12.85
-    endloop
-  endfacet
-  facet normal -0.707107 -1.70726e-007 -0.707107
-    outer loop
-    vertex 4.675 0.600001 12.4423
-    vertex 4.67473 -3.35 12.4426
-    vertex 4.66583 -3.35331 12.4515
-    endloop
-  endfacet
-  facet normal -0.707108 -1.66742e-007 -0.707106
-    outer loop
-    vertex 4.675 0.600001 12.4423
-    vertex 4.66583 -3.35331 12.4515
-    vertex 4.26734 0.600001 12.85
-    endloop
-  endfacet
-  facet normal -0.501203 -0.708737 -0.496475
-    outer loop
-    vertex 4.26256 -3.35 12.8501
-    vertex 4.26266 -3.35 12.85
-    vertex 4.26734 -3.35331 12.85
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-    vertex 4.26734 -3.35331 12.85
-    vertex 4.26266 -3.35 12.85
-    vertex 4.26734 0.600001 12.85
+    vertex 3.83106 -3.35 12.8501
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.26256 -3.35 12.8501
-    vertex 3.53744 -3.35 12.8501
-    vertex 4.26266 -3.35 12.85
+    vertex 3.96891 -3.35 12.85
+    vertex 4.67505 -3.35 12.4424
+    vertex 3.96894 -3.35 12.8501
+    endloop
+  endfacet
+  facet normal -0.385049 -0.707237 -0.592919
+    outer loop
+    vertex 4.8671 -3.4499 12.4369
+    vertex 4.67505 -3.35 12.4424
+    vertex 4.81112 -3.35 12.3541
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 4.67505 -3.35 12.4424
+    vertex 4.675 -3.35 12.4423
+    vertex 4.81112 -3.35 12.3541
+    endloop
+  endfacet
+  facet normal -0 -1 0
+    outer loop
+    vertex 4.675 -3.35 12.4423
+    vertex 4.67505 -3.35 12.4424
+    vertex 3.96891 -3.35 12.85
+    endloop
+  endfacet
+  facet normal -0 -1 0
+    outer loop
+    vertex 3.96891 -3.35 12.85
+    vertex 3.96894 -3.35 12.8501
+    vertex 3.83106 -3.35 12.8501
+    endloop
+  endfacet
+  facet normal 0.353556 -0.707102 -0.612376
+    outer loop
+    vertex 3.83106 -3.35 12.8501
+    vertex 3.075 -3.4499 12.5289
+    vertex 3.12495 -3.35 12.4424
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 4.26266 -3.35 12.85
-    vertex 3.53744 -3.35 12.8501
-    vertex 3.53734 -3.35 12.85
+    vertex 3.83109 -3.35 12.85
+    vertex 3.83106 -3.35 12.8501
+    vertex 3.12495 -3.35 12.4424
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal 0 -1 0
     outer loop
-    vertex 4.26734 0.600001 12.85
-    vertex 4.26266 -3.35 12.85
-    vertex 3.53734 -3.35 12.85
+    vertex 3.96891 -3.35 12.85
+    vertex 3.83106 -3.35 12.8501
+    vertex 3.83109 -3.35 12.85
     endloop
   endfacet
-  facet normal 0.501216 -0.708719 -0.496487
-    outer loop
-    vertex 3.53734 -3.35 12.85
-    vertex 3.53744 -3.35 12.8501
-    vertex 3.53266 -3.35331 12.85
-    endloop
-  endfacet
-  facet normal -0 0 -1
-    outer loop
-    vertex 3.53266 0.600001 12.85
-    vertex 3.53734 -3.35 12.85
-    vertex 3.53266 -3.35331 12.85
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-    vertex 4.26734 0.600001 12.85
-    vertex 3.53734 -3.35 12.85
-    vertex 3.53266 0.600001 12.85
-    endloop
-  endfacet
-  facet normal 0.500002 -0.707105 -0.500001
-    outer loop
-    vertex 3.075 -3.4499 12.5289
-    vertex 3.13417 -3.35331 12.4515
-    vertex 3.53266 -3.35331 12.85
-    endloop
-  endfacet
-  facet normal 0.707107 0 -0.707106
-    outer loop
-    vertex 3.13417 -3.35331 12.4515
-    vertex 3.53266 0.600001 12.85
-    vertex 3.53266 -3.35331 12.85
-    endloop
-  endfacet
-  facet normal 0.351012 -0.707097 -0.613843
-    outer loop
-    vertex 3.075 -3.4499 12.5289
-    vertex 3.12527 -3.35 12.4426
-    vertex 3.13417 -3.35331 12.4515
-    endloop
-  endfacet
-  facet normal 0.384725 -0.706708 -0.59376
+  facet normal 0.384764 -0.706636 -0.593821
     outer loop
     vertex 2.9329 -3.4499 12.4369
-    vertex 3.12527 -3.35 12.4426
+    vertex 3.12495 -3.35 12.4424
     vertex 3.075 -3.4499 12.5289
     endloop
   endfacet
@@ -28118,45 +28167,31 @@ solid extruder_idler_bearing.stl
     vertex 2.9329 -3.4499 12.4369
     endloop
   endfacet
-  facet normal 0.707107 4.26814e-008 -0.707107
+  facet normal 0.385051 -0.707237 -0.592918
     outer loop
-    vertex 3.12527 -3.35 12.4426
-    vertex 3.125 0.600001 12.4423
-    vertex 3.13417 -3.35331 12.4515
+    vertex 2.9329 -3.4499 12.4369
+    vertex 2.98887 -3.35 12.3541
+    vertex 3.12495 -3.35 12.4424
     endloop
   endfacet
-  facet normal 0.707107 4.45633e-008 -0.707106
+  facet normal 0 -1 -0
     outer loop
-    vertex 3.13417 -3.35331 12.4515
-    vertex 3.125 0.600001 12.4423
-    vertex 3.53266 0.600001 12.85
-    endloop
-  endfacet
-  facet normal -0.384946 -0.707168 -0.593068
-    outer loop
-    vertex 4.8671 -3.4499 12.4369
-    vertex 4.67473 -3.35 12.4426
-    vertex 4.81083 -3.35 12.3543
+    vertex 3.125 -3.35 12.4423
+    vertex 3.12495 -3.35 12.4424
+    vertex 2.98887 -3.35 12.3541
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.675 -3.35 12.4423
-    vertex 4.81083 -3.35 12.3543
-    vertex 4.67473 -3.35 12.4426
+    vertex 3.83109 -3.35 12.85
+    vertex 3.12495 -3.35 12.4424
+    vertex 3.125 -3.35 12.4423
     endloop
   endfacet
-  facet normal -0.708344 0 -0.705867
-    outer loop
-    vertex 4.675 -3.35 12.4423
-    vertex 4.67473 -3.35 12.4426
-    vertex 4.675 0.600001 12.4423
-    endloop
-  endfacet
-  facet normal -0.443912 -0.706134 -0.551649
+  facet normal -0.443951 -0.706072 -0.551698
     outer loop
     vertex 4.8671 -3.4499 12.4369
-    vertex 4.81083 -3.35 12.3543
+    vertex 4.81112 -3.35 12.3541
     vertex 4.99902 -3.4499 12.3307
     endloop
   endfacet
@@ -28174,31 +28209,31 @@ solid extruder_idler_bearing.stl
     vertex 4.8211 -6.3666 12.469
     endloop
   endfacet
-  facet normal -0.44446 -0.707764 -0.549113
+  facet normal -0.444542 -0.707821 -0.548972
     outer loop
     vertex 4.99902 -3.4499 12.3307
-    vertex 4.81083 -3.35 12.3543
-    vertex 4.93696 -3.35 12.2522
+    vertex 4.81112 -3.35 12.3541
+    vertex 4.93722 -3.35 12.2519
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 4.81112 -3.35 12.3541
     vertex 4.81107 -3.35 12.354
-    vertex 4.93696 -3.35 12.2522
-    vertex 4.81083 -3.35 12.3543
+    vertex 4.93722 -3.35 12.2519
     endloop
   endfacet
-  facet normal -0 -1 -0
+  facet normal 0 -1 0
     outer loop
-    vertex 4.81107 -3.35 12.354
-    vertex 4.81083 -3.35 12.3543
+    vertex 4.81112 -3.35 12.3541
     vertex 4.675 -3.35 12.4423
+    vertex 4.81107 -3.35 12.354
     endloop
   endfacet
-  facet normal -0.498496 -0.705583 -0.503641
+  facet normal -0.498541 -0.70552 -0.503686
     outer loop
     vertex 4.99902 -3.4499 12.3307
-    vertex 4.93696 -3.35 12.2522
+    vertex 4.93722 -3.35 12.2519
     vertex 5.11936 -3.4499 12.2116
     endloop
   endfacet
@@ -28216,31 +28251,31 @@ solid extruder_idler_bearing.stl
     vertex 4.95698 -6.3666 12.367
     endloop
   endfacet
-  facet normal -0.499023 -0.708333 -0.499239
+  facet normal -0.499095 -0.708387 -0.499091
     outer loop
     vertex 5.11936 -3.4499 12.2116
-    vertex 4.93696 -3.35 12.2522
-    vertex 5.05173 -3.35 12.1375
+    vertex 4.93722 -3.35 12.2519
+    vertex 5.05195 -3.35 12.1372
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 4.93722 -3.35 12.2519
     vertex 4.93715 -3.35 12.2519
-    vertex 5.05173 -3.35 12.1375
-    vertex 4.93696 -3.35 12.2522
+    vertex 5.05195 -3.35 12.1372
     endloop
   endfacet
-  facet normal -0 -1 -0
+  facet normal 0 -1 0
     outer loop
-    vertex 4.93715 -3.35 12.2519
-    vertex 4.93696 -3.35 12.2522
+    vertex 4.93722 -3.35 12.2519
     vertex 4.81107 -3.35 12.354
+    vertex 4.93715 -3.35 12.2519
     endloop
   endfacet
-  facet normal -0.547893 -0.705054 -0.450236
+  facet normal -0.547936 -0.704998 -0.450271
     outer loop
     vertex 5.11936 -3.4499 12.2116
-    vertex 5.05173 -3.35 12.1375
+    vertex 5.05195 -3.35 12.1372
     vertex 5.22687 -3.4499 12.0808
     endloop
   endfacet
@@ -28258,31 +28293,31 @@ solid extruder_idler_bearing.stl
     vertex 5.08165 -6.3666 12.2516
     endloop
   endfacet
-  facet normal -0.548053 -0.708873 -0.444001
+  facet normal -0.548107 -0.708927 -0.443849
     outer loop
     vertex 5.22687 -3.4499 12.0808
-    vertex 5.05173 -3.35 12.1375
-    vertex 5.15387 -3.35 12.0114
+    vertex 5.05195 -3.35 12.1372
+    vertex 5.15406 -3.35 12.0111
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 5.05195 -3.35 12.1372
     vertex 5.05187 -3.35 12.1372
-    vertex 5.15387 -3.35 12.0114
-    vertex 5.05173 -3.35 12.1375
+    vertex 5.15406 -3.35 12.0111
     endloop
   endfacet
-  facet normal -0 -1 -0
+  facet normal 0 -1 0
     outer loop
-    vertex 5.05187 -3.35 12.1372
-    vertex 5.05173 -3.35 12.1375
+    vertex 5.05195 -3.35 12.1372
     vertex 4.93715 -3.35 12.2519
+    vertex 5.05187 -3.35 12.1372
     endloop
   endfacet
-  facet normal -0.591574 -0.704544 -0.391992
+  facet normal -0.591612 -0.704498 -0.392017
     outer loop
     vertex 5.22687 -3.4499 12.0808
-    vertex 5.15387 -3.35 12.0114
+    vertex 5.15406 -3.35 12.0111
     vertex 5.3204 -3.4499 11.9396
     endloop
   endfacet
@@ -28300,31 +28335,31 @@ solid extruder_idler_bearing.stl
     vertex 5.1938 -6.3666 12.124
     endloop
   endfacet
-  facet normal -0.591032 -0.70939 -0.383988
+  facet normal -0.591066 -0.709442 -0.383839
     outer loop
     vertex 5.3204 -3.4499 11.9396
-    vertex 5.15387 -3.35 12.0114
-    vertex 5.24228 -3.35 11.8753
+    vertex 5.15406 -3.35 12.0111
+    vertex 5.24242 -3.35 11.875
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 5.15406 -3.35 12.0111
     vertex 5.15398 -3.35 12.0111
-    vertex 5.24228 -3.35 11.8753
-    vertex 5.15387 -3.35 12.0114
+    vertex 5.24242 -3.35 11.875
     endloop
   endfacet
-  facet normal -0 -1 -0
+  facet normal 0 -1 0
     outer loop
-    vertex 5.15398 -3.35 12.0111
-    vertex 5.15387 -3.35 12.0114
+    vertex 5.15406 -3.35 12.0111
     vertex 5.05187 -3.35 12.1372
+    vertex 5.15398 -3.35 12.0111
     endloop
   endfacet
-  facet normal -0.629059 -0.70406 -0.329522
+  facet normal -0.629092 -0.704022 -0.32954
     outer loop
     vertex 5.3204 -3.4499 11.9396
-    vertex 5.24228 -3.35 11.8753
+    vertex 5.24242 -3.35 11.875
     vertex 5.39897 -3.4499 11.7896
     endloop
   endfacet
@@ -28342,31 +28377,31 @@ solid extruder_idler_bearing.stl
     vertex 5.29223 -6.3666 11.9855
     endloop
   endfacet
-  facet normal -0.627494 -0.709882 -0.319872
+  facet normal -0.627512 -0.709929 -0.319733
     outer loop
     vertex 5.39897 -3.4499 11.7896
-    vertex 5.24228 -3.35 11.8753
-    vertex 5.31597 -3.35 11.7307
+    vertex 5.24242 -3.35 11.875
+    vertex 5.31609 -3.35 11.7305
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 5.24242 -3.35 11.875
     vertex 5.24234 -3.35 11.875
-    vertex 5.31597 -3.35 11.7307
-    vertex 5.24228 -3.35 11.8753
+    vertex 5.31609 -3.35 11.7305
     endloop
   endfacet
-  facet normal -0 -1 -0
+  facet normal 0 -1 0
     outer loop
-    vertex 5.24234 -3.35 11.875
-    vertex 5.24228 -3.35 11.8753
+    vertex 5.24242 -3.35 11.875
     vertex 5.15398 -3.35 12.0111
+    vertex 5.24234 -3.35 11.875
     endloop
   endfacet
-  facet normal -0.659944 -0.703599 -0.263482
+  facet normal -0.659976 -0.703564 -0.263495
     outer loop
     vertex 5.39897 -3.4499 11.7896
-    vertex 5.31597 -3.35 11.7307
+    vertex 5.31609 -3.35 11.7305
     vertex 5.46175 -3.4499 11.6324
     endloop
   endfacet
@@ -28384,31 +28419,31 @@ solid extruder_idler_bearing.stl
     vertex 5.3759 -6.3666 11.8377
     endloop
   endfacet
-  facet normal -0.657059 -0.710346 -0.252354
+  facet normal -0.657066 -0.710384 -0.252228
     outer loop
     vertex 5.46175 -3.4499 11.6324
-    vertex 5.31597 -3.35 11.7307
-    vertex 5.37415 -3.35 11.5793
+    vertex 5.31609 -3.35 11.7305
+    vertex 5.37423 -3.35 11.579
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 5.31609 -3.35 11.7305
     vertex 5.31599 -3.35 11.7304
-    vertex 5.37415 -3.35 11.5793
-    vertex 5.31597 -3.35 11.7307
+    vertex 5.37423 -3.35 11.579
     endloop
   endfacet
-  facet normal -0 -1 -0
+  facet normal 0 -1 0
     outer loop
-    vertex 5.31599 -3.35 11.7304
-    vertex 5.31597 -3.35 11.7307
+    vertex 5.31609 -3.35 11.7305
     vertex 5.24234 -3.35 11.875
+    vertex 5.31599 -3.35 11.7304
     endloop
   endfacet
-  facet normal -0.683889 -0.703158 -0.194587
+  facet normal -0.683923 -0.703123 -0.194596
     outer loop
     vertex 5.46175 -3.4499 11.6324
-    vertex 5.37415 -3.35 11.5793
+    vertex 5.37423 -3.35 11.579
     vertex 5.50809 -3.4499 11.4695
     endloop
   endfacet
@@ -28426,31 +28461,31 @@ solid extruder_idler_bearing.stl
     vertex 5.44393 -6.3666 11.682
     endloop
   endfacet
-  facet normal -0.679406 -0.710789 -0.182169
+  facet normal -0.679402 -0.710826 -0.18204
     outer loop
     vertex 5.50809 -3.4499 11.4695
-    vertex 5.37415 -3.35 11.5793
-    vertex 5.41617 -3.35 11.4225
+    vertex 5.37423 -3.35 11.579
+    vertex 5.41623 -3.35 11.4223
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 5.37423 -3.35 11.579
     vertex 5.37414 -3.35 11.579
-    vertex 5.41617 -3.35 11.4225
-    vertex 5.37415 -3.35 11.5793
+    vertex 5.41623 -3.35 11.4223
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 0
     outer loop
-    vertex 5.37414 -3.35 11.579
-    vertex 5.37415 -3.35 11.5793
+    vertex 5.37423 -3.35 11.579
     vertex 5.31599 -3.35 11.7304
+    vertex 5.37414 -3.35 11.579
     endloop
   endfacet
-  facet normal -0.700635 -0.702744 -0.123536
+  facet normal -0.700662 -0.702716 -0.123541
     outer loop
     vertex 5.50809 -3.4499 11.4695
-    vertex 5.41617 -3.35 11.4225
+    vertex 5.41623 -3.35 11.4223
     vertex 5.53749 -3.4499 11.3028
     endloop
   endfacet
@@ -28468,31 +28503,31 @@ solid extruder_idler_bearing.stl
     vertex 5.4956 -6.3666 11.5202
     endloop
   endfacet
-  facet normal -0.694317 -0.7112 -0.110083
+  facet normal -0.694304 -0.71123 -0.109973
     outer loop
     vertex 5.53749 -3.4499 11.3028
-    vertex 5.41617 -3.35 11.4225
-    vertex 5.44158 -3.35 11.2623
+    vertex 5.41623 -3.35 11.4223
+    vertex 5.44161 -3.35 11.262
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 5.41623 -3.35 11.4223
     vertex 5.41613 -3.35 11.4223
-    vertex 5.44158 -3.35 11.2623
-    vertex 5.41617 -3.35 11.4225
+    vertex 5.44161 -3.35 11.262
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 0
     outer loop
-    vertex 5.41613 -3.35 11.4223
-    vertex 5.41617 -3.35 11.4225
+    vertex 5.41623 -3.35 11.4223
     vertex 5.37414 -3.35 11.579
+    vertex 5.41613 -3.35 11.4223
     endloop
   endfacet
-  facet normal -0.709996 -0.702348 -0.0511172
+  facet normal -0.710024 -0.70232 -0.0511192
     outer loop
     vertex 5.53749 -3.4499 11.3028
-    vertex 5.44158 -3.35 11.2623
+    vertex 5.44161 -3.35 11.262
     vertex 5.54965 -3.4499 11.1339
     endloop
   endfacet
@@ -28510,31 +28545,31 @@ solid extruder_idler_bearing.stl
     vertex 5.53034 -6.3666 11.3539
     endloop
   endfacet
-  facet normal -0.701623 -0.711594 -0.0368747
+  facet normal -0.701602 -0.71162 -0.0367688
     outer loop
     vertex 5.54965 -3.4499 11.1339
-    vertex 5.44158 -3.35 11.2623
-    vertex 5.4501 -3.35 11.1002
+    vertex 5.44161 -3.35 11.262
+    vertex 5.4501 -3.35 11.1
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 5.44161 -3.35 11.262
     vertex 5.44151 -3.35 11.262
-    vertex 5.4501 -3.35 11.1002
-    vertex 5.44158 -3.35 11.2623
+    vertex 5.4501 -3.35 11.1
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 0
     outer loop
-    vertex 5.44151 -3.35 11.262
-    vertex 5.44158 -3.35 11.2623
+    vertex 5.44161 -3.35 11.262
     vertex 5.41613 -3.35 11.4223
+    vertex 5.44151 -3.35 11.262
     endloop
   endfacet
-  facet normal -0.711857 -0.701982 0.0219291
+  facet normal -0.711881 -0.701957 0.0219299
     outer loop
     vertex 5.54965 -3.4499 11.1339
-    vertex 5.4501 -3.35 11.1002
+    vertex 5.4501 -3.35 11.1
     vertex 5.54444 -3.4499 10.9646
     endloop
   endfacet
@@ -28552,31 +28587,38 @@ solid extruder_idler_bearing.stl
     vertex 5.54781 -6.3666 11.1849
     endloop
   endfacet
-  facet normal -0.701256 -0.711966 0.0366604
+  facet normal -0.701234 -0.711984 0.0367498
     outer loop
     vertex 5.54444 -3.4499 10.9646
-    vertex 5.4501 -3.35 11.1002
-    vertex 5.44163 -3.35 10.9382
+    vertex 5.4501 -3.35 11.1
+    vertex 5.44161 -3.35 10.938
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.45 -3.35 11.1
-    vertex 5.44163 -3.35 10.9382
-    vertex 5.4501 -3.35 11.1002
+    vertex 5.4501 -3.35 11.1
+    vertex 5.44151 -3.35 10.938
+    vertex 5.44161 -3.35 10.938
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 0
     outer loop
-    vertex 5.45 -3.35 11.1
-    vertex 5.4501 -3.35 11.1002
+    vertex 5.4501 -3.35 11.1
     vertex 5.44151 -3.35 11.262
+    vertex 5.45 -3.35 11.1
     endloop
   endfacet
-  facet normal -0.706191 -0.701644 0.0948162
+  facet normal 0 -1 -0
+    outer loop
+    vertex 5.4501 -3.35 11.1
+    vertex 5.45 -3.35 11.1
+    vertex 5.44151 -3.35 10.938
+    endloop
+  endfacet
+  facet normal -0.706218 -0.701617 0.0948199
     outer loop
     vertex 5.54444 -3.4499 10.9646
-    vertex 5.44163 -3.35 10.9382
+    vertex 5.44161 -3.35 10.938
     vertex 5.52191 -3.4499 10.7968
     endloop
   endfacet
@@ -28594,31 +28636,31 @@ solid extruder_idler_bearing.stl
     vertex 5.54781 -6.3666 11.0151
     endloop
   endfacet
-  facet normal -0.693246 -0.712303 0.1097
+  facet normal -0.693208 -0.712325 0.109799
     outer loop
     vertex 5.52191 -3.4499 10.7968
-    vertex 5.44163 -3.35 10.9382
-    vertex 5.41627 -3.35 10.7779
+    vertex 5.44161 -3.35 10.938
+    vertex 5.41623 -3.35 10.7777
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.44151 -3.35 10.938
-    vertex 5.41627 -3.35 10.7779
-    vertex 5.44163 -3.35 10.9382
+    vertex 5.44161 -3.35 10.938
+    vertex 5.41613 -3.35 10.7777
+    vertex 5.41623 -3.35 10.7777
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 5.44161 -3.35 10.938
     vertex 5.44151 -3.35 10.938
-    vertex 5.44163 -3.35 10.9382
-    vertex 5.45 -3.35 11.1
+    vertex 5.41613 -3.35 10.7777
     endloop
   endfacet
-  facet normal -0.693069 -0.701315 0.166769
+  facet normal -0.693083 -0.701301 0.166773
     outer loop
     vertex 5.52191 -3.4499 10.7968
-    vertex 5.41627 -3.35 10.7779
+    vertex 5.41623 -3.35 10.7777
     vertex 5.48229 -3.4499 10.6322
     endloop
   endfacet
@@ -28636,31 +28678,31 @@ solid extruder_idler_bearing.stl
     vertex 5.53034 -6.3666 10.8461
     endloop
   endfacet
-  facet normal -0.677672 -0.712616 0.181493
+  facet normal -0.677632 -0.712635 0.181567
     outer loop
     vertex 5.48229 -3.4499 10.6322
-    vertex 5.41627 -3.35 10.7779
-    vertex 5.37429 -3.35 10.6212
+    vertex 5.41623 -3.35 10.7777
+    vertex 5.37423 -3.35 10.621
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.41613 -3.35 10.7777
-    vertex 5.37429 -3.35 10.6212
-    vertex 5.41627 -3.35 10.7779
+    vertex 5.41623 -3.35 10.7777
+    vertex 5.37414 -3.35 10.621
+    vertex 5.37423 -3.35 10.621
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 5.41623 -3.35 10.7777
     vertex 5.41613 -3.35 10.7777
-    vertex 5.41627 -3.35 10.7779
-    vertex 5.44151 -3.35 10.938
+    vertex 5.37414 -3.35 10.621
     endloop
   endfacet
-  facet normal -0.672608 -0.701014 0.237019
+  facet normal -0.672621 -0.701 0.237024
     outer loop
     vertex 5.48229 -3.4499 10.6322
-    vertex 5.37429 -3.35 10.6212
+    vertex 5.37423 -3.35 10.621
     vertex 5.42602 -3.4499 10.4725
     endloop
   endfacet
@@ -28678,31 +28720,31 @@ solid extruder_idler_bearing.stl
     vertex 5.4956 -6.3666 10.6798
     endloop
   endfacet
-  facet normal -0.654706 -0.712908 0.25124
+  facet normal -0.654666 -0.712922 0.251306
     outer loop
     vertex 5.42602 -3.4499 10.4725
-    vertex 5.37429 -3.35 10.6212
-    vertex 5.31615 -3.35 10.4697
+    vertex 5.37423 -3.35 10.621
+    vertex 5.31609 -3.35 10.4695
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.37414 -3.35 10.621
-    vertex 5.31615 -3.35 10.4697
-    vertex 5.37429 -3.35 10.6212
+    vertex 5.37423 -3.35 10.621
+    vertex 5.31599 -3.35 10.4696
+    vertex 5.31609 -3.35 10.4695
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 5.37423 -3.35 10.621
     vertex 5.37414 -3.35 10.621
-    vertex 5.37429 -3.35 10.6212
-    vertex 5.41613 -3.35 10.7777
+    vertex 5.31599 -3.35 10.4696
     endloop
   endfacet
-  facet normal -0.645019 -0.700742 0.304812
+  facet normal -0.645031 -0.700729 0.304817
     outer loop
     vertex 5.42602 -3.4499 10.4725
-    vertex 5.31615 -3.35 10.4697
+    vertex 5.31609 -3.35 10.4695
     vertex 5.35367 -3.4499 10.3194
     endloop
   endfacet
@@ -28720,31 +28762,31 @@ solid extruder_idler_bearing.stl
     vertex 5.44393 -6.3666 10.518
     endloop
   endfacet
-  facet normal -0.624614 -0.713178 0.318174
+  facet normal -0.624568 -0.713192 0.318233
     outer loop
     vertex 5.35367 -3.4499 10.3194
-    vertex 5.31615 -3.35 10.4697
-    vertex 5.2425 -3.35 10.3251
+    vertex 5.31609 -3.35 10.4695
+    vertex 5.24242 -3.35 10.325
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.31599 -3.35 10.4696
-    vertex 5.2425 -3.35 10.3251
-    vertex 5.31615 -3.35 10.4697
+    vertex 5.31609 -3.35 10.4695
+    vertex 5.24234 -3.35 10.325
+    vertex 5.24242 -3.35 10.325
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 5.31609 -3.35 10.4695
     vertex 5.31599 -3.35 10.4696
-    vertex 5.31615 -3.35 10.4697
-    vertex 5.37414 -3.35 10.621
+    vertex 5.24234 -3.35 10.325
     endloop
   endfacet
-  facet normal -0.610591 -0.700491 0.369447
+  facet normal -0.610598 -0.700483 0.369451
     outer loop
     vertex 5.35367 -3.4499 10.3194
-    vertex 5.2425 -3.35 10.3251
+    vertex 5.24242 -3.35 10.325
     vertex 5.26601 -3.4499 10.1745
     endloop
   endfacet
@@ -28762,31 +28804,31 @@ solid extruder_idler_bearing.stl
     vertex 5.3759 -6.3666 10.3623
     endloop
   endfacet
-  facet normal -0.587728 -0.713416 0.381594
+  facet normal -0.58768 -0.713429 0.381642
     outer loop
     vertex 5.26601 -3.4499 10.1745
-    vertex 5.2425 -3.35 10.3251
-    vertex 5.15414 -3.35 10.189
+    vertex 5.24242 -3.35 10.325
+    vertex 5.15406 -3.35 10.1889
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.24234 -3.35 10.325
-    vertex 5.15414 -3.35 10.189
-    vertex 5.2425 -3.35 10.3251
+    vertex 5.24242 -3.35 10.325
+    vertex 5.15398 -3.35 10.1889
+    vertex 5.15406 -3.35 10.1889
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 5.24242 -3.35 10.325
     vertex 5.24234 -3.35 10.325
-    vertex 5.2425 -3.35 10.3251
-    vertex 5.31599 -3.35 10.4696
+    vertex 5.15398 -3.35 10.1889
     endloop
   endfacet
-  facet normal -0.569694 -0.700257 0.430219
+  facet normal -0.569697 -0.700254 0.430221
     outer loop
     vertex 5.26601 -3.4499 10.1745
-    vertex 5.15414 -3.35 10.189
+    vertex 5.15406 -3.35 10.1889
     vertex 5.16397 -3.4499 10.0394
     endloop
   endfacet
@@ -28804,31 +28846,31 @@ solid extruder_idler_bearing.stl
     vertex 5.29223 -6.3666 10.2145
     endloop
   endfacet
-  facet normal -0.54444 -0.713632 0.440812
+  facet normal -0.544399 -0.713641 0.440847
     outer loop
     vertex 5.16397 -3.4499 10.0394
-    vertex 5.15414 -3.35 10.189
-    vertex 5.05203 -3.35 10.0629
+    vertex 5.15406 -3.35 10.1889
+    vertex 5.05195 -3.35 10.0628
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.15398 -3.35 10.1889
-    vertex 5.05203 -3.35 10.0629
-    vertex 5.15414 -3.35 10.189
+    vertex 5.15406 -3.35 10.1889
+    vertex 5.05187 -3.35 10.0628
+    vertex 5.05195 -3.35 10.0628
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 5.15406 -3.35 10.1889
     vertex 5.15398 -3.35 10.1889
-    vertex 5.15414 -3.35 10.189
-    vertex 5.24234 -3.35 10.325
+    vertex 5.05187 -3.35 10.0628
     endloop
   endfacet
-  facet normal -0.522751 -0.700055 0.486472
+  facet normal -0.522755 -0.700049 0.486476
     outer loop
     vertex 5.16397 -3.4499 10.0394
-    vertex 5.05203 -3.35 10.0629
+    vertex 5.05195 -3.35 10.0628
     vertex 5.04862 -3.4499 9.91545
     endloop
   endfacet
@@ -28846,31 +28888,31 @@ solid extruder_idler_bearing.stl
     vertex 5.1938 -6.3666 10.076
     endloop
   endfacet
-  facet normal -0.495238 -0.713827 0.495168
+  facet normal -0.495202 -0.71383 0.495198
     outer loop
     vertex 5.04862 -3.4499 9.91545
-    vertex 5.05203 -3.35 10.0629
-    vertex 4.9373 -3.35 9.94812
+    vertex 5.05195 -3.35 10.0628
+    vertex 4.93722 -3.35 9.94805
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.05187 -3.35 10.0628
-    vertex 4.9373 -3.35 9.94812
-    vertex 5.05203 -3.35 10.0629
+    vertex 5.05195 -3.35 10.0628
+    vertex 4.93715 -3.35 9.94813
+    vertex 4.93722 -3.35 9.94805
     endloop
   endfacet
-  facet normal -0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 5.05195 -3.35 10.0628
     vertex 5.05187 -3.35 10.0628
-    vertex 5.05203 -3.35 10.0629
-    vertex 5.15398 -3.35 10.1889
+    vertex 4.93715 -3.35 9.94813
     endloop
   endfacet
-  facet normal -0.470258 -0.699875 0.537617
+  facet normal -0.470263 -0.699867 0.537623
     outer loop
     vertex 5.04862 -3.4499 9.91545
-    vertex 4.9373 -3.35 9.94812
+    vertex 4.93722 -3.35 9.94805
     vertex 4.92117 -3.4499 9.80396
     endloop
   endfacet
@@ -28888,31 +28930,31 @@ solid extruder_idler_bearing.stl
     vertex 5.08165 -6.3666 9.94839
     endloop
   endfacet
-  facet normal -0.44065 -0.713997 0.544091
+  facet normal -0.440612 -0.714 0.544119
     outer loop
     vertex 4.92117 -3.4499 9.80396
-    vertex 4.9373 -3.35 9.94812
-    vertex 4.8112 -3.35 9.846
+    vertex 4.93722 -3.35 9.94805
+    vertex 4.81112 -3.35 9.84594
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.93715 -3.35 9.94813
-    vertex 4.8112 -3.35 9.846
-    vertex 4.9373 -3.35 9.94812
+    vertex 4.93722 -3.35 9.94805
+    vertex 4.81107 -3.35 9.84602
+    vertex 4.81112 -3.35 9.84594
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 4.93722 -3.35 9.94805
     vertex 4.93715 -3.35 9.94813
-    vertex 4.9373 -3.35 9.94812
-    vertex 5.05187 -3.35 10.0628
+    vertex 4.81107 -3.35 9.84602
     endloop
   endfacet
-  facet normal -0.412771 -0.699721 0.583105
+  facet normal -0.412773 -0.699717 0.583108
     outer loop
     vertex 4.92117 -3.4499 9.80396
-    vertex 4.8112 -3.35 9.846
+    vertex 4.81112 -3.35 9.84594
     vertex 4.78297 -3.4499 9.70613
     endloop
   endfacet
@@ -28930,31 +28972,31 @@ solid extruder_idler_bearing.stl
     vertex 4.95698 -6.3666 9.833
     endloop
   endfacet
-  facet normal -0.381275 -0.714144 0.58705
+  facet normal -0.381249 -0.714144 0.587067
     outer loop
     vertex 4.78297 -3.4499 9.70613
-    vertex 4.8112 -3.35 9.846
-    vertex 4.67511 -3.35 9.75761
+    vertex 4.81112 -3.35 9.84594
+    vertex 4.67505 -3.35 9.75757
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.81107 -3.35 9.84602
-    vertex 4.67511 -3.35 9.75761
-    vertex 4.8112 -3.35 9.846
+    vertex 4.81112 -3.35 9.84594
+    vertex 4.675 -3.35 9.75766
+    vertex 4.67505 -3.35 9.75757
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 4.81112 -3.35 9.84594
     vertex 4.81107 -3.35 9.84602
-    vertex 4.8112 -3.35 9.846
-    vertex 4.93715 -3.35 9.94813
+    vertex 4.675 -3.35 9.75766
     endloop
   endfacet
-  facet normal -0.350903 -0.699592 0.622445
+  facet normal -0.350907 -0.699585 0.622451
     outer loop
     vertex 4.78297 -3.4499 9.70613
-    vertex 4.67511 -3.35 9.75761
+    vertex 4.67505 -3.35 9.75757
     vertex 4.63547 -3.4499 9.62298
     endloop
   endfacet
@@ -28972,31 +29014,31 @@ solid extruder_idler_bearing.stl
     vertex 4.8211 -6.3666 9.73103
     endloop
   endfacet
-  facet normal -0.317765 -0.714268 0.623576
+  facet normal -0.317736 -0.714266 0.623592
     outer loop
     vertex 4.63547 -3.4499 9.62298
-    vertex 4.67511 -3.35 9.75761
-    vertex 4.53054 -3.35 9.68394
+    vertex 4.67505 -3.35 9.75757
+    vertex 4.53048 -3.35 9.68391
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.675 -3.35 9.75766
-    vertex 4.53054 -3.35 9.68394
-    vertex 4.67511 -3.35 9.75761
+    vertex 4.67505 -3.35 9.75757
+    vertex 4.53044 -3.35 9.684
+    vertex 4.53048 -3.35 9.68391
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 4.67505 -3.35 9.75757
     vertex 4.675 -3.35 9.75766
-    vertex 4.67511 -3.35 9.75761
-    vertex 4.81107 -3.35 9.84602
+    vertex 4.53044 -3.35 9.684
     endloop
   endfacet
-  facet normal -0.285299 -0.699483 0.655232
+  facet normal -0.2853 -0.699479 0.655235
     outer loop
     vertex 4.63547 -3.4499 9.62298
-    vertex 4.53054 -3.35 9.68394
+    vertex 4.53048 -3.35 9.68391
     vertex 4.48022 -3.4499 9.55538
     endloop
   endfacet
@@ -29014,31 +29056,31 @@ solid extruder_idler_bearing.stl
     vertex 4.67546 -6.3666 9.64358
     endloop
   endfacet
-  facet normal -0.250804 -0.714359 0.653291
+  facet normal -0.250778 -0.714359 0.653301
     outer loop
     vertex 4.48022 -3.4499 9.55538
-    vertex 4.53054 -3.35 9.68394
-    vertex 4.37905 -3.35 9.62578
+    vertex 4.53048 -3.35 9.68391
+    vertex 4.37901 -3.35 9.62577
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.53044 -3.35 9.684
-    vertex 4.37905 -3.35 9.62578
-    vertex 4.53054 -3.35 9.68394
+    vertex 4.53048 -3.35 9.68391
+    vertex 4.37898 -3.35 9.62586
+    vertex 4.37901 -3.35 9.62577
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 4.53048 -3.35 9.68391
     vertex 4.53044 -3.35 9.684
-    vertex 4.53054 -3.35 9.68394
-    vertex 4.675 -3.35 9.75766
+    vertex 4.37898 -3.35 9.62586
     endloop
   endfacet
-  facet normal -0.216675 -0.699394 0.681102
+  facet normal -0.216675 -0.699395 0.681101
     outer loop
     vertex 4.48022 -3.4499 9.55538
-    vertex 4.37905 -3.35 9.62578
+    vertex 4.37901 -3.35 9.62577
     vertex 4.31886 -3.4499 9.50405
     endloop
   endfacet
@@ -29056,31 +29098,31 @@ solid extruder_idler_bearing.stl
     vertex 4.5216 -6.3666 9.57157
     endloop
   endfacet
-  facet normal -0.181115 -0.71443 0.67586
+  facet normal -0.181098 -0.714431 0.675863
     outer loop
     vertex 4.31886 -3.4499 9.50405
-    vertex 4.37905 -3.35 9.62578
-    vertex 4.22231 -3.35 9.58378
+    vertex 4.37901 -3.35 9.62577
+    vertex 4.22228 -3.35 9.58377
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.37898 -3.35 9.62586
-    vertex 4.22231 -3.35 9.58378
-    vertex 4.37905 -3.35 9.62578
+    vertex 4.37901 -3.35 9.62577
+    vertex 4.22226 -3.35 9.58387
+    vertex 4.22228 -3.35 9.58377
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 4.37901 -3.35 9.62577
     vertex 4.37898 -3.35 9.62586
-    vertex 4.37905 -3.35 9.62578
-    vertex 4.53044 -3.35 9.684
+    vertex 4.22226 -3.35 9.58387
     endloop
   endfacet
-  facet normal -0.145741 -0.699333 0.699781
+  facet normal -0.145741 -0.699334 0.699779
     outer loop
     vertex 4.31886 -3.4499 9.50405
-    vertex 4.22231 -3.35 9.58378
+    vertex 4.22228 -3.35 9.58377
     vertex 4.1531 -3.4499 9.46953
     endloop
   endfacet
@@ -29098,31 +29140,31 @@ solid extruder_idler_bearing.stl
     vertex 4.36115 -6.3666 9.51575
     endloop
   endfacet
-  facet normal -0.109462 -0.714477 0.691043
+  facet normal -0.109452 -0.714478 0.691044
     outer loop
     vertex 4.1531 -3.4499 9.46953
-    vertex 4.22231 -3.35 9.58378
-    vertex 4.06204 -3.35 9.55839
+    vertex 4.22228 -3.35 9.58377
+    vertex 4.06203 -3.35 9.55839
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.22226 -3.35 9.58387
-    vertex 4.06204 -3.35 9.55839
-    vertex 4.22231 -3.35 9.58378
+    vertex 4.22228 -3.35 9.58377
+    vertex 4.06202 -3.35 9.55849
+    vertex 4.06203 -3.35 9.55839
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 4.22228 -3.35 9.58377
     vertex 4.22226 -3.35 9.58387
-    vertex 4.22231 -3.35 9.58378
-    vertex 4.37898 -3.35 9.62586
+    vertex 4.06202 -3.35 9.55849
     endloop
   endfacet
-  facet normal -0.0732628 -0.699297 0.711067
+  facet normal -0.0732626 -0.699299 0.711065
     outer loop
     vertex 4.1531 -3.4499 9.46953
-    vertex 4.06204 -3.35 9.55839
+    vertex 4.06203 -3.35 9.55839
     vertex 3.98466 -3.4499 9.45217
     endloop
   endfacet
@@ -29140,25 +29182,25 @@ solid extruder_idler_bearing.stl
     vertex 4.19581 -6.3666 9.47673
     endloop
   endfacet
-  facet normal -0.0366165 -0.714504 0.698673
+  facet normal -0.0366156 -0.714503 0.698673
     outer loop
     vertex 3.98466 -3.4499 9.45217
-    vertex 4.06204 -3.35 9.55839
+    vertex 4.06203 -3.35 9.55839
     vertex 3.9 -3.35 9.5499
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.06202 -3.35 9.55849
+    vertex 3.9 -3.35 9.55
     vertex 3.9 -3.35 9.5499
-    vertex 4.06204 -3.35 9.55839
+    vertex 4.06203 -3.35 9.55839
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal 0 -1 -0
     outer loop
+    vertex 4.06203 -3.35 9.55839
     vertex 4.06202 -3.35 9.55849
-    vertex 4.06204 -3.35 9.55839
-    vertex 4.22226 -3.35 9.58387
+    vertex 3.9 -3.35 9.55
     endloop
   endfacet
   facet normal 0 -0.699288 0.71484
@@ -29182,38 +29224,24 @@ solid extruder_idler_bearing.stl
     vertex 4.02734 -6.3666 9.45492
     endloop
   endfacet
-  facet normal 0.0366162 -0.714504 0.698673
+  facet normal 0.0366156 -0.714503 0.698673
     outer loop
     vertex 3.81534 -3.4499 9.45217
     vertex 3.9 -3.35 9.5499
-    vertex 3.73796 -3.35 9.55839
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 3.73798 -3.35 9.55849
-    vertex 3.73796 -3.35 9.55839
-    vertex 3.9 -3.35 9.5499
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 3.73798 -3.35 9.55849
-    vertex 3.9 -3.35 9.5499
-    vertex 3.9 -3.35 9.55
+    vertex 3.73797 -3.35 9.55839
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.9 -3.35 9.55
+    vertex 3.73797 -3.35 9.55839
     vertex 3.9 -3.35 9.5499
-    vertex 4.06202 -3.35 9.55849
     endloop
   endfacet
-  facet normal 0.0732622 -0.699296 0.711068
+  facet normal 0.073262 -0.699299 0.711065
     outer loop
     vertex 3.81534 -3.4499 9.45217
-    vertex 3.73796 -3.35 9.55839
+    vertex 3.73797 -3.35 9.55839
     vertex 3.6469 -3.4499 9.46953
     endloop
   endfacet
@@ -29231,31 +29259,31 @@ solid extruder_idler_bearing.stl
     vertex 3.85751 -6.3666 9.45055
     endloop
   endfacet
-  facet normal 0.109462 -0.714477 0.691043
+  facet normal 0.109451 -0.714478 0.691044
     outer loop
     vertex 3.6469 -3.4499 9.46953
-    vertex 3.73796 -3.35 9.55839
-    vertex 3.57769 -3.35 9.58378
+    vertex 3.73797 -3.35 9.55839
+    vertex 3.57772 -3.35 9.58377
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 3.57774 -3.35 9.58387
-    vertex 3.57769 -3.35 9.58378
-    vertex 3.73796 -3.35 9.55839
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 3.57774 -3.35 9.58387
-    vertex 3.73796 -3.35 9.55839
     vertex 3.73798 -3.35 9.55849
+    vertex 3.57772 -3.35 9.58377
+    vertex 3.73797 -3.35 9.55839
     endloop
   endfacet
-  facet normal 0.145741 -0.699334 0.69978
+  facet normal 0 -1 0
+    outer loop
+    vertex 3.73798 -3.35 9.55849
+    vertex 3.73797 -3.35 9.55839
+    vertex 3.9 -3.35 9.55
+    endloop
+  endfacet
+  facet normal 0.145741 -0.699335 0.699779
     outer loop
     vertex 3.6469 -3.4499 9.46953
-    vertex 3.57769 -3.35 9.58378
+    vertex 3.57772 -3.35 9.58377
     vertex 3.48114 -3.4499 9.50405
     endloop
   endfacet
@@ -29273,31 +29301,31 @@ solid extruder_idler_bearing.stl
     vertex 3.68814 -6.3666 9.46366
     endloop
   endfacet
-  facet normal 0.181115 -0.714431 0.675859
+  facet normal 0.181099 -0.714432 0.675863
     outer loop
     vertex 3.48114 -3.4499 9.50405
-    vertex 3.57769 -3.35 9.58378
-    vertex 3.42095 -3.35 9.62578
+    vertex 3.57772 -3.35 9.58377
+    vertex 3.42099 -3.35 9.62577
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 3.42102 -3.35 9.62586
-    vertex 3.42095 -3.35 9.62578
-    vertex 3.57769 -3.35 9.58378
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 3.42102 -3.35 9.62586
-    vertex 3.57769 -3.35 9.58378
     vertex 3.57774 -3.35 9.58387
+    vertex 3.42099 -3.35 9.62577
+    vertex 3.57772 -3.35 9.58377
     endloop
   endfacet
-  facet normal 0.216675 -0.699395 0.681101
+  facet normal 0 -1 0
+    outer loop
+    vertex 3.57774 -3.35 9.58387
+    vertex 3.57772 -3.35 9.58377
+    vertex 3.73798 -3.35 9.55849
+    endloop
+  endfacet
+  facet normal 0.216674 -0.699396 0.6811
     outer loop
     vertex 3.48114 -3.4499 9.50405
-    vertex 3.42095 -3.35 9.62578
+    vertex 3.42099 -3.35 9.62577
     vertex 3.31978 -3.4499 9.55538
     endloop
   endfacet
@@ -29315,31 +29343,31 @@ solid extruder_idler_bearing.stl
     vertex 3.52101 -6.3666 9.49411
     endloop
   endfacet
-  facet normal 0.250802 -0.714359 0.653291
+  facet normal 0.250775 -0.714359 0.653301
     outer loop
     vertex 3.31978 -3.4499 9.55538
-    vertex 3.42095 -3.35 9.62578
-    vertex 3.26946 -3.35 9.68394
+    vertex 3.42099 -3.35 9.62577
+    vertex 3.26952 -3.35 9.68391
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 3.26956 -3.35 9.684
-    vertex 3.26946 -3.35 9.68394
-    vertex 3.42095 -3.35 9.62578
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 3.26956 -3.35 9.684
-    vertex 3.42095 -3.35 9.62578
     vertex 3.42102 -3.35 9.62586
+    vertex 3.26952 -3.35 9.68391
+    vertex 3.42099 -3.35 9.62577
     endloop
   endfacet
-  facet normal 0.285299 -0.699482 0.655232
+  facet normal 0 -1 0
+    outer loop
+    vertex 3.42102 -3.35 9.62586
+    vertex 3.42099 -3.35 9.62577
+    vertex 3.57774 -3.35 9.58387
+    endloop
+  endfacet
+  facet normal 0.285301 -0.699478 0.655236
     outer loop
     vertex 3.31978 -3.4499 9.55538
-    vertex 3.26946 -3.35 9.68394
+    vertex 3.26952 -3.35 9.68391
     vertex 3.16453 -3.4499 9.62298
     endloop
   endfacet
@@ -29357,31 +29385,31 @@ solid extruder_idler_bearing.stl
     vertex 3.3579 -6.3666 9.54159
     endloop
   endfacet
-  facet normal 0.317763 -0.714267 0.623578
+  facet normal 0.317737 -0.714265 0.623594
     outer loop
     vertex 3.16453 -3.4499 9.62298
-    vertex 3.26946 -3.35 9.68394
-    vertex 3.12488 -3.35 9.75761
+    vertex 3.26952 -3.35 9.68391
+    vertex 3.12495 -3.35 9.75757
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 3.125 -3.35 9.75766
-    vertex 3.12488 -3.35 9.75761
-    vertex 3.26946 -3.35 9.68394
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 3.125 -3.35 9.75766
-    vertex 3.26946 -3.35 9.68394
     vertex 3.26956 -3.35 9.684
+    vertex 3.12495 -3.35 9.75757
+    vertex 3.26952 -3.35 9.68391
     endloop
   endfacet
-  facet normal 0.350904 -0.69959 0.622447
+  facet normal 0 -1 0
+    outer loop
+    vertex 3.26956 -3.35 9.684
+    vertex 3.26952 -3.35 9.68391
+    vertex 3.42102 -3.35 9.62586
+    endloop
+  endfacet
+  facet normal 0.350907 -0.699584 0.622452
     outer loop
     vertex 3.16453 -3.4499 9.62298
-    vertex 3.12488 -3.35 9.75761
+    vertex 3.12495 -3.35 9.75757
     vertex 3.01703 -3.4499 9.70613
     endloop
   endfacet
@@ -29399,31 +29427,31 @@ solid extruder_idler_bearing.stl
     vertex 3.20054 -6.3666 9.60559
     endloop
   endfacet
-  facet normal 0.381278 -0.714142 0.58705
+  facet normal 0.381251 -0.714143 0.587067
     outer loop
     vertex 3.01703 -3.4499 9.70613
-    vertex 3.12488 -3.35 9.75761
-    vertex 2.9888 -3.35 9.846
+    vertex 3.12495 -3.35 9.75757
+    vertex 2.98887 -3.35 9.84594
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.98893 -3.35 9.84602
-    vertex 2.9888 -3.35 9.846
-    vertex 3.12488 -3.35 9.75761
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.98893 -3.35 9.84602
-    vertex 3.12488 -3.35 9.75761
     vertex 3.125 -3.35 9.75766
+    vertex 2.98887 -3.35 9.84594
+    vertex 3.12495 -3.35 9.75757
     endloop
   endfacet
-  facet normal 0.412767 -0.699722 0.583105
+  facet normal 0 -1 0
+    outer loop
+    vertex 3.125 -3.35 9.75766
+    vertex 3.12495 -3.35 9.75757
+    vertex 3.26956 -3.35 9.684
+    endloop
+  endfacet
+  facet normal 0.412769 -0.699719 0.583108
     outer loop
     vertex 3.01703 -3.4499 9.70613
-    vertex 2.9888 -3.35 9.846
+    vertex 2.98887 -3.35 9.84594
     vertex 2.87883 -3.4499 9.80396
     endloop
   endfacet
@@ -29441,31 +29469,31 @@ solid extruder_idler_bearing.stl
     vertex 3.05059 -6.3666 9.68543
     endloop
   endfacet
-  facet normal 0.440649 -0.714 0.544089
+  facet normal 0.440612 -0.714004 0.544113
     outer loop
     vertex 2.87883 -3.4499 9.80396
-    vertex 2.9888 -3.35 9.846
-    vertex 2.8627 -3.35 9.94812
+    vertex 2.98887 -3.35 9.84594
+    vertex 2.86278 -3.35 9.94805
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.86285 -3.35 9.94813
-    vertex 2.8627 -3.35 9.94812
-    vertex 2.9888 -3.35 9.846
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.86285 -3.35 9.94813
-    vertex 2.9888 -3.35 9.846
     vertex 2.98893 -3.35 9.84602
+    vertex 2.86278 -3.35 9.94805
+    vertex 2.98887 -3.35 9.84594
     endloop
   endfacet
-  facet normal 0.470259 -0.699877 0.537614
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.98893 -3.35 9.84602
+    vertex 2.98887 -3.35 9.84594
+    vertex 3.125 -3.35 9.75766
+    endloop
+  endfacet
+  facet normal 0.470263 -0.699872 0.537617
     outer loop
     vertex 2.87883 -3.4499 9.80396
-    vertex 2.8627 -3.35 9.94812
+    vertex 2.86278 -3.35 9.94805
     vertex 2.75138 -3.4499 9.91545
     endloop
   endfacet
@@ -29483,31 +29511,31 @@ solid extruder_idler_bearing.stl
     vertex 2.90965 -6.3666 9.78026
     endloop
   endfacet
-  facet normal 0.495239 -0.713828 0.495165
+  facet normal 0.495197 -0.713833 0.495199
     outer loop
     vertex 2.75138 -3.4499 9.91545
-    vertex 2.8627 -3.35 9.94812
-    vertex 2.74797 -3.35 10.0629
+    vertex 2.86278 -3.35 9.94805
+    vertex 2.74805 -3.35 10.0628
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.74812 -3.35 10.0628
-    vertex 2.74797 -3.35 10.0629
-    vertex 2.8627 -3.35 9.94812
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.74812 -3.35 10.0628
-    vertex 2.8627 -3.35 9.94812
     vertex 2.86285 -3.35 9.94813
+    vertex 2.74805 -3.35 10.0628
+    vertex 2.86278 -3.35 9.94805
     endloop
   endfacet
-  facet normal 0.522749 -0.700058 0.486469
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.86285 -3.35 9.94813
+    vertex 2.86278 -3.35 9.94805
+    vertex 2.98893 -3.35 9.84602
+    endloop
+  endfacet
+  facet normal 0.522756 -0.700048 0.486475
     outer loop
     vertex 2.75138 -3.4499 9.91545
-    vertex 2.74797 -3.35 10.0629
+    vertex 2.74805 -3.35 10.0628
     vertex 2.63603 -3.4499 10.0394
     endloop
   endfacet
@@ -29525,31 +29553,31 @@ solid extruder_idler_bearing.stl
     vertex 2.7792 -6.3666 9.88909
     endloop
   endfacet
-  facet normal 0.544438 -0.713635 0.440809
+  facet normal 0.5444 -0.713641 0.440846
     outer loop
     vertex 2.63603 -3.4499 10.0394
-    vertex 2.74797 -3.35 10.0629
-    vertex 2.64586 -3.35 10.189
+    vertex 2.74805 -3.35 10.0628
+    vertex 2.64594 -3.35 10.1889
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.64602 -3.35 10.1889
-    vertex 2.64586 -3.35 10.189
-    vertex 2.74797 -3.35 10.0629
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.64602 -3.35 10.1889
-    vertex 2.74797 -3.35 10.0629
     vertex 2.74812 -3.35 10.0628
+    vertex 2.64594 -3.35 10.1889
+    vertex 2.74805 -3.35 10.0628
     endloop
   endfacet
-  facet normal 0.569694 -0.70026 0.430215
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.74812 -3.35 10.0628
+    vertex 2.74805 -3.35 10.0628
+    vertex 2.86285 -3.35 9.94813
+    endloop
+  endfacet
+  facet normal 0.5697 -0.700252 0.43022
     outer loop
     vertex 2.63603 -3.4499 10.0394
-    vertex 2.64586 -3.35 10.189
+    vertex 2.64594 -3.35 10.1889
     vertex 2.53399 -3.4499 10.1745
     endloop
   endfacet
@@ -29567,31 +29595,31 @@ solid extruder_idler_bearing.stl
     vertex 2.66063 -6.3666 10.0107
     endloop
   endfacet
-  facet normal 0.587725 -0.713416 0.381598
+  facet normal 0.587682 -0.713426 0.381645
     outer loop
     vertex 2.53399 -3.4499 10.1745
-    vertex 2.64586 -3.35 10.189
-    vertex 2.5575 -3.35 10.3251
+    vertex 2.64594 -3.35 10.1889
+    vertex 2.55757 -3.35 10.325
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.55766 -3.35 10.325
-    vertex 2.5575 -3.35 10.3251
-    vertex 2.64586 -3.35 10.189
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.55766 -3.35 10.325
-    vertex 2.64586 -3.35 10.189
     vertex 2.64602 -3.35 10.1889
+    vertex 2.55757 -3.35 10.325
+    vertex 2.64594 -3.35 10.1889
     endloop
   endfacet
-  facet normal 0.61059 -0.70049 0.36945
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.64602 -3.35 10.1889
+    vertex 2.64594 -3.35 10.1889
+    vertex 2.74812 -3.35 10.0628
+    endloop
+  endfacet
+  facet normal 0.610598 -0.700481 0.369454
     outer loop
     vertex 2.53399 -3.4499 10.1745
-    vertex 2.5575 -3.35 10.3251
+    vertex 2.55757 -3.35 10.325
     vertex 2.44633 -3.4499 10.3194
     endloop
   endfacet
@@ -29609,31 +29637,31 @@ solid extruder_idler_bearing.stl
     vertex 2.5552 -6.3666 10.144
     endloop
   endfacet
-  facet normal 0.624614 -0.713178 0.318174
+  facet normal 0.624569 -0.713191 0.318233
     outer loop
     vertex 2.44633 -3.4499 10.3194
-    vertex 2.5575 -3.35 10.3251
-    vertex 2.48385 -3.35 10.4697
+    vertex 2.55757 -3.35 10.325
+    vertex 2.48391 -3.35 10.4695
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.484 -3.35 10.4696
-    vertex 2.48385 -3.35 10.4697
-    vertex 2.5575 -3.35 10.3251
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.484 -3.35 10.4696
-    vertex 2.5575 -3.35 10.3251
     vertex 2.55766 -3.35 10.325
+    vertex 2.48391 -3.35 10.4695
+    vertex 2.55757 -3.35 10.325
     endloop
   endfacet
-  facet normal 0.645019 -0.700742 0.304812
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.55766 -3.35 10.325
+    vertex 2.55757 -3.35 10.325
+    vertex 2.64602 -3.35 10.1889
+    endloop
+  endfacet
+  facet normal 0.645031 -0.700729 0.304817
     outer loop
     vertex 2.44633 -3.4499 10.3194
-    vertex 2.48385 -3.35 10.4697
+    vertex 2.48391 -3.35 10.4695
     vertex 2.37398 -3.4499 10.4725
     endloop
   endfacet
@@ -29651,31 +29679,31 @@ solid extruder_idler_bearing.stl
     vertex 2.46403 -6.3666 10.2873
     endloop
   endfacet
-  facet normal 0.654707 -0.712909 0.251235
+  facet normal 0.654666 -0.712923 0.251302
     outer loop
     vertex 2.37398 -3.4499 10.4725
-    vertex 2.48385 -3.35 10.4697
-    vertex 2.42571 -3.35 10.6212
+    vertex 2.48391 -3.35 10.4695
+    vertex 2.42577 -3.35 10.621
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.42586 -3.35 10.621
-    vertex 2.42571 -3.35 10.6212
-    vertex 2.48385 -3.35 10.4697
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.42586 -3.35 10.621
-    vertex 2.48385 -3.35 10.4697
     vertex 2.484 -3.35 10.4696
+    vertex 2.42577 -3.35 10.621
+    vertex 2.48391 -3.35 10.4695
     endloop
   endfacet
-  facet normal 0.672604 -0.701018 0.237018
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.484 -3.35 10.4696
+    vertex 2.48391 -3.35 10.4695
+    vertex 2.55766 -3.35 10.325
+    endloop
+  endfacet
+  facet normal 0.672618 -0.701003 0.237023
     outer loop
     vertex 2.37398 -3.4499 10.4725
-    vertex 2.42571 -3.35 10.6212
+    vertex 2.42577 -3.35 10.621
     vertex 2.31771 -3.4499 10.6322
     endloop
   endfacet
@@ -29693,31 +29721,31 @@ solid extruder_idler_bearing.stl
     vertex 2.38808 -6.3666 10.4393
     endloop
   endfacet
-  facet normal 0.677668 -0.71262 0.181492
+  facet normal 0.677629 -0.712636 0.181574
     outer loop
     vertex 2.31771 -3.4499 10.6322
-    vertex 2.42571 -3.35 10.6212
-    vertex 2.38373 -3.35 10.7779
+    vertex 2.42577 -3.35 10.621
+    vertex 2.38377 -3.35 10.7777
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.38387 -3.35 10.7777
-    vertex 2.38373 -3.35 10.7779
-    vertex 2.42571 -3.35 10.6212
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.38387 -3.35 10.7777
-    vertex 2.42571 -3.35 10.6212
     vertex 2.42586 -3.35 10.621
+    vertex 2.38377 -3.35 10.7777
+    vertex 2.42577 -3.35 10.621
     endloop
   endfacet
-  facet normal 0.693069 -0.701316 0.166764
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.42586 -3.35 10.621
+    vertex 2.42577 -3.35 10.621
+    vertex 2.484 -3.35 10.4696
+    endloop
+  endfacet
+  facet normal 0.69309 -0.701294 0.166769
     outer loop
     vertex 2.31771 -3.4499 10.6322
-    vertex 2.38373 -3.35 10.7779
+    vertex 2.38377 -3.35 10.7777
     vertex 2.27809 -3.4499 10.7968
     endloop
   endfacet
@@ -29735,31 +29763,31 @@ solid extruder_idler_bearing.stl
     vertex 2.32815 -6.3666 10.5982
     endloop
   endfacet
-  facet normal 0.693246 -0.712302 0.109706
+  facet normal 0.693216 -0.712318 0.109796
     outer loop
     vertex 2.27809 -3.4499 10.7968
-    vertex 2.38373 -3.35 10.7779
-    vertex 2.35837 -3.35 10.9382
+    vertex 2.38377 -3.35 10.7777
+    vertex 2.35839 -3.35 10.938
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.35849 -3.35 10.938
-    vertex 2.35837 -3.35 10.9382
-    vertex 2.38373 -3.35 10.7779
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.35849 -3.35 10.938
-    vertex 2.38373 -3.35 10.7779
     vertex 2.38387 -3.35 10.7777
+    vertex 2.35839 -3.35 10.938
+    vertex 2.38377 -3.35 10.7777
     endloop
   endfacet
-  facet normal 0.706192 -0.701642 0.0948205
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.38387 -3.35 10.7777
+    vertex 2.38377 -3.35 10.7777
+    vertex 2.42586 -3.35 10.621
+    endloop
+  endfacet
+  facet normal 0.706219 -0.701615 0.094824
     outer loop
     vertex 2.27809 -3.4499 10.7968
-    vertex 2.35837 -3.35 10.9382
+    vertex 2.35839 -3.35 10.938
     vertex 2.25556 -3.4499 10.9646
     endloop
   endfacet
@@ -29777,31 +29805,31 @@ solid extruder_idler_bearing.stl
     vertex 2.28489 -6.3666 10.7625
     endloop
   endfacet
-  facet normal 0.701258 -0.711965 0.0366584
+  facet normal 0.701234 -0.711983 0.0367488
     outer loop
     vertex 2.25556 -3.4499 10.9646
-    vertex 2.35837 -3.35 10.9382
-    vertex 2.3499 -3.35 11.1002
+    vertex 2.35839 -3.35 10.938
+    vertex 2.3499 -3.35 11.1
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.35 -3.35 11.1
-    vertex 2.3499 -3.35 11.1002
-    vertex 2.35837 -3.35 10.9382
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.35 -3.35 11.1
-    vertex 2.35837 -3.35 10.9382
     vertex 2.35849 -3.35 10.938
+    vertex 2.3499 -3.35 11.1
+    vertex 2.35839 -3.35 10.938
     endloop
   endfacet
-  facet normal 0.711855 -0.701984 0.0219311
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.35849 -3.35 10.938
+    vertex 2.35839 -3.35 10.938
+    vertex 2.38387 -3.35 10.7777
+    endloop
+  endfacet
+  facet normal 0.71188 -0.701959 0.0219319
     outer loop
     vertex 2.25556 -3.4499 10.9646
-    vertex 2.3499 -3.35 11.1002
+    vertex 2.3499 -3.35 11.1
     vertex 2.25035 -3.4499 11.1339
     endloop
   endfacet
@@ -29819,31 +29847,38 @@ solid extruder_idler_bearing.stl
     vertex 2.25875 -6.3666 10.9303
     endloop
   endfacet
-  facet normal 0.70162 -0.711596 -0.0368797
+  facet normal 0.701601 -0.711621 -0.0367677
     outer loop
     vertex 2.25035 -3.4499 11.1339
-    vertex 2.3499 -3.35 11.1002
-    vertex 2.35842 -3.35 11.2623
+    vertex 2.3499 -3.35 11.1
+    vertex 2.35839 -3.35 11.262
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
     vertex 2.35849 -3.35 11.262
-    vertex 2.35842 -3.35 11.2623
-    vertex 2.3499 -3.35 11.1002
+    vertex 2.35839 -3.35 11.262
+    vertex 2.3499 -3.35 11.1
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 2.35849 -3.35 11.262
-    vertex 2.3499 -3.35 11.1002
+    vertex 2.3499 -3.35 11.1
     vertex 2.35 -3.35 11.1
     endloop
   endfacet
-  facet normal 0.709987 -0.702357 -0.0511116
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.35 -3.35 11.1
+    vertex 2.3499 -3.35 11.1
+    vertex 2.35849 -3.35 10.938
+    endloop
+  endfacet
+  facet normal 0.71002 -0.702324 -0.0511139
     outer loop
     vertex 2.25035 -3.4499 11.1339
-    vertex 2.35842 -3.35 11.2623
+    vertex 2.35839 -3.35 11.262
     vertex 2.26251 -3.4499 11.3028
     endloop
   endfacet
@@ -29861,31 +29896,31 @@ solid extruder_idler_bearing.stl
     vertex 2.25 -6.3666 11.1
     endloop
   endfacet
-  facet normal 0.694307 -0.71121 -0.11008
+  facet normal 0.6943 -0.711235 -0.109969
     outer loop
     vertex 2.26251 -3.4499 11.3028
-    vertex 2.35842 -3.35 11.2623
-    vertex 2.38383 -3.35 11.4225
+    vertex 2.35839 -3.35 11.262
+    vertex 2.38377 -3.35 11.4223
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
     vertex 2.38387 -3.35 11.4223
-    vertex 2.38383 -3.35 11.4225
-    vertex 2.35842 -3.35 11.2623
+    vertex 2.38377 -3.35 11.4223
+    vertex 2.35839 -3.35 11.262
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 2.38387 -3.35 11.4223
-    vertex 2.35842 -3.35 11.2623
+    vertex 2.35839 -3.35 11.262
     vertex 2.35849 -3.35 11.262
     endloop
   endfacet
-  facet normal 0.700631 -0.702746 -0.123546
+  facet normal 0.700665 -0.702711 -0.123552
     outer loop
     vertex 2.26251 -3.4499 11.3028
-    vertex 2.38383 -3.35 11.4225
+    vertex 2.38377 -3.35 11.4223
     vertex 2.29191 -3.4499 11.4695
     endloop
   endfacet
@@ -29903,31 +29938,31 @@ solid extruder_idler_bearing.stl
     vertex 2.25875 -6.3666 11.2697
     endloop
   endfacet
-  facet normal 0.679407 -0.71079 -0.182165
+  facet normal 0.679405 -0.710821 -0.182049
     outer loop
     vertex 2.29191 -3.4499 11.4695
-    vertex 2.38383 -3.35 11.4225
-    vertex 2.42585 -3.35 11.5793
+    vertex 2.38377 -3.35 11.4223
+    vertex 2.42577 -3.35 11.579
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
     vertex 2.42586 -3.35 11.579
-    vertex 2.42585 -3.35 11.5793
-    vertex 2.38383 -3.35 11.4225
+    vertex 2.42577 -3.35 11.579
+    vertex 2.38377 -3.35 11.4223
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 2.42586 -3.35 11.579
-    vertex 2.38383 -3.35 11.4225
+    vertex 2.38377 -3.35 11.4223
     vertex 2.38387 -3.35 11.4223
     endloop
   endfacet
-  facet normal 0.68389 -0.703159 -0.194582
+  facet normal 0.683921 -0.703126 -0.194591
     outer loop
     vertex 2.29191 -3.4499 11.4695
-    vertex 2.42585 -3.35 11.5793
+    vertex 2.42577 -3.35 11.579
     vertex 2.33825 -3.4499 11.6324
     endloop
   endfacet
@@ -29945,31 +29980,31 @@ solid extruder_idler_bearing.stl
     vertex 2.28489 -6.3666 11.4375
     endloop
   endfacet
-  facet normal 0.657058 -0.710347 -0.252353
+  facet normal 0.657064 -0.710388 -0.252224
     outer loop
     vertex 2.33825 -3.4499 11.6324
-    vertex 2.42585 -3.35 11.5793
-    vertex 2.48403 -3.35 11.7307
+    vertex 2.42577 -3.35 11.579
+    vertex 2.48391 -3.35 11.7305
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+    vertex 2.484 -3.35 11.7304
+    vertex 2.48391 -3.35 11.7305
+    vertex 2.42577 -3.35 11.579
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 2.484 -3.35 11.7304
-    vertex 2.48403 -3.35 11.7307
-    vertex 2.42585 -3.35 11.5793
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.484 -3.35 11.7304
-    vertex 2.42585 -3.35 11.5793
+    vertex 2.42577 -3.35 11.579
     vertex 2.42586 -3.35 11.579
     endloop
   endfacet
-  facet normal 0.659943 -0.703599 -0.263483
+  facet normal 0.659975 -0.703564 -0.263496
     outer loop
     vertex 2.33825 -3.4499 11.6324
-    vertex 2.48403 -3.35 11.7307
+    vertex 2.48391 -3.35 11.7305
     vertex 2.40103 -3.4499 11.7896
     endloop
   endfacet
@@ -29987,31 +30022,31 @@ solid extruder_idler_bearing.stl
     vertex 2.32815 -6.3666 11.6018
     endloop
   endfacet
-  facet normal 0.627493 -0.709883 -0.319875
+  facet normal 0.627512 -0.709929 -0.319732
     outer loop
     vertex 2.40103 -3.4499 11.7896
-    vertex 2.48403 -3.35 11.7307
-    vertex 2.55772 -3.35 11.8753
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.55766 -3.35 11.875
-    vertex 2.55772 -3.35 11.8753
-    vertex 2.48403 -3.35 11.7307
+    vertex 2.48391 -3.35 11.7305
+    vertex 2.55757 -3.35 11.875
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
     vertex 2.55766 -3.35 11.875
-    vertex 2.48403 -3.35 11.7307
+    vertex 2.55757 -3.35 11.875
+    vertex 2.48391 -3.35 11.7305
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.55766 -3.35 11.875
+    vertex 2.48391 -3.35 11.7305
     vertex 2.484 -3.35 11.7304
     endloop
   endfacet
-  facet normal 0.629056 -0.704063 -0.329521
+  facet normal 0.629093 -0.704021 -0.32954
     outer loop
     vertex 2.40103 -3.4499 11.7896
-    vertex 2.55772 -3.35 11.8753
+    vertex 2.55757 -3.35 11.875
     vertex 2.4796 -3.4499 11.9396
     endloop
   endfacet
@@ -30029,31 +30064,31 @@ solid extruder_idler_bearing.stl
     vertex 2.38808 -6.3666 11.7607
     endloop
   endfacet
-  facet normal 0.591029 -0.709393 -0.383987
+  facet normal 0.591066 -0.709442 -0.38384
     outer loop
     vertex 2.4796 -3.4499 11.9396
-    vertex 2.55772 -3.35 11.8753
-    vertex 2.64613 -3.35 12.0114
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.64602 -3.35 12.0111
-    vertex 2.64613 -3.35 12.0114
-    vertex 2.55772 -3.35 11.8753
+    vertex 2.55757 -3.35 11.875
+    vertex 2.64594 -3.35 12.0111
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
     vertex 2.64602 -3.35 12.0111
-    vertex 2.55772 -3.35 11.8753
+    vertex 2.64594 -3.35 12.0111
+    vertex 2.55757 -3.35 11.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.64602 -3.35 12.0111
+    vertex 2.55757 -3.35 11.875
     vertex 2.55766 -3.35 11.875
     endloop
   endfacet
-  facet normal 0.591571 -0.704545 -0.391995
+  facet normal 0.591613 -0.704495 -0.392022
     outer loop
     vertex 2.4796 -3.4499 11.9396
-    vertex 2.64613 -3.35 12.0114
+    vertex 2.64594 -3.35 12.0111
     vertex 2.57313 -3.4499 12.0808
     endloop
   endfacet
@@ -30071,31 +30106,31 @@ solid extruder_idler_bearing.stl
     vertex 2.46403 -6.3666 11.9127
     endloop
   endfacet
-  facet normal 0.548056 -0.708873 -0.443997
+  facet normal 0.54811 -0.708923 -0.44385
     outer loop
     vertex 2.57313 -3.4499 12.0808
-    vertex 2.64613 -3.35 12.0114
-    vertex 2.74827 -3.35 12.1375
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.74812 -3.35 12.1372
-    vertex 2.74827 -3.35 12.1375
-    vertex 2.64613 -3.35 12.0114
+    vertex 2.64594 -3.35 12.0111
+    vertex 2.74805 -3.35 12.1372
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
     vertex 2.74812 -3.35 12.1372
-    vertex 2.64613 -3.35 12.0114
+    vertex 2.74805 -3.35 12.1372
+    vertex 2.64594 -3.35 12.0111
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.74812 -3.35 12.1372
+    vertex 2.64594 -3.35 12.0111
     vertex 2.64602 -3.35 12.0111
     endloop
   endfacet
-  facet normal 0.547896 -0.705057 -0.450228
+  facet normal 0.547939 -0.705001 -0.450263
     outer loop
     vertex 2.57313 -3.4499 12.0808
-    vertex 2.74827 -3.35 12.1375
+    vertex 2.74805 -3.35 12.1372
     vertex 2.68063 -3.4499 12.2116
     endloop
   endfacet
@@ -30113,31 +30148,31 @@ solid extruder_idler_bearing.stl
     vertex 2.5552 -6.3666 12.056
     endloop
   endfacet
-  facet normal 0.499021 -0.708336 -0.499237
+  facet normal 0.49909 -0.70839 -0.499092
     outer loop
     vertex 2.68063 -3.4499 12.2116
-    vertex 2.74827 -3.35 12.1375
-    vertex 2.86304 -3.35 12.2522
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.86285 -3.35 12.2519
-    vertex 2.86304 -3.35 12.2522
-    vertex 2.74827 -3.35 12.1375
+    vertex 2.74805 -3.35 12.1372
+    vertex 2.86278 -3.35 12.2519
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
     vertex 2.86285 -3.35 12.2519
-    vertex 2.74827 -3.35 12.1375
+    vertex 2.86278 -3.35 12.2519
+    vertex 2.74805 -3.35 12.1372
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.86285 -3.35 12.2519
+    vertex 2.74805 -3.35 12.1372
     vertex 2.74812 -3.35 12.1372
     endloop
   endfacet
-  facet normal 0.498494 -0.705586 -0.503639
+  facet normal 0.498536 -0.705526 -0.503681
     outer loop
     vertex 2.68063 -3.4499 12.2116
-    vertex 2.86304 -3.35 12.2522
+    vertex 2.86278 -3.35 12.2519
     vertex 2.80098 -3.4499 12.3307
     endloop
   endfacet
@@ -30155,31 +30190,31 @@ solid extruder_idler_bearing.stl
     vertex 2.66063 -6.3666 12.1893
     endloop
   endfacet
-  facet normal 0.444458 -0.707767 -0.549111
+  facet normal 0.444541 -0.707827 -0.548966
     outer loop
     vertex 2.80098 -3.4499 12.3307
-    vertex 2.86304 -3.35 12.2522
-    vertex 2.98916 -3.35 12.3543
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.98893 -3.35 12.354
-    vertex 2.98916 -3.35 12.3543
-    vertex 2.86304 -3.35 12.2522
+    vertex 2.86278 -3.35 12.2519
+    vertex 2.98887 -3.35 12.3541
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
     vertex 2.98893 -3.35 12.354
-    vertex 2.86304 -3.35 12.2522
+    vertex 2.98887 -3.35 12.3541
+    vertex 2.86278 -3.35 12.2519
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.98893 -3.35 12.354
+    vertex 2.86278 -3.35 12.2519
     vertex 2.86285 -3.35 12.2519
     endloop
   endfacet
-  facet normal 0.443909 -0.706134 -0.551651
+  facet normal 0.443948 -0.706073 -0.551699
     outer loop
     vertex 2.80098 -3.4499 12.3307
-    vertex 2.98916 -3.35 12.3543
+    vertex 2.98887 -3.35 12.3541
     vertex 2.9329 -3.4499 12.4369
     endloop
   endfacet
@@ -30197,24 +30232,10 @@ solid extruder_idler_bearing.stl
     vertex 2.7792 -6.3666 12.3109
     endloop
   endfacet
-  facet normal 0.384943 -0.707168 -0.59307
-    outer loop
-    vertex 2.9329 -3.4499 12.4369
-    vertex 2.98916 -3.35 12.3543
-    vertex 3.12527 -3.35 12.4426
-    endloop
-  endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 3.12527 -3.35 12.4426
-    vertex 2.98916 -3.35 12.3543
     vertex 3.125 -3.35 12.4423
-    endloop
-  endfacet
-  facet normal 0 -1 -0
-    outer loop
-    vertex 3.125 -3.35 12.4423
-    vertex 2.98916 -3.35 12.3543
+    vertex 2.98887 -3.35 12.3541
     vertex 2.98893 -3.35 12.354
     endloop
   endfacet
@@ -30225,11 +30246,39 @@ solid extruder_idler_bearing.stl
     vertex 2.90965 -6.3666 12.4197
     endloop
   endfacet
-  facet normal 0.706798 0 -0.707416
+  facet normal 0 0 -1
     outer loop
+    vertex 3.83109 -3.35 12.85
+    vertex 3.83109 0.600001 12.85
+    vertex 3.96891 -3.35 12.85
+    endloop
+  endfacet
+  facet normal -0.500001 0 -0.866025
+    outer loop
+    vertex 4.675 -3.35 12.4423
+    vertex 3.96891 -3.35 12.85
+    vertex 4.675 0.600001 12.4423
+    endloop
+  endfacet
+  facet normal -0.500001 0 -0.866025
+    outer loop
+    vertex 4.675 0.600001 12.4423
+    vertex 3.96891 -3.35 12.85
+    vertex 3.96891 0.600001 12.85
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 3.96891 -3.35 12.85
+    vertex 3.83109 0.600001 12.85
+    vertex 3.96891 0.600001 12.85
+    endloop
+  endfacet
+  facet normal 0.500001 0 -0.866025
+    outer loop
+    vertex 3.83109 -3.35 12.85
     vertex 3.125 -3.35 12.4423
-    vertex 3.125 0.600001 12.4423
-    vertex 3.12527 -3.35 12.4426
+    vertex 3.83109 0.600001 12.85
     endloop
   endfacet
   facet normal 0.544644 0 -0.838668
@@ -30244,6 +30293,13 @@ solid extruder_idler_bearing.stl
     vertex 3.125 0.600001 12.4423
     vertex 3.125 -3.35 12.4423
     vertex 2.98893 -2.125 12.354
+    endloop
+  endfacet
+  facet normal 0.500001 0 -0.866025
+    outer loop
+    vertex 3.83109 0.600001 12.85
+    vertex 3.125 -3.35 12.4423
+    vertex 3.125 0.600001 12.4423
     endloop
   endfacet
   facet normal 0.629315 0 -0.77715
@@ -30596,328 +30652,6 @@ solid extruder_idler_bearing.stl
     vertex 4.06202 -2.125 9.55849
     endloop
   endfacet
-  facet normal -0.156435 0 0.987688
-    outer loop
-    vertex 4.22226 -2.125 9.58387
-    vertex 4.06202 -3.35 9.55849
-    vertex 4.22226 -3.35 9.58387
-    endloop
-  endfacet
-  facet normal -0.156435 0 0.987688
-    outer loop
-    vertex 4.06202 -2.125 9.55849
-    vertex 4.06202 -3.35 9.55849
-    vertex 4.22226 -2.125 9.58387
-    endloop
-  endfacet
-  facet normal -0.258818 0 0.965926
-    outer loop
-    vertex 4.37898 -2.125 9.62586
-    vertex 4.22226 -3.35 9.58387
-    vertex 4.37898 -3.35 9.62586
-    endloop
-  endfacet
-  facet normal -0.258818 0 0.965926
-    outer loop
-    vertex 4.22226 -2.125 9.58387
-    vertex 4.22226 -3.35 9.58387
-    vertex 4.37898 -2.125 9.62586
-    endloop
-  endfacet
-  facet normal -0.358368 0 0.933581
-    outer loop
-    vertex 4.53044 -2.125 9.684
-    vertex 4.37898 -3.35 9.62586
-    vertex 4.53044 -3.35 9.684
-    endloop
-  endfacet
-  facet normal -0.358368 0 0.933581
-    outer loop
-    vertex 4.37898 -2.125 9.62586
-    vertex 4.37898 -3.35 9.62586
-    vertex 4.53044 -2.125 9.684
-    endloop
-  endfacet
-  facet normal -0.453991 0 0.891006
-    outer loop
-    vertex 4.675 -2.125 9.75766
-    vertex 4.53044 -3.35 9.684
-    vertex 4.675 -3.35 9.75766
-    endloop
-  endfacet
-  facet normal -0.453991 0 0.891006
-    outer loop
-    vertex 4.53044 -2.125 9.684
-    vertex 4.53044 -3.35 9.684
-    vertex 4.675 -2.125 9.75766
-    endloop
-  endfacet
-  facet normal -0.544631 0 0.838675
-    outer loop
-    vertex 4.81107 -2.125 9.84602
-    vertex 4.675 -3.35 9.75766
-    vertex 4.81107 -3.35 9.84602
-    endloop
-  endfacet
-  facet normal -0.544631 0 0.838675
-    outer loop
-    vertex 4.675 -2.125 9.75766
-    vertex 4.675 -3.35 9.75766
-    vertex 4.81107 -2.125 9.84602
-    endloop
-  endfacet
-  facet normal -0.629322 0 0.777145
-    outer loop
-    vertex 4.93715 -2.125 9.94813
-    vertex 4.81107 -3.35 9.84602
-    vertex 4.93715 -3.35 9.94813
-    endloop
-  endfacet
-  facet normal -0.629322 0 0.777145
-    outer loop
-    vertex 4.81107 -2.125 9.84602
-    vertex 4.81107 -3.35 9.84602
-    vertex 4.93715 -2.125 9.94813
-    endloop
-  endfacet
-  facet normal -0.707107 0 0.707107
-    outer loop
-    vertex 5.05187 -2.125 10.0628
-    vertex 4.93715 -3.35 9.94813
-    vertex 5.05187 -3.35 10.0628
-    endloop
-  endfacet
-  facet normal -0.707107 0 0.707107
-    outer loop
-    vertex 4.93715 -2.125 9.94813
-    vertex 4.93715 -3.35 9.94813
-    vertex 5.05187 -2.125 10.0628
-    endloop
-  endfacet
-  facet normal -0.777145 0 0.629322
-    outer loop
-    vertex 5.15398 -2.125 10.1889
-    vertex 5.05187 -3.35 10.0628
-    vertex 5.15398 -3.35 10.1889
-    endloop
-  endfacet
-  facet normal -0.777145 0 0.629322
-    outer loop
-    vertex 5.05187 -2.125 10.0628
-    vertex 5.05187 -3.35 10.0628
-    vertex 5.15398 -2.125 10.1889
-    endloop
-  endfacet
-  facet normal -0.838676 0 0.54463
-    outer loop
-    vertex 5.24234 -2.125 10.325
-    vertex 5.15398 -3.35 10.1889
-    vertex 5.24234 -3.35 10.325
-    endloop
-  endfacet
-  facet normal -0.838676 0 0.54463
-    outer loop
-    vertex 5.15398 -2.125 10.1889
-    vertex 5.15398 -3.35 10.1889
-    vertex 5.24234 -2.125 10.325
-    endloop
-  endfacet
-  facet normal -0.891006 0 0.453991
-    outer loop
-    vertex 5.31599 -2.125 10.4696
-    vertex 5.24234 -3.35 10.325
-    vertex 5.31599 -3.35 10.4696
-    endloop
-  endfacet
-  facet normal -0.891006 0 0.453991
-    outer loop
-    vertex 5.24234 -2.125 10.325
-    vertex 5.24234 -3.35 10.325
-    vertex 5.31599 -2.125 10.4696
-    endloop
-  endfacet
-  facet normal -0.933579 0 0.358373
-    outer loop
-    vertex 5.37414 -2.125 10.621
-    vertex 5.31599 -3.35 10.4696
-    vertex 5.37414 -3.35 10.621
-    endloop
-  endfacet
-  facet normal -0.933579 0 0.358373
-    outer loop
-    vertex 5.31599 -2.125 10.4696
-    vertex 5.31599 -3.35 10.4696
-    vertex 5.37414 -2.125 10.621
-    endloop
-  endfacet
-  facet normal -0.965927 0 0.258813
-    outer loop
-    vertex 5.41613 -2.125 10.7777
-    vertex 5.37414 -3.35 10.621
-    vertex 5.41613 -3.35 10.7777
-    endloop
-  endfacet
-  facet normal -0.965927 0 0.258813
-    outer loop
-    vertex 5.37414 -2.125 10.621
-    vertex 5.37414 -3.35 10.621
-    vertex 5.41613 -2.125 10.7777
-    endloop
-  endfacet
-  facet normal -0.987687 0 0.156445
-    outer loop
-    vertex 5.44151 -2.125 10.938
-    vertex 5.41613 -3.35 10.7777
-    vertex 5.44151 -3.35 10.938
-    endloop
-  endfacet
-  facet normal -0.987687 0 0.156445
-    outer loop
-    vertex 5.41613 -2.125 10.7777
-    vertex 5.41613 -3.35 10.7777
-    vertex 5.44151 -2.125 10.938
-    endloop
-  endfacet
-  facet normal -0.99863 0 0.0523242
-    outer loop
-    vertex 5.45 -2.125 11.1
-    vertex 5.44151 -3.35 10.938
-    vertex 5.45 -3.35 11.1
-    endloop
-  endfacet
-  facet normal -0.99863 0 0.0523242
-    outer loop
-    vertex 5.44151 -2.125 10.938
-    vertex 5.44151 -3.35 10.938
-    vertex 5.45 -2.125 11.1
-    endloop
-  endfacet
-  facet normal -0.99863 0 -0.0523245
-    outer loop
-    vertex 5.44151 -2.125 11.262
-    vertex 5.45 -3.35 11.1
-    vertex 5.44151 -3.35 11.262
-    endloop
-  endfacet
-  facet normal -0.99863 0 -0.0523245
-    outer loop
-    vertex 5.45 -2.125 11.1
-    vertex 5.45 -3.35 11.1
-    vertex 5.44151 -2.125 11.262
-    endloop
-  endfacet
-  facet normal -0.987687 0 -0.156445
-    outer loop
-    vertex 5.41613 -2.125 11.4223
-    vertex 5.44151 -3.35 11.262
-    vertex 5.41613 -3.35 11.4223
-    endloop
-  endfacet
-  facet normal -0.987687 0 -0.156445
-    outer loop
-    vertex 5.44151 -2.125 11.262
-    vertex 5.44151 -3.35 11.262
-    vertex 5.41613 -2.125 11.4223
-    endloop
-  endfacet
-  facet normal -0.965928 0 -0.258812
-    outer loop
-    vertex 5.37414 -2.125 11.579
-    vertex 5.41613 -3.35 11.4223
-    vertex 5.37414 -3.35 11.579
-    endloop
-  endfacet
-  facet normal -0.965928 0 -0.258812
-    outer loop
-    vertex 5.41613 -2.125 11.4223
-    vertex 5.41613 -3.35 11.4223
-    vertex 5.37414 -2.125 11.579
-    endloop
-  endfacet
-  facet normal -0.933579 0 -0.358373
-    outer loop
-    vertex 5.31599 -2.125 11.7304
-    vertex 5.37414 -3.35 11.579
-    vertex 5.31599 -3.35 11.7304
-    endloop
-  endfacet
-  facet normal -0.933579 0 -0.358373
-    outer loop
-    vertex 5.37414 -2.125 11.579
-    vertex 5.37414 -3.35 11.579
-    vertex 5.31599 -2.125 11.7304
-    endloop
-  endfacet
-  facet normal -0.891006 0 -0.453991
-    outer loop
-    vertex 5.24234 -2.125 11.875
-    vertex 5.31599 -3.35 11.7304
-    vertex 5.24234 -3.35 11.875
-    endloop
-  endfacet
-  facet normal -0.891006 0 -0.453991
-    outer loop
-    vertex 5.31599 -2.125 11.7304
-    vertex 5.31599 -3.35 11.7304
-    vertex 5.24234 -2.125 11.875
-    endloop
-  endfacet
-  facet normal -0.838676 0 -0.54463
-    outer loop
-    vertex 5.15398 -2.125 12.0111
-    vertex 5.24234 -3.35 11.875
-    vertex 5.15398 -3.35 12.0111
-    endloop
-  endfacet
-  facet normal -0.838676 0 -0.54463
-    outer loop
-    vertex 5.24234 -2.125 11.875
-    vertex 5.24234 -3.35 11.875
-    vertex 5.15398 -2.125 12.0111
-    endloop
-  endfacet
-  facet normal -0.777145 0 -0.629322
-    outer loop
-    vertex 5.05187 -2.125 12.1372
-    vertex 5.15398 -3.35 12.0111
-    vertex 5.05187 -3.35 12.1372
-    endloop
-  endfacet
-  facet normal -0.777145 0 -0.629322
-    outer loop
-    vertex 5.15398 -2.125 12.0111
-    vertex 5.15398 -3.35 12.0111
-    vertex 5.05187 -2.125 12.1372
-    endloop
-  endfacet
-  facet normal -0.707107 0 -0.707107
-    outer loop
-    vertex 4.93715 -2.125 12.2519
-    vertex 5.05187 -3.35 12.1372
-    vertex 4.93715 -3.35 12.2519
-    endloop
-  endfacet
-  facet normal -0.707107 0 -0.707107
-    outer loop
-    vertex 5.05187 -2.125 12.1372
-    vertex 5.05187 -3.35 12.1372
-    vertex 4.93715 -2.125 12.2519
-    endloop
-  endfacet
-  facet normal -0.629315 0 -0.77715
-    outer loop
-    vertex 4.81107 -2.125 12.354
-    vertex 4.93715 -3.35 12.2519
-    vertex 4.81107 -3.35 12.354
-    endloop
-  endfacet
-  facet normal -0.629315 0 -0.77715
-    outer loop
-    vertex 4.93715 -2.125 12.2519
-    vertex 4.93715 -3.35 12.2519
-    vertex 4.81107 -2.125 12.354
-    endloop
-  endfacet
   facet normal -0.54464 0 -0.83867
     outer loop
     vertex 4.81107 -2.125 12.354
@@ -30930,6 +30664,328 @@ solid extruder_idler_bearing.stl
     vertex 4.675 -3.35 12.4423
     vertex 4.675 0.600001 12.4423
     vertex 4.81107 -2.125 12.354
+    endloop
+  endfacet
+  facet normal -0.629315 0 -0.77715
+    outer loop
+    vertex 4.81107 -2.125 12.354
+    vertex 4.93715 -3.35 12.2519
+    vertex 4.81107 -3.35 12.354
+    endloop
+  endfacet
+  facet normal -0.707107 0 -0.707107
+    outer loop
+    vertex 4.93715 -2.125 12.2519
+    vertex 5.05187 -3.35 12.1372
+    vertex 4.93715 -3.35 12.2519
+    endloop
+  endfacet
+  facet normal -0.629315 0 -0.77715
+    outer loop
+    vertex 4.93715 -2.125 12.2519
+    vertex 4.93715 -3.35 12.2519
+    vertex 4.81107 -2.125 12.354
+    endloop
+  endfacet
+  facet normal -0.777145 0 -0.629322
+    outer loop
+    vertex 5.05187 -2.125 12.1372
+    vertex 5.15398 -3.35 12.0111
+    vertex 5.05187 -3.35 12.1372
+    endloop
+  endfacet
+  facet normal -0.707107 0 -0.707107
+    outer loop
+    vertex 5.05187 -2.125 12.1372
+    vertex 5.05187 -3.35 12.1372
+    vertex 4.93715 -2.125 12.2519
+    endloop
+  endfacet
+  facet normal -0.838676 0 -0.54463
+    outer loop
+    vertex 5.15398 -2.125 12.0111
+    vertex 5.24234 -3.35 11.875
+    vertex 5.15398 -3.35 12.0111
+    endloop
+  endfacet
+  facet normal -0.777145 0 -0.629322
+    outer loop
+    vertex 5.15398 -2.125 12.0111
+    vertex 5.15398 -3.35 12.0111
+    vertex 5.05187 -2.125 12.1372
+    endloop
+  endfacet
+  facet normal -0.891006 0 -0.453991
+    outer loop
+    vertex 5.24234 -2.125 11.875
+    vertex 5.31599 -3.35 11.7304
+    vertex 5.24234 -3.35 11.875
+    endloop
+  endfacet
+  facet normal -0.838676 0 -0.54463
+    outer loop
+    vertex 5.24234 -2.125 11.875
+    vertex 5.24234 -3.35 11.875
+    vertex 5.15398 -2.125 12.0111
+    endloop
+  endfacet
+  facet normal -0.933579 0 -0.358373
+    outer loop
+    vertex 5.31599 -2.125 11.7304
+    vertex 5.37414 -3.35 11.579
+    vertex 5.31599 -3.35 11.7304
+    endloop
+  endfacet
+  facet normal -0.891006 0 -0.453991
+    outer loop
+    vertex 5.31599 -2.125 11.7304
+    vertex 5.31599 -3.35 11.7304
+    vertex 5.24234 -2.125 11.875
+    endloop
+  endfacet
+  facet normal -0.965928 0 -0.258812
+    outer loop
+    vertex 5.37414 -2.125 11.579
+    vertex 5.41613 -3.35 11.4223
+    vertex 5.37414 -3.35 11.579
+    endloop
+  endfacet
+  facet normal -0.933579 0 -0.358373
+    outer loop
+    vertex 5.37414 -2.125 11.579
+    vertex 5.37414 -3.35 11.579
+    vertex 5.31599 -2.125 11.7304
+    endloop
+  endfacet
+  facet normal -0.987687 0 -0.156445
+    outer loop
+    vertex 5.41613 -2.125 11.4223
+    vertex 5.44151 -3.35 11.262
+    vertex 5.41613 -3.35 11.4223
+    endloop
+  endfacet
+  facet normal -0.965928 0 -0.258812
+    outer loop
+    vertex 5.41613 -2.125 11.4223
+    vertex 5.41613 -3.35 11.4223
+    vertex 5.37414 -2.125 11.579
+    endloop
+  endfacet
+  facet normal -0.99863 0 -0.0523245
+    outer loop
+    vertex 5.44151 -2.125 11.262
+    vertex 5.45 -3.35 11.1
+    vertex 5.44151 -3.35 11.262
+    endloop
+  endfacet
+  facet normal -0.987687 0 -0.156445
+    outer loop
+    vertex 5.44151 -2.125 11.262
+    vertex 5.44151 -3.35 11.262
+    vertex 5.41613 -2.125 11.4223
+    endloop
+  endfacet
+  facet normal -0.99863 0 0.0523242
+    outer loop
+    vertex 5.45 -2.125 11.1
+    vertex 5.44151 -3.35 10.938
+    vertex 5.45 -3.35 11.1
+    endloop
+  endfacet
+  facet normal -0.99863 0 -0.0523245
+    outer loop
+    vertex 5.45 -2.125 11.1
+    vertex 5.45 -3.35 11.1
+    vertex 5.44151 -2.125 11.262
+    endloop
+  endfacet
+  facet normal -0.987687 0 0.156445
+    outer loop
+    vertex 5.44151 -2.125 10.938
+    vertex 5.41613 -3.35 10.7777
+    vertex 5.44151 -3.35 10.938
+    endloop
+  endfacet
+  facet normal -0.99863 0 0.0523242
+    outer loop
+    vertex 5.44151 -2.125 10.938
+    vertex 5.44151 -3.35 10.938
+    vertex 5.45 -2.125 11.1
+    endloop
+  endfacet
+  facet normal -0.965927 0 0.258813
+    outer loop
+    vertex 5.41613 -2.125 10.7777
+    vertex 5.37414 -3.35 10.621
+    vertex 5.41613 -3.35 10.7777
+    endloop
+  endfacet
+  facet normal -0.987687 0 0.156445
+    outer loop
+    vertex 5.41613 -2.125 10.7777
+    vertex 5.41613 -3.35 10.7777
+    vertex 5.44151 -2.125 10.938
+    endloop
+  endfacet
+  facet normal -0.933579 0 0.358373
+    outer loop
+    vertex 5.37414 -2.125 10.621
+    vertex 5.31599 -3.35 10.4696
+    vertex 5.37414 -3.35 10.621
+    endloop
+  endfacet
+  facet normal -0.965927 0 0.258813
+    outer loop
+    vertex 5.37414 -2.125 10.621
+    vertex 5.37414 -3.35 10.621
+    vertex 5.41613 -2.125 10.7777
+    endloop
+  endfacet
+  facet normal -0.891006 0 0.453991
+    outer loop
+    vertex 5.31599 -2.125 10.4696
+    vertex 5.24234 -3.35 10.325
+    vertex 5.31599 -3.35 10.4696
+    endloop
+  endfacet
+  facet normal -0.933579 0 0.358373
+    outer loop
+    vertex 5.31599 -2.125 10.4696
+    vertex 5.31599 -3.35 10.4696
+    vertex 5.37414 -2.125 10.621
+    endloop
+  endfacet
+  facet normal -0.838676 0 0.54463
+    outer loop
+    vertex 5.24234 -2.125 10.325
+    vertex 5.15398 -3.35 10.1889
+    vertex 5.24234 -3.35 10.325
+    endloop
+  endfacet
+  facet normal -0.891006 0 0.453991
+    outer loop
+    vertex 5.24234 -2.125 10.325
+    vertex 5.24234 -3.35 10.325
+    vertex 5.31599 -2.125 10.4696
+    endloop
+  endfacet
+  facet normal -0.777145 0 0.629322
+    outer loop
+    vertex 5.15398 -2.125 10.1889
+    vertex 5.05187 -3.35 10.0628
+    vertex 5.15398 -3.35 10.1889
+    endloop
+  endfacet
+  facet normal -0.838676 0 0.54463
+    outer loop
+    vertex 5.15398 -2.125 10.1889
+    vertex 5.15398 -3.35 10.1889
+    vertex 5.24234 -2.125 10.325
+    endloop
+  endfacet
+  facet normal -0.707107 0 0.707107
+    outer loop
+    vertex 5.05187 -2.125 10.0628
+    vertex 4.93715 -3.35 9.94813
+    vertex 5.05187 -3.35 10.0628
+    endloop
+  endfacet
+  facet normal -0.777145 0 0.629322
+    outer loop
+    vertex 5.05187 -2.125 10.0628
+    vertex 5.05187 -3.35 10.0628
+    vertex 5.15398 -2.125 10.1889
+    endloop
+  endfacet
+  facet normal -0.629322 0 0.777145
+    outer loop
+    vertex 4.93715 -2.125 9.94813
+    vertex 4.81107 -3.35 9.84602
+    vertex 4.93715 -3.35 9.94813
+    endloop
+  endfacet
+  facet normal -0.707107 0 0.707107
+    outer loop
+    vertex 4.93715 -2.125 9.94813
+    vertex 4.93715 -3.35 9.94813
+    vertex 5.05187 -2.125 10.0628
+    endloop
+  endfacet
+  facet normal -0.544631 0 0.838675
+    outer loop
+    vertex 4.81107 -2.125 9.84602
+    vertex 4.675 -3.35 9.75766
+    vertex 4.81107 -3.35 9.84602
+    endloop
+  endfacet
+  facet normal -0.629322 0 0.777145
+    outer loop
+    vertex 4.81107 -2.125 9.84602
+    vertex 4.81107 -3.35 9.84602
+    vertex 4.93715 -2.125 9.94813
+    endloop
+  endfacet
+  facet normal -0.453991 0 0.891006
+    outer loop
+    vertex 4.675 -2.125 9.75766
+    vertex 4.53044 -3.35 9.684
+    vertex 4.675 -3.35 9.75766
+    endloop
+  endfacet
+  facet normal -0.544631 0 0.838675
+    outer loop
+    vertex 4.675 -2.125 9.75766
+    vertex 4.675 -3.35 9.75766
+    vertex 4.81107 -2.125 9.84602
+    endloop
+  endfacet
+  facet normal -0.358368 0 0.933581
+    outer loop
+    vertex 4.53044 -2.125 9.684
+    vertex 4.37898 -3.35 9.62586
+    vertex 4.53044 -3.35 9.684
+    endloop
+  endfacet
+  facet normal -0.453991 0 0.891006
+    outer loop
+    vertex 4.53044 -2.125 9.684
+    vertex 4.53044 -3.35 9.684
+    vertex 4.675 -2.125 9.75766
+    endloop
+  endfacet
+  facet normal -0.258818 0 0.965926
+    outer loop
+    vertex 4.37898 -2.125 9.62586
+    vertex 4.22226 -3.35 9.58387
+    vertex 4.37898 -3.35 9.62586
+    endloop
+  endfacet
+  facet normal -0.358368 0 0.933581
+    outer loop
+    vertex 4.37898 -2.125 9.62586
+    vertex 4.37898 -3.35 9.62586
+    vertex 4.53044 -2.125 9.684
+    endloop
+  endfacet
+  facet normal -0.156435 0 0.987688
+    outer loop
+    vertex 4.22226 -2.125 9.58387
+    vertex 4.06202 -3.35 9.55849
+    vertex 4.22226 -3.35 9.58387
+    endloop
+  endfacet
+  facet normal -0.258818 0 0.965926
+    outer loop
+    vertex 4.22226 -2.125 9.58387
+    vertex 4.22226 -3.35 9.58387
+    vertex 4.37898 -2.125 9.62586
+    endloop
+  endfacet
+  facet normal -0.156435 0 0.987688
+    outer loop
+    vertex 4.06202 -2.125 9.55849
+    vertex 4.06202 -3.35 9.55849
+    vertex 4.22226 -2.125 9.58387
     endloop
   endfacet
   facet normal 0.558249 0 -0.829673
@@ -31653,11 +31709,25 @@ solid extruder_idler_bearing.stl
     vertex 2.70783 0.600001 13.5225
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal -0 1 0
     outer loop
     vertex 3.125 0.600001 12.4423
     vertex 2.70783 0.600001 13.5225
-    vertex 3.53266 0.600001 12.85
+    vertex 2.90407 0.600001 13.6096
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.1066 0.600001 13.6808
+    vertex 3.125 0.600001 12.4423
+    vertex 2.90407 0.600001 13.6096
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.1066 0.600001 13.6808
+    vertex 3.83109 0.600001 12.85
+    vertex 3.125 0.600001 12.4423
     endloop
   endfacet
   facet normal 0.629315 0 -0.77715
@@ -32348,9 +32418,16 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 1 -0
     outer loop
+    vertex 4.79537 0.600001 13.6472
+    vertex 4.675 0.600001 12.4423
+    vertex 3.96891 0.600001 12.85
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
     vertex 4.99492 0.600001 13.568
     vertex 4.675 0.600001 12.4423
-    vertex 4.26734 0.600001 12.85
+    vertex 4.79537 0.600001 13.6472
     endloop
   endfacet
   facet normal 0 1 0
@@ -33158,73 +33235,94 @@ solid extruder_idler_bearing.stl
     vertex 2.51912 0.600001 13.4202
     endloop
   endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.16798 0.600001 13.7867
-    vertex 4.26734 0.600001 12.85
-    vertex 3.95368 0.600001 13.7995
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.95368 0.600001 13.7995
-    vertex 4.26734 0.600001 12.85
-    vertex 3.53266 0.600001 12.85
-    endloop
-  endfacet
   facet normal 0 1 -0
     outer loop
+    vertex 4.16798 0.600001 13.7867
+    vertex 3.96891 0.600001 12.85
+    vertex 3.95368 0.600001 13.7995
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.95368 0.600001 13.7995
+    vertex 3.96891 0.600001 12.85
+    vertex 3.83109 0.600001 12.85
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
     vertex 4.38059 0.600001 13.7569
-    vertex 4.26734 0.600001 12.85
+    vertex 3.96891 0.600001 12.85
     vertex 4.16798 0.600001 13.7867
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex 4.59016 0.600001 13.7103
-    vertex 4.26734 0.600001 12.85
+    vertex 3.96891 0.600001 12.85
     vertex 4.38059 0.600001 13.7569
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex 4.79537 0.600001 13.6472
-    vertex 4.26734 0.600001 12.85
+    vertex 3.96891 0.600001 12.85
     vertex 4.59016 0.600001 13.7103
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal 0.500006 2.41851e-007 -0.866022
     outer loop
-    vertex 4.99492 0.600001 13.568
-    vertex 4.26734 0.600001 12.85
-    vertex 4.79537 0.600001 13.6472
+    vertex 3.63819 9.20941 12.7386
+    vertex 3.73145 9.25084 12.7925
+    vertex 3.83109 5 12.85
     endloop
   endfacet
-  facet normal 0.707115 7.22637e-007 -0.707099
+  facet normal 0.499998 -2.38883e-007 -0.866026
     outer loop
-    vertex 3.53266 5 12.85
-    vertex 3.29524 9.179 12.6126
-    vertex 3.38607 9.23376 12.7034
+    vertex 3.83109 5 12.85
+    vertex 3.54809 9.17517 12.6866
+    vertex 3.63819 9.20941 12.7386
     endloop
   endfacet
-  facet normal 0.707105 3.81537e-008 -0.707109
+  facet normal 0.500004 2.58206e-007 -0.866023
+    outer loop
+    vertex 3.83109 5 12.85
+    vertex 3.46054 9.14769 12.6361
+    vertex 3.54809 9.17517 12.6866
+    endloop
+  endfacet
+  facet normal 0.500009 -1.01056e-006 -0.86602
+    outer loop
+    vertex 3.37498 9.12665 12.5867
+    vertex 3.46054 9.14769 12.6361
+    vertex 3.125 5 12.4423
+    endloop
+  endfacet
+  facet normal 0.500001 -9.23132e-008 -0.866025
     outer loop
     vertex 3.125 5 12.4423
-    vertex 3.20852 9.13468 12.5259
-    vertex 3.29524 9.179 12.6126
+    vertex 3.46054 9.14769 12.6361
+    vertex 3.83109 5 12.85
     endloop
   endfacet
-  facet normal 0.707107 -1.54719e-007 -0.707106
+  facet normal 0.499989 6.07793e-007 -0.866032
     outer loop
     vertex 3.125 5 12.4423
-    vertex 3.29524 9.179 12.6126
-    vertex 3.53266 5 12.85
+    vertex 3.29086 9.11179 12.5381
+    vertex 3.37498 9.12665 12.5867
     endloop
   endfacet
-  facet normal 0.707106 0 -0.707108
+  facet normal 0.500001 -4.24948e-008 -0.866025
+    outer loop
+    vertex 3.125 5 12.4423
+    vertex 3.20769 9.10294 12.4901
+    vertex 3.29086 9.11179 12.5381
+    endloop
+  endfacet
+  facet normal 0.5 0 -0.866026
     outer loop
     vertex 3.125 9.1 12.4423
-    vertex 3.20852 9.13468 12.5259
+    vertex 3.20769 9.10294 12.4901
     vertex 3.125 5 12.4423
     endloop
   endfacet
@@ -33921,10 +34019,10 @@ solid extruder_idler_bearing.stl
     vertex 4.93715 7.15 12.2519
     endloop
   endfacet
-  facet normal -0.707111 0 -0.707103
+  facet normal -0.5 0 -0.866026
     outer loop
     vertex 4.675 5 12.4423
-    vertex 4.59148 9.13468 12.5259
+    vertex 4.59231 9.10294 12.4901
     vertex 4.675 9.1 12.4423
     endloop
   endfacet
@@ -33935,25 +34033,53 @@ solid extruder_idler_bearing.stl
     vertex 4.81107 7.15 12.354
     endloop
   endfacet
-  facet normal -0.707101 4.02853e-007 -0.707113
+  facet normal -0.500001 -4.24948e-008 -0.866025
     outer loop
+    vertex 4.50914 9.11179 12.5381
+    vertex 4.59231 9.10294 12.4901
     vertex 4.675 5 12.4423
-    vertex 4.50475 9.179 12.6126
-    vertex 4.59148 9.13468 12.5259
     endloop
   endfacet
-  facet normal -0.707116 7.85595e-007 -0.707098
+  facet normal -0.499997 2.04766e-007 -0.866027
     outer loop
-    vertex 4.26734 5 12.85
-    vertex 4.41393 9.23376 12.7034
-    vertex 4.50475 9.179 12.6126
+    vertex 4.675 5 12.4423
+    vertex 4.42502 9.12665 12.5867
+    vertex 4.50914 9.11179 12.5381
     endloop
   endfacet
-  facet normal -0.707108 -1.48072e-007 -0.707106
+  facet normal -0.500003 -2.91285e-007 -0.866024
     outer loop
-    vertex 4.26734 5 12.85
-    vertex 4.50475 9.179 12.6126
     vertex 4.675 5 12.4423
+    vertex 4.33945 9.14769 12.6361
+    vertex 4.42502 9.12665 12.5867
+    endloop
+  endfacet
+  facet normal -0.500003 1.39879e-007 -0.866024
+    outer loop
+    vertex 3.96891 5 12.85
+    vertex 4.25191 9.17517 12.6866
+    vertex 4.33945 9.14769 12.6361
+    endloop
+  endfacet
+  facet normal -0.500001 -7.72303e-008 -0.866025
+    outer loop
+    vertex 3.96891 5 12.85
+    vertex 4.33945 9.14769 12.6361
+    vertex 4.675 5 12.4423
+    endloop
+  endfacet
+  facet normal -0.499998 -2.66718e-007 -0.866026
+    outer loop
+    vertex 4.16181 9.20941 12.7386
+    vertex 4.25191 9.17517 12.6866
+    vertex 3.96891 5 12.85
+    endloop
+  endfacet
+  facet normal -0.500006 2.14096e-007 -0.866022
+    outer loop
+    vertex 3.96891 5 12.85
+    vertex 4.06855 9.25084 12.7925
+    vertex 4.16181 9.20941 12.7386
     endloop
   endfacet
   facet normal -0.54464 0 -0.83867
@@ -33986,8 +34112,15 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 4.79537 5 13.6472
+    vertex 4.675 5 12.4423
     vertex 4.99492 5 13.568
-    vertex 4.26734 5 12.85
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 4.79537 5 13.6472
+    vertex 3.96891 5 12.85
     vertex 4.675 5 12.4423
     endloop
   endfacet
@@ -34679,9 +34812,23 @@ solid extruder_idler_bearing.stl
   endfacet
   facet normal 0 -1 0
     outer loop
+    vertex 3.1066 5 13.6808
+    vertex 3.125 5 12.4423
+    vertex 3.83109 5 12.85
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.90407 5 13.6096
+    vertex 3.125 5 12.4423
+    vertex 3.1066 5 13.6808
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
     vertex 2.70783 5 13.5225
     vertex 3.125 5 12.4423
-    vertex 3.53266 5 12.85
+    vertex 2.90407 5 13.6096
     endloop
   endfacet
   facet normal 0 -1 0
@@ -35485,50 +35632,36 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex 3.73904 5 13.7952
-    vertex 3.53266 5 12.85
+    vertex 3.83109 5 12.85
     vertex 3.95368 5 13.7995
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.95368 5 13.7995
-    vertex 3.53266 5 12.85
-    vertex 4.26734 5 12.85
+    vertex 3.83109 5 12.85
+    vertex 3.96891 5 12.85
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.52541 5 13.7739
-    vertex 3.53266 5 12.85
+    vertex 3.83109 5 12.85
     vertex 3.73904 5 13.7952
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.31416 5 13.7357
-    vertex 3.53266 5 12.85
+    vertex 3.83109 5 12.85
     vertex 3.52541 5 13.7739
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.1066 5 13.6808
-    vertex 3.53266 5 12.85
+    vertex 3.83109 5 12.85
     vertex 3.31416 5 13.7357
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.90407 5 13.6096
-    vertex 3.53266 5 12.85
-    vertex 3.1066 5 13.6808
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.70783 5 13.5225
-    vertex 3.53266 5 12.85
-    vertex 2.90407 5 13.6096
     endloop
   endfacet
   facet normal -0.474042 -0.880363 0.0156815
@@ -37351,13 +37484,6 @@ solid extruder_idler_bearing.stl
     vertex 4.79537 5 13.6472
     endloop
   endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 4.79537 5 13.6472
-    vertex 4.26734 5 12.85
-    vertex 4.99492 5 13.568
-    endloop
-  endfacet
   facet normal 0.371203 -0.00254494 0.928548
     outer loop
     vertex 5.50678 5.7 14.7631
@@ -37403,7 +37529,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex 4.59016 5 13.7103
-    vertex 4.26734 5 12.85
+    vertex 3.96891 5 12.85
     vertex 4.79537 5 13.6472
     endloop
   endfacet
@@ -37438,7 +37564,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex 4.38059 5 13.7569
-    vertex 4.26734 5 12.85
+    vertex 3.96891 5 12.85
     vertex 4.59016 5 13.7103
     endloop
   endfacet
@@ -37473,7 +37599,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex 4.16798 5 13.7867
-    vertex 4.26734 5 12.85
+    vertex 3.96891 5 12.85
     vertex 4.38059 5 13.7569
     endloop
   endfacet
@@ -37508,7 +37634,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 -1 0
     outer loop
     vertex 3.95368 5 13.7995
-    vertex 4.26734 5 12.85
+    vertex 3.96891 5 12.85
     vertex 4.16798 5 13.7867
     endloop
   endfacet
@@ -39570,13 +39696,6 @@ solid extruder_idler_bearing.stl
     vertex 2.90407 0.600001 13.6096
     endloop
   endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 0.600001 12.85
-    vertex 2.70783 0.600001 13.5225
-    vertex 2.90407 0.600001 13.6096
-    endloop
-  endfacet
   facet normal -0.190497 0.880398 0.434292
     outer loop
     vertex 2.90407 0.600001 13.6096
@@ -39609,13 +39728,6 @@ solid extruder_idler_bearing.stl
     outer loop
     vertex 2.90407 0.600001 13.6096
     vertex 2.66393 -0.100001 14.9042
-    vertex 3.1066 0.600001 13.6808
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 0.600001 12.85
-    vertex 2.90407 0.600001 13.6096
     vertex 3.1066 0.600001 13.6808
     endloop
   endfacet
@@ -39664,7 +39776,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 1 0
     outer loop
     vertex 3.31416 0.600001 13.7357
-    vertex 3.53266 0.600001 12.85
+    vertex 3.83109 0.600001 12.85
     vertex 3.1066 0.600001 13.6808
     endloop
   endfacet
@@ -39699,7 +39811,7 @@ solid extruder_idler_bearing.stl
   facet normal 0 1 0
     outer loop
     vertex 3.52541 0.600001 13.7739
-    vertex 3.53266 0.600001 12.85
+    vertex 3.83109 0.600001 12.85
     vertex 3.31416 0.600001 13.7357
     endloop
   endfacet
@@ -39731,10 +39843,10 @@ solid extruder_idler_bearing.stl
     vertex 3.73904 0.600001 13.7952
     endloop
   endfacet
-  facet normal 0 1 -0
+  facet normal 0 1 0
     outer loop
     vertex 3.73904 0.600001 13.7952
-    vertex 3.53266 0.600001 12.85
+    vertex 3.83109 0.600001 12.85
     vertex 3.52541 0.600001 13.7739
     endloop
   endfacet
@@ -39766,10 +39878,10 @@ solid extruder_idler_bearing.stl
     vertex 3.95368 0.600001 13.7995
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal 0 1 -0
     outer loop
     vertex 3.95368 0.600001 13.7995
-    vertex 3.53266 0.600001 12.85
+    vertex 3.83109 0.600001 12.85
     vertex 3.73904 0.600001 13.7952
     endloop
   endfacet

@@ -2473,15 +2473,8 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.9178 -9.75 8.51126
-    vertex -11.9856 -9.75 7.3
-    vertex -13.7142 -9.75 8.65758
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex -13.9178 -9.75 8.51126
     vertex -12.4 -9.75 6.88564
-    vertex -11.9856 -9.75 7.3
+    vertex -13.7142 -9.75 8.65758
     endloop
   endfacet
   facet normal -0.586288 -0.000417029 0.810103
@@ -2529,7 +2522,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.7142 -9.75 8.65758
-    vertex -11.9856 -9.75 7.3
+    vertex -12.4 -9.75 6.88564
     vertex -13.5013 -9.75 8.79014
     endloop
   endfacet
@@ -2564,7 +2557,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.5013 -9.75 8.79014
-    vertex -11.9856 -9.75 7.3
+    vertex -12.4 -9.75 6.88564
     vertex -13.2802 -9.75 8.90837
     endloop
   endfacet
@@ -2599,8 +2592,15 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.2802 -9.75 8.90837
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -13.0517 -9.75 9.01177
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex -13.2802 -9.75 8.90837
+    vertex -12.4 -9.75 6.88564
+    vertex -11.6823 -9.75 7.3
     endloop
   endfacet
   facet normal -0.172055 -0.894114 0.413469
@@ -2634,7 +2634,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex -13.0517 -9.75 9.01177
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.817 -9.75 9.09986
     endloop
   endfacet
@@ -2669,7 +2669,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex -12.817 -9.75 9.09986
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.5769 -9.75 9.17229
     endloop
   endfacet
@@ -2704,7 +2704,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex -12.5769 -9.75 9.17229
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.3326 -9.75 9.22872
     endloop
   endfacet
@@ -2746,7 +2746,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex -12.3326 -9.75 9.22872
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.085 -9.75 9.26892
     endloop
   endfacet
@@ -2792,9 +2792,9 @@ solid extruder_idler_bondtech.stl
     vertex -11.8354 -9.75 9.2927
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal 0 -1 -0
     outer loop
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -11.8354 -9.75 9.2927
     vertex -12.085 -9.75 9.26892
     endloop
@@ -2829,7 +2829,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -11.5848 -9.75 9.29997
     vertex -11.8354 -9.75 9.2927
     endloop
@@ -2866,14 +2866,14 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex -11.3342 -9.75 9.29069
     vertex -11.5848 -9.75 9.29997
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -11.5848 -9.75 9.29997
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     endloop
   endfacet
   facet normal 0.0313031 -0.894113 0.446746
@@ -2906,7 +2906,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -11.0847 -9.75 9.2649
     vertex -11.3342 -9.75 9.29069
     endloop
@@ -2941,7 +2941,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -10.8375 -9.75 9.22272
     vertex -11.0847 -9.75 9.2649
     endloop
@@ -2978,7 +2978,7 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex -10.5937 -9.75 9.16433
     vertex -10.8375 -9.75 9.22272
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     endloop
   endfacet
   facet normal 0.108142 -0.894276 0.434254
@@ -3011,7 +3011,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -10.3542 -9.75 9.08998
     vertex -10.5937 -9.75 9.16433
     endloop
@@ -3053,7 +3053,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     vertex -10.1201 -9.75 9
     vertex -10.3542 -9.75 9.08998
     endloop
@@ -3111,7 +3111,7 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex -10.8 -9.75 6.88564
     vertex -10.1201 -9.75 9
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     endloop
   endfacet
   facet normal 0 -1 0
@@ -3648,36 +3648,36 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -11.9856 12.2 7.3
-    vertex -11.2144 -9.75 7.3
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 12.2 7.3
+    vertex -11.5177 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     endloop
   endfacet
-  facet normal -0.707106 0 -0.707107
+  facet normal -0.5 0 -0.866026
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -10.8 -9.75 6.88564
-    vertex -11.2144 -9.75 7.3
+    vertex -11.5177 -9.75 7.3
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex -11.2144 12.2 7.3
-    vertex -11.2144 -9.75 7.3
-    vertex -11.9856 12.2 7.3
+    vertex -11.5177 12.2 7.3
+    vertex -11.5177 -9.75 7.3
+    vertex -11.6823 12.2 7.3
     endloop
   endfacet
-  facet normal 0.707106 0 -0.707107
+  facet normal 0.5 0 -0.866026
     outer loop
     vertex -12.4 12.2 6.88564
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.4 -9.75 6.88564
     endloop
   endfacet
-  facet normal 0.707106 0 -0.707107
+  facet normal 0.5 0 -0.866026
     outer loop
-    vertex -11.9856 12.2 7.3
-    vertex -11.9856 -9.75 7.3
+    vertex -11.6823 12.2 7.3
+    vertex -11.6823 -9.75 7.3
     vertex -12.4 12.2 6.88564
     endloop
   endfacet
@@ -3688,11 +3688,11 @@ solid extruder_idler_bondtech.stl
     vertex -10.8 12.2 6.88564
     endloop
   endfacet
-  facet normal -0.707106 0 -0.707107
+  facet normal -0.5 0 -0.866026
     outer loop
     vertex -10.8 12.2 6.88564
     vertex -10.8 -9.75 6.88564
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     endloop
   endfacet
   facet normal -0.626928 4.52539e-005 -0.779078
@@ -7680,14 +7680,14 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -9.35841 12.2 7.33991
     vertex -9.22414 12.2 7.16291
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -9.22414 12.2 7.16291
     vertex -10.8 12.2 6.88564
     endloop
@@ -7722,7 +7722,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -9.50584 12.2 7.50612
     vertex -9.35841 12.2 7.33991
     endloop
@@ -7759,7 +7759,7 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex -9.66556 12.2 7.66055
     vertex -9.50584 12.2 7.50612
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     endloop
   endfacet
   facet normal 0.483851 0.706238 0.516832
@@ -7792,7 +7792,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -9.83664 12.2 7.80229
     vertex -9.66556 12.2 7.66055
     endloop
@@ -7827,7 +7827,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.2144 12.2 7.3
+    vertex -11.5177 12.2 7.3
     vertex -10.0181 12.2 7.93053
     vertex -9.83664 12.2 7.80229
     endloop
@@ -7878,7 +7878,14 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex -13.1709 12.2 7.93767
     vertex -10.0181 12.2 7.93053
-    vertex -11.2144 12.2 7.3
+    vertex -11.6823 12.2 7.3
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -11.6823 12.2 7.3
+    vertex -10.0181 12.2 7.93053
+    vertex -11.5177 12.2 7.3
     endloop
   endfacet
   facet normal 0.514435 0.00119353 0.857528
@@ -8429,15 +8436,8 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     vertex -13.3529 12.2 7.81025
-    vertex -13.1709 12.2 7.93767
-    endloop
-  endfacet
-  facet normal 0 1 -0
-    outer loop
-    vertex -11.2144 12.2 7.3
-    vertex -11.9856 12.2 7.3
     vertex -13.1709 12.2 7.93767
     endloop
   endfacet
@@ -8471,7 +8471,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     vertex -13.5246 12.2 7.66928
     vertex -13.3529 12.2 7.81025
     endloop
@@ -8508,7 +8508,7 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex -13.6851 12.2 7.51557
     vertex -13.5246 12.2 7.66928
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     endloop
   endfacet
   facet normal -0.509641 0.705815 0.492028
@@ -8541,7 +8541,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     vertex -13.8332 12.2 7.35004
     vertex -13.6851 12.2 7.51557
     endloop
@@ -8576,7 +8576,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     vertex -13.9683 12.2 7.17365
     vertex -13.8332 12.2 7.35004
     endloop
@@ -8620,7 +8620,7 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex -12.4 12.2 6.88564
     vertex -13.9683 12.2 7.17365
-    vertex -11.9856 12.2 7.3
+    vertex -11.6823 12.2 7.3
     endloop
   endfacet
   facet normal -0.601589 0.706066 0.373578
@@ -9351,9 +9351,9 @@ solid extruder_idler_bondtech.stl
     vertex 3.91727 4.10038 6.00179
     endloop
   endfacet
-  facet normal -0.000589477 0.664642 0.747162
+  facet normal -0.000341603 0.901402 0.432983
     outer loop
-    vertex 3.7847 4.35 6.50111
+    vertex 3.89483 4.35 6.5
     vertex 3.74638 4.349 6.50197
     vertex 4.06308 4.349 6.50222
     endloop
@@ -9379,18 +9379,25 @@ solid extruder_idler_bondtech.stl
     vertex 4.36855 3.81928 6.51833
     endloop
   endfacet
-  facet normal -0.0311129 0.012451 0.999438
+  facet normal -0.0415934 0.00639742 0.999114
     outer loop
-    vertex 4.10704 4.35 6.50357
+    vertex 4.23557 4.35 6.50939
     vertex 4.06308 4.349 6.50222
     vertex 4.36855 3.81928 6.51833
     endloop
   endfacet
-  facet normal -0.00535398 -0.714056 0.700069
+  facet normal -0.0131606 0 0.999913
     outer loop
-    vertex 3.7847 4.35 6.50111
+    vertex 3.89483 4.35 6.5
     vertex 4.06308 4.349 6.50222
-    vertex 4.10704 4.35 6.50357
+    vertex 4.06308 4.35 6.50222
+    endloop
+  endfacet
+  facet normal -0.0415572 0 0.999136
+    outer loop
+    vertex 4.06308 4.35 6.50222
+    vertex 4.06308 4.349 6.50222
+    vertex 4.23557 4.35 6.50939
     endloop
   endfacet
   facet normal 0.00432918 -0.894879 0.446288
@@ -9414,18 +9421,25 @@ solid extruder_idler_bondtech.stl
     vertex 3.44607 3.85 5.51473
     endloop
   endfacet
-  facet normal 0.04112 0.611646 0.790062
+  facet normal 0.0230948 0.895861 0.443735
     outer loop
-    vertex 3.46268 4.35 6.51596
+    vertex 3.55848 4.35 6.50973
     vertex 3.43011 4.349 6.51843
     vertex 3.74638 4.349 6.50197
     endloop
   endfacet
-  facet normal 0.0341253 -0.671786 0.739958
+  facet normal 0.0409865 0.296519 0.954147
     outer loop
-    vertex 3.46268 4.35 6.51596
+    vertex 3.55848 4.35 6.50973
     vertex 3.74638 4.349 6.50197
-    vertex 3.7847 4.35 6.50111
+    vertex 3.72659 4.35 6.50251
+    endloop
+  endfacet
+  facet normal 0.0144541 -0.237767 0.971215
+    outer loop
+    vertex 3.72659 4.35 6.50251
+    vertex 3.74638 4.349 6.50197
+    vertex 3.89483 4.35 6.5
     endloop
   endfacet
   facet normal -0.77659 -0.446754 0.444205
@@ -9498,18 +9512,25 @@ solid extruder_idler_bondtech.stl
     vertex 3.11514 4.349 6.55155
     endloop
   endfacet
-  facet normal 0.0876383 0.545889 0.833262
+  facet normal 0.0490067 0.883451 0.465954
     outer loop
-    vertex 3.14193 4.35 6.54808
+    vertex 3.22321 4.35 6.53829
     vertex 3.11514 4.349 6.55155
     vertex 3.43011 4.349 6.51843
     endloop
   endfacet
-  facet normal 0.0782337 -0.619409 0.781161
+  facet normal 0.0815333 0.565457 0.820738
     outer loop
-    vertex 3.14193 4.35 6.54808
+    vertex 3.22321 4.35 6.53829
     vertex 3.43011 4.349 6.51843
-    vertex 3.46268 4.35 6.51596
+    vertex 3.39065 4.35 6.52166
+    endloop
+  endfacet
+  facet normal 0.0652642 -0.391034 0.91806
+    outer loop
+    vertex 3.39065 4.35 6.52166
+    vertex 3.43011 4.349 6.51843
+    vertex 3.55848 4.35 6.50973
     endloop
   endfacet
   facet normal 0.0603818 -0.894449 0.443075
@@ -9533,18 +9554,25 @@ solid extruder_idler_bondtech.stl
     vertex 2.80237 4.349 6.60125
     endloop
   endfacet
-  facet normal 0.138914 0.465213 0.874231
+  facet normal 0.0799196 0.860607 0.502959
     outer loop
-    vertex 2.82336 4.35 6.59739
+    vertex 2.89006 4.35 6.58561
     vertex 2.80237 4.349 6.60125
     vertex 3.11514 4.349 6.55155
     endloop
   endfacet
-  facet normal 0.127331 -0.553998 0.822723
+  facet normal 0.102589 0.747658 0.656112
     outer loop
-    vertex 2.82336 4.35 6.59739
+    vertex 2.89006 4.35 6.58561
     vertex 3.11514 4.349 6.55155
-    vertex 3.14193 4.35 6.54808
+    vertex 3.0563 4.35 6.55962
+    endloop
+  endfacet
+  facet normal 0.111526 -0.4748 0.872999
+    outer loop
+    vertex 3.0563 4.35 6.55962
+    vertex 3.11514 4.349 6.55155
+    vertex 3.22321 4.35 6.53829
     endloop
   endfacet
   facet normal 0.0811496 -0.89444 0.439763
@@ -9568,18 +9596,18 @@ solid extruder_idler_bondtech.stl
     vertex 2.49265 4.349 6.66739
     endloop
   endfacet
-  facet normal 0.194298 0.366439 0.909929
+  facet normal 0.11231 0.843058 0.525966
     outer loop
-    vertex 2.50791 4.35 6.66373
+    vertex 2.72462 4.35 6.61625
     vertex 2.49265 4.349 6.66739
     vertex 2.80237 4.349 6.60125
     endloop
   endfacet
-  facet normal 0.181418 -0.472154 0.862646
+  facet normal 0.157002 -0.50684 0.847622
     outer loop
-    vertex 2.50791 4.35 6.66373
+    vertex 2.72462 4.35 6.61625
     vertex 2.80237 4.349 6.60125
-    vertex 2.82336 4.35 6.59739
+    vertex 2.89006 4.35 6.58561
     endloop
   endfacet
   facet normal 0.101725 -0.894467 0.435408
@@ -9603,18 +9631,25 @@ solid extruder_idler_bondtech.stl
     vertex 2.18685 4.349 6.74977
     endloop
   endfacet
-  facet normal 0.251985 0.248313 0.935331
+  facet normal 0.126521 0.873751 0.46963
     outer loop
-    vertex 2.19647 4.35 6.74692
+    vertex 2.39662 4.35 6.6914
     vertex 2.18685 4.349 6.74977
     vertex 2.49265 4.349 6.66739
     endloop
   endfacet
-  facet normal 0.23953 -0.372117 0.896747
+  facet normal 0.205779 -0.495879 0.843658
     outer loop
-    vertex 2.19647 4.35 6.74692
+    vertex 2.39662 4.35 6.6914
     vertex 2.49265 4.349 6.66739
-    vertex 2.50791 4.35 6.66373
+    vertex 2.56009 4.35 6.65153
+    endloop
+  endfacet
+  facet normal 0.123454 0.808189 0.575839
+    outer loop
+    vertex 2.56009 4.35 6.65153
+    vertex 2.49265 4.349 6.66739
+    vertex 2.72462 4.35 6.61625
     endloop
   endfacet
   facet normal 0.122049 -0.89453 0.430024
@@ -9645,18 +9680,25 @@ solid extruder_idler_bondtech.stl
     vertex 1.88582 4.349 6.84818
     endloop
   endfacet
-  facet normal 0.308709 0.113546 0.944355
+  facet normal 0.141245 0.890708 0.432075
     outer loop
-    vertex 1.88995 4.35 6.84671
+    vertex 2.07336 4.35 6.78481
     vertex 1.88582 4.349 6.84818
     vertex 2.18685 4.349 6.74977
     endloop
   endfacet
-  facet normal 0.299516 -0.252852 0.919976
+  facet normal 0.261404 -0.439744 0.85924
     outer loop
-    vertex 1.88995 4.35 6.84671
+    vertex 2.07336 4.35 6.78481
     vertex 2.18685 4.349 6.74977
-    vertex 2.19647 4.35 6.74692
+    vertex 2.23434 4.35 6.73584
+    endloop
+  endfacet
+  facet normal 0.196462 0.668336 0.717446
+    outer loop
+    vertex 2.23434 4.35 6.73584
+    vertex 2.18685 4.349 6.74977
+    vertex 2.39662 4.35 6.6914
     endloop
   endfacet
   facet normal 0.14207 -0.894628 0.423624
@@ -9680,18 +9722,25 @@ solid extruder_idler_bondtech.stl
     vertex 1.59041 4.349 6.96233
     endloop
   endfacet
-  facet normal 0.360222 -0.0345425 0.932227
+  facet normal 0.157582 0.899366 0.40781
     outer loop
-    vertex 1.58923 4.35 6.96282
+    vertex 1.75584 4.35 6.8962
     vertex 1.59041 4.349 6.96233
     vertex 1.88582 4.349 6.84818
     endloop
   endfacet
-  facet normal 0.357815 -0.114877 0.926699
+  facet normal 0.325609 -0.324432 0.888101
     outer loop
-    vertex 1.58923 4.35 6.96282
+    vertex 1.75584 4.35 6.8962
     vertex 1.88582 4.349 6.84818
-    vertex 1.88995 4.35 6.84671
+    vertex 1.91382 4.35 6.83828
+    endloop
+  endfacet
+  facet normal 0.285372 0.439882 0.851508
+    outer loop
+    vertex 1.91382 4.35 6.83828
+    vertex 1.88582 4.349 6.84818
+    vertex 2.07336 4.35 6.78481
     endloop
   endfacet
   facet normal 0.161734 -0.894761 0.416226
@@ -9722,11 +9771,25 @@ solid extruder_idler_bondtech.stl
     vertex 1.30143 4.349 7.09191
     endloop
   endfacet
-  facet normal 0.408933 0.0330747 0.911965
+  facet normal 0.176623 0.902029 0.393888
     outer loop
-    vertex 1.58923 4.35 6.96282
+    vertex 1.44507 4.35 7.02521
     vertex 1.30143 4.349 7.09191
     vertex 1.59041 4.349 6.96233
+    endloop
+  endfacet
+  facet normal 0.392945 -0.130236 0.910293
+    outer loop
+    vertex 1.44507 4.35 7.02521
+    vertex 1.59041 4.349 6.96233
+    vertex 1.59955 4.35 6.95853
+    endloop
+  endfacet
+  facet normal 0.366521 0.144729 0.919084
+    outer loop
+    vertex 1.59955 4.35 6.95853
+    vertex 1.59041 4.349 6.96233
+    vertex 1.75584 4.35 6.8962
     endloop
   endfacet
   facet normal -0 -1 0
@@ -9757,18 +9820,25 @@ solid extruder_idler_bondtech.stl
     vertex 1.01969 4.349 7.23656
     endloop
   endfacet
-  facet normal 0.449572 0.17637 0.875659
+  facet normal 0.199688 0.899359 0.388944
     outer loop
-    vertex 1.29518 4.35 7.09492
+    vertex 1.14201 4.35 7.17144
     vertex 1.01969 4.349 7.23656
     vertex 1.30143 4.349 7.09191
     endloop
   endfacet
-  facet normal 0.403128 -0.179457 0.897376
+  facet normal 0.442455 0.144752 0.885031
     outer loop
-    vertex 1.29518 4.35 7.09492
+    vertex 1.14201 4.35 7.17144
     vertex 1.30143 4.349 7.09191
-    vertex 1.58923 4.35 6.96282
+    vertex 1.29251 4.35 7.0962
+    endloop
+  endfacet
+  facet normal 0.418323 -0.130154 0.898925
+    outer loop
+    vertex 1.29251 4.35 7.0962
+    vertex 1.30143 4.349 7.09191
+    vertex 1.44507 4.35 7.02521
     endloop
   endfacet
   facet normal 0.218914 -0.894504 0.389794
@@ -9792,18 +9862,25 @@ solid extruder_idler_bondtech.stl
     vertex 0.74598 4.349 7.39587
     endloop
   endfacet
-  facet normal 0.479217 0.304067 0.823344
+  facet normal 0.228699 0.890676 0.392929
     outer loop
-    vertex 1.00865 4.35 7.24262
+    vertex 0.847634 4.35 7.33443
     vertex 0.74598 4.349 7.39587
     vertex 1.01969 4.349 7.23656
     endloop
   endfacet
-  facet normal 0.435706 -0.309345 0.845261
+  facet normal 0.446024 0.439697 0.77957
     outer loop
-    vertex 1.00865 4.35 7.24262
+    vertex 0.847634 4.35 7.33443
     vertex 1.01969 4.349 7.23656
-    vertex 1.29518 4.35 7.09492
+    vertex 0.993681 4.35 7.25088
+    endloop
+  endfacet
+  facet normal 0.446504 -0.324631 0.833816
+    outer loop
+    vertex 0.993681 4.35 7.25088
+    vertex 1.01969 4.349 7.23656
+    vertex 1.14201 4.35 7.17144
     endloop
   endfacet
   facet normal 0.237054 -0.894454 0.379154
@@ -9827,18 +9904,25 @@ solid extruder_idler_bondtech.stl
     vertex 0.481054 4.349 7.5694
     endloop
   endfacet
-  facet normal 0.499025 0.413 0.761843
+  facet normal 0.266617 0.873635 0.407035
     outer loop
-    vertex 0.730464 4.35 7.40549
+    vertex 0.562855 4.35 7.51367
     vertex 0.481054 4.349 7.5694
     vertex 0.74598 4.349 7.39587
     endloop
   endfacet
-  facet normal 0.458451 -0.42035 0.783026
+  facet normal 0.405095 0.668185 0.62404
     outer loop
-    vertex 0.730464 4.35 7.40549
+    vertex 0.562855 4.35 7.51367
     vertex 0.74598 4.349 7.39587
-    vertex 1.00865 4.35 7.24262
+    vertex 0.703987 4.35 7.42206
+    endloop
+  endfacet
+  facet normal 0.4676 -0.440119 0.76658
+    outer loop
+    vertex 0.703987 4.35 7.42206
+    vertex 0.74598 4.349 7.39587
+    vertex 0.847634 4.35 7.33443
     endloop
   endfacet
   facet normal 0.254634 -0.894439 0.367614
@@ -9862,18 +9946,25 @@ solid extruder_idler_bondtech.stl
     vertex 0.225654 4.349 7.75667
     endloop
   endfacet
-  facet normal 0.510716 0.504017 0.696517
+  facet normal 0.317948 0.843139 0.43362
     outer loop
-    vertex 0.461428 4.35 7.58307
+    vertex 0.288571 4.35 7.70859
     vertex 0.225654 4.349 7.75667
     vertex 0.481054 4.349 7.5694
     endloop
   endfacet
-  facet normal 0.473426 -0.511289 0.717253
+  facet normal 0.348026 0.807967 0.475465
     outer loop
-    vertex 0.461428 4.35 7.58307
+    vertex 0.288571 4.35 7.70859
     vertex 0.481054 4.349 7.5694
-    vertex 0.730464 4.35 7.40549
+    vertex 0.424346 4.35 7.60921
+    endloop
+  endfacet
+  facet normal 0.492858 -0.496508 0.714542
+    outer loop
+    vertex 0.424346 4.35 7.60921
+    vertex 0.481054 4.349 7.5694
+    vertex 0.562855 4.35 7.51367
     endloop
   endfacet
   facet normal 0.271612 -0.89446 0.355202
@@ -9897,18 +9988,18 @@ solid extruder_idler_bondtech.stl
     vertex -0.019511 4.349 7.95716
     endloop
   endfacet
-  facet normal 0.516573 0.578023 0.631698
+  facet normal 0.322273 0.860714 0.394095
     outer loop
-    vertex 0.202318 4.35 7.77484
+    vertex 0.155636 4.35 7.81174
     vertex -0.019511 4.349 7.95716
     vertex 0.225654 4.349 7.75667
     endloop
   endfacet
-  facet normal 0.482588 -0.584762 0.652045
+  facet normal 0.528689 -0.506224 0.681341
     outer loop
-    vertex 0.202318 4.35 7.77484
+    vertex 0.155636 4.35 7.81174
     vertex 0.225654 4.349 7.75667
-    vertex 0.461428 4.35 7.58307
+    vertex 0.288571 4.35 7.70859
     endloop
   endfacet
   facet normal 0.287939 -0.894516 0.341952
@@ -9932,18 +10023,25 @@ solid extruder_idler_bondtech.stl
     vertex -0.253754 4.349 8.1703
     endloop
   endfacet
-  facet normal 0.518819 0.636962 0.570181
+  facet normal 0.315152 0.883583 0.346351
     outer loop
-    vertex -0.0461185 4.35 7.98025
+    vertex -0.101298 4.35 8.02902
     vertex -0.253754 4.349 8.1703
     vertex -0.019511 4.349 7.95716
     endloop
   endfacet
-  facet normal 0.487094 -0.644727 0.589123
+  facet normal 0.577865 -0.474232 0.664211
     outer loop
-    vertex -0.0461185 4.35 7.98025
+    vertex -0.101298 4.35 8.02902
     vertex -0.019511 4.349 7.95716
-    vertex 0.202318 4.35 7.77484
+    vertex 0.0256455 4.35 7.91858
+    endloop
+  endfacet
+  facet normal 0.421472 0.747925 0.512805
+    outer loop
+    vertex 0.0256455 4.35 7.91858
+    vertex -0.019511 4.349 7.95716
+    vertex 0.155636 4.35 7.81174
     endloop
   endfacet
   facet normal 0.303573 -0.894609 0.327901
@@ -9981,18 +10079,25 @@ solid extruder_idler_bondtech.stl
     vertex -0.476426 4.349 8.3955
     endloop
   endfacet
-  facet normal 0.518028 0.68505 0.512205
+  facet normal 0.315882 0.895917 0.312331
     outer loop
-    vertex -0.283164 4.35 8.1987
+    vertex -0.345646 4.35 8.26037
     vertex -0.476426 4.349 8.3955
     vertex -0.253754 4.349 8.1703
     endloop
   endfacet
-  facet normal 0.489239 -0.691969 0.530871
+  facet normal 0.642272 -0.390386 0.65961
     outer loop
-    vertex -0.283164 4.35 8.1987
+    vertex -0.345646 4.35 8.26037
     vertex -0.253754 4.349 8.1703
-    vertex -0.0461185 4.35 7.98025
+    vertex -0.225093 4.35 8.14298
+    endloop
+  endfacet
+  facet normal 0.558512 0.565642 0.606723
+    outer loop
+    vertex -0.225093 4.35 8.14298
+    vertex -0.253754 4.349 8.1703
+    vertex -0.101298 4.35 8.02902
     endloop
   endfacet
   facet normal 0.866024 -0.500002 -1.44357e-006
@@ -10058,18 +10163,25 @@ solid extruder_idler_bondtech.stl
     vertex -0.686903 4.349 8.63214
     endloop
   endfacet
-  facet normal 0.516021 0.723236 0.458968
+  facet normal 0.323609 0.90135 0.28783
     outer loop
-    vertex -0.508136 4.35 8.42958
+    vertex -0.576642 4.35 8.50504
     vertex -0.686903 4.349 8.63214
     vertex -0.476426 4.349 8.3955
     endloop
   endfacet
-  facet normal 0.488796 -0.730899 0.476304
+  facet normal 0.715492 -0.23822 0.656751
     outer loop
-    vertex -0.508136 4.35 8.42958
+    vertex -0.576642 4.35 8.50504
     vertex -0.476426 4.349 8.3955
-    vertex -0.283164 4.35 8.1987
+    vertex -0.46286 4.35 8.38108
+    endloop
+  endfacet
+  facet normal 0.685254 0.296175 0.665362
+    outer loop
+    vertex -0.46286 4.35 8.38108
+    vertex -0.476426 4.349 8.3955
+    vertex -0.345646 4.35 8.26037
     endloop
   endfacet
   facet normal 0.866026 -0.499998 2.334e-007
@@ -10100,18 +10212,18 @@ solid extruder_idler_bondtech.stl
     vertex -0.686903 4.349 8.63214
     endloop
   endfacet
-  facet normal 0.767376 0.0107072 0.641108
+  facet normal 0.774883 0 0.632104
     outer loop
-    vertex -0.720383 4.35 8.6722
+    vertex -0.686903 4.35 8.63214
     vertex -0.810463 4.13499 8.78361
     vertex -0.686903 4.349 8.63214
     endloop
   endfacet
-  facet normal 0.487575 -0.7618 0.426534
+  facet normal 0.755369 -0 0.6553
     outer loop
-    vertex -0.720383 4.35 8.6722
+    vertex -0.686903 4.35 8.63214
     vertex -0.686903 4.349 8.63214
-    vertex -0.508136 4.35 8.42958
+    vertex -0.576642 4.35 8.50504
     endloop
   endfacet
   facet normal -0.776892 -0.447459 0.442966
@@ -10177,18 +10289,25 @@ solid extruder_idler_bondtech.stl
     vertex 4.36855 3.81928 6.51833
     endloop
   endfacet
-  facet normal -0.100093 0.00194818 0.994976
+  facet normal -0.100272 0.00184389 0.994958
     outer loop
-    vertex 4.42879 4.35 6.52335
+    vertex 4.57958 4.35 6.53861
     vertex 4.36855 3.81928 6.51833
     vertex 4.67252 3.29021 6.54994
     endloop
   endfacet
-  facet normal -0.0613415 -0.00248053 0.998114
+  facet normal -0.0702848 -0.000818081 0.997527
     outer loop
-    vertex 4.10704 4.35 6.50357
+    vertex 4.23557 4.35 6.50939
     vertex 4.36855 3.81928 6.51833
-    vertex 4.42879 4.35 6.52335
+    vertex 4.40779 4.35 6.52153
+    endloop
+  endfacet
+  facet normal -0.0989594 0.00131673 0.995091
+    outer loop
+    vertex 4.40779 4.35 6.52153
+    vertex 4.36855 3.81928 6.51833
+    vertex 4.57958 4.35 6.53861
     endloop
   endfacet
   facet normal -0.792023 -0.434926 0.428415
@@ -10275,18 +10394,18 @@ solid extruder_idler_bondtech.stl
     vertex 4.76316 2.63368 6.06512
     endloop
   endfacet
-  facet normal -0.151851 0.00123123 0.988403
+  facet normal -0.151824 0.00124664 0.988407
     outer loop
-    vertex 4.74902 4.35 6.56037
+    vertex 4.75081 4.35 6.56063
     vertex 4.67252 3.29021 6.54994
     vertex 4.9742 2.76317 6.59695
     endloop
   endfacet
-  facet normal -0.11486 -0.00148792 0.993381
+  facet normal -0.127548 -0.000581392 0.991832
     outer loop
-    vertex 4.42879 4.35 6.52335
+    vertex 4.57958 4.35 6.53861
     vertex 4.67252 3.29021 6.54994
-    vertex 4.74902 4.35 6.56037
+    vertex 4.75081 4.35 6.56063
     endloop
   endfacet
   facet normal -0.811633 -0.418273 0.407797
@@ -10394,25 +10513,32 @@ solid extruder_idler_bondtech.stl
     vertex 5.68286 1.02827 6.26932
     endloop
   endfacet
-  facet normal -0.301184 0.000666537 0.953566
+  facet normal -0.301303 0.000592368 0.953528
     outer loop
-    vertex 5.69133 4.35 6.77364
+    vertex 5.7585 4.35 6.79509
     vertex 5.56761 1.72069 6.73641
     vertex 5.85779 1.20798 6.82842
     endloop
   endfacet
-  facet normal -0.252178 0.000781886 0.967681
+  facet normal -0.252129 0.000811936 0.967693
     outer loop
-    vertex 5.3812 4.35 6.6857
+    vertex 5.42729 4.35 6.69764
     vertex 5.27283 2.23954 6.65917
     vertex 5.56761 1.72069 6.73641
     endloop
   endfacet
-  facet normal -0.272809 -0.000789012 0.962068
+  facet normal -0.26843 -0.000122815 0.963299
     outer loop
-    vertex 5.3812 4.35 6.6857
+    vertex 5.42729 4.35 6.69764
     vertex 5.56761 1.72069 6.73641
-    vertex 5.69133 4.35 6.77364
+    vertex 5.59359 4.35 6.74398
+    endloop
+  endfacet
+  facet normal -0.296039 0.000173428 0.955176
+    outer loop
+    vertex 5.59359 4.35 6.74398
+    vertex 5.56761 1.72069 6.73641
+    vertex 5.7585 4.35 6.79509
     endloop
   endfacet
   facet normal -0.838335 -0.393019 0.377797
@@ -10422,18 +10548,18 @@ solid extruder_idler_bondtech.stl
     vertex 6.14262 0.70276 6.93488
     endloop
   endfacet
-  facet normal -0.349237 0.000572773 0.937034
+  facet normal -0.349481 0.000415903 0.936943
     outer loop
-    vertex 5.99628 4.35 6.87812
+    vertex 5.92186 4.35 6.85092
     vertex 5.85779 1.20798 6.82842
     vertex 6.14262 0.70276 6.93488
     endloop
   endfacet
-  facet normal -0.324085 -0.000678149 0.946028
+  facet normal -0.323395 -0.000182813 0.946264
     outer loop
-    vertex 5.69133 4.35 6.77364
+    vertex 5.7585 4.35 6.79509
     vertex 5.85779 1.20798 6.82842
-    vertex 5.99628 4.35 6.87812
+    vertex 5.92186 4.35 6.85092
     endloop
   endfacet
   facet normal -0.836173 -0.397867 0.377514
@@ -10464,18 +10590,25 @@ solid extruder_idler_bondtech.stl
     vertex 6.28279 0.453381 6.99344
     endloop
   endfacet
-  facet normal -0.385504 -4.68624e-005 0.922706
+  facet normal -0.385276 0.000103186 0.922801
     outer loop
-    vertex 6.29519 4.35 6.99881
+    vertex 6.24343 4.35 6.97657
     vertex 6.14262 0.70276 6.93488
     vertex 6.28279 0.453381 6.99344
     endloop
   endfacet
-  facet normal -0.374426 -0.000590035 0.927257
+  facet normal -0.350486 0.000346409 0.936568
     outer loop
-    vertex 5.99628 4.35 6.87812
+    vertex 5.92186 4.35 6.85092
     vertex 6.14262 0.70276 6.93488
-    vertex 6.29519 4.35 6.99881
+    vertex 6.08355 4.35 6.91143
+    endloop
+  endfacet
+  facet normal -0.377294 -0.000155088 0.926094
+    outer loop
+    vertex 6.08355 4.35 6.91143
+    vertex 6.14262 0.70276 6.93488
+    vertex 6.24343 4.35 6.97657
     endloop
   endfacet
   facet normal -0.84699 -0.382353 0.369342
@@ -10499,11 +10632,18 @@ solid extruder_idler_bondtech.stl
     vertex 5.86335 0.232877 5.81613
     endloop
   endfacet
-  facet normal -0.40863 4.05353e-005 0.9127
+  facet normal -0.408603 5.81386e-005 0.912712
     outer loop
-    vertex 6.29519 4.35 6.99881
+    vertex 6.40137 4.35 7.04627
     vertex 6.28279 0.453381 6.99344
     vertex 6.42135 0.206378 7.05548
+    endloop
+  endfacet
+  facet normal -0.403772 -0.000118029 0.91486
+    outer loop
+    vertex 6.24343 4.35 6.97657
+    vertex 6.28279 0.453381 6.99344
+    vertex 6.40137 4.35 7.04627
     endloop
   endfacet
   facet normal -0.866026 0.499999 5.82734e-007
@@ -10513,25 +10653,18 @@ solid extruder_idler_bondtech.stl
     vertex 6.15 -0.26362 5.91857
     endloop
   endfacet
-  facet normal -0.423684 -0.00051205 0.90581
+  facet normal -0.42798 -5.51153e-005 0.903788
     outer loop
+    vertex 6.40137 4.35 7.04627
     vertex 6.42135 0.206378 7.05548
-    vertex 6.58719 4.35 7.13539
-    vertex 6.29519 4.35 6.99881
+    vertex 6.44367 -2.7 7.06587
     endloop
   endfacet
   facet normal -0.407491 0.000135884 0.913209
     outer loop
+    vertex 6.44367 -2.7 7.06587
+    vertex 6.42135 0.206378 7.05548
     vertex 6.26569 -0.0632411 6.98606
-    vertex 6.44367 -2.7 7.06587
-    vertex 6.42135 0.206378 7.05548
-    endloop
-  endfacet
-  facet normal -0.432179 -9.45027e-005 0.901788
-    outer loop
-    vertex 6.42135 0.206378 7.05548
-    vertex 6.44367 -2.7 7.06587
-    vertex 6.58719 4.35 7.13539
     endloop
   endfacet
   facet normal -0.866026 -0.5 0
@@ -10611,39 +10744,53 @@ solid extruder_idler_bondtech.stl
     vertex 5.57253 0.736589 5.72783
     endloop
   endfacet
-  facet normal -0.202385 0.000948129 0.979306
+  facet normal -0.202245 0.00103116 0.979334
     outer loop
-    vertex 5.06679 4.35 6.61454
+    vertex 5.09102 4.35 6.6194
     vertex 4.9742 2.76317 6.59695
     vertex 5.27283 2.23954 6.65917
     endloop
   endfacet
-  facet normal -0.220745 -0.000928358 0.975331
+  facet normal -0.212586 9.9032e-005 0.977142
     outer loop
-    vertex 5.06679 4.35 6.61454
+    vertex 5.09102 4.35 6.6194
     vertex 5.27283 2.23954 6.65917
-    vertex 5.3812 4.35 6.6857
+    vertex 5.25972 4.35 6.6561
     endloop
   endfacet
-  facet normal -0.168045 -0.00112733 0.985779
+  facet normal -0.240609 -8.4545e-005 0.970622
     outer loop
-    vertex 4.74902 4.35 6.56037
-    vertex 4.9742 2.76317 6.59695
-    vertex 5.06679 4.35 6.61454
+    vertex 5.25972 4.35 6.6561
+    vertex 5.27283 2.23954 6.65917
+    vertex 5.42729 4.35 6.69764
     endloop
   endfacet
-  facet normal 0.832293 0.00108288 0.554335
+  facet normal -0.156029 0.000639744 0.987752
+    outer loop
+    vertex 4.75081 4.35 6.56063
+    vertex 4.9742 2.76317 6.59695
+    vertex 4.92134 4.35 6.58757
+    endloop
+  endfacet
+  facet normal -0.184381 -0.000333739 0.982855
+    outer loop
+    vertex 4.92134 4.35 6.58757
+    vertex 4.9742 2.76317 6.59695
+    vertex 5.09102 4.35 6.6194
+    endloop
+  endfacet
+  facet normal 0.83253 0.000635954 0.553979
     outer loop
     vertex -1.04246 3.73316 9.09822
-    vertex -1.10429 4.35 9.18986
+    vertex -1.1306 4.35 9.22997
     vertex -1.15065 3.54577 9.26103
     endloop
   endfacet
-  facet normal 0.818922 -0.00316329 0.573896
+  facet normal 0.826973 -0.00192236 0.562239
     outer loop
-    vertex -1.10429 4.35 9.18986
+    vertex -1.1306 4.35 9.22997
     vertex -1.04246 3.73316 9.09822
-    vertex -0.919293 4.35 8.92587
+    vertex -0.990992 4.35 9.02463
     endloop
   endfacet
   facet normal 0.866025 -0.500001 1.91167e-006
@@ -10653,9 +10800,9 @@ solid extruder_idler_bondtech.stl
     vertex -1.26368 3.35 9
     endloop
   endfacet
-  facet normal 0.814816 -0.000716451 0.579719
+  facet normal 0.813521 0.00150204 0.581534
     outer loop
-    vertex -0.919293 4.35 8.92587
+    vertex -0.990992 4.35 9.02463
     vertex -1.04246 3.73316 9.09822
     vertex -0.929024 3.92963 8.93903
     endloop
@@ -10667,38 +10814,31 @@ solid extruder_idler_bondtech.stl
     vertex -1.04246 3.73316 9.09822
     endloop
   endfacet
-  facet normal 0.848567 -0.00208969 0.529084
+  facet normal 0.849533 -0.000809021 0.527535
     outer loop
     vertex -1.15065 3.54577 9.26103
-    vertex -1.10429 4.35 9.18986
-    vertex -1.27485 4.35 9.4634
+    vertex -1.1306 4.35 9.22997
+    vertex -1.26159 4.35 9.44091
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -1.10429 4.35 9.18986
+    vertex -1.1306 4.35 9.22997
     vertex 0.014255 4.35 9.35342
-    vertex -1.27485 4.35 9.4634
-    endloop
-  endfacet
-  facet normal -0 -1 0
-    outer loop
-    vertex -0.919293 4.35 8.92587
-    vertex 0.203598 4.35 9.13301
-    vertex -1.10429 4.35 9.18986
+    vertex -1.26159 4.35 9.44091
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -1.10429 4.35 9.18986
-    vertex 0.203598 4.35 9.13301
+    vertex -0.990992 4.35 9.02463
     vertex 0.014255 4.35 9.35342
+    vertex -1.1306 4.35 9.22997
     endloop
   endfacet
-  facet normal 0.855699 0.00193396 0.517471
+  facet normal 0.855841 0.00236533 0.517234
     outer loop
     vertex -1.15065 3.54577 9.26103
-    vertex -1.27485 4.35 9.4634
+    vertex -1.26159 4.35 9.44091
     vertex -1.30679 3.73888 9.51851
     endloop
   endfacet
@@ -10709,38 +10849,31 @@ solid extruder_idler_bondtech.stl
     vertex -1.26368 3.35 9
     endloop
   endfacet
-  facet normal 0.875757 -0.00224605 0.482747
+  facet normal 0.870627 -0.00194016 0.491939
     outer loop
     vertex -1.30679 3.73888 9.51851
-    vertex -1.27485 4.35 9.4634
-    vertex -1.43047 4.35 9.74571
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex -1.27485 4.35 9.4634
-    vertex -0.324466 4.35 9.82533
-    vertex -1.43047 4.35 9.74571
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex -1.27485 4.35 9.4634
-    vertex 0.014255 4.35 9.35342
-    vertex -0.161965 4.35 9.58445
+    vertex -1.26159 4.35 9.44091
+    vertex -1.38374 4.35 9.6571
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -1.27485 4.35 9.4634
+    vertex -1.26159 4.35 9.44091
     vertex -0.161965 4.35 9.58445
-    vertex -0.324466 4.35 9.82533
+    vertex -1.38374 4.35 9.6571
     endloop
   endfacet
-  facet normal 0.880643 0.002078 0.473776
+  facet normal 0 -1 0
+    outer loop
+    vertex -1.26159 4.35 9.44091
+    vertex 0.014255 4.35 9.35342
+    vertex -0.161965 4.35 9.58445
+    endloop
+  endfacet
+  facet normal 0.881152 0.00372113 0.472818
     outer loop
     vertex -1.30679 3.73888 9.51851
-    vertex -1.43047 4.35 9.74571
+    vertex -1.38374 4.35 9.6571
     vertex -1.44983 3.93763 9.7835
     endloop
   endfacet
@@ -10751,31 +10884,31 @@ solid extruder_idler_bondtech.stl
     vertex -1.44983 3.93763 9.7835
     endloop
   endfacet
-  facet normal 0.900419 -0.00240298 0.435017
+  facet normal 0.890236 -0.00304649 0.45549
     outer loop
     vertex -1.44983 3.93763 9.7835
-    vertex -1.43047 4.35 9.74571
-    vertex -1.5707 4.35 10.036
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex -1.43047 4.35 9.74571
-    vertex -0.472702 4.35 10.0752
-    vertex -1.5707 4.35 10.036
+    vertex -1.38374 4.35 9.6571
+    vertex -1.49684 4.35 9.87815
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -1.43047 4.35 9.74571
+    vertex -1.38374 4.35 9.6571
     vertex -0.324466 4.35 9.82533
-    vertex -0.472702 4.35 10.0752
+    vertex -1.49684 4.35 9.87815
     endloop
   endfacet
-  facet normal 0.903362 0.00222009 0.428874
+  facet normal 0 -1 0
+    outer loop
+    vertex -1.38374 4.35 9.6571
+    vertex -0.161965 4.35 9.58445
+    vertex -0.324466 4.35 9.82533
+    endloop
+  endfacet
+  facet normal 0.904172 0.00504939 0.427138
     outer loop
     vertex -1.44983 3.93763 9.7835
-    vertex -1.5707 4.35 10.036
+    vertex -1.49684 4.35 9.87815
     vertex -1.57938 4.1415 10.0553
     endloop
   endfacet
@@ -10793,25 +10926,32 @@ solid extruder_idler_bondtech.stl
     vertex -3.6 3.35 9
     endloop
   endfacet
-  facet normal 0.922482 -0.00255807 0.386032
+  facet normal 0.908314 -0.00412793 0.418269
     outer loop
     vertex -1.57938 4.1415 10.0553
-    vertex -1.5707 4.35 10.036
-    vertex -1.69514 4.35 10.3333
+    vertex -1.49684 4.35 9.87815
+    vertex -1.6007 4.35 10.1037
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -1.5707 4.35 10.036
-    vertex -0.606169 4.35 10.3333
-    vertex -1.69514 4.35 10.3333
-    endloop
-  endfacet
-  facet normal -0 -1 0
-    outer loop
-    vertex -1.5707 4.35 10.036
+    vertex -1.49684 4.35 9.87815
     vertex -0.472702 4.35 10.0752
-    vertex -0.606169 4.35 10.3333
+    vertex -1.6007 4.35 10.1037
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex -1.49684 4.35 9.87815
+    vertex -0.324466 4.35 9.82533
+    vertex -0.472702 4.35 10.0752
+    endloop
+  endfacet
+  facet normal 0.924832 0.0063605 0.380322
+    outer loop
+    vertex -1.57938 4.1415 10.0553
+    vertex -1.6007 4.35 10.1037
+    vertex -1.69514 4.35 10.3333
     endloop
   endfacet
   facet normal -1.03807e-006 -0.799999 0.600001
@@ -10819,6 +10959,20 @@ solid extruder_idler_bondtech.stl
     vertex -3.6 3.35 9
     vertex -1.57938 4.1415 10.0553
     vertex -1.69514 4.35 10.3333
+    endloop
+  endfacet
+  facet normal -0 -1 0
+    outer loop
+    vertex -1.6007 4.35 10.1037
+    vertex -0.606169 4.35 10.3333
+    vertex -1.69514 4.35 10.3333
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex -1.6007 4.35 10.1037
+    vertex -0.472702 4.35 10.0752
+    vertex -0.606169 4.35 10.3333
     endloop
   endfacet
   facet normal 4.67273e-008 -0.8 0.6
@@ -10947,331 +11101,513 @@ solid extruder_idler_bondtech.stl
     vertex -1.69514 4.35 10.3333
     endloop
   endfacet
-  facet normal 0.794677 0.000604699 0.607032
+  facet normal 0.803001 -0.00298869 0.595971
     outer loop
-    vertex -0.919293 4.35 8.92587
+    vertex -0.990992 4.35 9.02463
     vertex -0.929024 3.92963 8.93903
-    vertex -0.810463 4.13499 8.78361
-    endloop
-  endfacet
-  facet normal 0.786884 -0.00994762 0.61702
-    outer loop
-    vertex -0.919293 4.35 8.92587
-    vertex -0.810463 4.13499 8.78361
-    vertex -0.720383 4.35 8.6722
-    endloop
-  endfacet
-  facet normal -0 -1 0
-    outer loop
-    vertex -0.720383 4.35 8.6722
-    vertex 0.405422 4.35 8.92398
-    vertex -0.919293 4.35 8.92587
+    vertex -0.843009 4.35 8.82524
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -0.919293 4.35 8.92587
+    vertex -0.843009 4.35 8.82524
+    vertex 0.203598 4.35 9.13301
+    vertex -0.990992 4.35 9.02463
+    endloop
+  endfacet
+  facet normal -0 -1 0
+    outer loop
+    vertex -0.990992 4.35 9.02463
+    vertex 0.203598 4.35 9.13301
+    vertex 0.014255 4.35 9.35342
+    endloop
+  endfacet
+  facet normal 0.793579 0.0023203 0.608462
+    outer loop
+    vertex -0.843009 4.35 8.82524
+    vertex -0.929024 3.92963 8.93903
+    vertex -0.810463 4.13499 8.78361
+    endloop
+  endfacet
+  facet normal 0.777654 -0.00400445 0.62868
+    outer loop
+    vertex -0.843009 4.35 8.82524
+    vertex -0.810463 4.13499 8.78361
+    vertex -0.686903 4.35 8.63214
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex -0.686903 4.35 8.63214
+    vertex 0.405422 4.35 8.92398
+    vertex -0.843009 4.35 8.82524
+    endloop
+  endfacet
+  facet normal -0 -1 0
+    outer loop
+    vertex -0.843009 4.35 8.82524
     vertex 0.405422 4.35 8.92398
     vertex 0.203598 4.35 9.13301
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -0.508136 4.35 8.42958
+    vertex -0.576642 4.35 8.50504
     vertex 0.61905 4.35 8.72702
-    vertex -0.720383 4.35 8.6722
+    vertex -0.686903 4.35 8.63214
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -0.720383 4.35 8.6722
+    vertex -0.686903 4.35 8.63214
     vertex 0.61905 4.35 8.72702
     vertex 0.405422 4.35 8.92398
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -0.283164 4.35 8.1987
+    vertex -0.46286 4.35 8.38108
+    vertex 0.61905 4.35 8.72702
+    vertex -0.576642 4.35 8.50504
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex -0.345646 4.35 8.26037
     vertex 0.843759 4.35 8.54281
-    vertex -0.508136 4.35 8.42958
+    vertex -0.46286 4.35 8.38108
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -0.508136 4.35 8.42958
+    vertex -0.46286 4.35 8.38108
     vertex 0.843759 4.35 8.54281
     vertex 0.61905 4.35 8.72702
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex -0.0461185 4.35 7.98025
+    vertex -0.225093 4.35 8.14298
     vertex 1.07879 4.35 8.37195
-    vertex -0.283164 4.35 8.1987
+    vertex -0.345646 4.35 8.26037
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -0.283164 4.35 8.1987
+    vertex -0.345646 4.35 8.26037
     vertex 1.07879 4.35 8.37195
     vertex 0.843759 4.35 8.54281
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 0.202318 4.35 7.77484
+    vertex -0.101298 4.35 8.02902
+    vertex 1.07879 4.35 8.37195
+    vertex -0.225093 4.35 8.14298
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 0.0256455 4.35 7.91858
     vertex 1.32334 4.35 8.21504
-    vertex -0.0461185 4.35 7.98025
+    vertex -0.101298 4.35 8.02902
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex -0.0461185 4.35 7.98025
+    vertex -0.101298 4.35 8.02902
     vertex 1.32334 4.35 8.21504
     vertex 1.07879 4.35 8.37195
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 0.461428 4.35 7.58307
+    vertex 0.155636 4.35 7.81174
+    vertex 1.32334 4.35 8.21504
+    vertex 0.0256455 4.35 7.91858
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 0.288571 4.35 7.70859
     vertex 1.5766 4.35 8.07261
-    vertex 0.202318 4.35 7.77484
+    vertex 0.155636 4.35 7.81174
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex 0.202318 4.35 7.77484
+    vertex 0.155636 4.35 7.81174
     vertex 1.5766 4.35 8.07261
     vertex 1.32334 4.35 8.21504
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 0.730464 4.35 7.40549
+    vertex 0.424346 4.35 7.60921
+    vertex 1.5766 4.35 8.07261
+    vertex 0.288571 4.35 7.70859
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 0.562855 4.35 7.51367
     vertex 1.83771 4.35 7.94512
-    vertex 0.461428 4.35 7.58307
+    vertex 0.424346 4.35 7.60921
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex 0.461428 4.35 7.58307
+    vertex 0.424346 4.35 7.60921
     vertex 1.83771 4.35 7.94512
     vertex 1.5766 4.35 8.07261
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 1.00865 4.35 7.24262
+    vertex 0.703987 4.35 7.42206
     vertex 2.10578 4.35 7.83301
-    vertex 0.730464 4.35 7.40549
+    vertex 0.562855 4.35 7.51367
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex 0.730464 4.35 7.40549
+    vertex 0.562855 4.35 7.51367
     vertex 2.10578 4.35 7.83301
     vertex 1.83771 4.35 7.94512
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 1.29518 4.35 7.09492
+    vertex 0.847634 4.35 7.33443
+    vertex 2.10578 4.35 7.83301
+    vertex 0.703987 4.35 7.42206
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 0.993681 4.35 7.25088
     vertex 2.3799 4.35 7.73667
-    vertex 1.00865 4.35 7.24262
+    vertex 0.847634 4.35 7.33443
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex 1.00865 4.35 7.24262
+    vertex 0.847634 4.35 7.33443
     vertex 2.3799 4.35 7.73667
     vertex 2.10578 4.35 7.83301
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 1.58923 4.35 6.96282
+    vertex 1.14201 4.35 7.17144
+    vertex 2.3799 4.35 7.73667
+    vertex 0.993681 4.35 7.25088
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 1.29251 4.35 7.0962
     vertex 2.65917 4.35 7.65641
-    vertex 1.29518 4.35 7.09492
+    vertex 1.14201 4.35 7.17144
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex 1.29518 4.35 7.09492
+    vertex 1.14201 4.35 7.17144
     vertex 2.65917 4.35 7.65641
     vertex 2.3799 4.35 7.73667
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 1.88995 4.35 6.84671
+    vertex 1.44507 4.35 7.02521
+    vertex 2.65917 4.35 7.65641
+    vertex 1.29251 4.35 7.0962
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 1.59955 4.35 6.95853
+    vertex 2.65917 4.35 7.65641
+    vertex 1.44507 4.35 7.02521
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 1.75584 4.35 6.8962
     vertex 2.94262 4.35 7.59251
-    vertex 1.58923 4.35 6.96282
+    vertex 1.59955 4.35 6.95853
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex 1.58923 4.35 6.96282
+    vertex 1.59955 4.35 6.95853
     vertex 2.94262 4.35 7.59251
     vertex 2.65917 4.35 7.65641
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.19647 4.35 6.74692
+    vertex 1.91382 4.35 6.83828
+    vertex 2.94262 4.35 7.59251
+    vertex 1.75584 4.35 6.8962
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.07336 4.35 6.78481
     vertex 3.22931 4.35 7.54519
-    vertex 1.88995 4.35 6.84671
+    vertex 1.91382 4.35 6.83828
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex 1.88995 4.35 6.84671
+    vertex 1.91382 4.35 6.83828
     vertex 3.22931 4.35 7.54519
     vertex 2.94262 4.35 7.59251
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.50791 4.35 6.66373
+    vertex 2.23434 4.35 6.73584
     vertex 3.22931 4.35 7.54519
-    vertex 2.19647 4.35 6.74692
+    vertex 2.07336 4.35 6.78481
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.82336 4.35 6.59739
+    vertex 2.39662 4.35 6.6914
+    vertex 3.22931 4.35 7.54519
+    vertex 2.23434 4.35 6.73584
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.56009 4.35 6.65153
     vertex 3.51826 4.35 7.51459
-    vertex 2.50791 4.35 6.66373
+    vertex 2.39662 4.35 6.6914
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex 2.50791 4.35 6.66373
+    vertex 2.39662 4.35 6.6914
     vertex 3.51826 4.35 7.51459
     vertex 3.22931 4.35 7.54519
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 3.14193 4.35 6.54808
+    vertex 2.72462 4.35 6.61625
     vertex 3.51826 4.35 7.51459
-    vertex 2.82336 4.35 6.59739
+    vertex 2.56009 4.35 6.65153
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 3.46268 4.35 6.51596
+    vertex 2.89006 4.35 6.58561
+    vertex 3.51826 4.35 7.51459
+    vertex 2.72462 4.35 6.61625
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 3.0563 4.35 6.55962
+    vertex 3.51826 4.35 7.51459
+    vertex 2.89006 4.35 6.58561
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 3.22321 4.35 6.53829
+    vertex 3.51826 4.35 7.51459
+    vertex 3.0563 4.35 6.55962
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 3.39065 4.35 6.52166
     vertex 3.8085 4.35 7.50084
-    vertex 3.14193 4.35 6.54808
+    vertex 3.22321 4.35 6.53829
     endloop
   endfacet
   facet normal -0 -1 0
     outer loop
-    vertex 3.14193 4.35 6.54808
+    vertex 3.22321 4.35 6.53829
     vertex 3.8085 4.35 7.50084
     vertex 3.51826 4.35 7.51459
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 3.7847 4.35 6.50111
+    vertex 3.55848 4.35 6.50973
     vertex 3.8085 4.35 7.50084
-    vertex 3.46268 4.35 6.51596
+    vertex 3.39065 4.35 6.52166
     endloop
   endfacet
-  facet normal 0 -1 -0
+  facet normal 0 -1 0
     outer loop
-    vertex 4.10704 4.35 6.50357
+    vertex 3.72659 4.35 6.50251
     vertex 3.8085 4.35 7.50084
-    vertex 3.7847 4.35 6.50111
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 4.42879 4.35 6.52335
-    vertex 4.09905 4.35 7.50396
-    vertex 4.10704 4.35 6.50357
+    vertex 3.55848 4.35 6.50973
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 4.10704 4.35 6.50357
+    vertex 3.89483 4.35 6.5
+    vertex 3.8085 4.35 7.50084
+    vertex 3.72659 4.35 6.50251
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 4.06308 4.35 6.50222
+    vertex 3.8085 4.35 7.50084
+    vertex 3.89483 4.35 6.5
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+    vertex 4.23557 4.35 6.50939
+    vertex 4.09905 4.35 7.50396
+    vertex 4.06308 4.35 6.50222
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 4.06308 4.35 6.50222
     vertex 4.09905 4.35 7.50396
     vertex 3.8085 4.35 7.50084
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 4.74902 4.35 6.56037
+    vertex 4.40779 4.35 6.52153
     vertex 4.09905 4.35 7.50396
-    vertex 4.42879 4.35 6.52335
+    vertex 4.23557 4.35 6.50939
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.06679 4.35 6.61454
+    vertex 4.57958 4.35 6.53861
+    vertex 4.09905 4.35 7.50396
+    vertex 4.40779 4.35 6.52153
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 4.75081 4.35 6.56063
+    vertex 4.09905 4.35 7.50396
+    vertex 4.57958 4.35 6.53861
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 4.92134 4.35 6.58757
+    vertex 4.09905 4.35 7.50396
+    vertex 4.75081 4.35 6.56063
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 5.09102 4.35 6.6194
     vertex 4.38892 4.35 7.52396
-    vertex 4.74902 4.35 6.56037
+    vertex 4.92134 4.35 6.58757
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 4.74902 4.35 6.56037
+    vertex 4.92134 4.35 6.58757
     vertex 4.38892 4.35 7.52396
     vertex 4.09905 4.35 7.50396
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.3812 4.35 6.6857
+    vertex 5.25972 4.35 6.6561
     vertex 4.38892 4.35 7.52396
-    vertex 5.06679 4.35 6.61454
+    vertex 5.09102 4.35 6.6194
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.69133 4.35 6.77364
+    vertex 5.42729 4.35 6.69764
+    vertex 4.38892 4.35 7.52396
+    vertex 5.25972 4.35 6.6561
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 5.59359 4.35 6.74398
+    vertex 4.38892 4.35 7.52396
+    vertex 5.42729 4.35 6.69764
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 5.7585 4.35 6.79509
     vertex 4.67715 4.35 7.56077
-    vertex 5.3812 4.35 6.6857
+    vertex 5.59359 4.35 6.74398
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 5.3812 4.35 6.6857
+    vertex 5.59359 4.35 6.74398
     vertex 4.67715 4.35 7.56077
     vertex 4.38892 4.35 7.52396
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 5.99628 4.35 6.87812
+    vertex 5.92186 4.35 6.85092
     vertex 4.67715 4.35 7.56077
-    vertex 5.69133 4.35 6.77364
+    vertex 5.7585 4.35 6.79509
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 6.29519 4.35 6.99881
+    vertex 6.08355 4.35 6.91143
     vertex 4.96275 4.35 7.61425
-    vertex 5.99628 4.35 6.87812
+    vertex 5.92186 4.35 6.85092
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 5.99628 4.35 6.87812
+    vertex 5.92186 4.35 6.85092
     vertex 4.96275 4.35 7.61425
     vertex 4.67715 4.35 7.56077
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 6.58719 4.35 7.13539
+    vertex 6.24343 4.35 6.97657
+    vertex 4.96275 4.35 7.61425
+    vertex 6.08355 4.35 6.91143
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 6.40137 4.35 7.04627
+    vertex 4.96275 4.35 7.61425
+    vertex 6.24343 4.35 6.97657
+    endloop
+  endfacet
+  facet normal -0.429932 -6.94034e-005 0.902861
+    outer loop
+    vertex 6.44367 -2.7 7.06587
+    vertex 6.55725 4.35 7.1205
+    vertex 6.40137 4.35 7.04627
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 6.55725 4.35 7.1205
     vertex 5.24477 4.35 7.68423
-    vertex 6.29519 4.35 6.99881
+    vertex 6.40137 4.35 7.04627
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 6.29519 4.35 6.99881
+    vertex 6.40137 4.35 7.04627
     vertex 5.24477 4.35 7.68423
     vertex 4.96275 4.35 7.61425
     endloop
@@ -11281,20 +11617,6 @@ solid extruder_idler_bondtech.stl
     vertex 6.44367 -2.7 7.06587
     vertex 6.26569 -0.0632411 6.98606
     vertex 6.14832 -2.7 6.93717
-    endloop
-  endfacet
-  facet normal -0.380908 -0.000188712 0.924613
-    outer loop
-    vertex 6.14832 -2.7 6.93717
-    vertex 6.26569 -0.0632411 6.98606
-    vertex 6.10811 -0.336167 6.92109
-    endloop
-  endfacet
-  facet normal -0.448105 0.000306695 0.893981
-    outer loop
-    vertex 6.73169 -2.7 7.21024
-    vertex 6.58719 4.35 7.13539
-    vertex 6.44367 -2.7 7.06587
     endloop
   endfacet
   facet normal -0.399477 -0.000357427 0.916743
@@ -11318,25 +11640,18 @@ solid extruder_idler_bondtech.stl
     vertex 6.73169 -2.7 7.21024
     endloop
   endfacet
-  facet normal -0.471721 -0.000307242 0.881748
+  facet normal -0.448105 0.000292167 0.893981
     outer loop
-    vertex 6.87142 4.35 7.28746
-    vertex 6.58719 4.35 7.13539
     vertex 6.73169 -2.7 7.21024
+    vertex 6.55725 4.35 7.1205
+    vertex 6.44367 -2.7 7.06587
     endloop
   endfacet
-  facet normal 0 -1 0
+  facet normal -0.380908 -0.000188712 0.924613
     outer loop
-    vertex 6.87142 4.35 7.28746
-    vertex 5.52224 4.35 7.77048
-    vertex 6.58719 4.35 7.13539
-    endloop
-  endfacet
-  facet normal 0 -1 -0
-    outer loop
-    vertex 6.58719 4.35 7.13539
-    vertex 5.52224 4.35 7.77048
-    vertex 5.24477 4.35 7.68423
+    vertex 6.14832 -2.7 6.93717
+    vertex 6.26569 -0.0632411 6.98606
+    vertex 6.10811 -0.336167 6.92109
     endloop
   endfacet
   facet normal -0.355257 0.000316635 0.934769
@@ -11444,23 +11759,37 @@ solid extruder_idler_bondtech.stl
     vertex 5.32318 -8.75 8.76174
     endloop
   endfacet
-  facet normal -0.49545 -0.000357094 0.868636
+  facet normal -0.495434 -0.000356612 0.868646
     outer loop
     vertex 6.73169 -2.7 7.21024
     vertex 6.86829 -8.75 7.28567
-    vertex 7.01154 -2.7 7.36986
+    vertex 7.01136 -2.7 7.36975
     endloop
   endfacet
-  facet normal -0.49545 0.000306682 0.868636
+  facet normal -0.495434 0.000304545 0.868646
     outer loop
-    vertex 7.01154 -2.7 7.36986
-    vertex 6.87142 4.35 7.28746
+    vertex 7.01136 -2.7 7.36975
+    vertex 6.86226 4.35 7.28224
     vertex 6.73169 -2.7 7.21024
     endloop
   endfacet
-  facet normal -0.517555 0.00034705 0.85565
+  facet normal -0.481152 -4.1587e-005 0.876637
     outer loop
-    vertex 7.01154 -2.7 7.36986
+    vertex 6.73169 -2.7 7.21024
+    vertex 6.86226 4.35 7.28224
+    vertex 6.71092 4.35 7.19918
+    endloop
+  endfacet
+  facet normal -0.455725 5.44928e-005 0.890121
+    outer loop
+    vertex 6.73169 -2.7 7.21024
+    vertex 6.71092 4.35 7.19918
+    vertex 6.55725 4.35 7.1205
+    endloop
+  endfacet
+  facet normal -0.517555 0.000347156 0.85565
+    outer loop
+    vertex 7.01136 -2.7 7.36975
     vertex 6.86829 -8.75 7.28567
     vertex 7.14019 -8.75 7.45014
     endloop
@@ -11479,25 +11808,32 @@ solid extruder_idler_bondtech.stl
     vertex 5.56713 -8.75 8.86397
     endloop
   endfacet
-  facet normal -0.541358 -0.000356232 0.840792
+  facet normal -0.541344 -0.000356691 0.840801
     outer loop
-    vertex 7.01154 -2.7 7.36986
+    vertex 7.01136 -2.7 7.36975
     vertex 7.14019 -8.75 7.45014
     vertex 7.28242 -2.7 7.54428
     endloop
   endfacet
-  facet normal -0.541358 0.000306605 0.840792
+  facet normal -0.541344 0.00030565 0.840801
     outer loop
     vertex 7.28242 -2.7 7.54428
-    vertex 7.14708 4.35 7.45456
-    vertex 7.01154 -2.7 7.36986
+    vertex 7.15747 4.35 7.46126
+    vertex 7.01136 -2.7 7.36975
     endloop
   endfacet
-  facet normal -0.518398 -0.000307175 0.855139
+  facet normal -0.530775 -4.97658e-007 0.847513
     outer loop
-    vertex 7.14708 4.35 7.45456
-    vertex 6.87142 4.35 7.28746
-    vertex 7.01154 -2.7 7.36986
+    vertex 7.01136 -2.7 7.36975
+    vertex 7.15747 4.35 7.46126
+    vertex 7.01115 4.35 7.36963
+    endloop
+  endfacet
+  facet normal -0.506166 4.97206e-007 0.862436
+    outer loop
+    vertex 7.01136 -2.7 7.36975
+    vertex 7.01115 4.35 7.36963
+    vertex 6.86226 4.35 7.28224
     endloop
   endfacet
   facet normal -0.56213 0.000345972 0.827049
@@ -11528,18 +11864,25 @@ solid extruder_idler_bondtech.stl
     vertex 7.54355 -2.7 7.73298
     endloop
   endfacet
-  facet normal -0.585711 0.000306746 0.81052
+  facet normal -0.585711 0.000292867 0.81052
     outer loop
     vertex 7.54355 -2.7 7.73298
-    vertex 7.41337 4.35 7.63624
+    vertex 7.44189 4.35 7.65696
     vertex 7.28242 -2.7 7.54428
     endloop
   endfacet
-  facet normal -0.563573 -0.000307252 0.826066
+  facet normal -0.578645 5.21507e-005 0.81558
     outer loop
-    vertex 7.41337 4.35 7.63624
-    vertex 7.14708 4.35 7.45456
     vertex 7.28242 -2.7 7.54428
+    vertex 7.44189 4.35 7.65696
+    vertex 7.30109 4.35 7.55707
+    endloop
+  endfacet
+  facet normal -0.554938 -4.02028e-005 0.831892
+    outer loop
+    vertex 7.28242 -2.7 7.54428
+    vertex 7.30109 4.35 7.55707
+    vertex 7.15747 4.35 7.46126
     endloop
   endfacet
   facet normal -0.605131 0.000344195 0.796126
@@ -11570,18 +11913,25 @@ solid extruder_idler_bondtech.stl
     vertex 7.79418 -2.7 7.93542
     endloop
   endfacet
-  facet normal -0.62837 0.000306866 0.777914
+  facet normal -0.62837 0.000268037 0.777914
     outer loop
     vertex 7.79418 -2.7 7.93542
-    vertex 7.66952 4.35 7.83195
+    vertex 7.71459 4.35 7.8687
     vertex 7.54355 -2.7 7.73298
     endloop
   endfacet
-  facet normal -0.607125 -0.000307047 0.794606
+  facet normal -0.624597 0.000118129 0.780947
     outer loop
-    vertex 7.66952 4.35 7.83195
-    vertex 7.41337 4.35 7.63624
     vertex 7.54355 -2.7 7.73298
+    vertex 7.71459 4.35 7.8687
+    vertex 7.57976 4.35 7.76087
+    endloop
+  endfacet
+  facet normal -0.60186 -6.85017e-005 0.798602
+    outer loop
+    vertex 7.54355 -2.7 7.73298
+    vertex 7.57976 4.35 7.76087
+    vertex 7.44189 4.35 7.65696
     endloop
   endfacet
   facet normal -0.646429 0.000341974 0.762974
@@ -11605,18 +11955,25 @@ solid extruder_idler_bondtech.stl
     vertex 8.03358 -2.7 8.15103
     endloop
   endfacet
-  facet normal -0.669221 0.000306906 0.743064
+  facet normal -0.669221 0.000230464 0.743064
     outer loop
     vertex 8.03358 -2.7 8.15103
-    vertex 7.91479 4.35 8.04113
+    vertex 7.97465 4.35 8.09577
     vertex 7.79418 -2.7 7.93542
     endloop
   endfacet
-  facet normal -0.648925 -0.000307023 0.760852
+  facet normal -0.668477 0.000196191 0.743733
     outer loop
-    vertex 7.91479 4.35 8.04113
-    vertex 7.66952 4.35 7.83195
     vertex 7.79418 -2.7 7.93542
+    vertex 7.97465 4.35 8.09577
+    vertex 7.84625 4.35 7.98037
+    endloop
+  endfacet
+  facet normal -0.646805 -8.45041e-005 0.762655
+    outer loop
+    vertex 7.79418 -2.7 7.93542
+    vertex 7.84625 4.35 7.98037
+    vertex 7.71459 4.35 7.8687
     endloop
   endfacet
   facet normal -0.685922 0.000339219 0.727675
@@ -11647,18 +12004,18 @@ solid extruder_idler_bondtech.stl
     vertex 8.26105 -2.7 8.37918
     endloop
   endfacet
-  facet normal -0.708144 0.000306884 0.706068
+  facet normal -0.708144 0.000250213 0.706068
     outer loop
     vertex 8.26105 -2.7 8.37918
-    vertex 8.14846 4.35 8.26319
+    vertex 8.09968 4.35 8.21483
     vertex 8.03358 -2.7 8.15103
     endloop
   endfacet
-  facet normal -0.688854 -0.00030705 0.7249
+  facet normal -0.689595 -8.7724e-005 0.724195
     outer loop
-    vertex 8.14846 4.35 8.26319
-    vertex 7.91479 4.35 8.04113
     vertex 8.03358 -2.7 8.15103
+    vertex 8.09968 4.35 8.21483
+    vertex 7.97465 4.35 8.09577
     endloop
   endfacet
   facet normal -0.723486 0.000335878 0.690339
@@ -11689,18 +12046,25 @@ solid extruder_idler_bondtech.stl
     vertex 8.47596 -2.7 8.6192
     endloop
   endfacet
-  facet normal -0.745016 0.000306578 0.667047
+  facet normal -0.745016 0.000281561 0.667047
     outer loop
     vertex 8.47596 -2.7 8.6192
-    vertex 8.36988 4.35 8.49748
+    vertex 8.3392 4.35 8.46348
     vertex 8.26105 -2.7 8.37918
     endloop
   endfacet
-  facet normal -0.726794 -0.000307071 0.686855
+  facet normal -0.730111 -7.83217e-005 0.683328
     outer loop
-    vertex 8.36988 4.35 8.49748
-    vertex 8.14846 4.35 8.26319
     vertex 8.26105 -2.7 8.37918
+    vertex 8.3392 4.35 8.46348
+    vertex 8.22123 4.35 8.33743
+    endloop
+  endfacet
+  facet normal -0.710152 0.000157135 0.704048
+    outer loop
+    vertex 8.26105 -2.7 8.37918
+    vertex 8.22123 4.35 8.33743
+    vertex 8.09968 4.35 8.21483
     endloop
   endfacet
   facet normal -0.759017 0.000332311 0.651071
@@ -11731,18 +12095,25 @@ solid extruder_idler_bondtech.stl
     vertex 8.67767 -2.7 8.87042
     endloop
   endfacet
-  facet normal -0.779753 0.000306945 0.626087
+  facet normal -0.779753 0.00030053 0.626087
     outer loop
     vertex 8.67767 -2.7 8.87042
-    vertex 8.57839 4.35 8.74332
+    vertex 8.56402 4.35 8.72549
     vertex 8.47596 -2.7 8.6192
     endloop
   endfacet
-  facet normal -0.762625 -0.000307269 0.646841
+  facet normal -0.768205 -5.65146e-005 0.640203
     outer loop
-    vertex 8.57839 4.35 8.74332
-    vertex 8.36988 4.35 8.49748
     vertex 8.47596 -2.7 8.6192
+    vertex 8.56402 4.35 8.72549
+    vertex 8.45349 4.35 8.59286
+    endloop
+  endfacet
+  facet normal -0.749463 8.48203e-005 0.662046
+    outer loop
+    vertex 8.47596 -2.7 8.6192
+    vertex 8.45349 4.35 8.59286
+    vertex 8.3392 4.35 8.46348
     endloop
   endfacet
   facet normal -0.792425 0.000327685 0.609969
@@ -11773,11 +12144,18 @@ solid extruder_idler_bondtech.stl
     vertex 8.7734 4.35 9
     endloop
   endfacet
-  facet normal -0.79627 -0.000306889 0.604942
+  facet normal -0.803753 -2.18607e-005 0.594963
     outer loop
     vertex 8.7734 4.35 9
-    vertex 8.57839 4.35 8.74332
+    vertex 8.67068 4.35 8.86124
     vertex 8.67767 -2.7 8.87042
+    endloop
+  endfacet
+  facet normal -0.786307 2.52229e-005 0.617835
+    outer loop
+    vertex 8.67767 -2.7 8.87042
+    vertex 8.67068 4.35 8.86124
+    vertex 8.56402 4.35 8.72549
     endloop
   endfacet
   facet normal -0.810261 0 0.58607
@@ -11812,7 +12190,7 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex 8.7734 4.35 9
     vertex 7.47071 4.35 9
-    vertex 8.57839 4.35 8.74332
+    vertex 8.67068 4.35 8.86124
     endloop
   endfacet
   facet normal 0 -0 1
@@ -13588,107 +13966,177 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 8.57839 4.35 8.74332
+    vertex 8.67068 4.35 8.86124
+    vertex 7.47071 4.35 9
+    vertex 8.56402 4.35 8.72549
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 8.56402 4.35 8.72549
     vertex 7.26137 4.35 8.79849
-    vertex 8.36988 4.35 8.49748
+    vertex 8.45349 4.35 8.59286
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 8.57839 4.35 8.74332
+    vertex 8.56402 4.35 8.72549
     vertex 7.47071 4.35 9
     vertex 7.26137 4.35 8.79849
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 8.36988 4.35 8.49748
+    vertex 8.45349 4.35 8.59286
+    vertex 7.26137 4.35 8.79849
+    vertex 8.3392 4.35 8.46348
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 8.3392 4.35 8.46348
     vertex 7.04068 4.35 8.60948
-    vertex 8.14846 4.35 8.26319
+    vertex 8.22123 4.35 8.33743
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 8.36988 4.35 8.49748
+    vertex 8.3392 4.35 8.46348
     vertex 7.26137 4.35 8.79849
     vertex 7.04068 4.35 8.60948
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 8.14846 4.35 8.26319
+    vertex 8.22123 4.35 8.33743
     vertex 6.80938 4.35 8.43362
-    vertex 7.91479 4.35 8.04113
+    vertex 8.09968 4.35 8.21483
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 8.14846 4.35 8.26319
+    vertex 8.22123 4.35 8.33743
     vertex 7.04068 4.35 8.60948
     vertex 6.80938 4.35 8.43362
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 7.91479 4.35 8.04113
+    vertex 8.09968 4.35 8.21483
+    vertex 6.80938 4.35 8.43362
+    vertex 7.97465 4.35 8.09577
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 7.97465 4.35 8.09577
     vertex 6.56826 4.35 8.27148
-    vertex 7.66952 4.35 7.83195
+    vertex 7.84625 4.35 7.98037
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 7.91479 4.35 8.04113
+    vertex 7.97465 4.35 8.09577
     vertex 6.80938 4.35 8.43362
     vertex 6.56826 4.35 8.27148
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 7.66952 4.35 7.83195
+    vertex 7.84625 4.35 7.98037
+    vertex 6.56826 4.35 8.27148
+    vertex 7.71459 4.35 7.8687
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 7.71459 4.35 7.8687
     vertex 6.31812 4.35 8.12362
-    vertex 7.41337 4.35 7.63624
+    vertex 7.57976 4.35 7.76087
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 7.66952 4.35 7.83195
+    vertex 7.71459 4.35 7.8687
     vertex 6.56826 4.35 8.27148
     vertex 6.31812 4.35 8.12362
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 7.41337 4.35 7.63624
+    vertex 7.57976 4.35 7.76087
     vertex 6.05982 4.35 7.99055
-    vertex 7.14708 4.35 7.45456
+    vertex 7.44189 4.35 7.65696
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 7.41337 4.35 7.63624
+    vertex 7.57976 4.35 7.76087
     vertex 6.31812 4.35 8.12362
     vertex 6.05982 4.35 7.99055
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 7.14708 4.35 7.45456
+    vertex 7.44189 4.35 7.65696
+    vertex 6.05982 4.35 7.99055
+    vertex 7.30109 4.35 7.55707
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 7.30109 4.35 7.55707
     vertex 5.79423 4.35 7.8727
-    vertex 6.87142 4.35 7.28746
+    vertex 7.15747 4.35 7.46126
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 7.14708 4.35 7.45456
+    vertex 7.30109 4.35 7.55707
     vertex 6.05982 4.35 7.99055
     vertex 5.79423 4.35 7.8727
     endloop
   endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 7.15747 4.35 7.46126
+    vertex 5.79423 4.35 7.8727
+    vertex 7.01115 4.35 7.36963
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 7.01115 4.35 7.36963
+    vertex 5.52224 4.35 7.77048
+    vertex 6.86226 4.35 7.28224
+    endloop
+  endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 6.87142 4.35 7.28746
+    vertex 7.01115 4.35 7.36963
     vertex 5.79423 4.35 7.8727
     vertex 5.52224 4.35 7.77048
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 6.86226 4.35 7.28224
+    vertex 5.52224 4.35 7.77048
+    vertex 6.71092 4.35 7.19918
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 6.71092 4.35 7.19918
+    vertex 5.24477 4.35 7.68423
+    vertex 6.55725 4.35 7.1205
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+    vertex 6.71092 4.35 7.19918
+    vertex 5.52224 4.35 7.77048
+    vertex 5.24477 4.35 7.68423
     endloop
   endfacet
   facet normal 0.866025 0.5 0
@@ -22738,7 +23186,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 3.814 9.3 10.7521
+    vertex 3.8139 9.3 10.7521
     vertex 11.0476 9.3 6.48122
     endloop
   endfacet
@@ -22751,128 +23199,128 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.64285 9.3 10.769
-    vertex 3.814 9.3 10.7521
+    vertex 3.64254 9.3 10.769
+    vertex 3.8139 9.3 10.7521
     vertex -3.6 9.3 6.48122
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.85621 9.3 11.0954
+    vertex 2.85513 9.3 11.0962
     vertex -3.6 9.3 6.48122
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 2.85621 9.3 11.0954
-    vertex 2.99913 9.3 10.9997
+    vertex 2.85513 9.3 11.0962
+    vertex 2.99816 9.3 11.0003
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 2.99913 9.3 10.9997
-    vertex 3.15075 9.3 10.9185
+    vertex 2.99816 9.3 11.0003
+    vertex 3.14991 9.3 10.9189
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.15075 9.3 10.9185
-    vertex 3.30961 9.3 10.8526
+    vertex 3.14991 9.3 10.9189
+    vertex 3.30893 9.3 10.8528
     vertex -3.6 9.3 6.48122
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 3.30961 9.3 10.8526
-    vertex 3.47417 9.3 10.8026
+    vertex 3.30893 9.3 10.8528
+    vertex 3.47367 9.3 10.8027
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 6.48122
-    vertex 3.47417 9.3 10.8026
-    vertex 3.64285 9.3 10.769
+    vertex 3.47367 9.3 10.8027
+    vertex 3.64254 9.3 10.769
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
     vertex 11.0476 9.3 6.48122
-    vertex 3.814 9.3 10.7521
-    vertex 3.98599 9.3 10.7521
+    vertex 3.8139 9.3 10.7521
+    vertex 3.9861 9.3 10.7521
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
     vertex 11.0476 9.3 6.48122
-    vertex 3.98599 9.3 10.7521
-    vertex 4.15715 9.3 10.769
+    vertex 3.9861 9.3 10.7521
+    vertex 4.15746 9.3 10.769
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.32583 9.3 10.8026
+    vertex 4.32633 9.3 10.8027
     vertex 11.0476 9.3 6.48122
-    vertex 4.15715 9.3 10.769
+    vertex 4.15746 9.3 10.769
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.30704 9.3 11.4595
+    vertex 5.3082 9.3 11.461
     vertex 8.59846 9.3 13.2101
     vertex 11.0476 9.3 6.48122
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.30704 9.3 11.4595
+    vertex 5.3082 9.3 11.461
     vertex 11.0476 9.3 6.48122
-    vertex 5.1981 9.3 11.3264
+    vertex 5.19928 9.3 11.3277
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.1981 9.3 11.3264
+    vertex 5.19928 9.3 11.3277
     vertex 11.0476 9.3 6.48122
-    vertex 5.07663 9.3 11.2046
+    vertex 5.07777 9.3 11.2056
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.07663 9.3 11.2046
+    vertex 5.07777 9.3 11.2056
     vertex 11.0476 9.3 6.48122
-    vertex 4.94379 9.3 11.0954
+    vertex 4.94487 9.3 11.0962
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.94379 9.3 11.0954
+    vertex 4.94487 9.3 11.0962
     vertex 11.0476 9.3 6.48122
-    vertex 4.80087 9.3 10.9997
+    vertex 4.80184 9.3 11.0003
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.80087 9.3 10.9997
+    vertex 4.80184 9.3 11.0003
     vertex 11.0476 9.3 6.48122
-    vertex 4.64925 9.3 10.9185
+    vertex 4.65008 9.3 10.9189
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.64925 9.3 10.9185
+    vertex 4.65008 9.3 10.9189
     vertex 11.0476 9.3 6.48122
-    vertex 4.49039 9.3 10.8526
+    vertex 4.49107 9.3 10.8528
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.49039 9.3 10.8526
+    vertex 4.49107 9.3 10.8528
     vertex 11.0476 9.3 6.48122
-    vertex 4.32583 9.3 10.8026
+    vertex 4.32633 9.3 10.8027
     endloop
   endfacet
   facet normal -1 0 0
@@ -23337,51 +23785,51 @@ solid extruder_idler_bondtech.stl
     vertex -8.30557 -4.23959 9.26122
     endloop
   endfacet
-  facet normal 0 0.703341 0.710853
+  facet normal 0 0.703333 0.710861
     outer loop
-    vertex 3.814 9.3 10.7521
+    vertex 3.8139 9.3 10.7521
     vertex 3.9 9.1 10.95
-    vertex 3.98599 9.3 10.7521
+    vertex 3.9861 9.3 10.7521
     endloop
   endfacet
-  facet normal 0.0697698 0.703398 0.707364
+  facet normal 0.0698568 0.703386 0.707367
     outer loop
-    vertex 3.64285 9.3 10.769
+    vertex 3.64254 9.3 10.769
     vertex 3.73798 9.1 10.9585
-    vertex 3.814 9.3 10.7521
+    vertex 3.8139 9.3 10.7521
     endloop
   endfacet
-  facet normal 0.0368096 0.710818 0.702413
+  facet normal 0.0368095 0.710819 0.702411
     outer loop
-    vertex 3.814 9.3 10.7521
+    vertex 3.8139 9.3 10.7521
     vertex 3.73798 9.1 10.9585
     vertex 3.9 9.1 10.95
     endloop
   endfacet
-  facet normal -0.0697698 0.703398 0.707364
+  facet normal -0.0698569 0.703387 0.707366
     outer loop
-    vertex 3.98599 9.3 10.7521
+    vertex 3.9861 9.3 10.7521
     vertex 4.06202 9.1 10.9585
-    vertex 4.15715 9.3 10.769
+    vertex 4.15746 9.3 10.769
     endloop
   endfacet
-  facet normal -0.0368098 0.710818 0.702413
+  facet normal -0.0368098 0.710819 0.702411
     outer loop
-    vertex 3.98599 9.3 10.7521
+    vertex 3.9861 9.3 10.7521
     vertex 3.9 9.1 10.95
     vertex 4.06202 9.1 10.9585
     endloop
   endfacet
-  facet normal -0.138836 0.703571 0.69693
+  facet normal -0.139004 0.703553 0.696915
     outer loop
-    vertex 4.15715 9.3 10.769
+    vertex 4.15746 9.3 10.769
     vertex 4.22226 9.1 10.9839
-    vertex 4.32583 9.3 10.8026
+    vertex 4.32633 9.3 10.8027
     endloop
   endfacet
-  facet normal -0.110056 0.710694 0.694839
+  facet normal -0.110055 0.710699 0.694835
     outer loop
-    vertex 4.15715 9.3 10.769
+    vertex 4.15746 9.3 10.769
     vertex 4.06202 9.1 10.9585
     vertex 4.22226 9.1 10.9839
     endloop
@@ -23389,14 +23837,14 @@ solid extruder_idler_bondtech.stl
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.72337 9.3 11.2046
-    vertex 2.85621 9.3 11.0954
+    vertex 2.72223 9.3 11.2056
+    vertex 2.85513 9.3 11.0962
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.45103 9.3 11.8359
-    vertex 2.31678 9.3 11.7544
+    vertex 2.31577 9.3 11.7565
     vertex -3.6 9.3 11.5
     endloop
   endfacet
@@ -23410,29 +23858,29 @@ solid extruder_idler_bondtech.stl
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.31678 9.3 11.7544
-    vertex 2.39761 9.3 11.6026
+    vertex 2.31577 9.3 11.7565
+    vertex 2.3965 9.3 11.6045
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.39761 9.3 11.6026
-    vertex 2.49296 9.3 11.4595
+    vertex 2.3965 9.3 11.6045
+    vertex 2.49179 9.3 11.461
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.49296 9.3 11.4595
-    vertex 2.6019 9.3 11.3264
+    vertex 2.49179 9.3 11.461
+    vertex 2.60072 9.3 11.3277
     vertex -3.6 9.3 11.5
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex -3.6 9.3 11.5
-    vertex 2.6019 9.3 11.3264
-    vertex 2.72337 9.3 11.2046
+    vertex 2.60072 9.3 11.3277
+    vertex 2.72223 9.3 11.2056
     endloop
   endfacet
   facet normal -0.917931 0 0.39674
@@ -23442,65 +23890,65 @@ solid extruder_idler_bondtech.stl
     vertex -3.6 9.3 11.5
     endloop
   endfacet
-  facet normal 0.394305 0.705386 0.589028
+  facet normal 0.394775 0.705301 0.588815
     outer loop
-    vertex 2.85621 9.3 11.0954
+    vertex 2.85513 9.3 11.0962
     vertex 2.98893 9.1 11.246
-    vertex 2.99913 9.3 10.9997
+    vertex 2.99816 9.3 11.0003
     endloop
   endfacet
-  facet normal 0.449764 0.70612 0.546907
+  facet normal 0.450284 0.706008 0.546622
     outer loop
-    vertex 2.72337 9.3 11.2046
+    vertex 2.72223 9.3 11.2056
     vertex 2.86285 9.1 11.3481
-    vertex 2.85621 9.3 11.0954
+    vertex 2.85513 9.3 11.0962
     endloop
   endfacet
-  facet normal 0.444318 0.708185 0.548685
+  facet normal 0.444258 0.708281 0.54861
     outer loop
-    vertex 2.85621 9.3 11.0954
+    vertex 2.85513 9.3 11.0962
     vertex 2.86285 9.1 11.3481
     vertex 2.98893 9.1 11.246
     endloop
   endfacet
-  facet normal 0.334882 0.704762 0.625431
+  facet normal 0.335274 0.704702 0.625289
     outer loop
-    vertex 2.99913 9.3 10.9997
+    vertex 2.99816 9.3 11.0003
     vertex 3.125 9.1 11.1577
-    vertex 3.15075 9.3 10.9185
+    vertex 3.14991 9.3 10.9189
     endloop
   endfacet
-  facet normal 0.384115 0.708939 0.591491
+  facet normal 0.384076 0.70901 0.591431
     outer loop
-    vertex 2.99913 9.3 10.9997
+    vertex 2.99816 9.3 11.0003
     vertex 2.98893 9.1 11.246
     vertex 3.125 9.1 11.1577
     endloop
   endfacet
-  facet normal 0.272061 0.704253 0.655751
+  facet normal 0.272388 0.70421 0.655662
     outer loop
-    vertex 3.15075 9.3 10.9185
+    vertex 3.14991 9.3 10.9189
     vertex 3.26956 9.1 11.084
-    vertex 3.30961 9.3 10.8526
+    vertex 3.30893 9.3 10.8528
     endloop
   endfacet
-  facet normal 0.319895 0.709569 0.627837
+  facet normal 0.319875 0.709614 0.627796
     outer loop
-    vertex 3.15075 9.3 10.9185
+    vertex 3.14991 9.3 10.9189
     vertex 3.125 9.1 11.1577
     vertex 3.26956 9.1 11.084
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 2.31678 9.3 11.7544
+    vertex 2.31577 9.3 11.7565
     vertex -3.45103 9.3 11.8359
-    vertex 2.25124 9.3 11.9134
+    vertex 2.25037 9.3 11.9158
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.25124 9.3 11.9134
+    vertex 2.25037 9.3 11.9158
     vertex -3.45103 9.3 11.8359
     vertex -3.28703 9.3 12.1647
     endloop
@@ -23526,79 +23974,79 @@ solid extruder_idler_bondtech.stl
     vertex -3.42499 5.51801 11.8907
     endloop
   endfacet
-  facet normal 0.626016 0.704975 0.333339
+  facet normal 0.626345 0.705093 0.332469
     outer loop
-    vertex 2.31678 9.3 11.7544
+    vertex 2.31577 9.3 11.7565
     vertex 2.55766 9.1 11.725
-    vertex 2.39761 9.3 11.6026
+    vertex 2.3965 9.3 11.6045
     endloop
   endfacet
-  facet normal 0.656221 0.704422 0.270487
+  facet normal 0.656508 0.704527 0.269518
     outer loop
-    vertex 2.25124 9.3 11.9134
+    vertex 2.25037 9.3 11.9158
     vertex 2.484 9.1 11.8696
-    vertex 2.31678 9.3 11.7544
+    vertex 2.31577 9.3 11.7565
     endloop
   endfacet
-  facet normal 0.628025 0.709355 0.319999
+  facet normal 0.628142 0.709225 0.320059
     outer loop
-    vertex 2.31678 9.3 11.7544
+    vertex 2.31577 9.3 11.7565
     vertex 2.484 9.1 11.8696
     vertex 2.55766 9.1 11.725
     endloop
   endfacet
-  facet normal 0.589725 0.705637 0.392811
+  facet normal 0.590081 0.705764 0.392048
     outer loop
-    vertex 2.39761 9.3 11.6026
+    vertex 2.3965 9.3 11.6045
     vertex 2.64602 9.1 11.5889
-    vertex 2.49296 9.3 11.4595
+    vertex 2.49179 9.3 11.461
     endloop
   endfacet
-  facet normal 0.591706 0.708682 0.384256
+  facet normal 0.591826 0.70854 0.384334
     outer loop
-    vertex 2.39761 9.3 11.6026
+    vertex 2.3965 9.3 11.6045
     vertex 2.55766 9.1 11.725
     vertex 2.64602 9.1 11.5889
     endloop
   endfacet
-  facet normal 0.54772 0.70641 0.448317
+  facet normal 0.548095 0.706543 0.447648
     outer loop
-    vertex 2.49296 9.3 11.4595
+    vertex 2.49179 9.3 11.461
     vertex 2.74812 9.1 11.4628
-    vertex 2.6019 9.3 11.3264
+    vertex 2.60072 9.3 11.3277
     endloop
   endfacet
-  facet normal 0.548924 0.707881 0.444508
+  facet normal 0.549042 0.707728 0.444604
     outer loop
-    vertex 2.49296 9.3 11.4595
+    vertex 2.49179 9.3 11.461
     vertex 2.64602 9.1 11.5889
     vertex 2.74812 9.1 11.4628
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.25124 9.3 11.9134
+    vertex 2.25037 9.3 11.9158
     vertex -3.28703 9.3 12.1647
-    vertex 2.20162 9.3 12.0781
+    vertex 2.20095 9.3 12.0808
     endloop
   endfacet
-  facet normal 0.680017 0.703986 0.204891
+  facet normal 0.68025 0.704072 0.20382
     outer loop
-    vertex 2.20162 9.3 12.0781
+    vertex 2.20095 9.3 12.0808
     vertex 2.42586 9.1 12.021
-    vertex 2.25124 9.3 11.9134
+    vertex 2.25037 9.3 11.9158
     endloop
   endfacet
-  facet normal 0.657522 0.709903 0.252393
+  facet normal 0.657629 0.70979 0.252434
     outer loop
-    vertex 2.25124 9.3 11.9134
+    vertex 2.25037 9.3 11.9158
     vertex 2.42586 9.1 12.021
     vertex 2.484 9.1 11.8696
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 2.20162 9.3 12.0781
+    vertex 2.20095 9.3 12.0808
     vertex -3.28703 9.3 12.1647
     vertex -3.10832 9.3 12.4858
     endloop
@@ -23619,28 +24067,28 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.20162 9.3 12.0781
+    vertex 2.20095 9.3 12.0808
     vertex -3.10832 9.3 12.4858
-    vertex 2.16841 9.3 12.2468
+    vertex 2.16798 9.3 12.2498
     endloop
   endfacet
-  facet normal 0.697163 0.70366 0.137211
+  facet normal 0.697326 0.703723 0.136052
     outer loop
-    vertex 2.16841 9.3 12.2468
+    vertex 2.16798 9.3 12.2498
     vertex 2.38387 9.1 12.1777
-    vertex 2.20162 9.3 12.0781
+    vertex 2.20095 9.3 12.0808
     endloop
   endfacet
-  facet normal 0.67989 0.710324 0.182179
+  facet normal 0.679982 0.71023 0.182204
     outer loop
-    vertex 2.20162 9.3 12.0781
+    vertex 2.20095 9.3 12.0808
     vertex 2.38387 9.1 12.1777
     vertex 2.42586 9.1 12.021
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 2.16841 9.3 12.2468
+    vertex 2.16798 9.3 12.2498
     vertex -3.10832 9.3 12.4858
     vertex -2.91528 9.3 12.7985
     endloop
@@ -23668,28 +24116,28 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 2.16841 9.3 12.2468
+    vertex 2.16798 9.3 12.2498
     vertex -2.91528 9.3 12.7985
     vertex -2.7083 9.3 13.1022
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.16841 9.3 12.2468
+    vertex 2.16798 9.3 12.2498
     vertex -2.7083 9.3 13.1022
-    vertex 2.15192 9.3 12.418
+    vertex 2.15177 9.3 12.4212
     endloop
   endfacet
-  facet normal 0.707474 0.703447 0.0681363
+  facet normal 0.707556 0.703485 0.0668806
     outer loop
-    vertex 2.15192 9.3 12.418
+    vertex 2.15177 9.3 12.4212
     vertex 2.35849 9.1 12.338
-    vertex 2.16841 9.3 12.2468
+    vertex 2.16798 9.3 12.2498
     endloop
   endfacet
-  facet normal 0.694915 0.710618 0.110066
+  facet normal 0.694981 0.710552 0.110077
     outer loop
-    vertex 2.16841 9.3 12.2468
+    vertex 2.16798 9.3 12.2498
     vertex 2.35849 9.1 12.338
     vertex 2.38387 9.1 12.1777
     endloop
@@ -23717,7 +24165,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 2.15192 9.3 12.418
+    vertex 2.15177 9.3 12.4212
     vertex -2.7083 9.3 13.1022
     vertex -2.4878 9.3 13.3961
     endloop
@@ -23736,46 +24184,32 @@ solid extruder_idler_bondtech.stl
     vertex -2.56063 6.35 13.302
     endloop
   endfacet
-  facet normal -0 1 0
+  facet normal 0 1 0
     outer loop
-    vertex 2.15192 9.3 12.418
+    vertex 2.15177 9.3 12.4212
     vertex -2.4878 9.3 13.3961
-    vertex -2.25423 9.3 13.6798
+    vertex 2.1525 9.3 12.5934
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal 0.710832 0.703356 -0.00298215
     outer loop
-    vertex -2.25423 9.3 13.6798
-    vertex -2.00808 9.3 13.9527
-    vertex 2.15192 9.3 12.418
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15192 9.3 12.418
-    vertex -2.00808 9.3 13.9527
-    vertex -1.74984 9.3 14.2141
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.15192 9.3 12.418
-    vertex -1.74984 9.3 14.2141
-    vertex 2.15232 9.3 12.59
-    endloop
-  endfacet
-  facet normal 0.710843 0.703349 -0.00164071
-    outer loop
-    vertex 2.15232 9.3 12.59
+    vertex 2.1525 9.3 12.5934
     vertex 2.35 9.1 12.5
-    vertex 2.15192 9.3 12.418
+    vertex 2.15177 9.3 12.4212
     endloop
   endfacet
-  facet normal 0.702443 0.710788 0.0368145
+  facet normal 0.702479 0.710752 0.0368164
     outer loop
-    vertex 2.15192 9.3 12.418
+    vertex 2.15177 9.3 12.4212
     vertex 2.35 9.1 12.5
     vertex 2.35849 9.1 12.338
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex -2.4878 9.3 13.3961
+    vertex -2.25423 9.3 13.6798
     endloop
   endfacet
   facet normal -0.772013 0.000600132 0.635606
@@ -23790,6 +24224,118 @@ solid extruder_idler_bondtech.stl
     vertex -2.4878 9.3 13.3961
     vertex -2.56063 6.35 13.302
     vertex -2.32743 6.35 13.5937
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex -2.25423 9.3 13.6798
+    vertex -2.00808 9.3 13.9527
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -2.00808 9.3 13.9527
+    vertex -1.74984 9.3 14.2141
+    vertex 2.1525 9.3 12.5934
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex -1.74984 9.3 14.2141
+    vertex -1.48004 9.3 14.4636
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex -1.48004 9.3 14.4636
+    vertex -1.19924 9.3 14.7006
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -1.19924 9.3 14.7006
+    vertex -0.90801 9.3 14.9247
+    vertex 2.1525 9.3 12.5934
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex -0.90801 9.3 14.9247
+    vertex -0.606945 9.3 15.1354
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex -0.606945 9.3 15.1354
+    vertex -0.296658 9.3 15.3323
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -0.296658 9.3 15.3323
+    vertex 0.0222111 9.3 15.5149
+    vertex 2.1525 9.3 12.5934
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex 0.0222111 9.3 15.5149
+    vertex 0.349013 9.3 15.6829
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex 0.349013 9.3 15.6829
+    vertex 0.683078 9.3 15.836
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 0.683078 9.3 15.836
+    vertex 1.02372 9.3 15.9739
+    vertex 2.1525 9.3 12.5934
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex 1.02372 9.3 15.9739
+    vertex 1.37025 9.3 16.0961
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex 1.37025 9.3 16.0961
+    vertex 1.72195 9.3 16.2026
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 2.17014 9.3 12.7647
+    vertex 2.1525 9.3 12.5934
+    vertex 1.72195 9.3 16.2026
+    endloop
+  endfacet
+  facet normal 0.707115 0.703338 -0.0728245
+    outer loop
+    vertex 2.17014 9.3 12.7647
+    vertex 2.35849 9.1 12.662
+    vertex 2.1525 9.3 12.5934
+    endloop
+  endfacet
+  facet normal 0.702399 0.710831 -0.036812
+    outer loop
+    vertex 2.1525 9.3 12.5934
+    vertex 2.35849 9.1 12.662
+    vertex 2.35 9.1 12.5
     endloop
   endfacet
   facet normal -0.742487 0.000581823 0.66986
@@ -23820,13 +24366,6 @@ solid extruder_idler_bondtech.stl
     vertex -1.82207 6.35 14.1433
     endloop
   endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex -1.74984 9.3 14.2141
-    vertex -1.48004 9.3 14.4636
-    endloop
-  endfacet
   facet normal -0.678937 0.000540397 0.734196
     outer loop
     vertex -1.74984 9.3 14.2141
@@ -23839,104 +24378,6 @@ solid extruder_idler_bondtech.stl
     vertex -1.74984 9.3 14.2141
     vertex -1.82207 6.35 14.1433
     vertex -1.55099 6.35 14.4001
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex -1.48004 9.3 14.4636
-    vertex -1.19924 9.3 14.7006
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -1.19924 9.3 14.7006
-    vertex -0.90801 9.3 14.9247
-    vertex 2.15232 9.3 12.59
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex -0.90801 9.3 14.9247
-    vertex -0.606945 9.3 15.1354
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex -0.606945 9.3 15.1354
-    vertex -0.296658 9.3 15.3323
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -0.296658 9.3 15.3323
-    vertex 0.0222111 9.3 15.5149
-    vertex 2.15232 9.3 12.59
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex 0.0222111 9.3 15.5149
-    vertex 0.349013 9.3 15.6829
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex 0.349013 9.3 15.6829
-    vertex 0.683078 9.3 15.836
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 0.683078 9.3 15.836
-    vertex 1.02372 9.3 15.9739
-    vertex 2.15232 9.3 12.59
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex 1.02372 9.3 15.9739
-    vertex 1.37025 9.3 16.0961
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex 1.37025 9.3 16.0961
-    vertex 1.72195 9.3 16.2026
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 1.72195 9.3 16.2026
-    vertex 2.07811 9.3 16.2931
-    vertex 2.15232 9.3 12.59
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex 2.07811 9.3 16.2931
-    vertex 2.16959 9.3 12.7611
-    endloop
-  endfacet
-  facet normal 0.707233 0.703365 -0.0714062
-    outer loop
-    vertex 2.16959 9.3 12.7611
-    vertex 2.35849 9.1 12.662
-    vertex 2.15232 9.3 12.59
-    endloop
-  endfacet
-  facet normal 0.702397 0.710832 -0.0368119
-    outer loop
-    vertex 2.15232 9.3 12.59
-    vertex 2.35849 9.1 12.662
-    vertex 2.35 9.1 12.5
     endloop
   endfacet
   facet normal -0.645042 0.000518143 0.764147
@@ -24079,11 +24520,32 @@ solid extruder_idler_bondtech.stl
     vertex 1.68759 6.35 16.193
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.25533 9.3 13.098
+    vertex 1.72195 9.3 16.2026
+    endloop
+  endfacet
   facet normal -0.246211 0.000209132 0.969216
     outer loop
     vertex 1.72195 9.3 16.2026
     vertex 2.04914 6.35 16.2864
     vertex 2.07811 9.3 16.2931
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 1.72195 9.3 16.2026
+    vertex 2.25533 9.3 13.098
+    vertex 2.20453 9.3 12.9334
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 1.72195 9.3 16.2026
+    vertex 2.20453 9.3 12.9334
+    vertex 2.17014 9.3 12.7647
     endloop
   endfacet
   facet normal -0.25011 -0.000251683 0.968217
@@ -24095,93 +24557,16 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.16959 9.3 12.7611
     vertex 2.07811 9.3 16.2931
-    vertex 2.20358 9.3 12.9297
+    vertex 2.32206 9.3 13.2567
+    vertex 2.25533 9.3 13.098
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 2.20358 9.3 12.9297
-    vertex 2.07811 9.3 16.2931
-    vertex 2.25396 9.3 13.0942
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.25396 9.3 13.0942
-    vertex 2.07811 9.3 16.2931
-    vertex 2.32024 9.3 13.2529
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.32024 9.3 13.2529
-    vertex 2.07811 9.3 16.2931
-    vertex 2.40177 9.3 13.4043
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.40177 9.3 13.4043
-    vertex 2.07811 9.3 16.2931
-    vertex 2.49777 9.3 13.547
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.49777 9.3 13.547
-    vertex 2.07811 9.3 16.2931
-    vertex 2.60732 9.3 13.6796
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.60732 9.3 13.6796
-    vertex 2.07811 9.3 16.2931
-    vertex 2.72936 9.3 13.8008
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.72936 9.3 13.8008
-    vertex 2.07811 9.3 16.2931
-    vertex 2.8627 9.3 13.9094
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.8627 9.3 13.9094
-    vertex 2.07811 9.3 16.2931
-    vertex 3.00606 9.3 14.0045
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.00606 9.3 14.0045
-    vertex 2.07811 9.3 16.2931
-    vertex 3.15806 9.3 14.0849
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.15806 9.3 14.0849
-    vertex 2.07811 9.3 16.2931
-    vertex 3.31722 9.3 14.1501
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.31722 9.3 14.1501
-    vertex 2.07811 9.3 16.2931
-    vertex 3.53266 9.3 14.25
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 2.07811 9.3 16.2931
     vertex 2.438 9.3 16.3674
-    vertex 3.53266 9.3 14.25
+    vertex 3.48792 9.3 14.2008
+    vertex 2.07811 9.3 16.2931
     endloop
   endfacet
   facet normal -0.202133 0.000170921 0.979358
@@ -24191,6 +24576,69 @@ solid extruder_idler_bondtech.stl
     vertex 2.438 9.3 16.3674
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 3.48792 9.3 14.2008
+    vertex 3.32276 9.3 14.1521
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 3.32276 9.3 14.1521
+    vertex 3.1632 9.3 14.0873
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 3.1632 9.3 14.0873
+    vertex 3.01077 9.3 14.0072
+    vertex 2.07811 9.3 16.2931
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 3.01077 9.3 14.0072
+    vertex 2.86694 9.3 13.9125
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.86694 9.3 13.9125
+    vertex 2.73312 9.3 13.8042
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 2.73312 9.3 13.8042
+    vertex 2.6106 9.3 13.6832
+    vertex 2.07811 9.3 16.2931
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.6106 9.3 13.6832
+    vertex 2.50056 9.3 13.5507
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.07811 9.3 16.2931
+    vertex 2.50056 9.3 13.5507
+    vertex 2.40407 9.3 13.4081
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 2.40407 9.3 13.4081
+    vertex 2.32206 9.3 13.2567
+    vertex 2.07811 9.3 16.2931
+    endloop
+  endfacet
   facet normal -0.205364 -0.000213615 0.978686
     outer loop
     vertex 2.07811 9.3 16.2931
@@ -24198,235 +24646,53 @@ solid extruder_idler_bondtech.stl
     vertex 2.4146 6.35 16.3631
     endloop
   endfacet
-  facet normal 0.696681 0.703496 -0.140459
+  facet normal 0.678931 0.703633 -0.209649
     outer loop
-    vertex 2.20358 9.3 12.9297
-    vertex 2.38387 9.1 12.8223
-    vertex 2.16959 9.3 12.7611
+    vertex 2.25533 9.3 13.098
+    vertex 2.42586 9.1 12.979
+    vertex 2.20453 9.3 12.9334
     endloop
   endfacet
-  facet normal 0.69478 0.710754 -0.110045
+  facet normal 0.65476 0.703941 -0.275239
     outer loop
-    vertex 2.16959 9.3 12.7611
+    vertex 2.32206 9.3 13.2567
+    vertex 2.484 9.1 13.1304
+    vertex 2.25533 9.3 13.098
+    endloop
+  endfacet
+  facet normal 0.657099 0.710353 -0.252229
+    outer loop
+    vertex 2.25533 9.3 13.098
+    vertex 2.484 9.1 13.1304
+    vertex 2.42586 9.1 12.979
+    endloop
+  endfacet
+  facet normal 0.696445 0.703432 -0.141948
+    outer loop
+    vertex 2.20453 9.3 12.9334
+    vertex 2.38387 9.1 12.8223
+    vertex 2.17014 9.3 12.7647
+    endloop
+  endfacet
+  facet normal 0.679588 0.710634 -0.182096
+    outer loop
+    vertex 2.20453 9.3 12.9334
+    vertex 2.42586 9.1 12.979
+    vertex 2.38387 9.1 12.8223
+    endloop
+  endfacet
+  facet normal 0.694741 0.710793 -0.110039
+    outer loop
+    vertex 2.17014 9.3 12.7647
     vertex 2.38387 9.1 12.8223
     vertex 2.35849 9.1 12.662
     endloop
   endfacet
-  facet normal 0.679298 0.703739 -0.2081
-    outer loop
-    vertex 2.25396 9.3 13.0942
-    vertex 2.42586 9.1 12.979
-    vertex 2.20358 9.3 12.9297
-    endloop
-  endfacet
-  facet normal 0.679671 0.71055 -0.182118
-    outer loop
-    vertex 2.20358 9.3 12.9297
-    vertex 2.42586 9.1 12.979
-    vertex 2.38387 9.1 12.8223
-    endloop
-  endfacet
-  facet normal 0.655268 0.704093 -0.273635
-    outer loop
-    vertex 2.32024 9.3 13.2529
-    vertex 2.484 9.1 13.1304
-    vertex 2.25396 9.3 13.0942
-    endloop
-  endfacet
-  facet normal 0.657226 0.710218 -0.252278
-    outer loop
-    vertex 2.25396 9.3 13.0942
-    vertex 2.484 9.1 13.1304
-    vertex 2.42586 9.1 12.979
-    endloop
-  endfacet
-  facet normal 0.62483 0.704566 -0.336413
-    outer loop
-    vertex 2.40177 9.3 13.4043
-    vertex 2.55766 9.1 13.275
-    vertex 2.32024 9.3 13.2529
-    endloop
-  endfacet
-  facet normal 0.627661 0.709761 -0.319814
-    outer loop
-    vertex 2.32024 9.3 13.2529
-    vertex 2.55766 9.1 13.275
-    vertex 2.484 9.1 13.1304
-    endloop
-  endfacet
-  facet normal 0.58831 0.70515 -0.395796
-    outer loop
-    vertex 2.49777 9.3 13.547
-    vertex 2.64602 9.1 13.4111
-    vertex 2.40177 9.3 13.4043
-    endloop
-  endfacet
-  facet normal 0.591285 0.709181 -0.383985
-    outer loop
-    vertex 2.40177 9.3 13.4043
-    vertex 2.64602 9.1 13.4111
-    vertex 2.55766 9.1 13.275
-    endloop
-  endfacet
-  facet normal 0.546079 0.705844 -0.451201
-    outer loop
-    vertex 2.60732 9.3 13.6796
-    vertex 2.74812 9.1 13.5372
-    vertex 2.49777 9.3 13.547
-    endloop
-  endfacet
-  facet normal 0.548458 0.708474 -0.444138
-    outer loop
-    vertex 2.49777 9.3 13.547
-    vertex 2.74812 9.1 13.5372
-    vertex 2.64602 9.1 13.4111
-    endloop
-  endfacet
-  facet normal 0.498591 0.706647 -0.502053
-    outer loop
-    vertex 2.72936 9.3 13.8008
-    vertex 2.86285 9.1 13.6519
-    vertex 2.60732 9.3 13.6796
-    endloop
-  endfacet
-  facet normal 0.499628 0.707635 -0.499624
-    outer loop
-    vertex 2.60732 9.3 13.6796
-    vertex 2.86285 9.1 13.6519
-    vertex 2.74812 9.1 13.5372
-    endloop
-  endfacet
-  facet normal 0.446856 0.706717 -0.548517
-    outer loop
-    vertex 2.8627 9.3 13.9094
-    vertex 2.86285 9.1 13.6519
-    vertex 2.72936 9.3 13.8008
-    endloop
-  endfacet
-  facet normal 0.391305 0.705903 -0.590408
-    outer loop
-    vertex 3.00606 9.3 14.0045
-    vertex 2.98893 9.1 13.754
-    vertex 2.8627 9.3 13.9094
-    endloop
-  endfacet
-  facet normal 0.444713 0.707559 -0.549173
-    outer loop
-    vertex 2.8627 9.3 13.9094
-    vertex 2.98893 9.1 13.754
-    vertex 2.86285 9.1 13.6519
-    endloop
-  endfacet
-  facet normal 0.332018 0.704704 -0.627021
-    outer loop
-    vertex 3.15806 9.3 14.0849
-    vertex 3.20852 9.13468 13.9259
-    vertex 3.00606 9.3 14.0045
-    endloop
-  endfacet
-  facet normal 0.332962 0.705302 -0.625848
-    outer loop
-    vertex 3.00606 9.3 14.0045
-    vertex 3.20852 9.13468 13.9259
-    vertex 3.125 9.1 13.8423
-    endloop
-  endfacet
-  facet normal 0.384405 0.708409 -0.591937
-    outer loop
-    vertex 3.00606 9.3 14.0045
-    vertex 3.125 9.1 13.8423
-    vertex 2.98893 9.1 13.754
-    endloop
-  endfacet
-  facet normal 0.27025 0.70102 -0.659951
-    outer loop
-    vertex 3.31722 9.3 14.1501
-    vertex 3.29524 9.179 14.0126
-    vertex 3.15806 9.3 14.0849
-    endloop
-  endfacet
-  facet normal 0.284089 0.708422 -0.646089
-    outer loop
-    vertex 3.15806 9.3 14.0849
-    vertex 3.29524 9.179 14.0126
-    vertex 3.20852 9.13468 13.9259
-    endloop
-  endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.31722 9.3 14.1501
-    vertex 3.53266 9.3 14.25
-    vertex 3.48201 9.3 14.1993
-    endloop
-  endfacet
-  facet normal 0.205171 0.697396 -0.686691
-    outer loop
-    vertex 3.48201 9.3 14.1993
-    vertex 3.38607 9.23376 14.1034
-    vertex 3.31722 9.3 14.1501
-    endloop
-  endfacet
-  facet normal 0.234336 0.711002 -0.662995
-    outer loop
-    vertex 3.31722 9.3 14.1501
-    vertex 3.38607 9.23376 14.1034
-    vertex 3.29524 9.179 14.0126
-    endloop
-  endfacet
-  facet normal 0.707103 0 -0.70711
-    outer loop
-    vertex 3.48201 9.3 14.1993
-    vertex 3.53266 9.3 14.25
-    vertex 3.53266 6.15 14.25
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 9.3 14.25
     vertex 2.438 9.3 16.3674
     vertex 2.80087 9.3 16.4253
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 9.3 14.25
-    vertex 2.80087 9.3 16.4253
-    vertex 3.166 9.3 16.4668
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.166 9.3 16.4668
-    vertex 3.53262 9.3 16.4917
-    vertex 3.53266 9.3 14.25
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 9.3 14.25
-    vertex 3.53262 9.3 16.4917
-    vertex 3.9 9.3 16.5
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 3.53266 9.3 14.25
-    vertex 3.9 9.3 16.5
-    vertex 4.26734 9.3 14.25
-    endloop
-  endfacet
-  facet normal -0 0 -1
-    outer loop
-    vertex 3.53266 9.3 14.25
-    vertex 4.26734 9.3 14.25
-    vertex 3.53266 6.15 14.25
-    endloop
-  endfacet
-  facet normal 0.707102 -6.18075e-008 -0.707112
-    outer loop
-    vertex 3.53266 6.15 14.25
-    vertex 3.38607 9.23376 14.1034
-    vertex 3.48201 9.3 14.1993
+    vertex 3.48792 9.3 14.2008
     endloop
   endfacet
   facet normal -0.15765 0.000130074 0.987495
@@ -24443,6 +24709,76 @@ solid extruder_idler_bondtech.stl
     vertex 2.78319 6.35 16.4229
     endloop
   endfacet
+  facet normal 0.201478 0.702268 -0.682807
+    outer loop
+    vertex 3.48792 9.3 14.2008
+    vertex 3.46054 9.14769 14.0361
+    vertex 3.32276 9.3 14.1521
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.48792 9.3 14.2008
+    vertex 2.80087 9.3 16.4253
+    vertex 3.65706 9.3 14.2331
+    endloop
+  endfacet
+  facet normal 0.133234 0.70311 -0.698487
+    outer loop
+    vertex 3.65706 9.3 14.2331
+    vertex 3.54809 9.17517 14.0866
+    vertex 3.48792 9.3 14.2008
+    endloop
+  endfacet
+  facet normal 0.172473 0.708787 -0.684014
+    outer loop
+    vertex 3.48792 9.3 14.2008
+    vertex 3.54809 9.17517 14.0866
+    vertex 3.46054 9.14769 14.0361
+    endloop
+  endfacet
+  facet normal 0.267161 0.703446 -0.658626
+    outer loop
+    vertex 3.32276 9.3 14.1521
+    vertex 3.29086 9.11179 13.9381
+    vertex 3.1632 9.3 14.0873
+    endloop
+  endfacet
+  facet normal 0.214883 0.707288 -0.673475
+    outer loop
+    vertex 3.32276 9.3 14.1521
+    vertex 3.46054 9.14769 14.0361
+    vertex 3.37498 9.12665 13.9867
+    endloop
+  endfacet
+  facet normal 0.256066 0.706554 -0.659706
+    outer loop
+    vertex 3.32276 9.3 14.1521
+    vertex 3.37498 9.12665 13.9867
+    vertex 3.29086 9.11179 13.9381
+    endloop
+  endfacet
+  facet normal 0.33038 0.703942 -0.628741
+    outer loop
+    vertex 3.1632 9.3 14.0873
+    vertex 3.20769 9.10294 13.8901
+    vertex 3.01077 9.3 14.0072
+    endloop
+  endfacet
+  facet normal 0.294829 0.708433 -0.641247
+    outer loop
+    vertex 3.1632 9.3 14.0873
+    vertex 3.29086 9.11179 13.9381
+    vertex 3.20769 9.10294 13.8901
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 3.65706 9.3 14.2331
+    vertex 2.80087 9.3 16.4253
+    vertex 3.166 9.3 16.4668
+    endloop
+  endfacet
   facet normal -0.112836 8.82419e-005 0.993614
     outer loop
     vertex 2.80087 9.3 16.4253
@@ -24457,6 +24793,48 @@ solid extruder_idler_bondtech.stl
     vertex 3.15415 6.35 16.4657
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.65706 9.3 14.2331
+    vertex 3.166 9.3 16.4668
+    vertex 3.83109 9.3 14.25
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.82856 9.3 14.2485
+    vertex 3.65706 9.3 14.2331
+    vertex 3.83109 9.3 14.25
+    endloop
+  endfacet
+  facet normal 0.0649313 0.691933 -0.719036
+    outer loop
+    vertex 3.82856 9.3 14.2485
+    vertex 3.73145 9.25084 14.1925
+    vertex 3.65706 9.3 14.2331
+    endloop
+  endfacet
+  facet normal 0.087964 0.709992 -0.698695
+    outer loop
+    vertex 3.65706 9.3 14.2331
+    vertex 3.73145 9.25084 14.1925
+    vertex 3.63819 9.20941 14.1386
+    endloop
+  endfacet
+  facet normal 0.137674 0.700867 -0.699879
+    outer loop
+    vertex 3.65706 9.3 14.2331
+    vertex 3.63819 9.20941 14.1386
+    vertex 3.54809 9.17517 14.0866
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 3.83109 9.3 14.25
+    vertex 3.166 9.3 16.4668
+    vertex 3.53262 9.3 16.4917
+    endloop
+  endfacet
   facet normal -0.0677979 4.49744e-005 0.997699
     outer loop
     vertex 3.166 9.3 16.4668
@@ -24469,6 +24847,34 @@ solid extruder_idler_bondtech.stl
     vertex 3.166 9.3 16.4668
     vertex 3.15415 6.35 16.4657
     vertex 3.52668 6.35 16.4914
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 3.83109 9.3 14.25
+    vertex 3.53262 9.3 16.4917
+    vertex 3.9 9.3 16.5
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.83109 9.3 14.25
+    vertex 3.9 9.3 16.5
+    vertex 3.96891 9.3 14.25
+    endloop
+  endfacet
+  facet normal -0 0 -1
+    outer loop
+    vertex 3.83109 9.3 14.25
+    vertex 3.96891 9.3 14.25
+    vertex 3.83109 6.15 14.25
+    endloop
+  endfacet
+  facet normal 0.499692 0 -0.866203
+    outer loop
+    vertex 3.83109 6.15 14.25
+    vertex 3.82856 9.3 14.2485
+    vertex 3.83109 9.3 14.25
     endloop
   endfacet
   facet normal -0.0226097 0 0.999744
@@ -24487,7 +24893,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 14.25
+    vertex 3.96891 9.3 14.25
     vertex 3.9 9.3 16.5
     vertex 4.19072 9.3 16.4915
     endloop
@@ -24508,7 +24914,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 14.25
+    vertex 3.96891 9.3 14.25
     vertex 4.19072 9.3 16.4915
     vertex 4.48046 9.3 16.4662
     endloop
@@ -24517,70 +24923,35 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex 4.48046 9.3 16.4662
     vertex 4.76824 9.3 16.424
-    vertex 4.26734 9.3 14.25
+    vertex 3.96891 9.3 14.25
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 14.25
+    vertex 3.96891 9.3 14.25
     vertex 4.76824 9.3 16.424
-    vertex 5.05308 9.3 16.3652
+    vertex 4.14293 9.3 14.2331
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 9.3 14.25
-    vertex 5.05308 9.3 16.3652
-    vertex 5.33401 9.3 16.2899
+    vertex 3.96891 9.3 14.25
+    vertex 4.14293 9.3 14.2331
+    vertex 3.97144 9.3 14.2485
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal -0.499692 0 -0.866203
     outer loop
-    vertex 5.33401 9.3 16.2899
-    vertex 5.6101 9.3 16.1985
-    vertex 4.26734 9.3 14.25
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.26734 9.3 14.25
-    vertex 5.6101 9.3 16.1985
-    vertex 5.8804 9.3 16.0911
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.26734 9.3 14.25
-    vertex 5.8804 9.3 16.0911
-    vertex 6.144 9.3 15.9682
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.26734 9.3 14.25
-    vertex 6.144 9.3 15.9682
-    vertex 4.48278 9.3 14.1501
-    endloop
-  endfacet
-  facet normal -0 1 -0
-    outer loop
-    vertex 4.48278 9.3 14.1501
-    vertex 4.31799 9.3 14.1993
-    vertex 4.26734 9.3 14.25
-    endloop
-  endfacet
-  facet normal -0.707107 0 -0.707107
-    outer loop
-    vertex 4.26734 9.3 14.25
-    vertex 4.31799 9.3 14.1993
-    vertex 4.26734 6.15 14.25
+    vertex 3.96891 9.3 14.25
+    vertex 3.97144 9.3 14.2485
+    vertex 3.96891 6.15 14.25
     endloop
   endfacet
   facet normal 0 -0 -1
     outer loop
-    vertex 3.53266 6.15 14.25
-    vertex 4.26734 9.3 14.25
-    vertex 4.26734 6.15 14.25
+    vertex 3.83109 6.15 14.25
+    vertex 3.96891 9.3 14.25
+    vertex 3.96891 6.15 14.25
     endloop
   endfacet
   facet normal 0.0871541 -0 0.996195
@@ -24611,6 +24982,13 @@ solid extruder_idler_bondtech.stl
     vertex 4.76824 6.35 16.424
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.76824 9.3 16.424
+    vertex 5.05308 9.3 16.3652
+    vertex 4.14293 9.3 14.2331
+    endloop
+  endfacet
   facet normal 0.202212 -0 0.979342
     outer loop
     vertex 4.76824 9.3 16.424
@@ -24625,6 +25003,48 @@ solid extruder_idler_bondtech.stl
     vertex 5.05308 6.35 16.3652
     endloop
   endfacet
+  facet normal -0.0649313 0.691933 -0.719036
+    outer loop
+    vertex 4.14293 9.3 14.2331
+    vertex 4.06855 9.25084 14.1925
+    vertex 3.97144 9.3 14.2485
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.14293 9.3 14.2331
+    vertex 5.05308 9.3 16.3652
+    vertex 5.33401 9.3 16.2899
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.14293 9.3 14.2331
+    vertex 5.33401 9.3 16.2899
+    vertex 4.31208 9.3 14.2008
+    endloop
+  endfacet
+  facet normal -0.133493 0.701706 -0.699848
+    outer loop
+    vertex 4.31208 9.3 14.2008
+    vertex 4.16181 9.20941 14.1386
+    vertex 4.14293 9.3 14.2331
+    endloop
+  endfacet
+  facet normal -0.087964 0.709992 -0.698695
+    outer loop
+    vertex 4.14293 9.3 14.2331
+    vertex 4.16181 9.20941 14.1386
+    vertex 4.06855 9.25084 14.1925
+    endloop
+  endfacet
+  facet normal -0.500013 3.43788e-007 -0.866018
+    outer loop
+    vertex 3.96891 6.15 14.25
+    vertex 3.97144 9.3 14.2485
+    vertex 4.06855 9.25084 14.1925
+    endloop
+  endfacet
   facet normal 0.258822 -0 0.965925
     outer loop
     vertex 5.05308 9.3 16.3652
@@ -24639,6 +25059,13 @@ solid extruder_idler_bondtech.stl
     vertex 5.33401 6.35 16.2899
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.31208 9.3 14.2008
+    vertex 5.33401 9.3 16.2899
+    vertex 5.6101 9.3 16.1985
+    endloop
+  endfacet
   facet normal 0.314543 -0 0.949243
     outer loop
     vertex 5.33401 9.3 16.2899
@@ -24653,6 +25080,41 @@ solid extruder_idler_bondtech.stl
     vertex 5.6101 6.35 16.1985
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.31208 9.3 14.2008
+    vertex 5.6101 9.3 16.1985
+    vertex 5.8804 9.3 16.0911
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.31208 9.3 14.2008
+    vertex 5.8804 9.3 16.0911
+    vertex 4.47723 9.3 14.1521
+    endloop
+  endfacet
+  facet normal -0.201477 0.702269 -0.682807
+    outer loop
+    vertex 4.47723 9.3 14.1521
+    vertex 4.33945 9.14769 14.0361
+    vertex 4.31208 9.3 14.2008
+    endloop
+  endfacet
+  facet normal -0.172472 0.708787 -0.684014
+    outer loop
+    vertex 4.31208 9.3 14.2008
+    vertex 4.33945 9.14769 14.0361
+    vertex 4.25191 9.17517 14.0866
+    endloop
+  endfacet
+  facet normal -0.135436 0.703461 -0.69771
+    outer loop
+    vertex 4.31208 9.3 14.2008
+    vertex 4.25191 9.17517 14.0866
+    vertex 4.16181 9.20941 14.1386
+    endloop
+  endfacet
   facet normal 0.369204 -0 0.929348
     outer loop
     vertex 5.6101 9.3 16.1985
@@ -24667,6 +25129,13 @@ solid extruder_idler_bondtech.stl
     vertex 5.8804 6.35 16.0911
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.47723 9.3 14.1521
+    vertex 5.8804 9.3 16.0911
+    vertex 6.144 9.3 15.9682
+    endloop
+  endfacet
   facet normal 0.422623 -0 0.906306
     outer loop
     vertex 5.8804 9.3 16.0911
@@ -24683,9 +25152,37 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.48278 9.3 14.1501
+    vertex 4.47723 9.3 14.1521
     vertex 6.144 9.3 15.9682
     vertex 6.4 9.3 15.8301
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 4.47723 9.3 14.1521
+    vertex 6.4 9.3 15.8301
+    vertex 4.6368 9.3 14.0873
+    endloop
+  endfacet
+  facet normal -0.267164 0.703446 -0.658625
+    outer loop
+    vertex 4.6368 9.3 14.0873
+    vertex 4.50914 9.11179 13.9381
+    vertex 4.47723 9.3 14.1521
+    endloop
+  endfacet
+  facet normal -0.256071 0.706554 -0.659705
+    outer loop
+    vertex 4.47723 9.3 14.1521
+    vertex 4.50914 9.11179 13.9381
+    vertex 4.42502 9.12665 13.9867
+    endloop
+  endfacet
+  facet normal -0.21488 0.707288 -0.673477
+    outer loop
+    vertex 4.47723 9.3 14.1521
+    vertex 4.42502 9.12665 13.9867
+    vertex 4.33945 9.14769 14.0361
     endloop
   endfacet
   facet normal 0.474596 -0 0.880204
@@ -24704,35 +25201,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.48278 9.3 14.1501
-    vertex 6.4 9.3 15.8301
-    vertex 4.64194 9.3 14.0849
-    endloop
-  endfacet
-  facet normal -0.270251 0.701021 -0.65995
-    outer loop
-    vertex 4.64194 9.3 14.0849
-    vertex 4.50475 9.179 14.0126
-    vertex 4.48278 9.3 14.1501
-    endloop
-  endfacet
-  facet normal -0.205169 0.697396 -0.686691
-    outer loop
-    vertex 4.48278 9.3 14.1501
-    vertex 4.41393 9.23376 14.1034
-    vertex 4.31799 9.3 14.1993
-    endloop
-  endfacet
-  facet normal -0.234335 0.711003 -0.662994
-    outer loop
-    vertex 4.48278 9.3 14.1501
-    vertex 4.50475 9.179 14.0126
-    vertex 4.41393 9.23376 14.1034
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.64194 9.3 14.0849
+    vertex 4.6368 9.3 14.0873
     vertex 6.4 9.3 15.8301
     vertex 6.64754 9.3 15.6774
     endloop
@@ -24753,28 +25222,28 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.64194 9.3 14.0849
+    vertex 4.6368 9.3 14.0873
     vertex 6.64754 9.3 15.6774
-    vertex 4.79394 9.3 14.0045
+    vertex 4.78923 9.3 14.0072
     endloop
   endfacet
-  facet normal -0.332018 0.704703 -0.627022
+  facet normal -0.330376 0.703942 -0.628743
     outer loop
-    vertex 4.79394 9.3 14.0045
-    vertex 4.59148 9.13468 13.9259
-    vertex 4.64194 9.3 14.0849
+    vertex 4.78923 9.3 14.0072
+    vertex 4.59231 9.10294 13.8901
+    vertex 4.6368 9.3 14.0873
     endloop
   endfacet
-  facet normal -0.284088 0.708421 -0.646091
+  facet normal -0.29483 0.708433 -0.641248
     outer loop
-    vertex 4.64194 9.3 14.0849
-    vertex 4.59148 9.13468 13.9259
-    vertex 4.50475 9.179 14.0126
+    vertex 4.6368 9.3 14.0873
+    vertex 4.59231 9.10294 13.8901
+    vertex 4.50914 9.11179 13.9381
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.79394 9.3 14.0045
+    vertex 4.78923 9.3 14.0072
     vertex 6.64754 9.3 15.6774
     vertex 6.88579 9.3 15.5106
     endloop
@@ -24795,37 +25264,37 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.79394 9.3 14.0045
+    vertex 4.78923 9.3 14.0072
     vertex 6.88579 9.3 15.5106
     vertex 7.11394 9.3 15.3302
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.79394 9.3 14.0045
+    vertex 4.78923 9.3 14.0072
     vertex 7.11394 9.3 15.3302
-    vertex 4.9373 9.3 13.9094
+    vertex 4.93306 9.3 13.9125
     endloop
   endfacet
-  facet normal -0.391309 0.7059 -0.590408
+  facet normal -0.389288 0.70627 -0.591301
     outer loop
-    vertex 4.9373 9.3 13.9094
+    vertex 4.93306 9.3 13.9125
     vertex 4.81107 9.1 13.754
-    vertex 4.79394 9.3 14.0045
+    vertex 4.78923 9.3 14.0072
     endloop
   endfacet
-  facet normal -0.384402 0.708409 -0.591939
+  facet normal -0.384619 0.708011 -0.592274
     outer loop
-    vertex 4.79394 9.3 14.0045
+    vertex 4.78923 9.3 14.0072
     vertex 4.81107 9.1 13.754
     vertex 4.675 9.1 13.8423
     endloop
   endfacet
-  facet normal -0.332964 0.705303 -0.625846
+  facet normal -0.335184 0.70591 -0.623973
     outer loop
-    vertex 4.79394 9.3 14.0045
+    vertex 4.78923 9.3 14.0072
     vertex 4.675 9.1 13.8423
-    vertex 4.59148 9.13468 13.9259
+    vertex 4.59231 9.10294 13.8901
     endloop
   endfacet
   facet normal 0.620238 -0 0.784414
@@ -24844,7 +25313,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.9373 9.3 13.9094
+    vertex 4.93306 9.3 13.9125
     vertex 7.11394 9.3 15.3302
     vertex 7.33121 9.3 15.1369
     endloop
@@ -24865,28 +25334,21 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.9373 9.3 13.9094
+    vertex 4.93306 9.3 13.9125
     vertex 7.33121 9.3 15.1369
-    vertex 5.07064 9.3 13.8008
+    vertex 5.06688 9.3 13.8042
     endloop
   endfacet
-  facet normal -0.446855 0.706715 -0.54852
+  facet normal -0.44499 0.707117 -0.549517
     outer loop
-    vertex 5.07064 9.3 13.8008
-    vertex 4.93715 9.1 13.6519
-    vertex 4.9373 9.3 13.9094
-    endloop
-  endfacet
-  facet normal -0.444715 0.707556 -0.549175
-    outer loop
-    vertex 4.9373 9.3 13.9094
-    vertex 4.93715 9.1 13.6519
+    vertex 5.06688 9.3 13.8042
     vertex 4.81107 9.1 13.754
+    vertex 4.93306 9.3 13.9125
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.07064 9.3 13.8008
+    vertex 5.06688 9.3 13.8042
     vertex 7.33121 9.3 15.1369
     vertex 7.53687 9.3 14.9312
     endloop
@@ -24907,21 +25369,28 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.07064 9.3 13.8008
+    vertex 5.06688 9.3 13.8042
     vertex 7.53687 9.3 14.9312
-    vertex 5.19267 9.3 13.6796
+    vertex 5.1894 9.3 13.6832
     endloop
   endfacet
-  facet normal -0.498591 0.706645 -0.502056
+  facet normal -0.497437 0.706267 -0.503729
     outer loop
-    vertex 5.19267 9.3 13.6796
+    vertex 5.1894 9.3 13.6832
     vertex 4.93715 9.1 13.6519
-    vertex 5.07064 9.3 13.8008
+    vertex 5.06688 9.3 13.8042
+    endloop
+  endfacet
+  facet normal -0.444991 0.707118 -0.549516
+    outer loop
+    vertex 5.06688 9.3 13.8042
+    vertex 4.93715 9.1 13.6519
+    vertex 4.81107 9.1 13.754
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.19267 9.3 13.6796
+    vertex 5.1894 9.3 13.6832
     vertex 7.53687 9.3 14.9312
     vertex 7.73022 9.3 14.7139
     endloop
@@ -24942,28 +25411,28 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.19267 9.3 13.6796
+    vertex 5.1894 9.3 13.6832
     vertex 7.73022 9.3 14.7139
     vertex 7.91061 9.3 14.4858
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.19267 9.3 13.6796
+    vertex 5.1894 9.3 13.6832
     vertex 7.91061 9.3 14.4858
-    vertex 5.30222 9.3 13.547
+    vertex 5.29944 9.3 13.5507
     endloop
   endfacet
-  facet normal -0.546081 0.705844 -0.451199
+  facet normal -0.545097 0.705526 -0.452883
     outer loop
-    vertex 5.30222 9.3 13.547
+    vertex 5.29944 9.3 13.5507
     vertex 5.05187 9.1 13.5372
-    vertex 5.19267 9.3 13.6796
+    vertex 5.1894 9.3 13.6832
     endloop
   endfacet
-  facet normal -0.49963 0.707635 -0.499622
+  facet normal -0.499363 0.708012 -0.499355
     outer loop
-    vertex 5.19267 9.3 13.6796
+    vertex 5.1894 9.3 13.6832
     vertex 5.05187 9.1 13.5372
     vertex 4.93715 9.1 13.6519
     endloop
@@ -24984,7 +25453,7 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.30222 9.3 13.547
+    vertex 5.29944 9.3 13.5507
     vertex 7.91061 9.3 14.4858
     vertex 8.07744 9.3 14.2475
     endloop
@@ -25005,28 +25474,28 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.30222 9.3 13.547
+    vertex 5.29944 9.3 13.5507
     vertex 8.07744 9.3 14.2475
-    vertex 5.39823 9.3 13.4043
+    vertex 5.39593 9.3 13.4081
     endloop
   endfacet
-  facet normal -0.588307 0.705148 -0.395804
+  facet normal -0.587497 0.704889 -0.397465
     outer loop
-    vertex 5.39823 9.3 13.4043
+    vertex 5.39593 9.3 13.4081
     vertex 5.15398 9.1 13.4111
-    vertex 5.30222 9.3 13.547
+    vertex 5.29944 9.3 13.5507
     endloop
   endfacet
-  facet normal -0.548459 0.708471 -0.444142
+  facet normal -0.548217 0.70878 -0.443946
     outer loop
-    vertex 5.30222 9.3 13.547
+    vertex 5.29944 9.3 13.5507
     vertex 5.15398 9.1 13.4111
     vertex 5.05187 9.1 13.5372
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.39823 9.3 13.4043
+    vertex 5.39593 9.3 13.4081
     vertex 8.07744 9.3 14.2475
     vertex 8.23013 9.3 14
     endloop
@@ -25047,28 +25516,28 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.39823 9.3 13.4043
+    vertex 5.39593 9.3 13.4081
     vertex 8.23013 9.3 14
-    vertex 5.47976 9.3 13.2529
+    vertex 5.47794 9.3 13.2567
     endloop
   endfacet
-  facet normal -0.624829 0.704568 -0.336412
+  facet normal -0.624173 0.704361 -0.338059
     outer loop
-    vertex 5.47976 9.3 13.2529
+    vertex 5.47794 9.3 13.2567
     vertex 5.24234 9.1 13.275
-    vertex 5.39823 9.3 13.4043
+    vertex 5.39593 9.3 13.4081
     endloop
   endfacet
-  facet normal -0.591285 0.709183 -0.383981
+  facet normal -0.591081 0.709425 -0.383849
     outer loop
-    vertex 5.39823 9.3 13.4043
+    vertex 5.39593 9.3 13.4081
     vertex 5.24234 9.1 13.275
     vertex 5.15398 9.1 13.4111
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.47976 9.3 13.2529
+    vertex 5.47794 9.3 13.2567
     vertex 8.23013 9.3 14
     vertex 8.36816 9.3 13.744
     endloop
@@ -25089,28 +25558,28 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.47976 9.3 13.2529
+    vertex 5.47794 9.3 13.2567
     vertex 8.36816 9.3 13.744
-    vertex 5.54604 9.3 13.0942
+    vertex 5.54467 9.3 13.098
     endloop
   endfacet
-  facet normal -0.655268 0.704096 -0.273629
+  facet normal -0.654756 0.703942 -0.275245
     outer loop
-    vertex 5.54604 9.3 13.0942
+    vertex 5.54467 9.3 13.098
     vertex 5.31599 9.1 13.1304
-    vertex 5.47976 9.3 13.2529
+    vertex 5.47794 9.3 13.2567
     endloop
   endfacet
-  facet normal -0.62766 0.709764 -0.319809
+  facet normal -0.627494 0.709949 -0.319725
     outer loop
-    vertex 5.47976 9.3 13.2529
+    vertex 5.47794 9.3 13.2567
     vertex 5.31599 9.1 13.1304
     vertex 5.24234 9.1 13.275
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.54604 9.3 13.0942
+    vertex 5.54467 9.3 13.098
     vertex 8.36816 9.3 13.744
     vertex 8.49108 9.3 13.4804
     endloop
@@ -25131,28 +25600,28 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.54604 9.3 13.0942
+    vertex 5.54467 9.3 13.098
     vertex 8.49108 9.3 13.4804
-    vertex 5.59641 9.3 12.9297
+    vertex 5.59547 9.3 12.9334
     endloop
   endfacet
-  facet normal -0.679298 0.703738 -0.208105
+  facet normal -0.678935 0.703632 -0.209641
     outer loop
-    vertex 5.59641 9.3 12.9297
+    vertex 5.59547 9.3 12.9334
     vertex 5.37414 9.1 12.979
-    vertex 5.54604 9.3 13.0942
+    vertex 5.54467 9.3 13.098
     endloop
   endfacet
-  facet normal -0.657225 0.710217 -0.252286
+  facet normal -0.657096 0.710354 -0.252236
     outer loop
-    vertex 5.54604 9.3 13.0942
+    vertex 5.54467 9.3 13.098
     vertex 5.37414 9.1 12.979
     vertex 5.31599 9.1 13.1304
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.59641 9.3 12.9297
+    vertex 5.59547 9.3 12.9334
     vertex 8.49108 9.3 13.4804
     vertex 8.59846 9.3 13.2101
     endloop
@@ -25173,79 +25642,79 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.59641 9.3 12.9297
+    vertex 5.59547 9.3 12.9334
     vertex 8.59846 9.3 13.2101
-    vertex 5.6304 9.3 12.7611
+    vertex 5.62986 9.3 12.7647
     endloop
   endfacet
-  facet normal -0.696681 0.703497 -0.140455
+  facet normal -0.696446 0.70343 -0.141948
     outer loop
-    vertex 5.6304 9.3 12.7611
+    vertex 5.62986 9.3 12.7647
     vertex 5.41613 9.1 12.8223
-    vertex 5.59641 9.3 12.9297
+    vertex 5.59547 9.3 12.9334
     endloop
   endfacet
-  facet normal -0.679671 0.710551 -0.182113
+  facet normal -0.679592 0.710632 -0.182092
     outer loop
-    vertex 5.59641 9.3 12.9297
+    vertex 5.59547 9.3 12.9334
     vertex 5.41613 9.1 12.8223
     vertex 5.37414 9.1 12.979
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.6304 9.3 12.7611
+    vertex 5.62986 9.3 12.7647
     vertex 8.59846 9.3 13.2101
-    vertex 5.64768 9.3 12.59
+    vertex 5.6475 9.3 12.5934
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.64768 9.3 12.59
+    vertex 5.6475 9.3 12.5934
     vertex 8.59846 9.3 13.2101
-    vertex 5.64808 9.3 12.418
+    vertex 5.64823 9.3 12.4212
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.64808 9.3 12.418
+    vertex 5.64823 9.3 12.4212
     vertex 8.59846 9.3 13.2101
-    vertex 5.63159 9.3 12.2468
+    vertex 5.63202 9.3 12.2498
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.63159 9.3 12.2468
+    vertex 5.63202 9.3 12.2498
     vertex 8.59846 9.3 13.2101
-    vertex 5.59838 9.3 12.0781
+    vertex 5.59905 9.3 12.0808
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.59838 9.3 12.0781
+    vertex 5.59905 9.3 12.0808
     vertex 8.59846 9.3 13.2101
-    vertex 5.54876 9.3 11.9134
+    vertex 5.54962 9.3 11.9158
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.54876 9.3 11.9134
+    vertex 5.54962 9.3 11.9158
     vertex 8.59846 9.3 13.2101
-    vertex 5.48322 9.3 11.7544
+    vertex 5.48423 9.3 11.7565
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.48322 9.3 11.7544
+    vertex 5.48423 9.3 11.7565
     vertex 8.59846 9.3 13.2101
-    vertex 5.40238 9.3 11.6026
+    vertex 5.40349 9.3 11.6045
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 5.40238 9.3 11.6026
+    vertex 5.40349 9.3 11.6045
     vertex 8.59846 9.3 13.2101
-    vertex 5.30704 9.3 11.4595
+    vertex 5.3082 9.3 11.461
     endloop
   endfacet
   facet normal 0.939693 0 0.34202
@@ -25255,270 +25724,361 @@ solid extruder_idler_bondtech.stl
     vertex 8.59846 6.35 13.2101
     endloop
   endfacet
-  facet normal -0.707235 0.703363 -0.0714073
+  facet normal -0.707116 0.703336 -0.0728344
     outer loop
-    vertex 5.64768 9.3 12.59
+    vertex 5.6475 9.3 12.5934
     vertex 5.44151 9.1 12.662
-    vertex 5.6304 9.3 12.7611
+    vertex 5.62986 9.3 12.7647
     endloop
   endfacet
-  facet normal -0.69478 0.710753 -0.110051
+  facet normal -0.694743 0.71079 -0.110045
     outer loop
-    vertex 5.6304 9.3 12.7611
+    vertex 5.62986 9.3 12.7647
     vertex 5.44151 9.1 12.662
     vertex 5.41613 9.1 12.8223
     endloop
   endfacet
-  facet normal -0.710841 0.703351 -0.00163972
+  facet normal -0.710828 0.703359 -0.0029782
     outer loop
-    vertex 5.64808 9.3 12.418
+    vertex 5.64823 9.3 12.4212
     vertex 5.45 9.1 12.5
-    vertex 5.64768 9.3 12.59
+    vertex 5.6475 9.3 12.5934
     endloop
   endfacet
   facet normal -0.702397 0.710833 -0.0368026
     outer loop
-    vertex 5.64768 9.3 12.59
+    vertex 5.6475 9.3 12.5934
     vertex 5.45 9.1 12.5
     vertex 5.44151 9.1 12.662
     endloop
   endfacet
-  facet normal -0.707476 0.703445 0.0681374
+  facet normal -0.707558 0.703482 0.0668877
     outer loop
-    vertex 5.63159 9.3 12.2468
+    vertex 5.63202 9.3 12.2498
     vertex 5.44151 9.1 12.338
-    vertex 5.64808 9.3 12.418
+    vertex 5.64823 9.3 12.4212
     endloop
   endfacet
-  facet normal -0.702443 0.710788 0.0368052
+  facet normal -0.702478 0.710753 0.036807
     outer loop
-    vertex 5.64808 9.3 12.418
+    vertex 5.64823 9.3 12.4212
     vertex 5.44151 9.1 12.338
     vertex 5.45 9.1 12.5
     endloop
   endfacet
-  facet normal -0.697163 0.703661 0.137206
+  facet normal -0.697327 0.703724 0.136042
     outer loop
-    vertex 5.59838 9.3 12.0781
+    vertex 5.59905 9.3 12.0808
     vertex 5.41613 9.1 12.1777
-    vertex 5.63159 9.3 12.2468
+    vertex 5.63202 9.3 12.2498
     endloop
   endfacet
-  facet normal -0.694916 0.710617 0.110071
+  facet normal -0.694984 0.710549 0.110082
     outer loop
-    vertex 5.63159 9.3 12.2468
+    vertex 5.63202 9.3 12.2498
     vertex 5.41613 9.1 12.1777
     vertex 5.44151 9.1 12.338
     endloop
   endfacet
-  facet normal -0.680017 0.703985 0.204895
+  facet normal -0.68025 0.704069 0.203831
     outer loop
-    vertex 5.54876 9.3 11.9134
+    vertex 5.54962 9.3 11.9158
     vertex 5.37414 9.1 12.021
-    vertex 5.59838 9.3 12.0781
+    vertex 5.59905 9.3 12.0808
     endloop
   endfacet
-  facet normal -0.67989 0.710325 0.182174
+  facet normal -0.679981 0.710232 0.182198
     outer loop
-    vertex 5.59838 9.3 12.0781
+    vertex 5.59905 9.3 12.0808
     vertex 5.37414 9.1 12.021
     vertex 5.41613 9.1 12.1777
     endloop
   endfacet
-  facet normal -0.65622 0.704423 0.270487
+  facet normal -0.656509 0.704528 0.269512
     outer loop
-    vertex 5.48322 9.3 11.7544
+    vertex 5.48423 9.3 11.7565
     vertex 5.31599 9.1 11.8696
-    vertex 5.54876 9.3 11.9134
+    vertex 5.54962 9.3 11.9158
     endloop
   endfacet
-  facet normal -0.65752 0.709903 0.252401
+  facet normal -0.657629 0.709787 0.252442
     outer loop
-    vertex 5.54876 9.3 11.9134
+    vertex 5.54962 9.3 11.9158
     vertex 5.31599 9.1 11.8696
     vertex 5.37414 9.1 12.021
     endloop
   endfacet
-  facet normal -0.626017 0.704976 0.333335
+  facet normal -0.626344 0.705092 0.332473
     outer loop
-    vertex 5.40238 9.3 11.6026
+    vertex 5.40349 9.3 11.6045
     vertex 5.24234 9.1 11.725
-    vertex 5.48322 9.3 11.7544
+    vertex 5.48423 9.3 11.7565
     endloop
   endfacet
-  facet normal -0.628026 0.709356 0.319996
+  facet normal -0.628143 0.709226 0.320055
     outer loop
-    vertex 5.48322 9.3 11.7544
+    vertex 5.48423 9.3 11.7565
     vertex 5.24234 9.1 11.725
     vertex 5.31599 9.1 11.8696
     endloop
   endfacet
-  facet normal -0.589725 0.705636 0.392813
+  facet normal -0.590083 0.705761 0.39205
     outer loop
-    vertex 5.30704 9.3 11.4595
+    vertex 5.3082 9.3 11.461
     vertex 5.15398 9.1 11.5889
-    vertex 5.40238 9.3 11.6026
+    vertex 5.40349 9.3 11.6045
     endloop
   endfacet
-  facet normal -0.591707 0.708684 0.384253
+  facet normal -0.591829 0.708538 0.384332
     outer loop
-    vertex 5.40238 9.3 11.6026
+    vertex 5.40349 9.3 11.6045
     vertex 5.15398 9.1 11.5889
     vertex 5.24234 9.1 11.725
     endloop
   endfacet
-  facet normal -0.547721 0.70641 0.448315
+  facet normal -0.548096 0.706541 0.44765
     outer loop
-    vertex 5.1981 9.3 11.3264
+    vertex 5.19928 9.3 11.3277
     vertex 5.05187 9.1 11.4628
-    vertex 5.30704 9.3 11.4595
+    vertex 5.3082 9.3 11.461
     endloop
   endfacet
-  facet normal -0.548923 0.70788 0.444511
+  facet normal -0.549043 0.707726 0.444608
     outer loop
-    vertex 5.30704 9.3 11.4595
+    vertex 5.3082 9.3 11.461
     vertex 5.05187 9.1 11.4628
     vertex 5.15398 9.1 11.5889
     endloop
   endfacet
-  facet normal -0.50068 0.706963 0.499523
+  facet normal -0.501246 0.706823 0.499152
     outer loop
-    vertex 5.07663 9.3 11.2046
+    vertex 5.07777 9.3 11.2056
     vertex 5.05187 9.1 11.4628
-    vertex 5.1981 9.3 11.3264
+    vertex 5.19928 9.3 11.3277
     endloop
   endfacet
-  facet normal -0.449766 0.706118 0.546908
+  facet normal -0.450286 0.706007 0.546623
     outer loop
-    vertex 4.94379 9.3 11.0954
+    vertex 4.94487 9.3 11.0962
     vertex 4.93715 9.1 11.3481
-    vertex 5.07663 9.3 11.2046
+    vertex 5.07777 9.3 11.2056
     endloop
   endfacet
-  facet normal -0.499869 0.707298 0.49986
+  facet normal -0.499778 0.707427 0.499769
     outer loop
-    vertex 5.07663 9.3 11.2046
+    vertex 5.07777 9.3 11.2056
     vertex 4.93715 9.1 11.3481
     vertex 5.05187 9.1 11.4628
     endloop
   endfacet
-  facet normal -0.394307 0.705385 0.589028
+  facet normal -0.394777 0.7053 0.588814
     outer loop
-    vertex 4.80087 9.3 10.9997
+    vertex 4.80184 9.3 11.0003
     vertex 4.81107 9.1 11.246
-    vertex 4.94379 9.3 11.0954
+    vertex 4.94487 9.3 11.0962
     endloop
   endfacet
-  facet normal -0.444319 0.708184 0.548686
+  facet normal -0.444259 0.708279 0.548611
     outer loop
-    vertex 4.94379 9.3 11.0954
+    vertex 4.94487 9.3 11.0962
     vertex 4.81107 9.1 11.246
     vertex 4.93715 9.1 11.3481
     endloop
   endfacet
-  facet normal -0.334882 0.704763 0.62543
+  facet normal -0.33527 0.704703 0.62529
     outer loop
-    vertex 4.64925 9.3 10.9185
+    vertex 4.65008 9.3 10.9189
     vertex 4.675 9.1 11.1577
-    vertex 4.80087 9.3 10.9997
+    vertex 4.80184 9.3 11.0003
     endloop
   endfacet
-  facet normal -0.384112 0.70894 0.591492
+  facet normal -0.384073 0.709011 0.591432
     outer loop
-    vertex 4.80087 9.3 10.9997
+    vertex 4.80184 9.3 11.0003
     vertex 4.675 9.1 11.1577
     vertex 4.81107 9.1 11.246
     endloop
   endfacet
-  facet normal -0.272061 0.704254 0.65575
+  facet normal -0.272391 0.70421 0.655661
     outer loop
-    vertex 4.49039 9.3 10.8526
+    vertex 4.49107 9.3 10.8528
     vertex 4.53044 9.1 11.084
-    vertex 4.64925 9.3 10.9185
+    vertex 4.65008 9.3 10.9189
     endloop
   endfacet
-  facet normal -0.319895 0.70957 0.627836
+  facet normal -0.319875 0.709613 0.627797
     outer loop
-    vertex 4.64925 9.3 10.9185
+    vertex 4.65008 9.3 10.9189
     vertex 4.53044 9.1 11.084
     vertex 4.675 9.1 11.1577
     endloop
   endfacet
-  facet normal -0.206496 0.703854 0.679668
+  facet normal -0.206747 0.703826 0.679622
     outer loop
-    vertex 4.32583 9.3 10.8026
+    vertex 4.32633 9.3 10.8027
     vertex 4.37898 9.1 11.0259
-    vertex 4.49039 9.3 10.8526
+    vertex 4.49107 9.3 10.8528
     endloop
   endfacet
-  facet normal -0.252342 0.710069 0.657363
+  facet normal -0.252332 0.710096 0.657337
     outer loop
-    vertex 4.49039 9.3 10.8526
+    vertex 4.49107 9.3 10.8528
     vertex 4.37898 9.1 11.0259
     vertex 4.53044 9.1 11.084
     endloop
   endfacet
-  facet normal -0.18214 0.710445 0.679774
+  facet normal -0.182137 0.710459 0.67976
     outer loop
-    vertex 4.32583 9.3 10.8026
+    vertex 4.32633 9.3 10.8027
     vertex 4.22226 9.1 10.9839
     vertex 4.37898 9.1 11.0259
     endloop
   endfacet
-  facet normal 0.500683 0.706962 0.499521
+  facet normal 0.500013 3.42804e-007 -0.866018
     outer loop
-    vertex 2.6019 9.3 11.3264
-    vertex 2.74812 9.1 11.4628
-    vertex 2.72337 9.3 11.2046
+    vertex 3.83109 6.15 14.25
+    vertex 3.73145 9.25084 14.1925
+    vertex 3.82856 9.3 14.2485
     endloop
   endfacet
-  facet normal 0.499865 0.7073 0.499861
+  facet normal 0.389288 0.706271 -0.591301
     outer loop
-    vertex 2.72337 9.3 11.2046
+    vertex 2.98893 9.1 13.754
+    vertex 2.86694 9.3 13.9125
+    vertex 3.01077 9.3 14.0072
+    endloop
+  endfacet
+  facet normal 0.335184 0.705909 -0.623974
+    outer loop
+    vertex 3.01077 9.3 14.0072
+    vertex 3.20769 9.10294 13.8901
+    vertex 3.125 9.1 13.8423
+    endloop
+  endfacet
+  facet normal 0.384623 0.70801 -0.592273
+    outer loop
+    vertex 3.01077 9.3 14.0072
+    vertex 3.125 9.1 13.8423
+    vertex 2.98893 9.1 13.754
+    endloop
+  endfacet
+  facet normal 0.44499 0.707117 -0.549517
+    outer loop
+    vertex 2.98893 9.1 13.754
+    vertex 2.73312 9.3 13.8042
+    vertex 2.86694 9.3 13.9125
+    endloop
+  endfacet
+  facet normal 0.497432 0.706268 -0.503734
+    outer loop
+    vertex 2.73312 9.3 13.8042
+    vertex 2.86285 9.1 13.6519
+    vertex 2.6106 9.3 13.6832
+    endloop
+  endfacet
+  facet normal 0.444991 0.707118 -0.549516
+    outer loop
+    vertex 2.86285 9.1 13.6519
+    vertex 2.73312 9.3 13.8042
+    vertex 2.98893 9.1 13.754
+    endloop
+  endfacet
+  facet normal 0.545098 0.705528 -0.452878
+    outer loop
+    vertex 2.6106 9.3 13.6832
+    vertex 2.74812 9.1 13.5372
+    vertex 2.50056 9.3 13.5507
+    endloop
+  endfacet
+  facet normal 0.49936 0.708014 -0.499356
+    outer loop
+    vertex 2.6106 9.3 13.6832
+    vertex 2.86285 9.1 13.6519
+    vertex 2.74812 9.1 13.5372
+    endloop
+  endfacet
+  facet normal 0.587494 0.70489 -0.397467
+    outer loop
+    vertex 2.50056 9.3 13.5507
+    vertex 2.64602 9.1 13.4111
+    vertex 2.40407 9.3 13.4081
+    endloop
+  endfacet
+  facet normal 0.548218 0.708782 -0.443944
+    outer loop
+    vertex 2.50056 9.3 13.5507
+    vertex 2.74812 9.1 13.5372
+    vertex 2.64602 9.1 13.4111
+    endloop
+  endfacet
+  facet normal 0.624172 0.704362 -0.338059
+    outer loop
+    vertex 2.40407 9.3 13.4081
+    vertex 2.55766 9.1 13.275
+    vertex 2.32206 9.3 13.2567
+    endloop
+  endfacet
+  facet normal 0.591078 0.709426 -0.383851
+    outer loop
+    vertex 2.40407 9.3 13.4081
+    vertex 2.64602 9.1 13.4111
+    vertex 2.55766 9.1 13.275
+    endloop
+  endfacet
+  facet normal 0.627492 0.709949 -0.319728
+    outer loop
+    vertex 2.32206 9.3 13.2567
+    vertex 2.55766 9.1 13.275
+    vertex 2.484 9.1 13.1304
+    endloop
+  endfacet
+  facet normal 0.501243 0.706825 0.499153
+    outer loop
+    vertex 2.60072 9.3 11.3277
+    vertex 2.74812 9.1 11.4628
+    vertex 2.72223 9.3 11.2056
+    endloop
+  endfacet
+  facet normal 0.499774 0.707429 0.49977
+    outer loop
+    vertex 2.72223 9.3 11.2056
     vertex 2.74812 9.1 11.4628
     vertex 2.86285 9.1 11.3481
     endloop
   endfacet
-  facet normal 0.206498 0.703854 0.679668
+  facet normal 0.206748 0.703825 0.679621
     outer loop
-    vertex 3.30961 9.3 10.8526
+    vertex 3.30893 9.3 10.8528
     vertex 3.42102 9.1 11.0259
-    vertex 3.47417 9.3 10.8026
+    vertex 3.47367 9.3 10.8027
     endloop
   endfacet
-  facet normal 0.252341 0.710068 0.657364
+  facet normal 0.252332 0.710095 0.657338
     outer loop
-    vertex 3.30961 9.3 10.8526
+    vertex 3.30893 9.3 10.8528
     vertex 3.26956 9.1 11.084
     vertex 3.42102 9.1 11.0259
     endloop
   endfacet
-  facet normal 0.138836 0.703571 0.69693
+  facet normal 0.139003 0.703553 0.696915
     outer loop
-    vertex 3.47417 9.3 10.8026
+    vertex 3.47367 9.3 10.8027
     vertex 3.57774 9.1 10.9839
-    vertex 3.64285 9.3 10.769
+    vertex 3.64254 9.3 10.769
     endloop
   endfacet
-  facet normal 0.18214 0.710445 0.679774
+  facet normal 0.182137 0.710459 0.67976
     outer loop
-    vertex 3.47417 9.3 10.8026
+    vertex 3.47367 9.3 10.8027
     vertex 3.42102 9.1 11.0259
     vertex 3.57774 9.1 10.9839
     endloop
   endfacet
-  facet normal 0.110056 0.710694 0.694839
+  facet normal 0.110055 0.710698 0.694835
     outer loop
-    vertex 3.64285 9.3 10.769
+    vertex 3.64254 9.3 10.769
     vertex 3.57774 9.1 10.9839
     vertex 3.73798 9.1 10.9585
-    endloop
-  endfacet
-  facet normal -0.7071 -2.23561e-007 -0.707114
-    outer loop
-    vertex 4.26734 6.15 14.25
-    vertex 4.31799 9.3 14.1993
-    vertex 4.41393 9.23376 14.1034
     endloop
   endfacet
   facet normal -0 1 0
@@ -26095,11 +26655,11 @@ solid extruder_idler_bondtech.stl
     vertex 3.43164 -11.25 13.4953
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal 0 1 -0
     outer loop
-    vertex 3.125 -11.25 13.8423
     vertex 3.43164 -11.25 13.4953
     vertex 3.31059 -11.25 13.4288
+    vertex 3.125 -11.25 13.8423
     endloop
   endfacet
   facet normal 0 1 0
@@ -26179,18 +26739,11 @@ solid extruder_idler_bondtech.stl
     vertex 3.69388 -11.25 13.5805
     endloop
   endfacet
-  facet normal 0 1 -0
-    outer loop
-    vertex 3.69388 -11.25 13.5805
-    vertex 3.56008 -11.25 13.5462
-    vertex 3.53266 -11.25 14.25
-    endloop
-  endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.53266 -11.25 14.25
-    vertex 3.56008 -11.25 13.5462
     vertex 3.125 -11.25 13.8423
+    vertex 3.69388 -11.25 13.5805
+    vertex 3.56008 -11.25 13.5462
     endloop
   endfacet
   facet normal 0.125344 0 -0.992113
@@ -26221,11 +26774,18 @@ solid extruder_idler_bondtech.stl
     vertex 3.83093 -11.25 13.5978
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal 0 1 -0
     outer loop
-    vertex 3.53266 -11.25 14.25
+    vertex 3.83109 -11.25 14.25
     vertex 3.83093 -11.25 13.5978
     vertex 3.69388 -11.25 13.5805
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 3.83109 -11.25 14.25
+    vertex 3.69388 -11.25 13.5805
+    vertex 3.125 -11.25 13.8423
     endloop
   endfacet
   facet normal 0 0 -1
@@ -26258,9 +26818,16 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.53266 -11.25 14.25
+    vertex 3.96891 -11.25 14.25
     vertex 3.96907 -11.25 13.5978
     vertex 3.83093 -11.25 13.5978
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.96891 -11.25 14.25
+    vertex 3.83093 -11.25 13.5978
+    vertex 3.83109 -11.25 14.25
     endloop
   endfacet
   facet normal -0.125345 -0 -0.992113
@@ -26298,18 +26865,11 @@ solid extruder_idler_bondtech.stl
     vertex 4.10612 -11.25 13.5805
     endloop
   endfacet
-  facet normal 0 1 -0
+  facet normal 0 1 0
     outer loop
-    vertex 4.26734 -11.25 14.25
+    vertex 3.96891 -11.25 14.25
     vertex 4.10612 -11.25 13.5805
     vertex 3.96907 -11.25 13.5978
-    endloop
-  endfacet
-  facet normal 0 1 -0
-    outer loop
-    vertex 4.26734 -11.25 14.25
-    vertex 3.96907 -11.25 13.5978
-    vertex 3.53266 -11.25 14.25
     endloop
   endfacet
   facet normal -0.24868 -0 -0.968586
@@ -26340,11 +26900,18 @@ solid extruder_idler_bondtech.stl
     vertex 4.23992 -11.25 13.5462
     endloop
   endfacet
-  facet normal 0 1 -0
+  facet normal -0 1 0
     outer loop
-    vertex 4.26734 -11.25 14.25
     vertex 4.23992 -11.25 13.5462
     vertex 4.10612 -11.25 13.5805
+    vertex 4.675 -11.25 13.8423
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 4.675 -11.25 13.8423
+    vertex 4.10612 -11.25 13.5805
+    vertex 3.96891 -11.25 14.25
     endloop
   endfacet
   facet normal -0.368126 -0 -0.929776
@@ -26387,13 +26954,6 @@ solid extruder_idler_bondtech.stl
     vertex 4.675 -11.25 13.8423
     vertex 4.36836 -11.25 13.4953
     vertex 4.23992 -11.25 13.5462
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.675 -11.25 13.8423
-    vertex 4.23992 -11.25 13.5462
-    vertex 4.26734 -11.25 14.25
     endloop
   endfacet
   facet normal -0.481746 -0 -0.876311
@@ -28195,39 +28755,39 @@ solid extruder_idler_bondtech.stl
     vertex 4.675 -8.55 13.8423
     endloop
   endfacet
-  facet normal -0.707108 0 -0.707106
+  facet normal -0.500001 0 -0.866025
     outer loop
     vertex 4.675 -11.25 13.8423
-    vertex 4.26734 -11.25 14.25
+    vertex 3.96891 -11.25 14.25
     vertex 4.675 -8.55 13.8423
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 4.26734 -11.25 14.25
-    vertex 3.53266 -11.25 14.25
-    vertex 4.26734 -8.55 14.25
+    vertex 3.96891 -11.25 14.25
+    vertex 3.83109 -11.25 14.25
+    vertex 3.96891 -8.55 14.25
     endloop
   endfacet
-  facet normal -0.707108 0 -0.707106
+  facet normal -0.500001 0 -0.866025
     outer loop
     vertex 4.675 -8.55 13.8423
-    vertex 4.26734 -11.25 14.25
-    vertex 4.26734 -8.55 14.25
+    vertex 3.96891 -11.25 14.25
+    vertex 3.96891 -8.55 14.25
     endloop
   endfacet
-  facet normal 0.707107 0 -0.707106
+  facet normal 0.500001 0 -0.866025
     outer loop
-    vertex 3.53266 -11.25 14.25
+    vertex 3.83109 -11.25 14.25
     vertex 3.125 -11.25 13.8423
-    vertex 3.53266 -8.55 14.25
+    vertex 3.83109 -8.55 14.25
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-    vertex 4.26734 -8.55 14.25
-    vertex 3.53266 -11.25 14.25
-    vertex 3.53266 -8.55 14.25
+    vertex 3.96891 -8.55 14.25
+    vertex 3.83109 -11.25 14.25
+    vertex 3.83109 -8.55 14.25
     endloop
   endfacet
   facet normal 0.544636 0 -0.838673
@@ -28237,9 +28797,9 @@ solid extruder_idler_bondtech.stl
     vertex 2.98893 -11.25 13.754
     endloop
   endfacet
-  facet normal 0.707107 0 -0.707106
+  facet normal 0.500001 0 -0.866025
     outer loop
-    vertex 3.53266 -8.55 14.25
+    vertex 3.83109 -8.55 14.25
     vertex 3.125 -11.25 13.8423
     vertex 3.125 -8.55 13.8423
     endloop
@@ -28358,56 +28918,56 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 -8.55 14.25
-    vertex 5.26703 -8.55 15.1704
+    vertex 3.96891 -8.55 14.25
+    vertex 4.84862 -8.55 15.3461
     vertex 4.675 -8.55 13.8423
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.675 -8.55 13.8423
-    vertex 5.26703 -8.55 15.1704
     vertex 5.46507 -8.55 15.0594
+    vertex 4.675 -8.55 13.8423
+    vertex 5.26703 -8.55 15.1704
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal 0 1 -0
     outer loop
-    vertex 4.675 -8.55 13.8423
     vertex 5.46507 -8.55 15.0594
     vertex 4.81107 -8.55 13.754
+    vertex 4.675 -8.55 13.8423
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 3.53266 -8.55 14.25
-    vertex 3.95677 -8.55 15.4995
-    vertex 4.26734 -8.55 14.25
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex 4.26734 -8.55 14.25
-    vertex 3.95677 -8.55 15.4995
-    vertex 4.18346 -8.55 15.4866
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
+    vertex 4.675 -8.55 13.8423
     vertex 5.06115 -8.55 15.2662
     vertex 5.26703 -8.55 15.1704
-    vertex 4.26734 -8.55 14.25
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 -8.55 14.25
+    vertex 4.675 -8.55 13.8423
     vertex 4.84862 -8.55 15.3461
     vertex 5.06115 -8.55 15.2662
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 -8.55 14.25
+    vertex 3.83109 -8.55 14.25
+    vertex 3.95677 -8.55 15.4995
+    vertex 3.96891 -8.55 14.25
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.96891 -8.55 14.25
+    vertex 3.95677 -8.55 15.4995
+    vertex 4.18346 -8.55 15.4866
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 3.96891 -8.55 14.25
     vertex 4.63066 -8.55 15.4097
     vertex 4.84862 -8.55 15.3461
     endloop
@@ -28416,97 +28976,111 @@ solid extruder_idler_bondtech.stl
     outer loop
     vertex 4.40851 -8.55 15.4566
     vertex 4.63066 -8.55 15.4097
-    vertex 4.26734 -8.55 14.25
+    vertex 3.96891 -8.55 14.25
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex 4.26734 -8.55 14.25
+    vertex 3.96891 -8.55 14.25
     vertex 4.18346 -8.55 15.4866
     vertex 4.40851 -8.55 15.4566
     endloop
   endfacet
   facet normal -0 1 0
     outer loop
-    vertex 3.53266 -8.55 14.25
+    vertex 3.83109 -8.55 14.25
     vertex 3.72976 -8.55 15.4952
     vertex 3.95677 -8.55 15.4995
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal -0 1 0
     outer loop
+    vertex 3.83109 -8.55 14.25
     vertex 3.50373 -8.55 15.4737
     vertex 3.72976 -8.55 15.4952
-    vertex 3.53266 -8.55 14.25
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 -8.55 14.25
-    vertex 3.27997 -8.55 15.4352
-    vertex 3.50373 -8.55 15.4737
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 -8.55 14.25
-    vertex 3.05976 -8.55 15.3799
-    vertex 3.27997 -8.55 15.4352
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
+    vertex 3.27997 -8.55 15.4352
+    vertex 3.50373 -8.55 15.4737
+    vertex 3.83109 -8.55 14.25
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 3.83109 -8.55 14.25
+    vertex 3.05976 -8.55 15.3799
+    vertex 3.27997 -8.55 15.4352
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 3.83109 -8.55 14.25
     vertex 2.84436 -8.55 15.3081
     vertex 3.05976 -8.55 15.3799
-    vertex 3.53266 -8.55 14.25
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 -8.55 14.25
-    vertex 2.635 -8.55 15.2203
-    vertex 2.84436 -8.55 15.3081
-    endloop
-  endfacet
-  facet normal -0 1 0
-    outer loop
-    vertex 3.53266 -8.55 14.25
-    vertex 2.4329 -8.55 15.1168
-    vertex 2.635 -8.55 15.2203
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
     vertex 3.125 -8.55 13.8423
-    vertex 2.4329 -8.55 15.1168
-    vertex 3.53266 -8.55 14.25
+    vertex 2.84436 -8.55 15.3081
+    vertex 3.83109 -8.55 14.25
     endloop
   endfacet
-  facet normal 0.707111 8.54077e-007 -0.707102
+  facet normal 0.5 -2.12884e-007 -0.866026
     outer loop
-    vertex 3.53266 6.15 14.25
-    vertex 3.29524 9.179 14.0126
-    vertex 3.38607 9.23376 14.1034
+    vertex 3.63819 9.20941 14.1386
+    vertex 3.73145 9.25084 14.1925
+    vertex 3.83109 6.15 14.25
     endloop
   endfacet
-  facet normal 0.707113 -3.88414e-007 -0.707101
+  facet normal 0.499991 -8.91059e-007 -0.86603
+    outer loop
+    vertex 3.83109 6.15 14.25
+    vertex 3.54809 9.17517 14.0866
+    vertex 3.63819 9.20941 14.1386
+    endloop
+  endfacet
+  facet normal 0.50001 1.4761e-006 -0.866019
+    outer loop
+    vertex 3.83109 6.15 14.25
+    vertex 3.46054 9.14769 14.0361
+    vertex 3.54809 9.17517 14.0866
+    endloop
+  endfacet
+  facet normal 0.499994 8.12722e-007 -0.866029
+    outer loop
+    vertex 3.37498 9.12665 13.9867
+    vertex 3.46054 9.14769 14.0361
+    vertex 3.125 6.15 13.8423
+    endloop
+  endfacet
+  facet normal 0.500001 -1.27727e-007 -0.866025
     outer loop
     vertex 3.125 6.15 13.8423
-    vertex 3.20852 9.13468 13.9259
-    vertex 3.29524 9.179 14.0126
+    vertex 3.46054 9.14769 14.0361
+    vertex 3.83109 6.15 14.25
     endloop
   endfacet
-  facet normal 0.707107 2.31802e-007 -0.707106
+  facet normal 0.500004 -2.64505e-007 -0.866023
     outer loop
     vertex 3.125 6.15 13.8423
-    vertex 3.29524 9.179 14.0126
-    vertex 3.53266 6.15 14.25
+    vertex 3.29086 9.11179 13.9381
+    vertex 3.37498 9.12665 13.9867
     endloop
   endfacet
-  facet normal 0.707106 0 -0.707108
+  facet normal 0.499994 5.00367e-007 -0.866029
+    outer loop
+    vertex 3.125 6.15 13.8423
+    vertex 3.20769 9.10294 13.8901
+    vertex 3.29086 9.11179 13.9381
+    endloop
+  endfacet
+  facet normal 0.500007 0 -0.866021
     outer loop
     vertex 3.125 9.1 13.8423
-    vertex 3.20852 9.13468 13.9259
+    vertex 3.20769 9.10294 13.8901
     vertex 3.125 6.15 13.8423
     endloop
   endfacet
@@ -29203,10 +29777,10 @@ solid extruder_idler_bondtech.stl
     vertex 4.93715 6.15 13.6519
     endloop
   endfacet
-  facet normal -0.707111 0 -0.707103
+  facet normal -0.500007 0 -0.866021
     outer loop
     vertex 4.675 6.15 13.8423
-    vertex 4.59148 9.13468 13.9259
+    vertex 4.59231 9.10294 13.8901
     vertex 4.675 9.1 13.8423
     endloop
   endfacet
@@ -29217,25 +29791,53 @@ solid extruder_idler_bondtech.stl
     vertex 4.81107 6.15 13.754
     endloop
   endfacet
-  facet normal -0.707109 1.18846e-007 -0.707105
+  facet normal -0.499994 5.00367e-007 -0.866029
     outer loop
+    vertex 4.50914 9.11179 13.9381
+    vertex 4.59231 9.10294 13.8901
     vertex 4.675 6.15 13.8423
-    vertex 4.50475 9.179 14.0126
-    vertex 4.59148 9.13468 13.9259
     endloop
   endfacet
-  facet normal -0.707112 9.39859e-007 -0.707102
+  facet normal -0.500012 -8.25593e-007 -0.866019
     outer loop
-    vertex 4.26734 6.15 14.25
-    vertex 4.41393 9.23376 14.1034
-    vertex 4.50475 9.179 14.0126
+    vertex 4.675 6.15 13.8423
+    vertex 4.42502 9.12665 13.9867
+    vertex 4.50914 9.11179 13.9381
     endloop
   endfacet
-  facet normal -0.707108 2.40973e-007 -0.707106
+  facet normal -0.499988 1.81572e-006 -0.866032
     outer loop
-    vertex 4.26734 6.15 14.25
-    vertex 4.50475 9.179 14.0126
     vertex 4.675 6.15 13.8423
+    vertex 4.33945 9.14769 14.0361
+    vertex 4.42502 9.12665 13.9867
+    endloop
+  endfacet
+  facet normal -0.500009 1.31407e-006 -0.86602
+    outer loop
+    vertex 3.96891 6.15 14.25
+    vertex 4.25191 9.17517 14.0866
+    vertex 4.33945 9.14769 14.0361
+    endloop
+  endfacet
+  facet normal -0.500001 -1.06858e-007 -0.866025
+    outer loop
+    vertex 3.96891 6.15 14.25
+    vertex 4.33945 9.14769 14.0361
+    vertex 4.675 6.15 13.8423
+    endloop
+  endfacet
+  facet normal -0.499991 -9.29111e-007 -0.86603
+    outer loop
+    vertex 4.16181 9.20941 14.1386
+    vertex 4.25191 9.17517 14.0866
+    vertex 3.96891 6.15 14.25
+    endloop
+  endfacet
+  facet normal -0.5 -2.50787e-007 -0.866026
+    outer loop
+    vertex 3.96891 6.15 14.25
+    vertex 4.06855 9.25084 14.1925
+    vertex 4.16181 9.20941 14.1386
     endloop
   endfacet
   facet normal 0 -1 0
@@ -29245,18 +29847,32 @@ solid extruder_idler_bondtech.stl
     vertex 4.675 6.15 13.8423
     endloop
   endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 4.84862 6.15 15.3461
+    vertex 4.675 6.15 13.8423
+    vertex 5.06115 6.15 15.2662
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 4.84862 6.15 15.3461
+    vertex 3.96891 6.15 14.25
+    vertex 4.675 6.15 13.8423
+    endloop
+  endfacet
+  facet normal -0 -1 0
+    outer loop
+    vertex 4.675 6.15 13.8423
+    vertex 5.26703 6.15 15.1704
+    vertex 5.06115 6.15 15.2662
+    endloop
+  endfacet
   facet normal -0 -1 0
     outer loop
     vertex 4.675 6.15 13.8423
     vertex 5.46507 6.15 15.0594
     vertex 5.26703 6.15 15.1704
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 4.675 6.15 13.8423
-    vertex 5.26703 6.15 15.1704
-    vertex 4.26734 6.15 14.25
     endloop
   endfacet
   facet normal 0 -1 0
@@ -30080,9 +30696,9 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 2.4329 6.15 15.1168
+    vertex 2.84436 6.15 15.3081
     vertex 3.125 6.15 13.8423
-    vertex 3.53266 6.15 14.25
+    vertex 3.83109 6.15 14.25
     endloop
   endfacet
   facet normal 0 -1 0
@@ -30090,61 +30706,61 @@ solid extruder_idler_bondtech.stl
     vertex 2.2392 6.15 14.9983
     vertex 3.125 6.15 13.8423
     vertex 2.4329 6.15 15.1168
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.4329 6.15 15.1168
+    vertex 3.125 6.15 13.8423
+    vertex 2.635 6.15 15.2203
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.635 6.15 15.2203
+    vertex 3.125 6.15 13.8423
+    vertex 2.84436 6.15 15.3081
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.72976 6.15 15.4952
-    vertex 3.53266 6.15 14.25
+    vertex 3.83109 6.15 14.25
     vertex 3.95677 6.15 15.4995
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.50373 6.15 15.4737
-    vertex 3.53266 6.15 14.25
+    vertex 3.83109 6.15 14.25
     vertex 3.72976 6.15 15.4952
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.95677 6.15 15.4995
-    vertex 3.53266 6.15 14.25
-    vertex 4.26734 6.15 14.25
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.4329 6.15 15.1168
-    vertex 3.53266 6.15 14.25
-    vertex 2.635 6.15 15.2203
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 2.635 6.15 15.2203
-    vertex 3.53266 6.15 14.25
-    vertex 2.84436 6.15 15.3081
+    vertex 3.83109 6.15 14.25
+    vertex 3.96891 6.15 14.25
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 2.84436 6.15 15.3081
-    vertex 3.53266 6.15 14.25
+    vertex 3.83109 6.15 14.25
     vertex 3.05976 6.15 15.3799
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.05976 6.15 15.3799
-    vertex 3.53266 6.15 14.25
+    vertex 3.83109 6.15 14.25
     vertex 3.27997 6.15 15.4352
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
     vertex 3.27997 6.15 15.4352
-    vertex 3.53266 6.15 14.25
+    vertex 3.83109 6.15 14.25
     vertex 3.50373 6.15 15.4737
     endloop
   endfacet
@@ -30358,6 +30974,13 @@ solid extruder_idler_bondtech.stl
     vertex 2.635 -8.55 15.2203
     endloop
   endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex 2.635 -8.55 15.2203
+    vertex 2.84436 -8.55 15.3081
+    vertex 3.125 -8.55 13.8423
+    endloop
+  endfacet
   facet normal -0.0819058 0.9805 0.178639
     outer loop
     vertex 2.354 -8.75 16.1892
@@ -30384,6 +31007,13 @@ solid extruder_idler_bondtech.stl
     vertex 2.11356 -8.75 16.0789
     vertex 2.635 -8.55 15.2203
     vertex 2.4329 -8.55 15.1168
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 3.125 -8.55 13.8423
+    vertex 2.4329 -8.55 15.1168
+    vertex 2.635 -8.55 15.2203
     endloop
   endfacet
   facet normal -0.0935084 0.980511 0.172786
@@ -30414,11 +31044,11 @@ solid extruder_idler_bondtech.stl
     vertex 2.2392 -8.55 14.9983
     endloop
   endfacet
-  facet normal 0 1 0
+  facet normal -0 1 0
     outer loop
-    vertex 2.4329 -8.55 15.1168
     vertex 3.125 -8.55 13.8423
     vertex 2.2392 -8.55 14.9983
+    vertex 2.4329 -8.55 15.1168
     endloop
   endfacet
   facet normal -0.104665 0.980532 0.166139
@@ -30451,9 +31081,9 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
+    vertex 2.98893 -8.55 13.754
     vertex 2.2392 -8.55 14.9983
     vertex 3.125 -8.55 13.8423
-    vertex 2.98893 -8.55 13.754
     endloop
   endfacet
   facet normal -0.115324 0.980564 0.158729
@@ -32551,9 +33181,9 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
+    vertex 5.83319 -8.55 14.7941
     vertex 4.81107 -8.55 13.754
     vertex 5.65415 -8.55 14.9337
-    vertex 5.83319 -8.55 14.7941
     endloop
   endfacet
   facet normal 0 1 -0
@@ -32593,9 +33223,9 @@ solid extruder_idler_bondtech.stl
   endfacet
   facet normal 0 1 0
     outer loop
+    vertex 5.65415 -8.55 14.9337
     vertex 4.81107 -8.55 13.754
     vertex 5.46507 -8.55 15.0594
-    vertex 5.65415 -8.55 14.9337
     endloop
   endfacet
   facet normal 0.104728 0.980508 0.16624
@@ -32860,7 +33490,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex 3.95677 6.15 15.4995
-    vertex 4.26734 6.15 14.25
+    vertex 3.96891 6.15 14.25
     vertex 4.18346 6.15 15.4866
     endloop
   endfacet
@@ -32888,7 +33518,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex 4.18346 6.15 15.4866
-    vertex 4.26734 6.15 14.25
+    vertex 3.96891 6.15 14.25
     vertex 4.40851 6.15 15.4566
     endloop
   endfacet
@@ -32923,7 +33553,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex 4.40851 6.15 15.4566
-    vertex 4.26734 6.15 14.25
+    vertex 3.96891 6.15 14.25
     vertex 4.63066 6.15 15.4097
     endloop
   endfacet
@@ -32958,7 +33588,7 @@ solid extruder_idler_bondtech.stl
   facet normal 0 -1 0
     outer loop
     vertex 4.63066 6.15 15.4097
-    vertex 4.26734 6.15 14.25
+    vertex 3.96891 6.15 14.25
     vertex 4.84862 6.15 15.3461
     endloop
   endfacet
@@ -32988,13 +33618,6 @@ solid extruder_idler_bondtech.stl
     vertex 5.1988 6.35 16.2833
     vertex 4.84862 6.15 15.3461
     vertex 5.06115 6.15 15.2662
-    endloop
-  endfacet
-  facet normal -0 -1 0
-    outer loop
-    vertex 4.26734 6.15 14.25
-    vertex 5.06115 6.15 15.2662
-    vertex 4.84862 6.15 15.3461
     endloop
   endfacet
   facet normal 0.0698091 -0.980562 0.18337
@@ -33030,13 +33653,6 @@ solid extruder_idler_bondtech.stl
     vertex 5.68644 6.35 16.0789
     vertex 5.06115 6.15 15.2662
     vertex 5.26703 6.15 15.1704
-    endloop
-  endfacet
-  facet normal -0 -1 0
-    outer loop
-    vertex 4.26734 6.15 14.25
-    vertex 5.26703 6.15 15.1704
-    vertex 5.06115 6.15 15.2662
     endloop
   endfacet
   facet normal 0 -1 -0
