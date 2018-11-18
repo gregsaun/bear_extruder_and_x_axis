@@ -15,12 +15,12 @@ Here is a list of improved features over stock Prusa extruder.
 
 ### Already implemented
 
-1. Lighter
-1. Extruder motor is closer by 4.5mm to X rods to decrease the lever arm
-1. Reduce flexing of X-axis-ends and extruder
-1. Reduce inconsistent extrusion : 
+1. Improve print quality (reduce inconsistent extrusion) : 
+   * Lighter
+   * Extruder motor is closer by 4.5mm to X rods to decrease the lever arm
    * Perfect filament path (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
    * Extruder body is much stiffer
+   * Reduce flexing of X ends and X motor shaft
    * Optional: replacement of Bondtech "idler" gear by a 623zz bearing to eliminate gear meshing issue. See [extruder_idler_bearing in optional parts](optional_parts/extruder_idler_bearing)
    * Hotend cooling improved (even better than Prusa MK3 R3 parts)
    * Self-centring of extruder motor
@@ -34,11 +34,10 @@ Here is a list of improved features over stock Prusa extruder.
    * Improved extruder body and cover assembly
    * No zip ties needed for X carriage bearings
    * Less screws
-1. Perfect belt alignment
-1. Belt path closer to top smooth rod to reduce vibration
-1. Include a tool to insert Z bearing easily
+1. Perfect belt alignment and closer to top smooth rod to reduce lever arm
+1. Filament sensor pocket improve filament detection and ease insertion of filament
 1. Support Prusa MMU2 multi color system
-1. Optional: reverse bowden to improve smooth movement of filament before entering the extruder
+1. Optional: reverse bowden to smooth movement of filament
 1. Open source by providing STL and Autodesk Fusion 360 files (STEP file will come later)
 
 
@@ -66,9 +65,7 @@ The manual contains bill of material (BOM), print settings and assembly instruct
 
 ## Compatibility
 
-:warning: Original extruder and X axis is **NOT** compatible with this project! Belt path, X motor position, screws positions and length (...) differ.
-
-This project is compatible with [Bear Upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade) frame as well as original Prusa 3D printers.
+:warning: This extruder and x-ends are matched to each other and cannot be used separately. As a unit, they are completely compatible with stock Prusa MK2.5, MK3, Bear Upgraded MK2.5, and Bear Upgraded MK3.
 
 
 
@@ -126,7 +123,7 @@ Thank you to everybody from Facebook group and The 602 Wasteland community.
 
 Thank you to all my Patreon : Arnaud Christel, Barry from RC-CnC, Cristian Toma, Darren Furniss, Malo87, Mark Leino, Matthew Humphrey, Orlando from all3dmakers, Sleene, Steven Daglish, Vishesh from 3Dprintonics.
 
-Thank you to all my tippers on Thingiverse : Lucullus, NatDenkin, FurniBird, kabar03.
+Thank you to all my tippers on Thingiverse : Lucullus, NatDenkin, Oggs, FurniBird, kabar03, TrevJonez.
 
 Thank you for having purchased a kit from an official distributor.
 
