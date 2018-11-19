@@ -74,19 +74,17 @@ Official optional parts [are here](optional_parts)
 
 ![Bear extruder](doc/photos/5D3_2226.jpg)
 
-![Bear extruder](doc/photos/5D3_2229.jpg)
+![Bear extruder](doc/photos/5D3_4534.jpg)
 
-![Bear extruder](doc/photos/5D3_2231.jpg)
+![Bear extruder](doc/photos/5D3_4488.jpg)
 
-![Bear extruder](doc/photos/5D3_2238.jpg)
+![Bear extruder](doc/photos/5D3_4495.jpg)
 
-![Bear extruder](doc/photos/5D3_2239.jpg)
+![Bear extruder](doc/photos/5D3_4497.jpg)
 
-![Bear extruder](doc/photos/5D3_2245.jpg)
+![Bear extruder](doc/photos/5D3_4505.jpg)
 
 ![Bear extruder](doc/photos/5D3_2248.jpg)
-
-![Bear extruder](doc/photos/5D3_2261.jpg)
 
 ![Bear extruder](doc/photos/5D3_2262.jpg)
 
@@ -98,6 +96,13 @@ Official optional parts [are here](optional_parts)
 
 ![Bear X end idler](doc/photos/5D3_4116.jpg)
 
+![Bear X end idler](doc/photos/5D3_4467.jpg)
+
+![Bear extruder](doc/photos/5D3_4537.jpg)
+
+![Bear extruder](doc/photos/5D3_4540.jpg)
+
+![Bear extruder](doc/photos/5D3_2245.jpg)
 
 
 ## Community
