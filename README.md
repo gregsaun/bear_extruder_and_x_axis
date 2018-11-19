@@ -72,7 +72,7 @@ Official optional parts [are here](optional_parts)
 
 ## Images
 
-![Bear extruder](doc/photos/5D3_2226.jpg)
+![Bear extruder](doc/photos/5D3_4551.jpg)
 
 ![Bear extruder](doc/photos/5D3_4534.jpg)
 
