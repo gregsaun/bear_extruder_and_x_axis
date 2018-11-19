@@ -12,9 +12,6 @@ This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3.
 
 Here is a list of improved features over stock Prusa extruder.
 
-
-### Already implemented
-
 1. Improve print quality (reduce inconsistent extrusion) : 
    * Lighter
    * Extruder motor is closer by 4.5mm to X rods to decrease the lever arm
@@ -41,17 +38,15 @@ Here is a list of improved features over stock Prusa extruder.
 1. Open source by providing STL and Autodesk Fusion 360 files (STEP file will come later)
 
 
-### Ongoing
-
-1. MK2s version
-1. Fan shroud
-1. Provide STEP files
-
-
 
 ## Status
 
 :warning: This is an ongoing development, not even a beta version for now. Use it with care. Any feedback is very welcome :relaxed:
+
+Ongoing tasks :
+1. MK2s version
+1. Fan shroud
+1. Provide STEP files
 
 
 
