@@ -24,10 +24,10 @@ To ensure your prints are good, be sure to have a very well calibrated machine a
 | extruder_body           | 1 | 0.20mm | 20% | 4 | 5 |
 | extruder_cover          | 1 | 0.20mm | 20% | 4 | 5 |
 | extruder_idler_bondtech | 1 | 0.20mm | 20% | 4 | 5 |
-| filament_sensor_cover   | 1 | 0.20mm | 20% | 3 | 5 |
+| filament_sensor_cover   | 1 | 0.20mm | 20% | 4 | 5 |
 | hotend_collet_clip      | 1 | 0.20mm | 20% | 3 | 5 |
 | x_carriage              | 1 | 0.20mm | 20% | 3 | 5 |
 | x_carriage_back         | 1 | 0.20mm | 20% | 3 | 5 |
-| x_end_idler             | 1 | 0.20mm | 30% | 4 | 5 |
-| x_end_idler_idler_mount | 1 | 0.20mm | 30% | 4 | 5 |
-| x_end_motor             | 1 | 0.20mm | 30% | 4 | 5 |
+| x_end_idler             | 1 | 0.20mm | 20% | 4 | 5 |
+| x_end_idler_idler_mount | 1 | 0.20mm | 20% | 4 | 5 |
+| x_end_motor             | 1 | 0.20mm | 20% | 4 | 5 |
