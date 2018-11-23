@@ -21,7 +21,7 @@
 | M3 Steel washer, 0.5mm thick | 2 | | | 
 | M3 Nylon washer, 0.5mm thick | 2 | | | 
 | Original spring from MK2.5/MK3 extruder idler | 1 | :warning: MK2s spring might not work | |
-| Bondtech gears with its shaft | 1 | Checkout [this optional bearing idler](../optional_parts/extruder_idler_bearing) | [Bondtech](http://shop.bondtech.se/en/drivegears/drivegear-kit-175-direct.html) |
+| Bondtech gears 1.75mm/5.0mm<br>with its 20mm shaft | 1 | Checkout [this optional bearing idler](../optional_parts/extruder_idler_bearing) | [Bondtech](http://shop.bondtech.se/en/drivegears/drivegear-kit-175-direct.html) |
 
 
 #### List of recommended spares
