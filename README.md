@@ -137,13 +137,14 @@ Thank you to Nathan Denkin for improving my english (I know it is not an easy ta
 
 
 
-## Sources and inspiration
+## Credit, sources and inspiration
 
 Here is a list of sources and inspiration :
 
 * Prusa : http://www.prusa3d.com
 * Zaribo : http://zaribo.org
 * Vecko Kojchevski : https://www.thingiverse.com/vekoj/designs
+* Arnaud Rousseau for "its X-Ends clamped MK3 (Zaribo)" : https://www.thingiverse.com/thing:2964026
 * Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3
 * Prusa MK2/S X-Carriage Adjustable Tensioner by Jon Madden : https://www.thingiverse.com/thing:2770019
 * Jan Imrich from [Kurzy Kocour](https://www.facebook.com/KurzyKocour/) maker space for all it's hard work on inconsistency issue
