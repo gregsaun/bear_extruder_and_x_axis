@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Reverse bowden as the advantage to reduce vibration and tension from the spool holder. The PTFE will imply a smoother movement of the filament (and spool holder) and so improve print quality.
+Reverse bowden has the advantage to reduce vibration and tension from the spool holder. The PTFE will create a smoother movement of the filament (and spool holder) and so improve print quality.
 
 The filament sensor cover can be used alone for MMU2.
 
