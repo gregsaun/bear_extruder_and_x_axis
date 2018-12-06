@@ -50,6 +50,11 @@ Ongoing tasks :
 
 
 
+## Download printed parts
+  * Thingiverse: https://www.thingiverse.com/thing:3226689
+  * This GitHub: [printed_parts/stl](printed_parts/stl/)
+
+
 ## Manual
 
 The manual contains bill of material (BOM), print settings and assembly instructions.
@@ -67,6 +72,18 @@ The manual contains bill of material (BOM), print settings and assembly instruct
 ## Optional parts
 
 Official optional parts [are here](optional_parts)
+
+
+
+## Community
+
+Here are the places were the Bear project is the most active. Do not hesitate to ask if you have a question :
+
+* Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
+* Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
+* GitHub : [github.com/gregsaun](https://github.com/gregsaun)
+* Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
+* Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
 
 
 
@@ -103,18 +120,6 @@ Official optional parts [are here](optional_parts)
 ![Bear extruder](doc/photos/5D3_4540.jpg)
 
 ![Bear extruder](doc/photos/5D3_2245.jpg)
-
-
-## Community
-
-Here are the places were the Bear project is the most active. Do not hesitate to ask if you have a question :
-
-* Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
-* Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
-* GitHub : [github.com/gregsaun](https://github.com/gregsaun)
-* Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
-* Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
-
 
 
 ## Thank you
