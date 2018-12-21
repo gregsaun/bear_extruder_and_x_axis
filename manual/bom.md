@@ -4,6 +4,8 @@
 
 ### Hardware
 
+#### Full BOM
+
 | Part     | Quantity<br>(pce) | Detail | Link |
 |----------|:------------:|--------|------|
 | Original Prusa i3 MK2s, MK2.5 or MK3 printer | 1 | | www.prusa3d.com |
@@ -25,28 +27,24 @@
 | X LDO motor with 16T pulley | 1 | | | 
 
 
-#### List of recommended spares
-* M3 screws (10mm, 14mm and 18mm at least)
-* Hex nuts and square nuts
-* 2GT 20T toothed idler if you get a cheap one
+#### What needs to be added from stock Prusa printer
 
+This list the parts you need to add from your original MK2.5/MK3.
 
-#### What needs to be completed from stock MK2.5/MK3
-
-This list the parts you need to add from your original MK2.5/MK3
+As this table does not take spare bag into account, please check them before buying new part.
 
 | Part     | Quantity to add<br>extruder B6/R2 | Quantity to add<br>extruder B7/R3 |
 |----------|:-----------------------------:|:-----------------------------:|
 | Original Prusa i3 MK2s, MK2.5 or MK3 printer | 0 | 0 |
 | 2GT 20T idler, 3mm bore | 0 | 0 |
 | Dowel pin<br/>diameter: 3mm, length: 15mm to 15.8mm | 1 | 1 |
-| M3x10mm socket head screw (ISO 4762) | ? | 3 |
+| M3x10mm socket head screw (ISO 4762) | 3 | 3 |
 | M3x14mm socket head screw (ISO 4762) | 4 | 4 |
 | M3x18mm socket head screw (ISO 4762) | 0 | 0 |
 | M3x25mm socket head screw (ISO 4762) | 0 | 0 |
 | M3x40mm socket head screw (ISO 4762) | 1 | 1 |
 | M2x12mm socket head screw (ISO 4762) | 0 | 0 |
-| M3 Hex nuts (DIN 934) | ? | 2 |
+| M3 Hex nuts (DIN 934) | 2 | 2 |
 | M3 Hex nylock nuts (DIN 985) | 3 | 3 |
 | M3 Square nuts (DIN 562) | 0 | 0 |
 | M3 Steel washer, 0.5mm thick | 2 | 2 |
@@ -54,6 +52,12 @@ This list the parts you need to add from your original MK2.5/MK3
 | Original spring from MK2.5/MK3 extruder idler | 0 | 0 |
 | Bondtech gears 1.75mm/5.0mm<br>with its 20mm shaft | 0 | 0 |
 | X LDO motor with 16T pulley | 0 | 0 |
+
+
+#### List of recommended spares
+* M3 screws (10mm, 14mm and 18mm at least)
+* Hex nuts and square nuts
+* 2GT 20T toothed idler if you get a cheap one
 
 
 ### Printed Parts
