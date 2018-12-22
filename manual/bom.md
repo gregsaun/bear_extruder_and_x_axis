@@ -10,7 +10,7 @@
 |----------|:------------:|--------|------|
 | Original Prusa i3 MK2s, MK2.5 or MK3 printer | 1 | | www.prusa3d.com |
 | 2GT 20T idler, 3mm bore | 1 | :pushpin: You can also reuse your original smooth idler | |
-| Dowel pin<br/>diameter: 3mm, length: 15mm to 15.8mm | 1 | Must fit the 2GT idler bearing.<br/>:pushpin: Cut a M3 screw. | [Aliexpress](https://www.aliexpress.com/item/200pcs-lot-High-Quality-2-95mm-stainless-steel-pcb-board-dowel-pin-length-15-8/32269554692.html) |
+| Dowel pin<br/>diameter: 3mm, length: 15mm to 15.8mm | 1 | Must fit the 2GT idler bearing.<br/>:pushpin: Cut a M3 screw if you can't find one | [Aliexpress](https://www.aliexpress.com/item/200pcs-lot-High-Quality-2-95mm-stainless-steel-pcb-board-dowel-pin-length-15-8/32269554692.html) |
 | M3x10mm socket head screw (ISO 4762) | 15 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) |
 | M3x14mm socket head screw (ISO 4762) | 4 | | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) |
 | M3x18mm socket head screw (ISO 4762) | 8 | | [McMaster-Carr](https://www.mcmaster.com/#91292a029/=1coixwt) |
