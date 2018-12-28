@@ -27,7 +27,7 @@
 | Prusa X motor with 16T pulley | 1 | | |
 | Prusa E motor | 1 | | |
 | Smooth rods 370mm | 2 | | |
-| Gates LL-2GT RF belt 6mm width | 880mm | | |
+| Gates LL-2GT RF belt<br>6mm width, 880mm long | 1 | | |
 
 
 #### What needs to be added from stock Prusa printer
@@ -57,7 +57,7 @@ As this table does not take spare bag into account, please check them before buy
 | Prusa X motor with 16T pulley | 0 | 0 |
 | Prusa E motor | 0 | 0 |
 | Smooth rods | 0 | 0 |
-| Gates LL-2GT RF belt 6mm width | 0 | 0 |
+| Gates LL-2GT RF belt<br>6mm width, 880mm long | 0 | 0 |
 
 
 #### List of recommended spares
