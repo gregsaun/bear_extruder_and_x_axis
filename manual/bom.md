@@ -24,7 +24,10 @@
 | M3 Nylon washer (DIN 125), 0.5mm thick | 2 | | | 
 | Original spring from MK2.5/MK3 extruder idler | 1 | :warning: MK2s spring might not work | |
 | Bondtech gears 1.75mm/5.0mm<br>with its 20mm shaft | 1 | Checkout [this optional bearing idler](../optional_parts/extruder_idler_bearing) | [Bondtech](http://shop.bondtech.se/en/drivegears/drivegear-kit-175-direct.html) |
-| Prusa X motor with 16T pulley | 1 | | | 
+| Prusa X motor with 16T pulley | 1 | | |
+| Prusa E motor | 1 | | |
+| Smooth rods 370mm | 2 | | |
+| Gates LL-2GT RF belt 6mm width | 880mm | | |
 
 
 #### What needs to be added from stock Prusa printer
@@ -52,6 +55,9 @@ As this table does not take spare bag into account, please check them before buy
 | Original spring from MK2.5/MK3 extruder idler | 0 | 0 |
 | Bondtech gears 1.75mm/5.0mm<br>with its 20mm shaft | 0 | 0 |
 | Prusa X motor with 16T pulley | 0 | 0 |
+| Prusa E motor | 0 | 0 |
+| Smooth rods | 0 | 0 |
+| Gates LL-2GT RF belt 6mm width | 0 | 0 |
 
 
 #### List of recommended spares
