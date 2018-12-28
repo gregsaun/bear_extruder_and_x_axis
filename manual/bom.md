@@ -2,9 +2,7 @@
 
 ## Bill of Materials
 
-### Hardware
-
-#### Full BOM
+### Complete Hardware BOM
 
 | Part     | Quantity<br>(pce) | Detail | Link |
 |----------|:------------:|--------|------|
@@ -30,7 +28,8 @@
 | Gates LL-2GT RF belt<br>6mm width, 880mm long | 1 | | |
 
 
-#### What needs to be added from stock Prusa printer
+
+### BOM For Original Prusa printer
 
 This list the parts you need to add from your original MK2.5/MK3.
 
@@ -60,13 +59,8 @@ As this table does not take spare bag into account, please check them before buy
 | Gates LL-2GT RF belt<br>6mm width, 880mm long | 0 | 0 |
 
 
-#### List of recommended spares
-* M3 screws (10mm, 14mm and 18mm at least)
-* Hex nuts and square nuts
-* 2GT 20T toothed idler if you get a cheap one
 
-
-### Printed Parts
+### Printed Parts BOM
 
 | Part     | Quantity |
 |----------|:------:|
