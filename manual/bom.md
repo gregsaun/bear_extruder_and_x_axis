@@ -18,7 +18,7 @@
 | M3 Hex nuts (DIN 934) | 10 | | [McMaster-Carr](https://www.mcmaster.com/#91828a211/=1cojadu) | 
 | M3 Hex nylock nuts (DIN 985) | 4 | | [McMaster-Carr](https://www.mcmaster.com/#93625a100/=1d2yh4u) | 
 | M3 Square nuts (DIN 562) | 7 | 1.8mm thick and 5.5mm wide | | 
-| M3 Steel washer (DIN 125), 0.5mm thick | 2 | | | 
+| M3 Steel washer (DIN 125), 0.5mm thick | 4 | | | 
 | M3 Nylon washer (DIN 125), 0.5mm thick | 2 | | | 
 | Original spring from MK2.5/MK3 extruder idler | 1 | :warning: MK2s spring might not work | |
 | Bondtech gears 1.75mm/5.0mm<br>with its 20mm shaft | 1 | Checkout [this optional bearing idler](../optional_parts/extruder_idler_bearing) | [Bondtech](http://shop.bondtech.se/en/drivegears/drivegear-kit-175-direct.html) |
@@ -49,7 +49,7 @@ As this table does not take spare bag into account, please check them before buy
 | M3 Hex nuts (DIN 934) | 2 | 2 |
 | M3 Hex nylock nuts (DIN 985) | 3 | 3 |
 | M3 Square nuts (DIN 562) | 0 | 0 |
-| M3 Steel washer, 0.5mm thick | 2 | 2 |
+| M3 Steel washer, 0.5mm thick | 4 | 4 |
 | M3 Nylon washer, 0.5mm thick | 0 | 0 | 
 | Original spring from MK2.5/MK3 extruder idler | 0 | 0 |
 | Bondtech gears 1.75mm/5.0mm<br>with its 20mm shaft | 0 | 0 |
