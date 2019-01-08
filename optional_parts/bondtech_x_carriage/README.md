@@ -28,6 +28,8 @@ This is the list of extra material you will need from original Prusa extruder
 
 ### Printed Parts
 
+You can download the bondtech_x_carriage_mkX.stl from in the current page [here](printed_parts/) and the x_end_idler, x_end_idler_idler_mount and x_end_motor should come from the main parts [here](../../printed_parts/stl).
+
 * Filament type : PETG
 * Infill type : Gyroid recommended
 * Support : No
