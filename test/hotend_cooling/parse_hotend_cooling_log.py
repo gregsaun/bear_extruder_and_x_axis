@@ -65,7 +65,7 @@ with open(fname) as f:
 
 # Display delta time
 if len(time_logged) <= 0:
-    print("File %s does not exist. Exiting...") % fname
+    print("Could not find timestamp from M31 gcode command. Exiting...") % fname
     sys.exit()
 else:
     old_seconds = datetime.timedelta(seconds = time_logged[0])
