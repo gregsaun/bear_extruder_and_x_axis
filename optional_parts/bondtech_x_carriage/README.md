@@ -28,7 +28,7 @@ This is the list of extra material you will need from original Prusa extruder
 
 ### Printed Parts
 
-You can download the bondtech_x_carriage_mkX.stl from in the current page [here](printed_parts/) and the x_end_idler, x_end_idler_idler_mount and x_end_motor should come from the main parts [here](../../printed_parts/stl).
+You can download the bondtech_x_carriage_mkX.stl from in the current page [here](printed_parts/) and the other parts come from the main parts [here](../../printed_parts/stl).
 
 * Filament type : PETG
 * Infill type : Gyroid recommended
@@ -39,9 +39,12 @@ You can download the bondtech_x_carriage_mkX.stl from in the current page [here]
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----|:----:|:----:|:----:|:----:|:----:|
 | bondtech_x_carriage_mkX.stl | 1 | 0.20mm | 20% | 3 | 5 |
-| x_end_idler             | 1 | 0.20mm | 20% | 4 | 5 |
-| x_end_idler_idler_mount | 1 | 0.20mm | 20% | 4 | 5 |
-| x_end_motor             | 1 | 0.20mm | 20% | 4 | 5 |
+| x_end_idler                 | 1 | 0.20mm | 20% | 4 | 5 |
+| x_end_idler_idler_mount     | 1 | 0.20mm | 20% | 4 | 5 |
+| x_end_motor                 | 1 | 0.20mm | 20% | 4 | 5 |
+| cable_guide_back_a          | 1 | 0.20mm | 20% | 4 | 5 |
+| cable_guide_back_b          | 1 | 0.20mm | 20% | 4 | 5 |
+| x_carriage_back             | 1 | 0.20mm | 20% | 3 | 5 |
 
 
 
