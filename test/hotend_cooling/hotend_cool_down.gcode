@@ -2,13 +2,14 @@
 ; Move print head to standard location
 ; ------------------------------------------------------------------------------
 G28 W            ; Home without mesh
-G0 Z50 Y105 X225 ; 50mm high center of bed (MK3 bed)
+G0 Z50 Y105 X125 ; 50mm high center of bed (MK3 bed)
 
 ; ------------------------------------------------------------------------------
-; Warm up hotend
+; Warm up hotend and heatbed (for test consistency)
 ; ------------------------------------------------------------------------------
-
+M140 S50         ; set bed temp 
 M104 S280        ; set extruder temp
+M190 S50         ; wait for bed temp
 M109 S280        ; wait for extruder temp when warming up
 
 M300 S440 P200  ; 1 beep
