@@ -124,10 +124,12 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 ## Support my work
 
-The Bear project is made possible thanks to lots of supporter. Here are some way to support me:
-Become my patron with Patreon: https://www.patreon.com/gregsaun
-A tip via Paypal: paypal.me/gregsaun
-A tip via Thingiverse: https://www.thingiverse.com/pekcitron/about
+The Bear project is made possible thanks supporters. Here are some way to support me:
+  - Become my patron with Patreon: https://www.patreon.com/gregsaun
+  - A tip via Paypal: paypal.me/gregsaun
+  - A tip via Thingiverse: https://www.thingiverse.com/pekcitron/about
+  
+Big thank you in advance :heart:
 
 
 ## Thank you
