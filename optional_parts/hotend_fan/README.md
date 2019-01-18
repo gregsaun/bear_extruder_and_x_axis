@@ -13,6 +13,7 @@ I said *almost* drop-in because you will need to solder a longer cable and crimp
 
 Connector used on the RAMBo is Molex SL 70066 and contacts are Molex SL 70058.
 
+You can purchase the Sunon with correct wires length and connector on [all3dmakers.com](https://all3dmakers.com)
 
 ![Noctua vs Sunon](noctua_vs_sunon.png)
 
