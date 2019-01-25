@@ -13,4 +13,3 @@ Designed by the community. Huge thank you all, you are making this extruder even
 | Bear Extruder BLTouch Mount | vertigo235 | https://www.thingiverse.com/thing:3251530 |
 | Y-Axis Bearing holders | MartinMajewski | https://www.thingiverse.com/thing:3342147 |
 | Bear X End Mount for E3D 20T Idler | motocoder | https://www.thingiverse.com/thing:3308226 |
-| E3D 20T idler mount for Bear Y-Axis | motocoder | https://www.thingiverse.com/thing:3309424 |
