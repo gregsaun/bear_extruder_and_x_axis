@@ -35,13 +35,13 @@ This list the parts you need to add from your original MK2.5/MK3.
 
 As this table does not take spare bag into account, please check them before buying new part.
 
-| Part     | Quantity to add<br>extruder B6/R2 | Quantity to add<br>extruder B7/R3 |
+| Part     | Quantity to add<br>for MK3 printer | Quantity to add<br>for MK2.5 printer |
 |----------|:-----------------------------:|:-----------------------------:|
 | 2GT 20T idler, 3mm bore | 0 | 0 |
 | Dowel pin<br/>diameter: 3mm, length: 15mm to 15.8mm | 1 | 1 |
 | M3x10mm socket head screw (ISO 4762) | 4 | 4 |
 | M3x14mm socket head screw (ISO 4762) | 4 | 4 |
-| M3x18mm socket head screw (ISO 4762) | 0 | 0 |
+| M3x18mm socket head screw (ISO 4762) | 0 | 4 |
 | M3x25mm socket head screw (ISO 4762) | 0 | 0 |
 | M3x40mm socket head screw (ISO 4762) | 2 | 2 |
 | M2x12mm socket head screw (ISO 4762) | 0 | 0 |
