@@ -9,13 +9,13 @@
 | Original Prusa i3 MK2s, MK2.5 or MK3 printer | 1 | | www.prusa3d.com |
 | 2GT 20T idler, 3mm bore | 1 | :pushpin: You can also reuse your original smooth idler | |
 | Dowel pin<br/>diameter: 3mm, length: 15mm to 15.8mm | 1 | Must fit the 2GT idler bearing.<br/>:pushpin: Cut a M3 screw if you can't find one | [Aliexpress](https://www.aliexpress.com/item/200pcs-lot-High-Quality-2-95mm-stainless-steel-pcb-board-dowel-pin-length-15-8/32269554692.html) |
-| M3x10mm socket head screw (ISO 4762) | 15 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) |
-| M3x14mm socket head screw (ISO 4762) | 4 | | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) |
-| M3x18mm socket head screw (ISO 4762) | 8 | | [McMaster-Carr](https://www.mcmaster.com/#91292a029/=1coixwt) |
-| M3x25mm socket head screw (ISO 4762) | 2 | | [McMaster-Carr](https://www.mcmaster.com/#91292a020/=1cok8ux) |
-| M3x40mm socket head screw (ISO 4762) | 5 | | [McMaster-Carr](https://www.mcmaster.com/#91292a024/=1coj8pe) |
-| M2x12mm socket head screw (ISO 4762) | 2 | :warning: MK2.5 only | [McMaster-Carr](https://www.mcmaster.com/#91292a834/=1cok8m8) |
-| M3 Hex nuts (DIN 934) | 10 | | [McMaster-Carr](https://www.mcmaster.com/#91828a211/=1cojadu) | 
+| M3x10mm socket head screw (ISO 4762) | 16 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) |
+| M3x14mm socket head screw (ISO 4762) | 4  | | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) |
+| M3x18mm socket head screw (ISO 4762) | 14 | | [McMaster-Carr](https://www.mcmaster.com/#91292a029/=1coixwt) |
+| M3x25mm socket head screw (ISO 4762) | 2  | | [McMaster-Carr](https://www.mcmaster.com/#91292a020/=1cok8ux) |
+| M3x40mm socket head screw (ISO 4762) | 6  | | [McMaster-Carr](https://www.mcmaster.com/#91292a024/=1coj8pe) |
+| M2x12mm socket head screw (ISO 4762) | 2  | :warning: MK2.5 only | [McMaster-Carr](https://www.mcmaster.com/#91292a834/=1cok8m8) |
+| M3 Hex nuts (DIN 934) | 14 | | [McMaster-Carr](https://www.mcmaster.com/#91828a211/=1cojadu) | 
 | M3 Hex nylock nuts (DIN 985) | 4 | | [McMaster-Carr](https://www.mcmaster.com/#93625a100/=1d2yh4u) | 
 | M3 Square nuts (DIN 562) | 7 | 1.8mm thick and 5.5mm wide | | 
 | M3 Steel washer (DIN 125), 0.5mm thick | 4 | | | 
@@ -35,18 +35,17 @@ This list the parts you need to add from your original MK2.5/MK3.
 
 As this table does not take spare bag into account, please check them before buying new part.
 
-| Part     | Quantity to add<br>extruder B6/R2 | Quantity to add<br>extruder B7/R3 |
+| Part     | Quantity to add<br>for MK3 printer | Quantity to add<br>for MK2.5 printer |
 |----------|:-----------------------------:|:-----------------------------:|
-| Original Prusa i3 MK2s, MK2.5 or MK3 printer | 0 | 0 |
 | 2GT 20T idler, 3mm bore | 0 | 0 |
 | Dowel pin<br/>diameter: 3mm, length: 15mm to 15.8mm | 1 | 1 |
-| M3x10mm socket head screw (ISO 4762) | 3 | 3 |
+| M3x10mm socket head screw (ISO 4762) | 4 | 4 |
 | M3x14mm socket head screw (ISO 4762) | 4 | 4 |
-| M3x18mm socket head screw (ISO 4762) | 0 | 0 |
+| M3x18mm socket head screw (ISO 4762) | 0 | 4 |
 | M3x25mm socket head screw (ISO 4762) | 0 | 0 |
-| M3x40mm socket head screw (ISO 4762) | 1 | 1 |
+| M3x40mm socket head screw (ISO 4762) | 2 | 2 |
 | M2x12mm socket head screw (ISO 4762) | 0 | 0 |
-| M3 Hex nuts (DIN 934) | 2 | 2 |
+| M3 Hex nuts (DIN 934) | 6 | 6 |
 | M3 Hex nylock nuts (DIN 985) | 3 | 3 |
 | M3 Square nuts (DIN 562) | 0 | 0 |
 | M3 Steel washer, 0.5mm thick | 4 | 4 |
