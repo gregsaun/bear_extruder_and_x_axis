@@ -16,7 +16,7 @@ Connector used on the RAMBo is Molex SL 70066 and contacts are Molex SL 70058.
 
 You will need M3x14mm button head or flat head screw otherwise it might enter in contact with Z lead screw.
 
-![Noctua vs Sunon](noctua_vs_sunon.png)
+![Noctua vs Sunon](fans_comparison.png)
 
 
 ![Sunon fan](sunon.jpg)
