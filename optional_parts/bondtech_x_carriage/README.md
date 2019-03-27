@@ -14,6 +14,11 @@ The Bear X axis improves print quality, reliability and ease of use compared to 
 In order to be sure exaggerated inconsistent extrusion is cured with this extruder I highly recommend to use the [Sunon fan](../hotend_fan).
 
 
+### Compatibility
+
+This Bear X carriage and X axis are compatible with original MK2, MK2s, MK2.5, MK2.5s and MK3s. However, you cannot use the Bear carriage with original Prusa X axis.
+
+
 ### Bill of Materials
 
 This is the list of extra material you will need from original Prusa extruder
