@@ -1,0 +1,114 @@
+solid bear_moire.stl
+  facet normal -0.888218 0 0.459423
+    outer loop
+    vertex -37.5 -25 1
+    vertex -22.5 -25 30
+    vertex -37.5 25 1
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+    vertex 37.5 -25 1.50223e-031
+    vertex -22.5 -25 30
+    vertex -37.5 -25 1
+    endloop
+  endfacet
+  facet normal -1 -0 0
+    outer loop
+    vertex -37.5 -25 1
+    vertex -37.5 25 1
+    vertex -37.5 -25 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 37.5 -25 1.50223e-031
+    vertex -37.5 -25 1
+    vertex -37.5 -25 0
+    endloop
+  endfacet
+  facet normal -0.888218 0 0.459423
+    outer loop
+    vertex -37.5 25 1
+    vertex -22.5 -25 30
+    vertex -22.5 25 30
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+    vertex -22.5 -25 30
+    vertex 37.5 -25 30
+    vertex -22.5 25 30
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 37.5 -25 30
+    vertex -22.5 -25 30
+    vertex 37.5 -25 1.50223e-031
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -22.5 25 30
+    vertex 37.5 25 1.50223e-031
+    vertex -37.5 25 1
+    endloop
+  endfacet
+  facet normal -1 0 -0
+    outer loop
+    vertex -37.5 -25 0
+    vertex -37.5 25 1
+    vertex -37.5 25 1.50223e-031
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -37.5 25 1
+    vertex 37.5 25 1.50223e-031
+    vertex -37.5 25 1.50223e-031
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+    vertex 37.5 25 30
+    vertex 37.5 25 1.50223e-031
+    vertex -22.5 25 30
+    endloop
+  endfacet
+  facet normal 0 -0 1
+    outer loop
+    vertex -22.5 25 30
+    vertex 37.5 -25 30
+    vertex 37.5 25 30
+    endloop
+  endfacet
+  facet normal 0 3.00445e-033 -1
+    outer loop
+    vertex 37.5 25 1.50223e-031
+    vertex -37.5 -25 0
+    vertex -37.5 25 1.50223e-031
+    endloop
+  endfacet
+  facet normal 2.00297e-033 0 -1
+    outer loop
+    vertex 37.5 -25 1.50223e-031
+    vertex -37.5 -25 0
+    vertex 37.5 25 1.50223e-031
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+    vertex 37.5 25 30
+    vertex 37.5 -25 1.50223e-031
+    vertex 37.5 25 1.50223e-031
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+    vertex 37.5 -25 30
+    vertex 37.5 -25 1.50223e-031
+    vertex 37.5 25 30
+    endloop
+  endfacet
+endsolid bear_moire.stl
