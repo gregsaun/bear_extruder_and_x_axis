@@ -1,114 +1,170 @@
 solid bear_moire.stl
-  facet normal -0.888218 0 0.459423
+  facet normal -0.754709 0 -0.656059
     outer loop
-    vertex -37.5 -25 1
-    vertex -22.5 -25 30
-    vertex -37.5 25 1
+    vertex -2.06536 -2.5 1
+    vertex -2.93464 -2.5 2
+    vertex -2.06536 2.5 1
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.93464 -2.5 3
+    vertex -2.93464 -2.5 2
+    vertex -2.06536 -2.5 1
+    endloop
+  endfacet
+  facet normal -0.956305 0 0.292372
+    outer loop
+    vertex -2.35886 2.5 0.04
+    vertex -2.06536 -2.5 1
+    vertex -2.06536 2.5 1
+    endloop
+  endfacet
+  facet normal -0.956305 0 0.292372
+    outer loop
+    vertex -2.35886 -2.5 0.04
+    vertex -2.06536 -2.5 1
+    vertex -2.35886 2.5 0.04
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-    vertex 37.5 -25 1.50223e-031
-    vertex -22.5 -25 30
-    vertex -37.5 -25 1
+    vertex 2.93464 -2.5 0
+    vertex -2.06536 -2.5 1
+    vertex -2.35886 -2.5 0.04
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex 2.93464 -2.5 3
+    vertex -2.06536 -2.5 1
+    vertex 2.93464 -2.5 0
+    endloop
+  endfacet
+  facet normal -0.754709 0 -0.656059
+    outer loop
+    vertex -2.06536 2.5 1
+    vertex -2.93464 -2.5 2
+    vertex -2.93464 2.5 2
+    endloop
+  endfacet
+  facet normal -0.866025 0 0.5
+    outer loop
+    vertex -2.93464 -2.5 2
+    vertex -2.35729 -2.5 3
+    vertex -2.93464 2.5 2
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+    vertex -2.35729 -2.5 3
+    vertex -2.93464 -2.5 2
+    vertex 2.93464 -2.5 3
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -2.93464 2.5 2
+    vertex 2.93464 2.5 3
+    vertex -2.06536 2.5 1
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -2.06536 2.5 1
+    vertex 2.93464 2.5 0
+    vertex -2.35886 2.5 0.04
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -2.06536 2.5 1
+    vertex 2.93464 2.5 3
+    vertex 2.93464 2.5 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -2.35729 2.5 3
+    vertex 2.93464 2.5 3
+    vertex -2.93464 2.5 2
+    endloop
+  endfacet
+  facet normal -0.866025 0 0.5
+    outer loop
+    vertex -2.93464 2.5 2
+    vertex -2.35729 -2.5 3
+    vertex -2.35729 2.5 3
     endloop
   endfacet
   facet normal -1 -0 0
     outer loop
-    vertex -37.5 -25 1
-    vertex -37.5 25 1
-    vertex -37.5 -25 0
+    vertex -2.35886 -2.5 0.04
+    vertex -2.35886 2.5 0.04
+    vertex -2.35886 -2.5 6.08786e-018
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-    vertex 37.5 -25 1.50223e-031
-    vertex -37.5 -25 1
-    vertex -37.5 -25 0
-    endloop
-  endfacet
-  facet normal -0.888218 0 0.459423
-    outer loop
-    vertex -37.5 25 1
-    vertex -22.5 -25 30
-    vertex -22.5 25 30
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-    vertex -22.5 -25 30
-    vertex 37.5 -25 30
-    vertex -22.5 25 30
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-    vertex 37.5 -25 30
-    vertex -22.5 -25 30
-    vertex 37.5 -25 1.50223e-031
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-    vertex -22.5 25 30
-    vertex 37.5 25 1.50223e-031
-    vertex -37.5 25 1
+    vertex 2.93464 -2.5 0
+    vertex -2.35886 -2.5 0.04
+    vertex -2.35886 -2.5 6.08786e-018
     endloop
   endfacet
   facet normal -1 0 -0
     outer loop
-    vertex -37.5 -25 0
-    vertex -37.5 25 1
-    vertex -37.5 25 1.50223e-031
+    vertex -2.35886 -2.5 6.08786e-018
+    vertex -2.35886 2.5 0.04
+    vertex -2.35886 2.5 0
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-    vertex -37.5 25 1
-    vertex 37.5 25 1.50223e-031
-    vertex -37.5 25 1.50223e-031
+    vertex -2.35886 2.5 0.04
+    vertex 2.93464 2.5 0
+    vertex -2.35886 2.5 0
     endloop
   endfacet
-  facet normal 0 1 -0
+  facet normal 0 -1.21757e-018 -1
     outer loop
-    vertex 37.5 25 30
-    vertex 37.5 25 1.50223e-031
-    vertex -22.5 25 30
+    vertex 2.93464 2.5 0
+    vertex -2.35886 -2.5 6.08786e-018
+    vertex -2.35886 2.5 0
+    endloop
+  endfacet
+  facet normal -1.15006e-018 0 -1
+    outer loop
+    vertex 2.93464 -2.5 0
+    vertex -2.35886 -2.5 6.08786e-018
+    vertex 2.93464 2.5 0
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+    vertex 2.93464 2.5 3
+    vertex 2.93464 -2.5 0
+    vertex 2.93464 2.5 0
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+    vertex 2.93464 -2.5 3
+    vertex 2.93464 -2.5 0
+    vertex 2.93464 2.5 3
     endloop
   endfacet
   facet normal 0 -0 1
     outer loop
-    vertex -22.5 25 30
-    vertex 37.5 -25 30
-    vertex 37.5 25 30
+    vertex -2.35729 2.5 3
+    vertex 2.93464 -2.5 3
+    vertex 2.93464 2.5 3
     endloop
   endfacet
-  facet normal 0 3.00445e-033 -1
+  facet normal 0 0 1
     outer loop
-    vertex 37.5 25 1.50223e-031
-    vertex -37.5 -25 0
-    vertex -37.5 25 1.50223e-031
-    endloop
-  endfacet
-  facet normal 2.00297e-033 0 -1
-    outer loop
-    vertex 37.5 -25 1.50223e-031
-    vertex -37.5 -25 0
-    vertex 37.5 25 1.50223e-031
-    endloop
-  endfacet
-  facet normal 1 0 0
-    outer loop
-    vertex 37.5 25 30
-    vertex 37.5 -25 1.50223e-031
-    vertex 37.5 25 1.50223e-031
-    endloop
-  endfacet
-  facet normal 1 0 0
-    outer loop
-    vertex 37.5 -25 30
-    vertex 37.5 -25 1.50223e-031
-    vertex 37.5 25 30
+    vertex -2.35729 -2.5 3
+    vertex 2.93464 -2.5 3
+    vertex -2.35729 2.5 3
     endloop
   endfacet
 endsolid bear_moire.stl
