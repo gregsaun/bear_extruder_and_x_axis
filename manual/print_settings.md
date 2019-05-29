@@ -2,32 +2,37 @@
 
 ## Print Settings
 
-### /!\ Warning /!\
+### :warning: Warning
 
-There are several hidden features on most printed parts (like selective infill). This is why you should really stick to the parameters below and use slic3r Prusa Edition to slice them.
-
-To ensure your prints are good, be sure to have a very well calibrated machine and extruder.
+1. The parts have been designed and tested with the following parameters and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances.
+1. Be sure to have a very well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
 
 
 ### Parameters
 
-* Filament type : PETG
+* Slicer: PrusaSlicer
 * Infill type : Gyroid recommended
 * Support : No
 * Brim : No
 * Detect thin walls : No
 
-| Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
-|:----|:----:|:----:|:----:|:----:|:----:|
-| cable_guide_back_a      | 1 | 0.20mm | 20% | 4 | 5 |
-| cable_guide_back_b      | 1 | 0.20mm | 20% | 4 | 5 |
-| extruder_body           | 1 | 0.20mm | 20% | 4 | 5 |
-| extruder_cover          | 1 | 0.20mm | 20% | 4 | 5 |
-| extruder_idler_bondtech | 1 | 0.20mm | 20% | 4 | 5 |
-| filament_sensor_cover   | 1 | 0.20mm | 20% | 4 | 5 |
-| hotend_collet_clip      | 1 | 0.20mm | 20% | 3 | 5 |
-| x_carriage              | 1 | 0.20mm | 20% | 3 | 5 |
-| x_carriage_back         | 1 | 0.20mm | 20% | 3 | 5 |
-| x_end_idler             | 1 | 0.20mm | 20% | 4 | 5 |
-| x_end_idler_idler_mount | 1 | 0.20mm | 20% | 4 | 5 |
-| x_end_motor             | 1 | 0.20mm | 20% | 4 | 5 |
+| Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Filament type | Color |
+|:----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| cable_guide_back_a     | 1 | 0.20mm | 20% | 4 | 5 | PETG | |
+| cable_guide_back_b     | 1 | 0.20mm | 20% | 4 | 5 | PETG | |
+| extruder_body          | 1 | 0.20mm | 20% | 4 | 5 | PETG | Black |
+| extruder_cover         | 1 | 0.20mm | 20% | 4 | 5 | PETG | |
+| extruder_idler         | 1 | 0.20mm | 20% | 4 | 5 | PETG | |
+| filament_sensor_cover  | 1 | 0.20mm | 20% | 4 | 5 | PETG | Black |
+| filament_sensor_lever  | 1 | 0.20mm | 20% | 4 | 5 | PETG | Black |
+| hotend_collet_clip     | 1 | 0.20mm | 20% | 3 | 5 | PETG | |
+| nozzle_fan_duct        | 1 | 0.20mm | 20% | 3 | 5 | Read note bellow | |
+| ptfe_cutter_50mm_60deg | 1 | 0.20mm | 20% | 3-4 | 5 | PETG | |
+| x_carriage             | 1 | 0.20mm | 20% | 4 | 5 | PETG | |
+| x_carriage_back        | 1 | 0.20mm | 20% | 3 | 5 | PETG | |
+| x_end_idler            | 1 | 0.20mm | 20% | 4 | 5 | PETG | |
+| x_end_idler_tensioner  | 1 | 0.20mm | 20% | 4 | 5 | PETG | |
+| x_end_motor            | 1 | 0.20mm | 20% | 4 | 5 | PETG | |
+
+
+__Note for nozzle_fan_duct:__ It needs to be printed with a heat resistant filament like ABS, Extrudr GreenTec Pro, annealed HTPLA, PC and probably much more. Don't forget to compensate for shrinkage accordingly to the filament type you are using.
