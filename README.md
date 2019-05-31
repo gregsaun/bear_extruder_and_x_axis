@@ -4,7 +4,9 @@
 
 ## Introduction
 
-This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3. It is a following of the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but is still compatible with original Prusa's 3D printers.
+This is a better extruder and X axis for Prusa i3 printer MK2.5s and MK3s. It is a following of the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) and is still compatible with original Prusa's 3D printers.
+
+The main goal of this extruder is to improve print quality, reliability and make maintenance easier.
 
 
 
@@ -12,41 +14,47 @@ This is a better extruder and X axis for Prusa i3 printer MK2(s), MK2.5 and MK3.
 
 Here is a list of improved features over stock Prusa extruder.
 
-1. Improve print quality (reduce inconsistent extrusion) : 
-   * Lighter
-   * Extruder motor is closer by 4.5mm to X rods to decrease the lever arm
-   * Perfect filament path (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
-   * Extruder body is much stiffer
-   * Reduce flexing of X ends and X motor shaft
-   * Optional: replacement of Bondtech "idler" gear by a 623zz bearing to eliminate gear meshing issue. See [extruder_idler_bearing in optional parts](optional_parts/extruder_idler_bearing)
-   * Hotend cooling improved (even better than Prusa MK3 R3 parts)
+1. Improve print quality: 
+   * Better hotend cooling to reduce clog, heatcreap and stringing (also check these [recommended hotend fans](optional_parts/hotend_fan))
+   * Filament path is aligned according to Bondtech specifications (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
+   * Extruder body is stiffer to reduce vibration from Bondtech gears
+   * Reduce flexing of X axis
    * Self-centring of extruder motor
-   * Bondtech drive gears no more at the end of the motor shaft
-   * Includes hotend collet clip
-1. Easier to maintain : 
+   * Extruder is closer to X rods to reduce the lever arm
+   * Bondtech drive gears closer to motor
+   * Includes hotend collet clip to eliminate the risk of the PTFE moving during retractions
+   * Extruder shape and nozzle fan duct are makes part cooling more efficient
+   * Belt path moved closer to top to reduce lever arm for smoother movements
+   * Optional: X end idler for E3D Gates idler
+
+1. Easier to maintain: 
    * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt
    * Z bearings installation made easier thanks to clamps
    * Simple and precise belt tensioning system with 3mm of adjustment
-   * PINDA or the nozzle fan can be removed without disassembling the extruder body
    * Improved extruder body and cover assembly
    * No zip ties needed for X carriage bearings
    * Less screws
-1. Perfect belt alignment and closer to top smooth rod to reduce lever arm
-1. Filament sensor pocket improve filament detection and ease insertion of filament
-1. Support Prusa MMU2 multi color system
-1. Optional: reverse bowden to smooth movement of filament
+
+1. Improve reliability:
+    * Parts designed to last
+    * Better heat management
+    * Vertical print fan
+    * Reduce possible twist on X axis
+    * Reduce chance of bad bearing alignment
+    * Less screws
+    * Extruder body in one piece
+
+1. Support Prusa MMU2S multi color system via the work of vertigo235: [thingiverse.com/thing:3472911](https://www.thingiverse.com/thing:3472911)
+1. Support Bondtech Prusa Upgrade extruder
+1. Several official and community optional parts
+1. No firmware modification required
 1. Open source by providing STL and Autodesk Fusion 360 files (STEP file will come later)
 
 
 
 ## Status
 
-:warning: This is an ongoing development, not even a beta version for now. Use it with care. Any feedback is very welcome :relaxed:
-
-Ongoing tasks :
-1. MK2s version
-1. Fan shroud
-1. Provide STEP files
+:warning: This is an ongoing development, use it with care. Any feedback is very welcome :relaxed:
 
 
 
@@ -63,15 +71,22 @@ The manual contains bill of material (BOM), print settings and assembly instruct
 
 
 
-## Compatibility
-
-:warning: This extruder and x-ends are matched to each other and cannot be used separately. As a unit, they are completely compatible with stock Prusa MK2.5, MK3, Bear Upgraded MK2.5, and Bear Upgraded MK3.
-
-
-
 ## Optional parts
 
-Official optional parts [are here](optional_parts)
+Official and community optional parts [are here](optional_parts)
+
+
+
+## Compatibility
+
+The Bear extruder and X axis is compatible with:
+  * Original Prusa MK2.5s printer
+  * Original Prusa MK3s printer
+  * Bear Upgraded MK2.5(s) frame
+  * Bear Upgraded MK3(s) frame
+  * Bondtech Prusa extruder upgrade MK2(s), MK2.5(s) and MK3(s) (check [optional parts](optional_parts))
+
+:warning: This extruder and x-ends are matched to each other and __cannot be used separately__. The extruder is __NOT__ compatible with stock X axis, neither vice versa.
 
 
 
@@ -122,6 +137,7 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 ![Bear extruder](doc/photos/5D3_2245.jpg)
 
 
+
 ## Support my work
 
 The Bear project is made possible thanks supporters. Here are some way to support me:
@@ -134,22 +150,23 @@ Big thank you in advance :heart:
 
 ## Thank you
 
+Thank you to all my Patreon : Sleene, Matthew Humphrey, Greg3D, Robert Veline, Loïc Dumont, Keith Beaul, Stefan Hilbrich, Gareth Brown, Skyler Weinkauf, Grigori Palamartšuk, Stanislav Kljuhhin, Evan, SamE0717, Peter Boardman, Jimmy Lee, Erich Jermann, Miguel Castillo, Scott Rini, Anders Svendsen, Arnaud CHRISTEL, Edward Wright, David Tyra, mark smith, Andrew Bingham, Lewis Cheek, Brian Tibbetts, Mike Phelps, Kevin Smith, Schwiizer, Ted Rathkopf, JTa, flobler, Jonathan Ryer, Nathan Trop, Ryan Lobbins, Corey Dryja, Bearpaw93, David Pesce, RC-CnC, Joshua Jones, Richard Bateman, Christopher Lee, Josh Carter, Cristian Toma, Orlando E Moran, Tomáš Vydra, Hector Gonzalez, Ahmed, Patch Best, Tyler Townes, QcRetro, Joel Weinberg, ra100, Steven Daglish, 3DPrintronics, Darren Furniss, Daniele Malinconi, Warren Schultz, Joseph Quan, Jeremy, Staffsmith aka Thorben Plath, Stephen Pope, Andre, Austin Vojta, Thom Sturgill, Chris Warkocki, Bojan Kopanja, Garth Clardy, Pierre Allegraud, Joan Torner Corrons, Jason Marcus, Albe Gouws, Stephan Kohls, Doug Palmer, Total Dramatist, Apton Ika, Moody Wood Carving, Espen Fjellvær Olsen, Christos Goulas
+
+Thank you to all that have send me a tip on Thingiverse and PayPal.
+
 Thank you to everybody from Facebook group and The 602 Wasteland community.
-
-Thank you to all my Patreon : Anders Svendsen, Arnaud Christel, Barry from RC-CnC, Cristian Toma, Darren Furniss, Malo87, Mark Leino, Matthew Humphrey, Miguel Castillo, Orlando from all3dmakers, ra100, Sleene, Steven Daglish, Thomáš Vydra, Valentin Constantin, Vishesh from 3Dprintonics.
-
-Thank you to all my tippers on Thingiverse : FurniBird, kabar03, Lucullus, NatDenkin, neofitos, Oggs, Ringo1508, TrevJonez.
 
 Thank you for having purchased a kit from an official distributor.
 
+Thank you to all official distributors for taking care of the kits and customers.
+
+Thank you Jason from LDO Motors for the quality manufacturing and relationship.
+
 Thank you Openbuilds for your hardware, community and state of mind.
 
-Thank you to people that have helped me in the early days of the project : DoItWithSmile (jay3D), kabar03, xequtor and fishmsk, karlosek.
+Thank you for making the community alibe with all your comments, issues, pull requests, optional parts, make, pictures, etc.
 
-Thank you for all your comments and issues on GitHub and Thingiverse.
-
-Thank you to Nathan Denkin for improving my english (I know it is not an easy task!) and for building a better assembly guide.
-
+Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
 
 ## Credit, sources and inspiration
@@ -164,5 +181,6 @@ Here is a list of sources and inspiration :
 * Prusa MK2/S X-Carriage Adjustable Tensioner by Jon Madden : https://www.thingiverse.com/thing:2770019
 * Jan Imrich from [Kurzy Kocour](https://www.facebook.com/KurzyKocour/) maker space for all it's hard work on inconsistency issue
 * The 602 Wasteland Discord server
+* [RH_Dreambox](https://www.thingiverse.com/RH_Dreambox/about) and [Robrps](https://www.thingiverse.com/robrps/designs) for their nozzle fan duct designs
 
 Huge thanks to these projects, without them this project can not exist!
