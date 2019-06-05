@@ -2,15 +2,19 @@
 
 ## Upgrade of Noctua hotend fan
 
-The Noctua fan used by Prusa is designed to cool down a case, not a heatsink. The Bear extruder is making the Noctua more efficient but it is still not powerful enough. The Noctua is lacking static pressure to pass through the fins of the heatsink and to avoid back pressure due to the "reduction cone" to match the E3D v6 heatsink size.
+The Noctua fan used by Prusa is designed to provide airflow through case, not force air through a heatsink. Ehile the Bear extruder improves the Noctua efficiency, it is still not powerful enough. The Noctua lacks static pressure to force enough air through the fins of the heatsink and overcome the back pressure from the "reduction cone" matching to the E3D v6 heatsink.
 
-Fortunately, there is *almost* a drop-in replacement for the Noctua from Sunon or Delta which are more powerful but more noisier (you cannot get more pressure with same noise level...) :
+On the table bellow, we can see that the original E3D v6 fan has 5.07 times more static pressure than the Noctua. In addition to the extra pressure, the E3D v6 does not need a "reduction cone" and is very close to the heatsink which is improving efficiency.
+
+A lower cooling of the heatsink will make the filament melting higher in the heatbreak. This will implied a less consistent layer deposition and make the hotend more prone to clog and heatcreep. Increase of stringing might be another artefact of a hight heatsink temperature.
+
+Fortunately, there are *almost* a drop-in replacements for the Noctua from both Sunon and Delta which are more powerful but more noisier (you cannot get more pressure with same noise level...) :
   * Sunon MF40100V1-1000U-G99
   * Delta ASB0405HHA-AF00 
 
-Some distributors are selling the Sunon with correct cable length and connector. However, you could source on your own and solder a longer cable and crimp a connector. The total cable length needs to be 700mm long. I recommend AWG 26 wire. Connector used on the RAMBo is Molex SL 70066 and contacts are Molex SL 70058.
+Some distributors are selling the Sunon as a drop-in replacement with correct cable length and connector. However, you could source the fan on your own providing a cable and crimping a connector. The total cable length needs to be 700mm long. We recommend AWG 26 wire. The connector used on the RAMBo is Molex SL 70066 and contacts are Molex SL 70058.
 
-You will need M3x14mm button head or flat head screw otherwise it might enter in contact with Z lead screw.
+You will need 4x M3x16mm button head or flat head screws to secure the fan while avoiding the Z lead screw.
 
 ![Noctua vs Sunon](fans_comparison.png)
 
