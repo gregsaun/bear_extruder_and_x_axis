@@ -15,46 +15,40 @@ The main goal of this extruder is to improve print quality, reliability and make
 Here is a list of improved features over stock Prusa extruder.
 
 1. Improve print quality: 
-   * Better hotend cooling to reduce clog, heatcreap and stringing (also check these [recommended hotend fans](optional_parts/hotend_fan))
+   * Better hotend cooling to improve consistency of layers deposition and to reduce clog, heatcreap and stringing (also check these [recommended hotend fans](optional_parts/hotend_fan))
    * Filament path is aligned according to Bondtech specifications (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
    * Extruder body is stiffer to reduce vibration from Bondtech gears
    * Reduce flexing of X axis
-   * Self-centring of extruder motor
-   * Extruder is closer to X rods to reduce the lever arm
-   * Bondtech drive gears closer to motor
-   * Includes hotend collet clip to eliminate the risk of the PTFE moving during retractions
-   * Extruder shape and nozzle fan duct are makes part cooling more efficient
-   * Belt path moved closer to top to reduce lever arm for smoother movements
+   * Extruder is closer to X rods to reduce the lever arm and vibration
+   * Bondtech drive gears closer to motor to reduce shaft flexing
+   * Includes hotend collet clip to eliminate the risk of PTFE moving during retractions
+   * More efficient part cooling thanks to nozzle fan duct and bottom shape of extruder
+   * Belt path moved closer to top rod for smoother movements
    * Optional: X end idler for E3D Gates idler
 
 1. Easier to maintain: 
    * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt
    * Z bearings installation made easier thanks to clamps
    * Simple and precise belt tensioning system with 3mm of adjustment
-   * Improved extruder body and cover assembly
+   * Self-centring of extruder motor
+   * Easier extruder assembly
    * No zip ties needed for X carriage bearings
    * Less screws
 
 1. Improve reliability:
     * Parts designed to last
     * Better heat management
-    * Vertical print fan
+    * Vertical print fan to reduce bearing wear and noise
     * Reduce possible twist on X axis
     * Reduce chance of bad bearing alignment
     * Less screws
     * Extruder body in one piece
 
 1. Support Prusa MMU2S multi color system via the work of vertigo235: [thingiverse.com/thing:3472911](https://www.thingiverse.com/thing:3472911)
-1. Support Bondtech Prusa Upgrade extruder
+1. Support [Bondtech Prusa Upgrade extruder](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/)
 1. Several official and community optional parts
 1. No firmware modification required
 1. Open source by providing STL and Autodesk Fusion 360 files (STEP file will come later)
-
-
-
-## Status
-
-:warning: This is an ongoing development, use it with care. Any feedback is very welcome :relaxed:
 
 
 
@@ -99,6 +93,12 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 * GitHub : [github.com/gregsaun](https://github.com/gregsaun)
 * Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
 * Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
+
+
+
+## Status
+
+:warning: This is an ongoing development, use it with care. Any feedback is very welcome :relaxed:
 
 
 
@@ -174,13 +174,12 @@ Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nath
 Here is a list of sources and inspiration :
 
 * Prusa : http://www.prusa3d.com
-* Zaribo : http://zaribo.org
-* Vecko Kojchevski : https://www.thingiverse.com/vekoj/designs
+* Vecko Kojchevski for the help on some details of the X end clamps, X carriage and PTFE cutter : https://www.thingiverse.com/vekoj/designs
 * Arnaud Rousseau for "its X-Ends clamped MK3 (Zaribo)" : https://www.thingiverse.com/thing:2964026
 * Prusa i3 Solidworks parts from jzkmath : https://github.com/jzkmath/Original-Prusa-i3
 * Prusa MK2/S X-Carriage Adjustable Tensioner by Jon Madden : https://www.thingiverse.com/thing:2770019
 * Jan Imrich from [Kurzy Kocour](https://www.facebook.com/KurzyKocour/) maker space for all it's hard work on inconsistency issue
-* The 602 Wasteland Discord server
+* The 602 Wasteland Discord community for their precious knowledge and advices
 * [RH_Dreambox](https://www.thingiverse.com/RH_Dreambox/about) and [Robrps](https://www.thingiverse.com/robrps/designs) for their nozzle fan duct designs
 
-Huge thanks to these projects, without them this project can not exist!
+Massive thanks to these projects, without them this project can not exist!
