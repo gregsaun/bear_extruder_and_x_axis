@@ -6,7 +6,7 @@ The Noctua fan used by Prusa is designed to provide airflow through case, not fo
 
 On the table bellow, we can see that the original E3D v6 fan has 5.07 times more static pressure than the Noctua. In addition to the extra pressure, the E3D v6 does not need a "reduction cone" and is very close to the heatsink which is improving efficiency.
 
-A lower cooling of the heatsink will make the filament melting higher in the heatbreak. This will implied a less consistent layer deposition and make the hotend more prone to clog and heatcreep. Increase of stringing might be another artefact of a hight heatsink temperature.
+A lower cooling of the heatsink will make the filament melting higher in the heatbreak. This will implied a less consistent layer deposition and make the hotend more prone to clog and heatcreep. Increase of stringing might be another artefact of a higher heatsink temperature.
 
 Fortunately, there are *almost* a drop-in replacements for the Noctua from both Sunon and Delta which are more powerful but more noisier (you cannot get more pressure with same noise level...) :
   * Sunon MF40100V1-1000U-G99
