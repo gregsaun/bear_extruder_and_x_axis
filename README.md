@@ -171,5 +171,6 @@ Here is a list of sources and inspiration :
 * Jan Imrich from [Kurzy Kocour](https://www.facebook.com/KurzyKocour/) maker space for all it's hard work on inconsistency issue
 * The 602 Wasteland Discord community for their precious knowledge and advices
 * [RH_Dreambox](https://www.thingiverse.com/RH_Dreambox/about) and [Robrps](https://www.thingiverse.com/robrps/designs) for their nozzle fan duct designs
+* Joel from [Bondtech](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/) for having pushed me to pursue the filament sensor idea
 
 Massive thanks to these projects, without them this project can not exist!
