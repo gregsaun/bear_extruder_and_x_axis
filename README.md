@@ -104,37 +104,27 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 ## Images
 
-![Bear extruder](doc/photos/5D3_4551.jpg)
+![Bear extruder and X axis](doc/photos/5D3_5336.jpg)
 
-![Bear extruder](doc/photos/5D3_4534.jpg)
+![Bear extruder](doc/photos/5D3_5340.jpg)
 
-![Bear extruder](doc/photos/5D3_4488.jpg)
+![Bear extruder](doc/photos/5D3_5341.jpg)
 
-![Bear extruder](doc/photos/5D3_4495.jpg)
+![Bear X end motor](doc/photos/5D3_5428.jpg)
 
-![Bear extruder](doc/photos/5D3_4497.jpg)
+![Bear X end idler](doc/photos/5D3_5431.jpg)
 
-![Bear extruder](doc/photos/5D3_4505.jpg)
+![Bear extruder X carriage back](doc/photos/bear_x_carriage_back_03.gif)
 
-![Bear extruder](doc/photos/5D3_2248.jpg)
+![Bear extruder filament sensor](doc/photos/bear_extruder_filament_sensor_02.gif)
 
-![Bear extruder](doc/photos/5D3_2262.jpg)
+![Bear X end motor](doc/photos/5D3_5446.jpg)
 
-![Bear X end motor](doc/photos/5D3_4117.jpg)
+![Bear X end motor](doc/photos/5D3_5407.jpg)
 
-![Bear X end motor](doc/photos/5D3_4108.jpg)
+![Bear X end idler](doc/photos/5D3_5348.jpg)
 
-![Bear X end idler](doc/photos/5D3_4113.jpg)
-
-![Bear X end idler](doc/photos/5D3_4116.jpg)
-
-![Bear X end idler](doc/photos/5D3_4467.jpg)
-
-![Bear extruder](doc/photos/5D3_4537.jpg)
-
-![Bear extruder](doc/photos/5D3_4540.jpg)
-
-![Bear extruder](doc/photos/5D3_2245.jpg)
+![Bear X end idler](doc/photos/5D3_5436.jpg)
 
 
 
