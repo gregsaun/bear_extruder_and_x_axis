@@ -20,6 +20,7 @@ Check the spare parts bags from your Prusa, you might already have most of this 
 | M3 Hex nylock nuts (DIN 985) | 4 | | [McMaster-Carr](https://www.mcmaster.com/#93625a100/=1d2yh4u) | 
 | M3 Square nuts (DIN 562) | 7 | 1.8mm thick and 5.5mm wide | | 
 | M3 Steel washer (DIN 125), 0.5mm thick | 5 | | | 
+| Zip ties 2.5x100mm | 6 | | | 
 
 
 ### Additional BOM for scratch build
