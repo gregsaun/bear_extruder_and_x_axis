@@ -8,7 +8,7 @@ Check the spare parts bags from your Prusa, you might already have most of this 
 
 | Part     | Quantity | Detail | Link |
 |----------|:--------:|--------|------|
-| Original Prusa i3 MK2s, MK2.5s or MK3s printer | 1 | | [Prusa](https://www.prusa3d.com) |
+| Original Prusa i3 MK2.5S or MK3s printer | 1 | | [Prusa](https://www.prusa3d.com) |
 | Dowel pin<br/>diameter: 2.90-2.95mm<br/>length: 15mm to 15.8mm | 1 | :pushpin: Cut a M3 screw if you can't find one | |
 | M3x10mm socket head screw (ISO 4762) | 14 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) |
 | M3x14mm socket head screw (ISO 4762) | 4  | | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) |
@@ -20,8 +20,10 @@ Check the spare parts bags from your Prusa, you might already have most of this 
 | M3 Hex nylock nuts (DIN 985) | 4 | | [McMaster-Carr](https://www.mcmaster.com/#93625a100/=1d2yh4u) |
 | M3 Square nuts (DIN 562) | 7 | 1.8mm thick and 5.5mm wide | |
 | M3 Steel washer (DIN 125), 0.5mm thick | 5 | | |
+| 50mm PTFE Tube<sup>1</sup> | 1 | Same PTFE tube than in MK2S,<br/>MK2.5 (non-S) and MK3 (non-S). | |
 | Zip ties 2.5x100mm | 6 | | |
 
+> Note <sup>1</sup> : The printed parts include a PTFE cutter and the assembly will guide you on how to properly trim the PTFE tube. In this case you need a 100mm PTFE tube that you will prepare and cut.
 
 ### Additional BOM for scratch build
 
