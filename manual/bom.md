@@ -23,7 +23,7 @@ Check the spare parts bags from your Prusa, you might already have most of this 
 | 50mm PTFE Tube<sup>1</sup> | 1 | Same PTFE tube than in MK2S,<br/>MK2.5 (non-S) and MK3 (non-S). | |
 | Zip ties 2.5x100mm | 6 | | |
 
-> Note <sup>1</sup> : The printed parts include a PTFE cutter and the assembly will guide you on how to properly trim the PTFE tube. In this case you need a 100mm PTFE tube that you will prepare and cut.
+> Note<sup>1</sup> : The printed parts include a PTFE cutter and the assembly will guide you on how to properly trim the PTFE tube. In this case you need a 100mm PTFE tube that you will prepare and cut.
 
 ### Additional BOM for scratch build
 
