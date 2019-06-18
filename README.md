@@ -53,8 +53,8 @@ Here is a list of improved features over stock Prusa extruder.
 
 
 ## Download printed parts
-  * Thingiverse: https://www.thingiverse.com/thing:3226689
-  * This GitHub: [printed_parts/stl](printed_parts/)
+  * From Thingiverse: [](not published yet)
+  * From this GitHub: [printed_parts/stl](printed_parts/)
 
 
 ## Manual
@@ -92,12 +92,6 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 * GitHub : [github.com/gregsaun](https://github.com/gregsaun)
 * Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
 * Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
-
-
-
-## Status
-
-:warning: This is an ongoing development, use it with care. Any feedback is very welcome :relaxed:
 
 
 
