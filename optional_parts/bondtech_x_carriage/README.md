@@ -28,19 +28,22 @@ This is the list of extra material you will need from original Prusa extruder
 
 ### Printed Parts
 
-You can download the bondtech_x_carriage_mkX.stl from in the current page [here](printed_parts/) and the other parts come from the main parts [here](../../printed_parts/stl).
+##### Download
+  * Download the bondtech_x_carriage_mkX.stl from the [top of the current page](printed_parts/)
+  * Download the other parts listed in the table below on the [printed parts from Bear extruder](../../printed_parts/).
 
-* Filament type : PETG
-* Infill type : Gyroid recommended
-* Support : No
-* Brim : No
-* Detect thin walls : No
+##### Part list and print settings
+  * Filament type : PETG
+  * Infill type : Gyroid recommended
+  * Support : No
+  * Brim : No
+  * Detect thin walls : No
 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----|:----:|:----:|:----:|:----:|:----:|
-| bondtech_x_carriage_mkX.stl | 1 | 0.20mm | 20% | 3 | 5 |
+| bondtech_x_carriage_mkX.stl | 1 | 0.20mm | 20% | 4 | 5 |
 | x_end_idler                 | 1 | 0.20mm | 20% | 4 | 5 |
-| x_end_idler_idler_mount     | 1 | 0.20mm | 20% | 4 | 5 |
+| x_end_idler_tensioner       | 1 | 0.20mm | 20% | 4 | 5 |
 | x_end_motor                 | 1 | 0.20mm | 20% | 4 | 5 |
 | cable_guide_back_a          | 1 | 0.20mm | 20% | 4 | 5 |
 | cable_guide_back_b          | 1 | 0.20mm | 20% | 4 | 5 |
