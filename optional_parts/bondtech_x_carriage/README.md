@@ -29,8 +29,8 @@ This is the list of extra material you will need from original Prusa extruder
 ### Printed Parts
 
 ##### Download
-  * Download the bondtech_x_carriage_mkX.stl from the [top of the current page](printed_parts/)
-  * Download the other parts listed in the table below on the [printed parts from Bear extruder](../../printed_parts/).
+  * Download the bondtech_x_carriage_mkX.stl from the [printed_parts folder of the current page](printed_parts/)
+  * Download the other parts listed in the table below from the [Bear extruder and X axis printed parts](../../printed_parts/).
 
 ##### Part list and print settings
   * Filament type : PETG

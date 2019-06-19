@@ -134,7 +134,9 @@ Big thank you in advance :heart:
 
 ## Thank you
 
-Thank you to all my Patreon : Sleene, Matthew Humphrey, Greg3D, robert veline, Loïc Dumont, Keith Beaul, Stefan Hilbrich, Gareth Brown, Skyler Weinkauf, Grigori Palamartšuk, Stanislav Kljuhhin, Evan, SamE0717, Peter Boardman, Jimmy Lee, Erich Jermann, Miguel Castillo, Scott Rini, Anders Svendsen, Arnaud CHRISTEL, Tom Kogut, Edward Wright, David Tyra, mark smith, Andrew Bingham, Lewis Cheek, Brian Tibbetts, Mike Phelps, Kevin Smith, 3D-Maniac, Ted Rathkopf, JTa, flobler, Jonathan Ryer, Nathan Trop, Ryan Lobbins, Corey Dryja, Bearpaw93, David Pesce, RC-CnC, Joshua Jones, Richard Bateman, Christopher Lee, Josh Carter, Cristian Toma, Orlando E Moran, Evgen, Tomáš Vydra, Hector Gonzalez, Ahmed, Patch Best, Tyler Townes, QcRetro, Joel Weinberg, ra100, Steven Daglish, 3DPrintronics, Darren Furniss, Daniele Malinconi, Nicolas Pottier, Warren Schultz, Joseph Quan, Staffsmith aka Thorben Plath, Stephen Pope, Andre, Austin Vojta, Thom Sturgill, Chris Warkocki, Bojan Kopanja, Garth Clardy, Pierre Allegraud, Joan Torner Corrons, Jason Marcus, Albe Gouws, Stephan Kohls, Doug Palmer, Total Dramatist, Apton Ika, Moody Wood Carving, Espen Fjellvær Olsen, Christos Goulas
+Thank you to all my Patreon : Sleene, Matthew Humphrey, Greg3D, robert veline, Loïc Dumont, Keith Beaul, Stefan Hilbrich, Gareth Brown, Skyler Weinkauf, Grigori Palamartšuk, Stanislav Kljuhhin, Evan, SamE0717, Peter Boardman, Jimmy Lee, Erich Jermann, Miguel Castillo, Scott Rini, Anders Svendsen, Arnaud CHRISTEL, Tom Kogut, Edward Wright, David Tyra, mark smith, Andrew Bingham, Lewis Cheek, Brian Tibbetts, Mike Phelps, Kevin Smith, 3D-Maniac, Ted Rathkopf, JTa, flobler, Jonathan Ryer, Nathan Trop, Ryan Lobbins, Corey Dryja, Bearpaw93, David Pesce, RC-CnC, Joshua Jones, Richard Bateman, Christopher Lee, Josh Carter, Cristian Toma, Orlando E Moran, Evgen, Tomáš Vydra, Hector Gonzalez, Ahmed, Patch Best, Tyler Townes, QcRetro, Joel Weinberg, ra100, Steven Daglish, 3DPrintronics, Darren Furniss, Daniele Malinconi, Nicolas Pottier, Warren Schultz, Joseph Quan, Staffsmith aka Thorben Plath, Stephen Pope, Andre, Austin Vojta, Thom Sturgill, Chris Warkocki, Bojan Kopanja, Garth Clardy, Pierre Allegraud, Joan Torner Corrons, Jason Marcus, Albe Gouws, Stephan Kohls, Doug Palmer, Total Dramatist, Apton Ika, Moody Wood Carving, Espen Fjellvær Olsen, Christos Goulas.
+
+Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
 
 Thank you to all that have send me a tip on Thingiverse and PayPal.
 
@@ -148,9 +150,7 @@ Thank you Jason from LDO Motors for the quality manufacturing and relationship.
 
 Thank you Openbuilds for your hardware, community and state of mind.
 
-Thank you for making the community alibe with all your comments, issues, pull requests, optional parts, make, pictures, etc.
-
-Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
+Thank you for making the community alive with all your comments, issues, pull requests, optional parts, make, pictures, etc.
 
 
 ## Credit, sources and inspiration
