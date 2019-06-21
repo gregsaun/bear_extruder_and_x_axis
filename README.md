@@ -119,6 +119,8 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 ![Bear X end idler](doc/photos/5D3_5436.jpg)
 
+![Bear X end idler](doc/rendering/bear_heatblock_comparison.jpg)
+
 
 
 ## Support my work
