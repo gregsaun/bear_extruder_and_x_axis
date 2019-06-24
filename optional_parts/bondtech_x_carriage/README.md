@@ -5,18 +5,18 @@
 
 ### Introduction
 
-I had the chance to work with Bondtech on the [Bondtech Prusa Upgrade Extruder](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/) and with some other guys from [Prusa community](https://www.facebook.com/groups/prusacommunity/). I helped them to ensure this extruder will not suffer from exaggerated inconsistent extrusion (called issue 602) of original Prusa extruders (including R3). As bonus, Bondtech made this extruder compatible with Bear X axis and open source!
+This is a Bear X carriage to make [Bondtech Prusa Upgrade Extruder](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/) with the Bear X axis.
 
-You will need a special X carriage for MK2.5 and MK3 to mount the Bondtech Prusa Upgrade Extruder on the Bear X axis.
-
-The Bear X axis improves print quality, reliability and ease of use compared to original Prusa axis. It is stiffer, improved belt path and tensioning system, has much better easier way to manage cables/belts on the back of the carriage and reduce the bending of motor's shaft.
+The Bear X axis improves print quality, reliability and ease of use compared to original Prusa axis. It is stiffer, has a better tensioning system, don't need to disconnect cables from RAMBo to disassemble the extruder or access the belt and make maintenance of Z bearings easier and increases reliability.
 
 In order to be sure exaggerated inconsistent extrusion is cured with this extruder I highly recommend to use the [Sunon fan](../hotend_fan).
+
 
 
 ### Compatibility
 
 This Bear X carriage and X axis are compatible with original MK2, MK2s, MK2.5, MK2.5s and MK3s. However, you cannot use the Bear carriage with original Prusa X axis.
+
 
 
 ### Bill of Materials
@@ -29,6 +29,7 @@ This is the list of extra material you will need from original Prusa extruder
 | Dowel pin<br/>diameter: 3mm, length: 15mm to 15.8mm | 1 | Must fit the 2GT idler bearing.<br/>:pushpin: Cut a M3 screw if you can't find one |
 | M3 Hex nylock nuts (DIN 985) | 2 | |
 | M3 Hex nuts (DIN 934) | 3 | |
+
 
 
 ### Printed Parts
