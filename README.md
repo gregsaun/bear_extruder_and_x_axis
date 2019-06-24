@@ -77,9 +77,11 @@ This extruder and X axis are matched to each other __and cannot be used separate
 
   * This Bear extruder version supports the new IR filament sensor introduced with latest Original Prusa MK2.5S/MK3S extruder.
   * This Bear extruder version is compatible with original Prusa firmware for daily use. However, (XY)Z calibration and selftest require a dedicated firmware for these steps only.
-  * The older filament sensor used in MK2.5 (non-S) and MK3 (non-S) is not compatible with this Bear extruder version. However, with the exception of the filament sensor, this extruder is fully compatible with MK2.5 and MK3 firmware.
+  * MK2.5 (non-S) and MK3 (non-S) is compatible with this Bear extruder version with the exception of the filament sensor.
 
-The latest original Prusa extruder MK2.5S/MK3S has the hotend placed higher up on the X carriage and this could unfortunately make the air around heatbreak and heatblock warmer. We decided to partially break the compatibility of the firmware to not sacrifice reliability and print quality.
+In an effort to lengthen the Z axis, the original Prusa MK2.5S/MK3S hotend was raised by about 7 mm. This placement increases the ambient temperature around heatbreak and heatblock which leads to clogging, heatcreep, inconsistent layers, extruder body melting, reducing part cooling efficiency, longer retractions, etc.
+
+We then have decided to keep the same position of our previous Bear extruder to provide best printing experience and reliability. Because of the difference with original Prusa extruder, we provide a customized firmware to pass Selftest and (XY)Z Calibration. At the exception of these steps, the original Prusa firmware is completely compatible with our extruder.
 
 
 
