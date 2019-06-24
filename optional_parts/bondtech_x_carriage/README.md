@@ -5,9 +5,13 @@
 
 ### Introduction
 
-This is a Bear X carriage to make [Bondtech Prusa Upgrade Extruder](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/) with the Bear X axis.
+This is a Bear X carriage to make [Bondtech Prusa Upgrade Extruder](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/) compatible with the Bear X axis.
 
-The Bear X axis improves print quality, reliability and ease of use compared to original Prusa axis. It is stiffer, has a better tensioning system, don't need to disconnect cables from RAMBo to disassemble the extruder or access the belt and make maintenance of Z bearings easier and increases reliability.
+The Bear X axis improves print quality, reliability and ease of use compared to original Prusa X axis:
+  * Stiffer X axis and several improvements to reduce vibrations.
+  * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt.
+  * Z bearings installation made easier thanks to clamps.
+  * Simple and precise belt tensioning system with 3mm of adjustment.
 
 In order to be sure exaggerated inconsistent extrusion is cured with this extruder I highly recommend to use the [Sunon fan](../hotend_fan).
 

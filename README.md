@@ -17,7 +17,8 @@ Here is a list of improved features over stock Prusa extruder.
 1. Improve print quality:
    * Better hotend cooling to improve consistency of layers deposition and to reduce clog, heatcreap and stringing (also check these [recommended hotend fans](optional_parts/hotend_fan))
    * Reduce flexing of X axis.
-   * Stiffer extruder body to reduce vibration coming from X axis and Bondtech gears.
+   * Stiffer extruder body to reduce vibration coming from Bondtech gears.
+   * Stiffer X axis and several improvements to reduce vibrations.
    * Extruder is closer to X rods to reduce the lever arm and vibration.
    * Bondtech drive gears closer to motor to reduce shaft flexing.
    * Includes hotend collet clip to eliminate the risk of PTFE moving during retractions.
@@ -30,7 +31,7 @@ Here is a list of improved features over stock Prusa extruder.
    * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt.
    * Z bearings installation made easier thanks to clamps.
    * Simple and precise belt tensioning system with 3mm of adjustment.
-   * Self-centring of extruder motor.
+   * Self-centering of extruder motor.
    * Easier extruder assembly.
    * No zip ties needed for X carriage bearings.
    * Less screws.
