@@ -17,7 +17,7 @@ Here is a list of improved features over stock Prusa extruder.
 1. Improve print quality:
    * Better hotend cooling to improve consistency of layers deposition and to reduce clog, heatcreap and stringing (also check these [recommended hotend fans](optional_parts/hotend_fan))
    * Reduce flexing of X axis.
-   * Stiffer extruder body to reduce vibration coming from Bondtech gears.
+   * Stiffer extruder uni-body to reduce vibration coming from Bondtech gears.
    * Stiffer X axis and several improvements to reduce vibrations.
    * Extruder is closer to X rods to reduce the lever arm and vibration.
    * Bondtech drive gears closer to motor to reduce shaft flexing.
