@@ -61,7 +61,7 @@ Here is a list of improved features over stock Prusa extruder.
 
 ## Manual
 
-The manual contains bill of material (BOM), print settings and assembly instructions.
+The manual contains bill of materials (BOM), print settings and assembly instructions.
 
 [Read the manual on guides.bear-lab.com](https://guides.bear-lab.com/c/Extruder_X_Axis)
 
@@ -75,7 +75,7 @@ Official and community optional parts [are here](optional_parts)
 
 ## Compatibility
 
-This extruder and X axis are matched to each other __and cannot be used separately__. As a unit, they are compatible with both Original Prusa and Bear Upgrade frames.
+Due to a different belt path, this extruder and X axis are matched to each other __and cannot be used separately__. As a unit, they are compatible with both Original Prusa and Bear Upgrade frames.
 
   * This Bear extruder version supports the new IR filament sensor introduced with latest Original Prusa MK2.5S/MK3S extruder.
   * This Bear extruder version is compatible with original Prusa firmware for daily use. However, (XY)Z calibration and selftest require a dedicated firmware for these steps only.
@@ -84,6 +84,8 @@ This extruder and X axis are matched to each other __and cannot be used separate
 In an effort to lengthen the Z axis, the original Prusa MK2.5S/MK3S hotend was raised by about 7 mm. This placement increases the ambient temperature around heatbreak and heatblock which leads to clogging, heatcreep, inconsistent layers, extruder body melting, reducing part cooling efficiency, longer retractions, etc.
 
 We then have decided to keep the same position of our previous Bear extruder to provide best printing experience and reliability. Because of the difference with original Prusa extruder, we provide a customized firmware to pass Selftest and (XY)Z Calibration. At the exception of these steps, the original Prusa firmware is completely compatible with our extruder.
+
+The firmware is available here: https://github.com/bear-lab-3d/Prusa-Firmware/releases/
 
 
 
