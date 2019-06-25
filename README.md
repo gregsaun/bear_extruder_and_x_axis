@@ -32,6 +32,7 @@ Here is a list of improved features over stock Prusa extruder.
    * Z bearings installation made easier thanks to clamps.
    * Simple and precise belt tensioning system with 3mm of adjustment.
    * Self-centering of extruder motor.
+   * Easy installation and removing of E3D v6 hotend.
    * Easier extruder assembly.
    * No zip ties needed for X carriage bearings.
    * Less screws.
