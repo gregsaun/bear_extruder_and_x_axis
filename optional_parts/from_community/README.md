@@ -12,4 +12,5 @@ Designed by the community. Huge thank you all, you are making this extruder even
 | Bear X end motor with bearing support | ilya_tsaryuk | https://www.thingiverse.com/thing:3249583 |
 | Bear Extruder BLTouch Mount | vertigo235 | https://www.thingiverse.com/thing:3251530 |
 | Y-Axis Bearing holders | MartinMajewski | https://www.thingiverse.com/thing:3342147 |
-| Bear X End Mount for E3D 20T Idler | motocoder | https://www.thingiverse.com/thing:3308226 |
+| Bear extruder with hobbed pulley from MK2S | toto99303 | https://www.thingiverse.com/thing:3661475 |
+| MMU2S Door Sensor for Bear Extruder | vertigo235 | https://www.thingiverse.com/thing:3472911 |
