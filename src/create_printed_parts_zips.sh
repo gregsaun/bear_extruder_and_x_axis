@@ -40,37 +40,48 @@ fi
 
 # Compress zip files
 # Arguments:
-#   $1 = files to compress (/path/to/files/*)
-#   $2 = path to future zip file (example: path/to/compressedfile.zip)
-#   $3 = optional. file extension to exclude
+#   $1     = future zip filename and path (example: path/to/compressedfile.zip)
+#   $2..$n = path containing files to compress (/path/to/files/)
 function create_zip {
-    source_dir="$1"
-    zip_path="$2"
+    zip_path="$1"
 
     # Remove existing files
-    if [ -d "${temp_dir}" ]; then
-        rm $zip_path
+    if [ -d "$temp_dir" ]; then
+        rm "$zip_path"
     fi
-    if [ -d "${temp_dir}" ]; then
-        rm -f ${temp_dir}/*
+    if [ -d "$temp_dir" ]; then
+        rm -f "$temp_dir"/*
     else
         mkdir -p "$temp_dir"
     fi
 
-    # Copy source and create zip
-    cp $source_dir -t "${temp_dir}/"
+    # Copy source into temp directory
+    shift
+    while test $# -gt 0; do
+        if [[ -d $1 ]]; then      # if directory
+            cp "$1"/* -t "$temp_dir"/
+        elif [[ -f $1 ]]; then    # if file
+            cp "$1" -t "$temp_dir"/
+        else
+            echo "Zip filename and path $1 is not valid"
+            exit 1
+        fi
+        shift
+    done
+
+    # Compress all files into temp directory
     cd "$temp_dir" && zip -q -r -m "$zip_path" ./*
 
     # Clean up
-    rm -f ${temp_dir}/* && rm -d ${temp_dir}
+    rm -f "$temp_dir"/* && rm -d "$temp_dir"
 }
 
 # Zip files
-echo "Zip MK2.5"
-create_zip "${common_parts_dir}/* ${mk25s_parts_dir}/*" "$mk25s_zip_file"
+echo "Zip MK2.5S"
+create_zip "$mk25s_zip_file" "${common_parts_dir}" "${mk25s_parts_dir}"
 
-echo "Zip MK3"
-create_zip "${common_parts_dir}/* ${mk3s_parts_dir}/*" "$mk3s_zip_file"
+echo "Zip MK3S"
+create_zip "$mk3s_zip_file" "${common_parts_dir}" "${mk3s_parts_dir}"
 
 echo "Zip Sources"
-create_zip "${src_dir}/*.f*" "$src_zip_file"
+create_zip "$src_zip_file" "${src_dir}"/*.f*
