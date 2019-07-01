@@ -55,7 +55,7 @@ Here is a list of improved features over stock Prusa extruder.
 
 
 ## Download printed parts
-  * From Thingiverse: [](not published yet)
+  * From Thingiverse: [thingiverse.com/thing:3716110](https://www.thingiverse.com/thing:3716110)
   * From this GitHub: [printed_parts/stl](printed_parts/)
 
 
