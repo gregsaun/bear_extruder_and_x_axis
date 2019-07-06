@@ -11,7 +11,7 @@ Check the spare parts bags from your Prusa, you might already have most of this 
 | Original Prusa i3 MK2.5S or MK3s printer | 1 | | [Prusa](https://www.prusa3d.com) |
 | Dowel pin<br/>diameter: 2.90-2.95mm<br/>length: 15mm to 15.8mm | 1 | :pushpin: Cut a M3 screw if you can't find one | |
 | M3x10mm socket head screw (ISO 4762) | 14 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) |
-| M3x14mm socket head screw (ISO 4762) | 4  | | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) |
+| M3x14mm socket head screw (ISO 4762) | 4  | :warning: Use M3x16 button head (ISO 7380)<br/>for Sunon or Delta hotend fan | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) |
 | M3x18mm socket head screw (ISO 4762) | 14 | | [McMaster-Carr](https://www.mcmaster.com/#91292a029/=1coixwt) |
 | M3x25mm socket head screw (ISO 4762) | 2  | | [McMaster-Carr](https://www.mcmaster.com/#91292a020/=1cok8ux) |
 | M3x40mm socket head screw (ISO 4762) | 6  | | [McMaster-Carr](https://www.mcmaster.com/#91292a024/=1coj8pe) |

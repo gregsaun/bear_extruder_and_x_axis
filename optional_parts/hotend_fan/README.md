@@ -10,11 +10,11 @@ Less heatsink cooling allows the filament to melt higher in the heatbreak. This 
 
 Fortunately, there are *almost* drop-in replacements for the Noctua from both Sunon and Delta which are more powerful but more noisier (you cannot get more pressure with same noise level...) :
   * Sunon MF40100V1-1000U-G99
-  * Delta ASB0405HHA-AF00 
+  * Delta ASB0405HHA-AF00
 
 Some distributors are selling the Sunon as a drop-in replacement with correct cable length and connector. However, you could source the fan on your own providing a cable and crimping a connector. The total cable length needs to be 700mm long. We recommend AWG 26 wire. The connector used on the RAMBo is Molex SL 70066 and contacts are Molex SL 70058.
 
-You will need 4x M3x16mm button head or flat head screws to secure the fan while avoiding the Z lead screw.
+:warning: You will need 4x M3x16mm button head or flat head screws to secure the fan while avoiding the Z lead screw.
 
 ![Noctua vs Sunon](fans_comparison.png)
 
