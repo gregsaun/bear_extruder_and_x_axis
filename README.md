@@ -35,7 +35,7 @@ Here is a list of improved features over stock Prusa extruder.
    * Easy installation and removing of E3D v6 hotend.
    * Easier extruder assembly.
    * No zip ties needed for X carriage bearings.
-   * Less screws.
+   * Fewer screws.
 
 1. Improve reliability:
     * Parts designed to last.
@@ -44,7 +44,7 @@ Here is a list of improved features over stock Prusa extruder.
     * Vertical print fan to reduce bearing wear and noise.
     * Reduce possible twist on X axis.
     * Reduce chance of bad bearing alignment.
-    * Less screws.
+    * Fewer screws.
     * Extruder body in one piece.
 
 1. Support Prusa MMU2S multi color system via the work of vertigo235: [thingiverse.com/thing:3472911](https://www.thingiverse.com/thing:3472911).
