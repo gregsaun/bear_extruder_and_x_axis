@@ -5,21 +5,19 @@
 
 ### Introduction
 
-This is a Bear X carriage to make [Bondtech Prusa Upgrade Extruder](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/) compatible with the Bear X axis.
+This is an X carriage for [Bondtech Prusa Upgrade Extruder MK2(S), MK2.5(S), MK3(S)](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/) compatible with the Bear X axis.
 
-The Bear X axis improves print quality, reliability and ease of use compared to original Prusa X axis:
-  * Stiffer X axis and several improvements to reduce vibrations.
-  * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt.
-  * Z bearings installation made easier thanks to clamps.
-  * Simple and precise belt tensioning system with 3mm of adjustment.
+This X carriage has the same features than the Bear extruder carriage.
 
-In order to be sure exaggerated inconsistent extrusion is cured with this extruder I highly recommend to use the [Sunon fan](../hotend_fan).
+In order to be sure exaggerated inconsistent extrusion is cured with this extruder I highly recommend to use the [Sunon fan](../hotend_fan) with the Bondtech extruder.
 
 
 
 ### Compatibility
 
-This Bear X carriage and X axis are compatible with original MK2, MK2s, MK2.5, MK2.5s and MK3s. However, you cannot use the Bear carriage with original Prusa X axis.
+These Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S) are compatible with the Bear X axis only.
+
+You cannot use those Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S) with original Prusa X axis.
 
 
 
