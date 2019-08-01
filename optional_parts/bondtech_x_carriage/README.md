@@ -61,8 +61,9 @@ This is the list of extra material you will need from original Prusa extruder
 
 ### Assembly Guide
 
-Follow the assembly guide from Bondtech and this one for the X axis and carriage
-
-![Quick assembly 1](assembly/quick_assembly_1.jpg)
-
-![Quick assembly 2](assembly/quick_assembly_2.jpg)
+  1. Follow the assembly guide from Bondtech: [support.bondtech.se/c/Prusa](https://support.bondtech.se/c/Prusa).
+  1. Assemble the Bear X axis using the [Bear extruder and X axis guide 2 "X axis"](https://guides.bear-lab.com/Guide/2.+X+axis/17?lang=en).
+  1. Assemble the Bear X carriage following this figure. You can use the [Bear extruder and X axis guide 4 "Extruder and X axis assembly"](https://guides.bear-lab.com/Guide/4.+Extruder+and+X+axis+assembly/20?lang=en) as support.
+    ![Quick assembly 2](assembly/quick_assembly_2.jpg)
+  1. Finalize the assembly with the [Bear extruder and X axis guide 5 "Final adjustments and calibration"](https://guides.bear-lab.com/Guide/5.+Final+adjustments+and+calibration/14?lang=en) using the recommended firmware and settings from Bondtech.
+  1. Enjoy your bondtech extruder :relaxed: !
