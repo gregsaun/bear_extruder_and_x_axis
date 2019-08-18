@@ -8,6 +8,7 @@ This is a better extruder and X axis for Prusa i3 printer MK2.5S and MK3S. It is
 
 The main goal of this extruder is to improve print quality, reliability and make maintenance easier.
 
+:warning: The Bear X axis is **NOT** compatible with stock Prusa extruder!
 
 
 ## Features
