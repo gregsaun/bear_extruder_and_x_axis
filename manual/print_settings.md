@@ -15,6 +15,7 @@
 * Support : No
 * Brim : No
 * Detect thin walls : No
+* Perimeters width (internal and external) : 0.45mm
 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Filament type | Color |
 |:----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
