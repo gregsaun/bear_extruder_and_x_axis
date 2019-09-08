@@ -5,19 +5,21 @@
 
 ### Introduction
 
-This is an X carriage for [Bondtech Prusa Upgrade Extruder MK2(S), MK2.5(S), MK3(S)](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/) compatible with the Bear X axis.
+This page contains all the files and information to use the Bear X axis with the original [Bondtech Prusa Upgrade Extruder MK2(S), MK2.5(S), MK3(S)](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/).
 
-This X carriage has the same features than the Bear extruder carriage.
+The original Bondtech Prusa Upgrade Extruder needs a dedicated Bear X carriage to be used with the Bear X axis. You can find this special Bear X carriage and all hardware/printed parts needed in the [Bill of Materials|/README.md#bill-of-materials] section below.
 
-In order to be sure exaggerated inconsistent extrusion is cured with this extruder I highly recommend to use the [Sunon fan](../hotend_fan) with the Bondtech extruder.
+:grey_exclamation: Note that in order to be sure inconsistent extrusion is cured with this extruder we highly recommend to use the [Sunon fan](../hotend_fan) with the Bondtech extruder.
 
 
 
 ### Compatibility
 
-These Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S) are compatible with the Bear X axis only.
+The Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S) is compatible with the Bear X axis only.
 
-You cannot use those Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S) with original Prusa X axis.
+The Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S) is **NOT** compatible original Prusa X axis.
+
+If you are already using the Bear X ends with another extruder, you will need the Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S).
 
 
 
@@ -46,6 +48,7 @@ This is the list of extra material you will need from original Prusa extruder
   * Support : No
   * Brim : No
   * Detect thin walls : No
+  * Perimeters width (internal and external) : 0.45mm
 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----|:----:|:----:|:----:|:----:|:----:|
