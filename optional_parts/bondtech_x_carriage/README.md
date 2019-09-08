@@ -7,7 +7,7 @@
 
 This page contains all the files and information to use the Bear X axis with the original [Bondtech Prusa Upgrade Extruder MK2(S), MK2.5(S), MK3(S)](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/).
 
-The original Bondtech Prusa Upgrade Extruder needs a dedicated Bear X carriage to be used with the Bear X axis. You can find this special Bear X carriage and all hardware/printed parts needed in the [Bill of Materials|/README.md#bill-of-materials] section below.
+The original Bondtech Prusa Upgrade Extruder needs a dedicated Bear X carriage to be used with the Bear X axis. You can find this special Bear X carriage and all hardware/printed parts needed in the [Bill of Materials|README.md#bill-of-materials] section below.
 
 :grey_exclamation: Note that in order to be sure inconsistent extrusion is cured with this extruder we highly recommend to use the [Sunon fan](../hotend_fan) with the Bondtech extruder.
 
