@@ -25,11 +25,12 @@ The vslot mount is available in two versions: angled or normal.
 
 ### Printed Parts
 
-* Filament type : PETG
-* Infill type : Gyroid recommended
-* Support : No
-* Brim : No
-* Detect thin walls : No
+  * Filament type : PETG
+  * Infill type : Gyroid recommended
+  * Support : No
+  * Brim : No
+  * Detect thin walls : No
+  * Perimeters width (internal and external) : 0.45mm
 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----|:----:|:----:|:----:|:----:|:----:|

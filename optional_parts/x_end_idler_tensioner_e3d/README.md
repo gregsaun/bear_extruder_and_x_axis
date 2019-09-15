@@ -15,7 +15,7 @@ This is the list of extra material you will need from original Prusa extruder
 | Part     | Quantity<br>(pce) | Detail |
 |----------|:---------------:|--------|
 | Bear X axis | 1 | From version 0.6.0-a and greater |
-| E3D Gates 2GT Toothed Idler<br/>6mm Belt, 20 Tooth, 5mm ID | 1 | https://e3d-online.com/gates-powergripr-toothed-idler-6mm | 
+| E3D Gates 2GT Toothed Idler<br/>6mm Belt, 20 Tooth, 5mm ID | 1 | https://e3d-online.com/gates-powergripr-toothed-idler-6mm |
 | Dowel pin<br/>diameter: 4.90-4.95mm<br/>length: 15mm-15.8mm | 1 | Must fit the 2GT idler bearing.<br/>:pushpin: Cut a M5 screw if you can't find one |
 | M3 Hex nylock nuts (DIN 985) | 2 | Same as original Bear X end idler tensioner |
 
@@ -30,11 +30,12 @@ To ensure your prints are good, be sure to have a well calibrated machine and ex
 
 ### Parameters
 
-* Filament type : PETG
-* Infill type : Gyroid recommended
-* Support : No
-* Brim : No
-* Detect thin walls : No
+  * Filament type : PETG
+  * Infill type : Gyroid recommended
+  * Support : No
+  * Brim : No
+  * Detect thin walls : No
+  * Perimeters width (internal and external) : 0.45mm
 
 | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----:|:----:|:----:|:----:|
