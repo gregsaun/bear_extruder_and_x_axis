@@ -27,7 +27,7 @@
 | filament_sensor_cover  | 1 | 0.20mm | 20% | 4 | 5 | PETG | Black |
 | filament_sensor_lever  | 1 | 0.20mm | 20% | 4 | 5 | PETG | Black |
 | hotend_collet_clip     | 1 | 0.20mm | 20% | 3 | 5 | PETG | |
-| nozzle_fan_duct        | 1 | 0.20mm | 20% | 3 | 5 | Read note<sup>1</sup> bellow | |
+| nozzle_fan_duct        | 1 | 0.20mm | 20% | 3 | 5 | Read note<sup>1</sup> below | |
 | ptfe_cutter_50mm_60deg | 1 | 0.20mm | 20% | 3-4 | 5 | PETG | |
 | x_carriage             | 1 | 0.20mm | 20% | 4 | 5 | PETG | |
 | x_carriage_back        | 1 | 0.20mm | 20% | 3 | 5 | PETG | |
