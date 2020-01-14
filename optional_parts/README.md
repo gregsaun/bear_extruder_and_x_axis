@@ -30,3 +30,4 @@ Designed by the community. Huge thank you all :heart: !
 | Bear extruder for Slice Mosquito Hotend | Ben's 3D | https://www.thingiverse.com/thing:3733768 |
 | Filament cover for Palette 2 | CheshirePirat | https://www.thingiverse.com/thing:3803392 |
 | E3D Volcano Cover for Bear Extruder 0.7.0-beta | Tyler Townes | https://www.thingiverse.com/thing:3988922 |
+| E3D Volcano Cover for Bear Extruder 0.7.0-beta | Flobler | https://www.thingiverse.com/thing:4101419 |
