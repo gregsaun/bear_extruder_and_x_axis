@@ -32,15 +32,18 @@ Check the spare parts bags from your Prusa, you might already have most of this 
 | Parts     | Quantity | Specifications | Example Links |
 |-----------|:--------:|----------------|---------------|
 | Bondtech gears | 1 | 1.75mm/5.0mm<br/>with its 20mm shaft | [Bondtech](http://shop.bondtech.se/en/drivegears/drivegear-kit-175-direct.html) |
-| X axis stepper LDO<br/>42STH38-1004A100CM | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/raw/master/doc/datasheets/LDO-42STH38-1004A100CM-RevA-for-3D.pdf) | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/388-x-axis-stepper-motor.html) |
-| Extruder stepper LDO Cool Power 42STH40-1004ASR | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/raw/master/doc/datasheets/LDO-42STH40-1004ASR_cool_power.pdf) | |
-| Tr8x8 (P2x4) Nuts | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/raw/master/doc/datasheets/LDO-42STH34-1004L321E100CM-RevA-for-3D.pdf) | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/682-trapezoid-nut-lead-nut.html) |
-| Hotend Fan | 1 | 40x40x10 mm<br/>5V with Tachometer (3 wires)<br/>Check [recommend fans](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/hotend_fan) | |
+| Nema 17 stepper for X axis<br/>LDO 42STH38-1004A100CM | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/raw/master/doc/datasheets/LDO-42STH38-1004A100CM-RevA-for-3D.pdf) | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/388-x-axis-stepper-motor.html) |
+| Nema 17 stepper for Z axis<br/>integrated Lead screw Tr8x8 (P2x4) and nut<br/>LDO-42STH34-1004L321E100CM | 2 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/raw/master/doc/datasheets/LDO-42STH34-1004L321E100CM-RevA-for-3D.pdf) | [Prusa](https://shop.prusa3d.com/en/spare-parts/386-stepper-motor-z-axis-right.html) |
+| Nema 17 stepper for extruder extruder<br/>LDO Cool Power 42STH40-1004ASR | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/raw/master/doc/datasheets/LDO-42STH40-1004ASR_cool_power.pdf) | |
+| Hotend Fan | 1 | Check [recommend fans](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/hotend_fan) | |
+| Nozzle Fan | 1 | Minimal specifications:<br/>- CFM: 3.8<br/>- Static Pressure: 11.3 mmH2O<br/>- Bearing type: ball bearing | [Prusa](https://shop.prusa3d.com/en/spare-parts/201-print-fan.html) |
+| Inductive Sensor | 1 | Diameter of 8mm, length around 35mm | | [Prusa](https://shop.prusa3d.com/en/spare-parts/200-pinda-probe-v2.html) |
 | Filament sensor<br/>with magnets, steel ball and cables | 1 | 1x IR Sensor: [GitHub Prusa](https://github.com/prusa3d/MKxS-IR-sensor)<br/>1x Steel ball 7mm diameter<br/>1x Magnet 20x6x2<br/>1x Magnet 10x6x2<br/> | [Prusa](https://shop.prusa3d.com/en/upgrades/898-original-prusa-i3-mk3-to-mk3s-upgrade-kit.html#) |
+| 2GT 16T pulley | 1 | 3mm bore<br/> | [E3D-Online store](https://e3d-online.com/gates-powergrip-pulley-16-tooth-6mm) |
 | 2GT 20T idler | 1 | 3mm bore<br/>smooth or toothed<br/>Check this [optional part for E3D idler](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/x_end_idler_tensioner_e3d) | |
-| Spring | 1 | 15mm length (relaxed)<br/>inside diameter: 3.2mm<br/>wire diameter: 0.8mm | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/599-tension-spring-1x.html) |
+| Extruder spring | 1 | 15mm length (relaxed)<br/>inside diameter: 3.2mm<br/>wire diameter: 0.8mm | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/599-tension-spring-1x.html) |
 | Smooth rods | 2 | 8mm diameter H6<br/>370mm long | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/589-smooth-rod-8x370-x-axis-1-piece.html) |
-| Gates LL-2GT RF belt | 1 | 6mm width<br/>880mm long | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/141-x-axis-belt.html) |
+| Gates LL-2GT RF belt | 1 | 6mm width<br/>880mm long | [E3D-Online store](https://e3d-online.com/gates-powergripr-gt2-belt-6mm-x-100mm) |
 
 :pushpin: : You need to have ordered a Prusa printer and need to login on Prusa store to see the articles. You can probably find this hardware from our [official distributors](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/openbuilds_stores_list.md)
 
