@@ -2,6 +2,7 @@
 
   * Heatblock sock : no
   * Part position : center of bed
+  * Nozzle : E3D 0.4mm
 
 
 # Slicer
