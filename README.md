@@ -28,41 +28,45 @@ Here is a list of improved features over stock Prusa extruder.
 
 1. Improve print quality:
    * Better hotend cooling to improve consistency of layers deposition and to reduce clog, heatcreap and stringing (also check these [recommended hotend fans](optional_parts/hotend_fan))
-   * Reduce flexing of X axis.
-   * Stiffer extruder uni-body to reduce vibration coming from Bondtech gears.
-   * Stiffer X axis and several improvements to reduce vibrations.
-   * Extruder is closer to X rods to reduce the lever arm and vibration.
-   * Bondtech drive gears closer to motor to reduce shaft flexing.
-   * Includes hotend collet clip to eliminate the risk of PTFE moving during retractions.
-   * More efficient part cooling thanks to nozzle fan duct and bottom shape of extruder.
-   * Belt path moved closer to top rod for smoother movements.
-   * Filament path is aligned according to Bondtech specifications (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51)).
-   * Optional: X end idler for E3D Gates idler.
+   * Reduce flexing of X axis
+   * Stiffer extruder uni-body to reduce vibration coming from Bondtech gears
+   * Stiffer X axis and several improvements to reduce vibrations
+   * Extruder is closer to X rods to reduce the lever arm and vibration
+   * Bondtech drive gears closer to motor to reduce shaft flexing
+   * Includes hotend collet clip to eliminate the risk of PTFE moving during retractions
+   * More efficient part cooling thanks to nozzle fan duct and bottom shape of extruder
+   * Belt path moved closer to top rod for smoother movements
+   * Filament path is aligned according to Bondtech specifications (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
+   * Optional: X end idler for E3D Gates idler
 
 1. Easier to maintain:
-   * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt.
-   * Z bearings installation made easier thanks to clamps.
-   * Simple and precise belt tensioning system with 3mm of adjustment.
-   * Self-centering of extruder motor.
-   * Easy installation and removing of E3D v6 hotend.
-   * Easier extruder assembly.
-   * No zip ties needed for X carriage bearings.
-   * Fewer screws.
+   * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt
+   * Z bearings installation made easier thanks to clamps
+   * Simple and precise belt tensioning system with 3mm of adjustment
+   * Self-centering of extruder motor
+   * Easy installation and removing of E3D v6 hotend
+   * Easier extruder assembly
+   * No zip ties needed for X carriage bearings
+   * Fewer screws
 
 1. Improve reliability:
-    * Parts designed to last.
-    * Better heat management.
-    * Reduce chance to melt extruder body.
-    * Vertical print fan to reduce bearing wear and noise.
-    * Reduce possible twist on X axis.
-    * Reduce chance of bad bearing alignment.
-    * Fewer screws.
-    * Extruder body in one piece.
+    * Parts designed to last
+    * Better heat management
+    * Reduce chance to melt extruder body
+    * Vertical print fan to reduce bearing wear and noise
+    * Reduce possible twist on X axis
+    * Reduce chance of bad bearing alignment
+    * Fewer screws
+    * Extruder body in one piece
 
-1. Support Prusa MMU2S multi color system via the work of vertigo235: [thingiverse.com/thing:3472911](https://www.thingiverse.com/thing:3472911).
-1. Support [Bondtech Prusa Upgrade extruder](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/).
-1. Several official and community optional parts.
-1. Open source by providing STL and Autodesk Fusion 360 files (STEP file will come later).
+1. Support alternative extruders:
+    * [E3D Hemera](https://e3d-online.com/e3d-hemera-175-kit)
+    * [Bondtech Prusa Upgrade extruder](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/)
+    * [Bear extruder for MMU2S by vertigo235](https://www.thingiverse.com/thing:3472911)
+    * [Gear box for Bear extruder by vertigo235](https://www.thingiverse.com/thing:3714978)
+
+1. Several official and community optional parts
+1. Open source by providing STL and Autodesk Fusion 360 files and STEP files
 
 
 

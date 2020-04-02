@@ -5,8 +5,9 @@
 
 | Description | Link |
 |-------------|------|
-| Hotend fan (Sunon / Delta) | [hotend_fan](hotend_fan) |
+| E3D Hemera mount (BearMera) | [bear_hemera](bear_hemera) |
 | X carriage for Bondtech extruder | [bondtech_x_carriage](bondtech_x_carriage) |
+| Hotend fan (Sunon / Delta) | [hotend_fan](hotend_fan) |
 | X end tensioner for E3D idlers | [x_end_idler_tensioner_e3d](x_end_idler_tensioner_e3d) |
 | Reverse bowden adapters | [reverse_bowden](reverse_bowden) |
 | X carriage back for larger filament sensor cable |[x_carriage_back_larger_cable](x_carriage_back_larger_cable) |
