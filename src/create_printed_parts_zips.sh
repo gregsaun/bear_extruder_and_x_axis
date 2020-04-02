@@ -92,5 +92,5 @@ create_zip "$mk3s_zip" "$common_parts_dir" "$mk3s_parts_dir"
 echo "Zip Sources"
 create_zip "$src_zip" "${src_dir}"/*.f*
 
-echo "Optional Parts"
-create_zip "$opt_parts_zip" "$opt_parts_dir"
+# echo "Optional Parts"
+# create_zip "$opt_parts_zip" "$opt_parts_dir"
