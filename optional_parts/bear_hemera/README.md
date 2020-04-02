@@ -2,6 +2,12 @@
 
 ## BearMera for E3D Hemera extruder
 
+## Table of contents
+  1. [Introduction](#introduction)
+  1. [Compatibility](#compatibility)
+  1. [Bill Of Materials](#bill-of-materials)
+  1. [Printed Parts](#printed-parts)
+  1. [Assembly Guide](#assembly-guide)
 
 ### Introduction
 
@@ -24,7 +30,7 @@ If you are already using the Bear X axis with another extruder, you will need th
 ### Bill Of Materials
 
 
-### Hardware BOM For Original Prusa Printers
+#### Hardware BOM For Original Prusa Printers
 
 This is the list of extra material you will need from original Prusa extruder and X axis.
 
@@ -47,7 +53,7 @@ This is the list of extra material you will need from original Prusa extruder an
 | Dowel pin<br/>diameter: 3mm, length: 15mm to 15.8mm | 1 | Must fit the 2GT idler bearing.<br/>:pushpin: Cut a M3 screw if you can't find one |
 
 
-### Additional BOM for scratch build
+#### Additional BOM for scratch build
 
 | Part     | Quantity<br>(pce) | Detail | Example Link |
 |----------|:---------------:|----------|--------------|
@@ -63,7 +69,7 @@ This is the list of extra material you will need from original Prusa extruder an
 
 ### Printed Parts
 
-##### Download
+#### Download
   * Download all the parts from [printed_parts folder of the current page](printed_parts/).
   * Download these following parts from the [Bear extruder and X axis printed parts](../../printed_parts/):
     * x_end_idler
@@ -73,7 +79,7 @@ This is the list of extra material you will need from original Prusa extruder an
     * cable_guide_back_a
     * cable_guide_back_b
 
-##### Part list and print settings
+#### Part list and print settings
   * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended
   * Support : No
