@@ -89,19 +89,21 @@ This is the list of extra material you will need from original Prusa extruder an
 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Filament Type |
 |:----|:----:|:----:|:----:|:----:|:----:|:----:|
-| body_back.stl           | 1 | 0.20mm | 20% | 4 | 5 | PETG |
-| body_front.stl          | 1 | 0.20mm | 20% | 4 | 5 | PETG |
-| cable_cover.stl         | 1 | 0.20mm | 20% | 4 | 5 | PETG |
-| nozzle_fan_duct.stl     | 1 | 0.20mm | 20% | 3 | 5 | Read note<sup>1</sup> below |
-| nozzle_fan_spacer.stl   | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| body_back               | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| body_front              | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| cable_cover             | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| nozzle_fan_duct         | 1 | 0.20mm | 20% | 3 | 5 | Read note<sup>1</sup> below |
+| nozzle_fan_spacer       | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| pinda_mount             | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| ptfe_collet_clip        | 1 | 0.20mm | 20% | 3 | 5 | PETG |
+| y_axis_end_stop         | 1 | 0.20mm | 20% | 3 | 5 | PETG |
 | x_carriage              | 1 | 0.20mm | 20% | 4 | 5 | PETG |
-| pinda_mount.stl         | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| x_carriage_back         | 1 | 0.20mm | 20% | 3 | 5 | PETG |
 | x_end_idler             | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | x_end_idler_tensioner   | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | x_end_motor             | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | cable_guide_back_a      | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | cable_guide_back_b      | 1 | 0.20mm | 20% | 4 | 5 | PETG |
-| x_carriage_back         | 1 | 0.20mm | 20% | 3 | 5 | PETG |
 
 Note<sup>1</sup>: The nozzle_fan_duct needs to be printed with a heat resistant filament like ABS, Extrudr GreenTec Pro, annealed HTPLA, PC and probably much more. Don't forget to compensate for shrinkage accordingly to the filament type you are using.
 
