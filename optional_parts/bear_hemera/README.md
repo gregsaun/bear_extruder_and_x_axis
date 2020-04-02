@@ -2,7 +2,7 @@
 
 ## BearMera for E3D Hemera extruder
 
-## Table of contents
+### Table of contents
   1. [Introduction](#introduction)
   1. [Compatibility](#compatibility)
   1. [Bill Of Materials](#bill-of-materials)
