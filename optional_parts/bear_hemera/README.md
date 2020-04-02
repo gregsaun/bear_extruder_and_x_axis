@@ -9,7 +9,7 @@ This page contains all the files and information to use the Bear X axis with the
 
 The Hemera needs a dedicated mount to be used with the Bear X axis. All hardware and printed parts needed are available in the [Bill of Materials](#bill-of-materials) section below.
 
-
+![Bear Hemera body](doc/images/bear_hemera_01.jpg)
 
 ### Compatibility
 
