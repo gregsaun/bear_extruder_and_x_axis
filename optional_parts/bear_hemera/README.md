@@ -34,7 +34,7 @@ This is the list of extra material you will need from original Prusa extruder an
 | Hotend fan                             | 1 | Stock Hemera fan<br/>or higher specifications (yet unknown) | |
 | M3x8mm socket head screw (ISO 4762)    | 3 | Check your Hemera package | [McMaster-Carr](https://www.mcmaster.com/90751a111) | |
 | M3x10mm socket head screw (ISO 4762)   | 12 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) | |
-| M3x14mm socket head screw (ISO 4762)   | 1  | :warning: Use M3x16 button head (ISO 7380)<br/>for Sunon or Delta hotend fan | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) | |
+| M3x14mm socket head screw (ISO 4762)   | 1  | | [McMaster-Carr](https://www.mcmaster.com/#91292a027/=1coixl3) | |
 | M3x18mm socket head screw (ISO 4762)   | 16 | | [McMaster-Carr](https://www.mcmaster.com/#91292a029/=1coixwt) | |
 | M3x25mm socket head screw (ISO 4762)   | 2  | | [McMaster-Carr](https://www.mcmaster.com/#91292a020/=1cok8ux) | |
 | M3x40mm socket head screw (ISO 4762)   | 3  | | [McMaster-Carr](https://www.mcmaster.com/#91292a024/=1coj8pe) | |
