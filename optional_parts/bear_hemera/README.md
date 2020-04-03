@@ -80,6 +80,10 @@ This is the list of extra material you will need from original Prusa extruder an
     * cable_guide_back_b
 
 #### Print settings
+
+
+:warning: Warning: The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
+
   * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended
   * Support : No
