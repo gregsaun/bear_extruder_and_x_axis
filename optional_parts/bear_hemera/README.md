@@ -79,7 +79,7 @@ This is the list of extra material you will need from original Prusa extruder an
     * cable_guide_back_a
     * cable_guide_back_b
 
-#### Part list and print settings
+#### Print settings
   * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended
   * Support : No
