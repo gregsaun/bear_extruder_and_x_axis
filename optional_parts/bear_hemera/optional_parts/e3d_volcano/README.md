@@ -8,6 +8,7 @@
   1. [Bill Of Materials](#bill-of-materials)
   1. [Printed Parts](#printed-parts)
   1. [Assembly Guide](#assembly-guide)
+  1. [Credits](#credits)
 
 ### Introduction
 
@@ -51,3 +52,9 @@ Use same print settings as BearMera
 ### Assembly Guide
 
 Follow the BearMera assembly guide but with the E3D Volcano heatblock and the body_front_volcano.stl.
+
+
+
+### Credits
+
+Thank you very much to Flobler for having designed and tested this body_front_voclano part.
