@@ -4,4 +4,5 @@
 
 | Name | Description | Link |
 |------|-------------|------|
-| Fan washer | Allow a stronger tightening of the E3D fan by avoiding it to twist | [fan_washer.stl](printed_parts/fan_washer.stl) |
+| E3D Volcano | A body_front to support E3D Volcano | [e3d_volcano](e3d_volcano/) |
+| Fan washer | Allow a stronger tightening of the E3D fan by avoiding it to twist | [fan_washer](fan_washer/) |
