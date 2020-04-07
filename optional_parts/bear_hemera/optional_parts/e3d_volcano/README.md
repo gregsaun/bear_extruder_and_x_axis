@@ -14,7 +14,7 @@
 
 This is a body_front printed part to use [E3D Volcano](https://e3d-online.com/volcano-block-for-sensor-cartridges) with BearMera.
 
-![Bear Hemera body](images/bear_hemera_volcano_01.jpg)
+![Bear Hemera Volcano](images/bear_hemera_volcano_01.jpg)
 
 
 
@@ -26,12 +26,13 @@ This body_front is only compatible with Bear Hemera mount.
 
 ### Bill Of Materials
 
-#### Extra hardware from BearMera
+#### Extra hardware from stock BearMera
 
 This is the list of extra material you will need from original Prusa extruder and X axis.
 
 | Part     | Quantity<br>(pce) | Detail | Example Link |
 |----------|:---------------:|----------|--------------|
+| M3x8mm socket head screw (ISO 4762)    | 1 | For front left Hemera t-nut | |
 | M3x20mm socket head screw (ISO 4762)   | 1 | For top screw of nozzle fan | |
 | M3 Hex nuts (DIN 934)                  | 1 | | |
 
@@ -51,7 +52,9 @@ Use same print settings as BearMera
 
 ### Assembly Guide
 
-Follow the BearMera assembly guide but with the E3D Volcano heatblock and the body_front_volcano.stl.
+Follow the BearMera assembly guide but with the E3D Volcano heatblock and the body_front_volcano.stl. Here are where the extra hardware should go:
+
+![Bear Hemera Volcano Assembly](images/bear_hemera_volcano_02.jpg)
 
 
 
