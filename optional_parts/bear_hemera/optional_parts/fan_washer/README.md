@@ -35,7 +35,7 @@ No extra hardware needed, you can use the original self tapping screws coming wi
 
 #### Download
 
-Download all part of the BearMera mount with exception of the fan_washer.stl which needs to be taken from this page.
+Download fan_washer.stl from this page.
 
 #### Print settings
 
