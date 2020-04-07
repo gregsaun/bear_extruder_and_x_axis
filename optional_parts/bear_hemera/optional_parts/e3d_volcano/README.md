@@ -42,7 +42,7 @@ This is the list of extra material you will need from original Prusa extruder an
 
 #### Download
 
-Download all part of the BearMera mount with exception of the body_front_voclano.stl which needs to be taken from this page.
+Download all parts of the stock BearMera mount exception of the body_front_voclano.stl which needs to be taken from here.
 
 #### Print settings
 
