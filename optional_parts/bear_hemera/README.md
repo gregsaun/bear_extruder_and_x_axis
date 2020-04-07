@@ -8,6 +8,7 @@
   1. [Bill Of Materials](#bill-of-materials)
   1. [Printed Parts](#printed-parts)
   1. [Assembly Guide](#assembly-guide)
+  1. [Optional Parts](#optional-parts)
 
 ### Introduction
 
@@ -116,3 +117,14 @@ Note<sup>1</sup>: The nozzle_fan_duct needs to be printed with a heat resistant 
 ### Assembly Guide
 
 The assembly guide is available on [guides.bear-lab.com](https://guides.bear-lab.com/c/r63d85yfkvrohzf1).
+
+
+
+### Optional parts
+
+Here is a list of fficial optional parts for your BearMera.
+
+| Name | Description | Link |
+|------|-------------|------|
+| E3D Volcano | A body_front to support E3D Volcano | [optional_parts/e3d_volcano](optional_parts/e3d_volcano/) |
+| Fan washer | Allow a stronger tightening of the E3D fan by avoiding it to twist | [optional_parts/fan_washer](optional_parts/fan_washer/) |
