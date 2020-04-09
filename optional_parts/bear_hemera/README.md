@@ -26,7 +26,7 @@ This BearMera is only compatible with the Bear X axis.
 
 This BearMera is **NOT** compatible with the original Prusa X axis.
 
-If you are already using the Bear X axis with another extruder, you will need the to replace all the parts.
+You will need to replace **all** printed parts if you are already using the Bear X axis (with another extruder) of version **equal or smaller than 0.7.0-beta**.
 
 
 
