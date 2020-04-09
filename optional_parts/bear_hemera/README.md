@@ -20,9 +20,11 @@ The Hemera needs a dedicated mount to be used with the Bear X axis. All hardware
 
 ### Compatibility
 
-This Hemera mount is only compatible with the Bear X axis.
+The BearMera is compatible with Original Prusa as well as Bear frame. You must use the Bear X axis in both cases.
 
-This Hemera mount is **NOT** compatible with the original Prusa X axis.
+This BearMera is only compatible with the Bear X axis.
+
+This BearMera is **NOT** compatible with the original Prusa X axis.
 
 If you are already using the Bear X axis with another extruder, you will need the to replace all the parts.
 
