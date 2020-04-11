@@ -15,67 +15,61 @@
 
 ## Introduction
 
-This is a better extruder and X axis for Prusa i3 printer MK2.5S and MK3S. It is a following of the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) and is still compatible with original Prusa's 3D printers.
+This is an extruder and X axis for Prusa i3 printer that improve print quality, reliability and make maintenance easier. It is a following of the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but also compatible with original Prusa's 3D printers.
 
-The main goal of this extruder is to improve print quality, reliability and make maintenance easier.
+The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage), [E3D Hemera](./optional_parts/bear_hemera) and [Vertigo295's extruders](https://www.thingiverse.com/vertigo235/designs).
 
 :warning: The Bear X axis is **NOT** compatible with stock Prusa extruder!
 
 
 ## Features
 
-Here is a list of improved features over stock Prusa extruder.
+The Bear X axis and extruder are not only improving print quality but they are also designed to last and to make maintenance and assembly easier. All our designs comes with complete manual with clear assembly instructions.
 
-1. Improve print quality:
-   * Better hotend cooling to improve consistency of layers deposition and to reduce clog, heatcreap and stringing (also check these [recommended hotend fans](optional_parts/hotend_fan))
-   * Reduce flexing of X axis
-   * Stiffer extruder uni-body to reduce vibration coming from Bondtech gears
-   * Stiffer X axis and several improvements to reduce vibrations
-   * Extruder is closer to X rods to reduce the lever arm and vibration
-   * Bondtech drive gears closer to motor to reduce shaft flexing
-   * Includes hotend collet clip to eliminate the risk of PTFE moving during retractions
-   * More efficient part cooling thanks to nozzle fan duct and bottom shape of extruder
-   * Belt path moved closer to top rod for smoother movements
-   * Filament path is aligned according to Bondtech specifications (check [this issue](https://github.com/prusa3d/Original-Prusa-i3/issues/51))
-   * Optional: X end idler for E3D Gates idler
+The Bear X axis also support alternative extruders from Bondtech, E3D and Vertigo295.
 
-1. Easier to maintain:
-   * No need to disconnect cables from RAMBo to disassemble the extruder or access the belt
-   * Z bearings installation made easier thanks to clamps
-   * Simple and precise belt tensioning system with 3mm of adjustment
-   * Self-centering of extruder motor
-   * Easy installation and removing of E3D v6 hotend
-   * Easier extruder assembly
-   * No zip ties needed for X carriage bearings
-   * Fewer screws
+All parts are available under GPLv3 open source license and you can download STEP and Fusion 360 source files. Feel free to fork and share it!
 
-1. Improve reliability:
-    * Parts designed to last
-    * Better heat management
-    * Reduce chance to melt extruder body
-    * Vertical print fan to reduce bearing wear and noise
-    * Reduce possible twist on X axis
-    * Reduce chance of bad bearing alignment
-    * Fewer screws
-    * Extruder body in one piece
+### Bear X axis (and X carriage)
 
-1. Support alternative extruders:
-    * [E3D Hemera](https://e3d-online.com/e3d-hemera-175-kit)
-    * [Bondtech Prusa Upgrade extruder](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/)
-    * [Bear extruder for MMU2S by vertigo235](https://www.thingiverse.com/thing:3472911)
-    * [Gear box for Bear extruder by vertigo235](https://www.thingiverse.com/thing:3714978)
+  * Stiffer X axis to reduce ringing
+  * Simple and precise belt tensioning system
+  * Z bearings installation made easier thanks to clamps
+  * Support MK2.5S/MK3S IR filament sensor
+  * Belt path optimized for smoother movements
+  * X carriage makes access to extruder's cables easier
+  * X carriage improves X bearing alignment
+  * Self centering of X motor thanks to kinematic constraint
+  * Optional: X end idler for E3D Gates idler
 
-1. Several official and community optional parts
-1. Open source by providing STL and Autodesk Fusion 360 files and STEP files
+### Bear extruder
 
+  * Better heat management to reduce inconsistency, clogs, heatcreap and stringing (also check these [recommended hotend fans](optional_parts/hotend_fan))
+  * Stiffer extruder thanks to a uni-body structure
+  * More efficient part cooling
+  * Perfect filament path alignment
+  * Self-centering of extruder motor
+  * Easy installation and removing of E3D v6 hotend
+  * Reduce vibrations of the extruder and Bondtech gears
+  * Vertical print fan to reduce bearing wear and noise
+  * Optional: Compatible with MMU2(S) thanks to the work of Vertigo295
+
+### Alternative extruders (optional)
+
+  * [E3D Hemera](https://e3d-online.com/e3d-hemera-175-kit)
+  * [Bondtech Prusa Upgrade extruder](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/)
+  * [Bear extruder for MMU2S by vertigo235](https://www.thingiverse.com/thing:3472911)
+  * [Gear box for Bear extruder by vertigo235](https://www.thingiverse.com/thing:3714978)
+
+See [optional parts](optional_parts/) to get all information and files for those alternative extruders.
 
 
 ## Compatibility
 
-Due to a different belt path, this extruder and X axis are matched to each other __and cannot be used separately__. As a unit, they are compatible with both Original Prusa and Bear Upgrade frames.
+Due to a different belt path, the Bear X axis and extruders are matched to each other __and cannot be used separately__. As a unit, they are compatible with both Original Prusa frame and Bear Upgrade frames.
 
-  * This Bear extruder version supports the new IR filament sensor introduced with latest Original Prusa MK2.5S/MK3S extruder.
-  * This Bear extruder version is compatible with original Prusa firmware for daily use. However, (XY)Z calibration and selftest require a dedicated firmware for these steps only.
+  * The Bear extruder version supports the new IR filament sensor introduced with latest Original Prusa MK2.5S/MK3S extruder.
+  * The Bear extruder version is compatible with original Prusa firmware for daily use. However, (XY)Z calibration and selftest require a dedicated firmware for these steps only.
   * MK2.5 (non-S) and MK3 (non-S) is compatible with this Bear extruder version with the exception of the filament sensor.
 
 In an effort to lengthen the Z axis, the original Prusa MK2.5S/MK3S hotend was raised by about 7 mm. This placement increases the ambient temperature around heatbreak and heatblock which could leads to print quality and reliability issues. We then have decided to not lengthen the Z axis in order to provide best printing experience. Because of this difference with original Prusa extruder, we provide a customized firmware to pass Selftest and (XY)Z Calibration. At the exception of these steps, the original Prusa firmware is completely compatible with our extruder.
@@ -101,7 +95,7 @@ The manual contains bill of materials (BOM), print settings and assembly instruc
 
 ## Optional parts
 
-Official and community optional parts [are listed here](optional_parts)
+Optional parts as well as alternative extruders [are available here](optional_parts/)
 
 
 
@@ -111,9 +105,9 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 * Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
 * Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
+* Twitter : [@gregoiresaunier](https://twitter.com/gregoiresaunier)
 * GitHub : [github.com/gregsaun](https://github.com/gregsaun)
 * Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
-* Openbuilds community : [openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428](https://openbuilds.com/builds/prusa-i3-bear-upgrade-v2.6428/)
 
 
 
@@ -121,27 +115,18 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 ![Bear extruder and X axis](doc/photos/5D3_5336.jpg)
 
-![Bear extruder](doc/photos/5D3_5340.jpg)
-
 ![Bear X end motor](doc/photos/5D3_5428.jpg)
 
 ![Bear X end idler](doc/photos/5D3_5600.jpg)
+
+![Bear extruder](doc/photos/5D3_5340.jpg)
 
 ![Bear extruder X carriage back](doc/photos/bear_x_carriage_back_03.gif)
 
 ![Bear extruder filament sensor](doc/photos/bear_extruder_filament_sensor_02.gif)
 
-![Bear X end idler](doc/photos/5D3_5431.jpg)
+![Bear E3D Hemera](doc/photos/5D3_7562.jpg)
 
-![Bear X end motor](doc/photos/5D3_5446.jpg)
-
-![Bear X end motor](doc/photos/5D3_5407.jpg)
-
-![Bear X end idler](doc/photos/5D3_5348.jpg)
-
-![Bear X end idler](doc/photos/5D3_5436.jpg)
-
-![Bear X end idler](doc/rendering/bear_heatblock_comparison.jpg)
 
 
 
@@ -191,7 +176,7 @@ Here is a list of sources and inspiration :
 * Prusa MK2/S X-Carriage Adjustable Tensioner by Jon Madden : https://www.thingiverse.com/thing:2770019
 * Jan Imrich from [Kurzy Kocour](https://www.facebook.com/KurzyKocour/) maker space for all it's hard work on inconsistency issue
 * The 602 Wasteland Discord community for their precious knowledge and advices
-* [RH_Dreambox](https://www.thingiverse.com/RH_Dreambox/about) and [Robrps](https://www.thingiverse.com/robrps/designs) for their nozzle fan duct designs
+* [RH_Dreambox](https://www.thingiverse.com/RH_Dreambox/about) and [Robrps](https://www.thingiverse.com/robrps/designs) for his nozzle fan duct designs
 * Joel from [Bondtech](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/) for having pushed me to pursue the filament sensor idea
 
 Massive thanks to these projects, without them this project can not exist!
