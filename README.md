@@ -40,6 +40,7 @@ All parts are available under GPLv3 open source license and you can download STE
   * X carriage makes access to extruder's cables easier
   * X carriage improves X bearing alignment
   * Self centering of X motor thanks to kinematic constraint
+  * Optional: Support alternative extruders
   * Optional: X end idler for E3D Gates idler
 
 ### Bear extruder
