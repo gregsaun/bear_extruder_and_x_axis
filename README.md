@@ -96,7 +96,18 @@ The manual contains bill of materials (BOM), print settings and assembly instruc
 
 ## Optional parts
 
-Optional parts as well as alternative extruders [are available here](optional_parts/)
+Here is a list of optional parts for the Bear extruder and X axis.
+
+| Description | Link |
+|-------------|------|
+| E3D Hemera mount (BearMera) | [bear_hemera](optional_parts/bear_hemera) |
+| X carriage for Bondtech extruder | [bondtech_x_carriage](optional_parts/bondtech_x_carriage) |
+| Hotend fan (Sunon / Delta) | [hotend_fan](optional_parts/hotend_fan) |
+| X end tensioner for E3D idlers | [x_end_idler_tensioner_e3d](optional_parts/x_end_idler_tensioner_e3d) |
+| Reverse bowden adapters | [reverse_bowden](optional_parts/reverse_bowden) |
+| X carriage back for larger filament sensor cable |[x_carriage_back_larger_cable](optional_parts/x_carriage_back_larger_cable) |
+
+You can also find optional parts made by the community at [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
 
 
 
