@@ -15,45 +15,42 @@
 
 ## Introduction
 
-This is an extruder and X axis for Prusa i3 printer to improve print quality, reliability and ease maintenance. It is a following of the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but also compatible with Original Prusa's 3D printers.
+This is an extruder and X axis for Prusa i3 printer to improve print quality, reliability and ease maintenance. It is a following of the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but also compatible with Original Prusa's MK2(S) and MK3(S) frames.
 
 The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage), [E3D Hemera](./optional_parts/bear_hemera) and [Vertigo295's extruders](https://www.thingiverse.com/vertigo235/designs).
+
+All parts are available under GPLv3 open source license and you can download STEP and Fusion 360 source files. Feel free to fork and share it!
 
 :warning: The Bear X axis is **NOT** compatible with stock Prusa extruder!
 
 
 ## Features
 
-This is an extruder and X axis for Prusa i3 printer to improve print quality, reliability and ease maintenance. It comes with a detailed manual and Prusa-like assembly instructions.
-
-The Bear X axis also support alternative extruders from Bondtech, E3D-Online and Vertigo235.
-
-All parts are available under GPLv3 open source license and you can download STEP and Fusion 360 source files. Feel free to fork and share it!
-
 ### Bear X axis (and X carriage)
 
-  * Stiffer X axis to reduce ringing
   * Simple and precise belt tensioning system
-  * Z bearings installation made easier thanks to clamps
-  * Support MK2.5S/MK3S IR filament sensor
+  * Stiffer X axis design to reduce ringing
+  * Z bearings installation made easier thanks to clamping system
   * Belt path optimized for smoother movements
   * Easy access to belt and extruder's cables
-  * Improve X bearings alignment
-  * Self centering of X motor thanks to kinematic constraint
+  * Improve X axis bearings alignment
+  * Kinematic constraint to self-center the X stepper
   * Optional: Support alternative extruders
-  * Optional: Compatible with E3D Gates idler
+  * Optional: Compatible with E3D Gates idlers
 
 ### Bear extruder
 
-  * Better heat management to reduce inconsistency, clogs, heatcreap and stringing (also check these [recommended hotend fans](optional_parts/hotend_fan))
+  * Better heat management to reduce inconsistency, clogs and heatcreap (also check these [recommended hotend fans](optional_parts/hotend_fan))
   * Stiffer extruder thanks to a uni-body structure
-  * More efficient part cooling
-  * Perfect filament path alignment
-  * Self-centering of extruder motor
   * Easy installation and removal of E3D v6 hotend
+  * Efficient part cooling
+  * Self-centering of extruder motor and Bondtech gears
+  * Reduce risk of [extruder blob](https://www.prusa3d.com/extruder-blob/)
+  * Reliable filament sensor (based on MK2.5S/MK3S sensor)
+  * Perfect filament path alignment
   * Reduces extruder and Bondtech gears vibrations
-  * Vertical print fan reduces bearing wear and noise
-  * Optional: Compatible with MMU2S thanks to the work of Vertigo235
+  * Vertical print fan reduces wear and noise
+  * Optional: Compatible with MMU2S thanks to the work of [Vertigo235](https://www.thingiverse.com/vertigo235/designs)
 
 ### Alternative extruders (optional)
 
@@ -67,7 +64,7 @@ The Bear X axis is also compatible with several alternative extruders. See [opti
 
 ## Compatibility
 
-Due to a different belt path, the Bear X axis and extruders are matched to each other __and cannot be used separately__. As a unit, they are compatible with both Original Prusa frame and Bear Upgrade frames.
+Due to a different belt path, the Bear X axis and extruders are matched to each other __and cannot be used separately__. As a unit, they are compatible with both Original Prusa frames and Bear Upgrade frames.
 
   * The Bear extruder version supports the new IR filament sensor introduced with latest Original Prusa MK2.5S/MK3S extruder.
   * The Bear extruder version is compatible with original Prusa firmware for daily use. However, (XY)Z calibration and selftest require a dedicated firmware for these steps only.
