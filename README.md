@@ -61,6 +61,7 @@ The Bear X axis is also compatible with several alternative extruders. See [opti
   * [Bondtech Prusa Upgrade extruder](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/)
   * [Bear extruder for MMU2S by vertigo235](https://www.thingiverse.com/thing:3472911)
   * [Gear box for Bear extruder by vertigo235](https://www.thingiverse.com/thing:3714978)
+  * [Bear Extruder BLTouch Mount by vertigo235](https://www.thingiverse.com/thing:3251530)
 
 
 ## Compatibility
