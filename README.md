@@ -11,6 +11,7 @@
   1. [Images](#images)
   1. [Support my work](#support-my-work)
   1. [Thank you](#thank-you)
+  1. [License](#license)
   1. [Credit, sources and inspiration](#credit-sources-and-inspiration)
 
 ## Introduction
@@ -19,7 +20,7 @@ This is an extruder and X axis for Prusa i3 printer to improve print quality, re
 
 The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage), [E3D Hemera](./optional_parts/bear_hemera) and [Vertigo295's extruders](https://www.thingiverse.com/vertigo235/designs).
 
-All parts are available under GPLv3 open source license and you can download STEP and Fusion 360 source files. Feel free to fork and share it!
+All parts are available under GPLv3 open source license, you can download STEP and Fusion 360 source files. Feel free to fork and share it!
 
 :warning: The Bear X axis is **NOT** compatible with stock Prusa extruder!
 
@@ -97,7 +98,7 @@ The manual contains bill of materials (BOM), print settings and assembly instruc
 
 ## Optional parts
 
-Here is a list of optional parts for the Bear extruder and X axis.
+Here is a list of optional parts designed for the Bear extruder and X axis.
 
 | Description | Link |
 |-------------|------|
@@ -120,7 +121,6 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 * Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
 * Twitter : [@gregoiresaunier](https://twitter.com/gregoiresaunier)
 * GitHub : [github.com/gregsaun](https://github.com/gregsaun)
-* Thingiverse : [thingiverse.com/pekcitron](https://www.thingiverse.com/pekcitron)
 
 
 
@@ -176,6 +176,23 @@ Thank you Jason from LDO Motors for the quality manufacturing and relationship.
 Thank you Openbuilds for your hardware, community and state of mind.
 
 Thank you for making the community alive with all your comments, issues, pull requests, optional parts, make, pictures, etc.
+
+
+## License
+
+This repository and all files are under GPLv3 license. Here is a quick summary; for more details please check the LICENSE file.
+
+What you __can__ do:
+  * Modify
+  * Distribute
+  * Private, commercial and patent use
+
+What you __must__ do:
+  * Include copyright notice
+  * Include a copy of the license
+  * Share source files
+  * Use the same license (GPLv3)
+  * Document changes applied
 
 
 ## Credit, sources and inspiration
