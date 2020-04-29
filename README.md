@@ -87,7 +87,7 @@ Direct links to download the Bear extruder and X axis (zip file) :
 
 You can also download them via Thingiverse: [thingiverse.com/thing:3716110](https://www.thingiverse.com/thing:3716110)
 
-If you are looking for alternative extruders printed parts, please check the section [Optional parts](#optional_parts) below.
+If you are looking for alternative extruders printed parts, please check the section [Optional parts](#optional-parts) below.
 
 
 ## Manual
