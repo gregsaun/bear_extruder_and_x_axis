@@ -18,7 +18,7 @@
 
 This is an extruder and X axis for Prusa i3 printer to improve print quality, reliability and ease maintenance. It is a following of the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but also compatible with Original Prusa's MK2(S) and MK3(S) frames.
 
-The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage), [E3D Hemera](./optional_parts/bear_hemera) and [Vertigo295's extruders](https://www.thingiverse.com/vertigo235/designs).
+The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage), [E3D Hemera](./optional_parts/bear_hemera) and [vertigo235's extruders](https://www.thingiverse.com/vertigo235/designs).
 
 All parts are available under GPLv3 open source license, you can download STEP and Fusion 360 source files. Feel free to fork and share it!
 
@@ -51,7 +51,7 @@ All parts are available under GPLv3 open source license, you can download STEP a
   * Perfect filament path alignment
   * Reduces extruder and Bondtech gears vibrations
   * Vertical print fan reduces wear and noise
-  * Optional: Compatible with MMU2S thanks to the work of [Vertigo235](https://www.thingiverse.com/vertigo235/designs)
+  * Optional: Compatible with MMU2S thanks to the work of [vertigo235](https://www.thingiverse.com/vertigo235/designs)
 
 ### Alternative extruders (optional)
 
@@ -59,8 +59,9 @@ The Bear X axis is also compatible with several alternative extruders. See [opti
 
   * [E3D Hemera](https://e3d-online.com/e3d-hemera-175-kit)
   * [Bondtech Prusa Upgrade extruder](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/)
-  * [Bear extruder for MMU2S by Vertigo235](https://www.thingiverse.com/thing:3472911)
-  * [Gear box for Bear extruder by Vertigo235](https://www.thingiverse.com/thing:3714978)
+  * [Bear extruder for MMU2S by vertigo235](https://www.thingiverse.com/thing:3472911)
+  * [Gear box for Bear extruder by vertigo235](https://www.thingiverse.com/thing:3714978)
+  * [Bear Extruder BLTouch Mount by vertigo235](https://www.thingiverse.com/thing:3251530)
 
 
 ## Compatibility
@@ -161,7 +162,7 @@ Massive thank you in advance :heart:
 
 Thank you to all my Patreon : 3D-Maniac, 3DPrintronics, Aaron Rieley, Ahmet Kocamese, Aki Juntunen, Alex Vasile, Anders Svendsen, Andrew Bingham, Asbjorn Mikkelsen, Austin Vojta, Bas Borgignons, Bastian Sembdner-Braun, Ben Langley, Bob Collinsworth, Borja Gutierez Yañez, Brad Craig, Brad Marreno, Carlos Varas, Chip, Chris Jackson, Chris Theberge, Chris Warkocki, Chris, Christopher Lee, Christos Goulas, Corey Dryja, Corrado, Cowen, Cristian Toma, D4rkH0ur, Danger Mause, Daniel Zittel, darkly spectre aka that one belgian cunt, Darren Furniss, David F Morrison II, David Pesce, David Tyra, Dejan Vozlic, Dominik Hahn, Doug Palmer, Doug Robertson, Dustin Lehmann, Elendil the tall, Emiliano Vignali, Eric Mathison, Erich Jermann, Ethan D Goodsell, Evan, Evgen, Fabian Bruse, Fake Patreon, Felix Ekman, Filament Frenzy, Filip Hronek, flobler, Garth Clardy, Gerd Jentz, Glen Brown, Greg3D, Grigori Palamartšuk, Harrison, Hector Gonzalez, Hobby Hoarder, Hugo Henry-garon, I've Seen Things, Illia Tsariuk, J.D. sloot, jac shakeab, Jacek Owczarek, Jack Emilsen, Jacob Leonard, Jake Hamlin, James ballan, Jan Andersen, Jason Bao, Jason Marcus, Jay Davis, JD, Jesper, Jim Jacques, Jimmy Lee, Joan Torner Corrons, Joe Mike T, Joel Weinberg, Jonathan Ryer, Joseph Quan, Josh Carter, Josheua R Mascote, Joshua Jones, JTa, Juan Rosario, Keith Beaul aka ciscokeb, Ken Waters, Kevin Smith, Kevin Tapper, Kim Schauss, Kristof Spiszak, Laurent Zender, Loïc Dumont, Magnus Pfeffer, Marc, Marie Barada Saunier, Mark Griesi, Markku Sinisalo, maroonds, Martin Majewski, Megan Cooper, Melissa LeBlanc-Williams, Merijn van Mourik, Michal Kapusnik, Miguel Castillo, Mike An, Mike Phelps, Moody Wood Carving, Morgan Jonasson, Name, Narasak Mansurang, Nawaf Al-Abdulrazak, Neofitos Papadopoulos, Nicholas Christopoulos, Nicolas Pottier, Orlando E Moran, Oscar Padilla, Owe Brekken, Palko Kupecz, Patrick Glyré, Patrick Hung, Patrick Wong, Peter Kelly, Peter Sanders, Phil S., Phillip Hartley, Przemek, QcRetro, ra100, Rasmus Baes, RC-CnC, Richard Bateman, robert veline, Rodney Ford, Ronny Olsen, Rubens Panfili, Ryan Lenny, Ryan Lobbins, SamE0717, Satoshi Takanashi, Scott Rini, Serkan Aksu, Settle, Shane Wallner, Shawn Chronister, Shawn England, Skyler Weinkauf, sleene, Staffsmith aka Thorben Plath, Stanislav Kljuhhin, Stephan Kohls, Stephen Pope, Steve Carter, Steve Peterson, Steven Daglish, Stian Aronsen, Stig Jøran Moen, Stuart Galloway, Stuflo, Ted Marsh, Ted Rathkopf, ThatIrishSOB, Thom Sturgill, Thomas Tuchan, Timothy Franke, tinyledmatrix, Toby @ 3D GeeksApp, Tom Kogut, Total Dramatist, Trae LaPole, Tyler Townes, Valentin Constantin, Valeria, Víctor Martínez, Warren Schultz, Wes Warner, Yann Gosteli.
 
-Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, Vertigo295 for helping me developing the Bear project.
+Thank you to David Ogles, Flobler, Jason from LDO Motors, Matthew Humphrey, Nathan Denkin, Orlando from All3DMakers, Saiz, Sleene, Termlimit, vertigo295 for helping me developing the Bear project.
 
 Thank you to all that have send me a tip on Thingiverse and PayPal.
 
