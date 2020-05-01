@@ -12,11 +12,11 @@ FILE_NAME(
 /* name */ 
 'D:/BearLab/bear_extruder_and_x_axis/optional_parts/x_end_idler_tensio
 ner_e3d/src/e3d_idler_mount.step',
-/* time_stamp */ '2020-02-18T09:57:07+01:00',
+/* time_stamp */ '2020-05-01T20:39:15+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v18',
-/* originating_system */ 'Autodesk Translation Framework v8.12.0.6',
+/* preprocessor_version */ 'ST-DEVELOPER v18.1',
+/* originating_system */ 'Autodesk Translation Framework v9.2.0.1227',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -97,7 +97,7 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 #69=STYLED_ITEM('',(#4274),#72);
 #70=MANIFOLD_SOLID_BREP('Body1',#2538);
 #71=MANIFOLD_SOLID_BREP('Body1',#2539);
-#72=MANIFOLD_SOLID_BREP('e3d_idler_mount',#2540);
+#72=MANIFOLD_SOLID_BREP('e3d_idler_tensioner',#2540);
 #73=FACE_BOUND('',#332,.T.);
 #74=FACE_BOUND('',#334,.T.);
 #75=FACE_BOUND('',#339,.T.);
@@ -4441,7 +4441,7 @@ SOLID_ANGLE_UNIT()
 #4255=SHAPE_REPRESENTATION('',(#2565),#4239);
 #4256=SHAPE_REPRESENTATION('',(#2582),#4240);
 #4257=PRODUCT_DEFINITION_CONTEXT('part definition',#4268,'design');
-#4258=PRODUCT_DEFINITION('e3d_idler_mount','e3d_idler_mount v12',#4261,
+#4258=PRODUCT_DEFINITION('e3d_idler_mount','e3d_idler_mount v13',#4261,
 #4257);
 #4259=PRODUCT_DEFINITION('2gt_idler_20t_6mmbelt_e3d',
 '2gt_idler_20t_6mmbelt_e3d v2',#4262,#4257);
@@ -4449,8 +4449,8 @@ SOLID_ANGLE_UNIT()
 #4261=PRODUCT_DEFINITION_FORMATION('',$,#4270);
 #4262=PRODUCT_DEFINITION_FORMATION('',$,#4271);
 #4263=PRODUCT_DEFINITION_FORMATION('',$,#4272);
-#4264=PRODUCT_RELATED_PRODUCT_CATEGORY('e3d_idler_mount v12',
-'e3d_idler_mount v12',(#4270));
+#4264=PRODUCT_RELATED_PRODUCT_CATEGORY('e3d_idler_mount v13',
+'e3d_idler_mount v13',(#4270));
 #4265=PRODUCT_RELATED_PRODUCT_CATEGORY('2gt_idler_20t_6mmbelt_e3d v2',
 '2gt_idler_20t_6mmbelt_e3d v2',(#4271));
 #4266=PRODUCT_RELATED_PRODUCT_CATEGORY('dowel_pin','dowel_pin',(#4272));
@@ -4459,7 +4459,7 @@ SOLID_ANGLE_UNIT()
 #4268=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #4269=PRODUCT_CONTEXT('part definition',#4268,'mechanical');
-#4270=PRODUCT('e3d_idler_mount','e3d_idler_mount v12',$,(#4269));
+#4270=PRODUCT('e3d_idler_mount','e3d_idler_mount v13',$,(#4269));
 #4271=PRODUCT('2gt_idler_20t_6mmbelt_e3d',
 '2gt_idler_20t_6mmbelt_e3d v2',$,(#4269));
 #4272=PRODUCT('dowel_pin','dowel_pin',$,(#4269));
