@@ -40,7 +40,7 @@ fi
 # Compress zip files
 # Arguments:
 #   $1     = future zip filename and path (example: path/to/compressedfile.zip)
-#   $2..$n = path containing files to compress (/path/to/files/)
+#   $2..$n = path containing files to compress (/path/t o/files/)
 function create_zip {
     zip_path="$1"
 
