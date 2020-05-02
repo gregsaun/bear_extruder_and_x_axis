@@ -94,7 +94,7 @@ If you are looking for alternative extruders printed parts, please check the sec
 
 The manual contains bill of materials (BOM), print settings and assembly instructions.
 
-[Read the manual on guides.bear-lab.com :book:](https://guides.bear-lab.com/c/Extruder_X_Axis)
+[Read the manual on guides.bear-lab.com :book:](https://guides.bear-lab.com/c/95jghwzvw9l46s3g)
 
 
 
