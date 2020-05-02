@@ -71,9 +71,9 @@ This is the list of extra material you will need from original Prusa extruder an
 | Gates LL-2GT RF belt | 1 | 6mm width<br/>880mm long | [E3D-Online store](https://e3d-online.com/gates-powergripr-gt2-belt-6mm-x-100mm) |
 | Nylon cable<br/>2.85-3.00mm diameter<br/>500mm long | 1 | You can use 2.85mm sample or cleaning filaments | |
 
-### Printed Parts
 
-#### Download
+
+### Printed Parts
 
 Download links for the Bear extruder and X axis:
   * BearMera and X axis for MK2(S) and MK2.5(S): [bearmera_mk2_mk2s_mk2.5_mk2.5s.zip](printed_parts/bearmera_mk2_mk2s_mk2.5_mk2.5s.zip?raw=true)
@@ -81,7 +81,7 @@ Download links for the Bear extruder and X axis:
 
 
 
-#### Print settings
+### Print settings
 
 :warning: Warning: The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
 
