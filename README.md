@@ -128,11 +128,13 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 ## Images
 
-![Bear extruder and X axis](doc/photos/5D3_5336.jpg)
+![Bear extruder and X axis](doc/rendering/full_assembly_01_800px.jpg)
 
-![Bear X end motor](doc/photos/5D3_5428.jpg)
+![Bear extruder and X axis](doc/rendering/full_assembly_03_800px.jpg)
 
-![Bear X end idler](doc/photos/5D3_5600.jpg)
+![Bear X end motor](doc/photos/DSCF2763.jpg)
+
+![Bear X end idler](doc/photos/DSCF2754.jpg)
 
 ![Bear extruder](doc/photos/5D3_5340.jpg)
 
@@ -142,7 +144,7 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 ![Bear E3D Hemera](doc/photos/5D3_7562.jpg)
 
-
+> Pictures from Flobler and Grégoire Saunier
 
 
 ## Support my work
