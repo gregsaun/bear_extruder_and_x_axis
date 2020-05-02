@@ -83,7 +83,7 @@ The firmware is available here: https://github.com/bear-lab-3d/Prusa-Firmware/re
 Direct links to download the Bear extruder and X axis (zip file) :
 * Bear extruder and X axis MK2.5S : [bear_extruder_x_axis_mk2.5s.zip](printed_parts/bear_extruder_x_axis_mk2.5s.zip?raw=true)
 * Bear extruder and X axis MK3S : [bear_extruder_x_axis_mk3s.zip](printed_parts/bear_extruder_x_axis_mk3s.zip?raw=true)
-* Sources : [bear_extruder_x_axis_sources.zip](source/bear_extruder_x_axis_sources.zip?raw=true)
+* Sources : [bear_extruder_x_axis_sources.zip](source/bear_extruder_x_axis_source.zip?raw=true)
 
 You can also download them via Thingiverse: [thingiverse.com/thing:3716110](https://www.thingiverse.com/thing:3716110)
 
