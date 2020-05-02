@@ -60,27 +60,23 @@ This is the list of extra material you will need from original Prusa extruder an
 
 | Part     | Quantity<br>(pce) | Detail | Example Link |
 |----------|:---------------:|----------|--------------|
-| Nema 17 stepper for X axis<br/>LDO 42STH38-1004A100CM | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/raw/master/doc/datasheets/LDO-42STH38-1004A100CM-RevA-for-3D.pdf) | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/388-x-axis-stepper-motor.html) |
-| Nema 17 stepper for Z axis<br/>integrated Lead screw Tr8x8 (P2x4) and nut<br/>LDO-42STH34-1004L321E100CM | 2 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/raw/master/doc/datasheets/LDO-42STH34-1004L321E100CM-RevA-for-3D.pdf) | [Prusa](https://shop.prusa3d.com/en/spare-parts/386-stepper-motor-z-axis-right.html) |
+| Nema 17 stepper for X axis<br/>LDO 42STH38-1004A100CM | 1 | [Datasheet](doc/datasheets/LDO-42STH38-1004A100CM-RevA-for-3D.pdf?raw=true) | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/388-x-axis-stepper-motor.html) |
+| Nema 17 stepper for Z axis<br/>integrated Lead screw Tr8x8 (P2x4) and nut<br/>LDO-42STH34-1004L321E100CM | 2 | [Datasheet](doc/datasheets/LDO-42STH34-1004L321E100CM-RevA-for-3D.pdf?raw=true) | [Prusa](https://shop.prusa3d.com/en/spare-parts/386-stepper-motor-z-axis-right.html) |
 | Nozzle Fan | 1 | Minimal specifications:<br/>- CFM: 3.8<br/>- Static Pressure: 11.3 mmH2O<br/>- Bearing type: ball bearing | [Prusa](https://shop.prusa3d.com/en/spare-parts/201-print-fan.html) |
 | Inductive Sensor | 1 | Diameter of 8mm, length around 35mm | | [Prusa](https://shop.prusa3d.com/en/spare-parts/200-pinda-probe-v2.html) |
 | Filament sensor<br/>with magnets, steel ball and cables | 1 | 1x IR Sensor: [GitHub Prusa](https://github.com/prusa3d/MKxS-IR-sensor)<br/>1x Steel ball 7mm diameter<br/>1x Magnet 20x6x2<br/>1x Magnet 10x6x2<br/> | [Prusa](https://shop.prusa3d.com/en/upgrades/898-original-prusa-i3-mk3-to-mk3s-upgrade-kit.html#) |
 | 2GT 16T pulley | 1 | 3mm bore<br/> | [E3D-Online store](https://e3d-online.com/gates-powergrip-pulley-16-tooth-6mm) |
-| 2GT 20T idler | 1 | 3mm bore<br/>smooth or toothed<br/>Check this [optional part for E3D idler](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/x_end_idler_tensioner_e3d) | |
+| 2GT 20T idler | 1 | 3mm bore<br/>smooth or toothed<br/>Check this [optional part for E3D idler](../x_end_idler_tensioner_e3d) | |
 | Smooth rods | 2 | 8mm diameter H6<br/>370mm long | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/589-smooth-rod-8x370-x-axis-1-piece.html) |
 | Gates LL-2GT RF belt | 1 | 6mm width<br/>880mm long | [E3D-Online store](https://e3d-online.com/gates-powergripr-gt2-belt-6mm-x-100mm) |
 
 ### Printed Parts
 
 #### Download
-  * Download all the parts from [printed_parts folder of the current page](printed_parts/).
-  * Download these following parts from the [Bear extruder and X axis printed parts](../../printed_parts/):
-    * x_end_idler
-    * x_end_idler_tensioner
-    * x_end_motor
-    * x_carriage_back
-    * cable_guide_back_a
-    * cable_guide_back_b
+
+  Download links for the Bear extruder and X axis:
+    * BearMera and X axis for MK2(S) and MK2.5(S): [bearmera_mk2_mk2s_mk2.5_mk2.5s.zip](printed_parts/bearmera_mk2_mk2s_mk2.5_mk2.5s.zip?raw=true)
+    * BearMera and X axis for MK3(S) and MK3(S): [bearmera_mk3_mk3s.zip](printed_parts/bearmera_mk3_mk3s.zip?raw=true)
 
 #### Print settings
 
