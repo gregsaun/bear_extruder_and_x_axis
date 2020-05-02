@@ -1,6 +1,6 @@
 # Bear X axis and Extruder
 
-## E3D Volcano adapter for BearMera
+## Fan washer for BearMera
 
 ### Table of contents
   1. [Introduction](#introduction)
