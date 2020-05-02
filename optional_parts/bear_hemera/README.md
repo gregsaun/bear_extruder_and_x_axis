@@ -79,8 +79,9 @@ Download links for the Bear extruder and X axis:
   * BearMera and X axis for MK2(S) and MK2.5(S): [bearmera_mk2_mk2s_mk2.5_mk2.5s.zip](printed_parts/bearmera_mk2_mk2s_mk2.5_mk2.5s.zip?raw=true)
   * BearMera and X axis for MK3(S) and MK3(S): [bearmera_mk3_mk3s.zip](printed_parts/bearmera_mk3_mk3s.zip?raw=true)
 
-#### Print settings
 
+
+#### Print settings
 
 :warning: Warning: The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
 
@@ -121,7 +122,7 @@ The assembly guide is available on [guides.bear-lab.com](https://guides.bear-lab
 
 ### Optional parts
 
-Here is a list of fficial optional parts for your BearMera.
+Here is a list official optional parts for your BearMera.
 
 | Name | Description | Link |
 |------|-------------|------|
