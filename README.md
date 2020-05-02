@@ -57,8 +57,8 @@ All parts are available under the GPLv3 open source license and you can download
 
 The Bear X axis is also compatible with several alternative extruders. See [optional parts](optional_parts/) to get all the information and files for those alternative extruders.
 
-  * [E3D Hemera](https://e3d-online.com/e3d-hemera-175-kit)
-  * [Bondtech Prusa Upgrade extruder](https://www.bondtech.se/en/product/prusa-i3-mk2-5-mk3-extruder-upgrade/)
+  * [E3D Hemera](optional_parts/bear_hemera)
+  * [Bondtech Prusa Upgrade extruder](optional_parts/bondtech_x_carriage)
   * [Bear extruder for MMU2S by vertigo235](https://www.thingiverse.com/thing:3472911)
   * [Gear box for Bear extruder by vertigo235](https://www.thingiverse.com/thing:3714978)
   * [Bear Extruder BLTouch Mount by vertigo235](https://www.thingiverse.com/thing:3251530)
@@ -80,10 +80,10 @@ The firmware is available here: https://github.com/bear-lab-3d/Prusa-Firmware/re
 
 ## Printed parts
 
-Direct links to download the Bear extruder and X axis (zip file) :
+Download links for the Bear extruder and X axis :
 * Bear extruder and X axis MK2.5S : [bear_extruder_x_axis_mk2.5s.zip](printed_parts/bear_extruder_x_axis_mk2.5s.zip?raw=true)
 * Bear extruder and X axis MK3S : [bear_extruder_x_axis_mk3s.zip](printed_parts/bear_extruder_x_axis_mk3s.zip?raw=true)
-* Sources : [bear_extruder_x_axis_sources.zip](source/bear_extruder_x_axis_source.zip?raw=true)
+* Sources : [bear_extruder_x_axis_source.zip](source/bear_extruder_x_axis_source.zip?raw=true)
 
 You can also download them via Thingiverse: [thingiverse.com/thing:3716110](https://www.thingiverse.com/thing:3716110)
 
