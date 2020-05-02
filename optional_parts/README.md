@@ -31,3 +31,4 @@ Designed by the community. Huge thank you all :heart: !
 | Filament cover for Palette 2 | CheshirePirat | https://www.thingiverse.com/thing:3803392 |
 | E3D Volcano Cover for Bear Extruder 0.7.0-beta | Tyler Townes | https://www.thingiverse.com/thing:3988922 |
 | E3D Volcano Cover for Bear Extruder 0.7.0-beta | Flobler | https://www.thingiverse.com/thing:4101419 |
+| T8 Leadscrew Nuts - 2mm, 4mm, 8mm Lead | [TrevJonez](https://github.com/trevjonez) | https://www.thingiverse.com/thing:4323968 |
