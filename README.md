@@ -140,7 +140,7 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 ![Bear extruder X carriage back](doc/photos/bear_x_carriage_back_03.gif)
 
-![Bear extruder filament sensor](doc/photos/bear_extruder_filament_sensor_02.gif)
+![Bear extruder filament sensor](doc/photos/bear_extruder_filament_sensor_01.gif)
 
 ![Bear E3D Hemera](doc/photos/5D3_7562.jpg)
 
