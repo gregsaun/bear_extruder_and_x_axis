@@ -115,6 +115,8 @@ Download links for the BearMera and X axis:
 
 Note<sup>1</sup>: The nozzle_fan_duct needs to be printed with a heat resistant filament like ABS, Extrudr GreenTec Pro, annealed HTPLA, PC and probably much more. Don't forget to compensate for shrinkage accordingly to the filament type you are using.
 
+You can find more details about recommended filaments in on our [FAQ](https://guides.bear-lab.com/Wiki/Bear_FAQ).
+
 
 
 ### Assembly guide
