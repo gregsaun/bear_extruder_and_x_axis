@@ -38,9 +38,18 @@ This is the list of extra material you will need from original Prusa extruder
 
 ### Printed Parts
 
-##### Download
-  * Download the bondtech_x_carriage_mkX.stl from the [printed_parts folder of the current page](printed_parts/)
-  * Download the other parts listed in the table below from the [Bear extruder and X axis printed parts](../../printed_parts/).
+Download the printed parts corresponding to your Bondtech extruder version (hotend and Prusa).
+
+For **E3D v6** hotend:
+  * MK2S : [bear_bondtech_e3d_mk2s_mk2.5.zip](printed_parts/bear_bondtech_e3d_mk2s_mk2.5.zip)
+  * MK2.5 : [bear_bondtech_e3d_mk2s_mk2.5.zip](printed_parts/bear_bondtech_e3d_mk2s_mk2.5.zip)
+  * MK2.5S : [bear_bondtech_e3d_mk2.5s.zip](printed_parts/bear_bondtech_e3d_mk2.5s.zip)
+  * MK3 : [bear_bondtech_e3d_mk3.zip](printed_parts/bear_bondtech_e3d_mk3.zip)
+  * MK3S : [bear_bondtech_e3d_mk3s.zip](printed_parts/bear_bondtech_e3d_mk3s.zip)
+
+For **Slice Engineering Mosquito** hotend:
+  * MK2.5S : [bear_bondtech_mosquito_mk2.5s.zip](printed_parts/bear_bondtech_mosquito_mk2.5s.zip)
+  * MK3S : [bear_bondtech_mosquito_mk3s.zip](printed_parts/bear_bondtech_mosquito_mk3s.zip)
 
 ##### Part list and print settings
   * Filament type : PETG
