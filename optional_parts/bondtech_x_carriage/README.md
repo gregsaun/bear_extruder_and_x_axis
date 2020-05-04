@@ -16,19 +16,19 @@
 
 This page contains all the files and information to use the Bear X axis with the original [Bondtech Prusa Upgrade Extruder MK2(S), MK2.5(S), MK3(S), Mosquito MK2.5(S), Mosquito MK3(S)](https://www.bondtech.se/en/product-category/upgrade-kits/prusa/).
 
-The original Bondtech Prusa Upgrade Extruder needs a dedicated Bear X carriage to be used with the Bear X axis. You can find this special Bear X carriage and all hardware/printed parts needed in the [Bill of Materials](#bill-of-materials) section below.
+The original Bondtech Prusa Upgrade Extruder needs a dedicated Bear X carriage to be used with the Bear X axis.
 
-:grey_exclamation: Note that in order to be sure inconsistent extrusion is cured with this extruder we highly recommend to check [our recommended fans](../hotend_fan/README.md).
+:pushpin: Note that in order to be sure inconsistent extrusion is cured with this extruder we highly recommend to use one of [our recommended fans](../hotend_fan/README.md).
 
 
 
 ### Compatibility
 
-The Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S), Mosquito MK2.5(S), Mosquito MK3(S) is compatible with the Bear X axis only.
+Due to a different belt path, the Bear X carriage for Bondtech Prusa Upgrade extruder and Bear X axis are matched to each other __and cannot be used separately__. As a unit, they are compatible with both Original Prusa frames and Bear Upgrade frames.
 
-The Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S), Mosquito MK2.5(S), Mosquito MK3(S) is **NOT** compatible original Prusa X axis.
+The Bear X carriage for Bondtech Prusa Upgrade is not compatible with Original Prusa X axis (X ends).
 
-If you are already using the Bear X ends with another extruder, you will need the Bear X carriage for Bondtech Prusa Upgrade MK2(S), MK2.5(S), MK3(S), Mosquito MK2.5(S), Mosquito MK3(S).
+If you are already using the Bear X ends with another extruder, you only need to add this Bear X carriage for Bondtech Prusa Upgrade.
 
 
 
