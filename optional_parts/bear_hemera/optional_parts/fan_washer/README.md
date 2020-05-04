@@ -52,4 +52,4 @@ Place one washer on each fan mounting screws. The washers should be on the back 
 
 ### Source
 
-Source file can be Downloaded here: [Fusion 360 file](source/fan_washer.f3d?raw=true) or [STEP file](source/fan_washer.step?raw=true).
+Source file can be Downloaded here: [Fusion 360 file](source/fan_washer.f3d?raw=true) or [STEP file](source/fan_washer.step?raw=true) (you need to right-click and save as).

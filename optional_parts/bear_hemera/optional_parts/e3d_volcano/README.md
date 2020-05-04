@@ -65,7 +65,7 @@ Follow the BearMera assembly guide but with the E3D Volcano heatblock and the bo
 
 ### Source
 
-Source file can be Downloaded here: [Fusion 360 file](source/bear_hemera_volcano.f3z?raw=true) or [STEP file](source/bear_hemera_volcano.step?raw=true).
+Source file can be Downloaded here: [Fusion 360 file](source/bear_hemera_volcano.f3z?raw=true) or [STEP file](source/bear_hemera_volcano.step?raw=true) (you need to right-click and save as).
 
 
 
