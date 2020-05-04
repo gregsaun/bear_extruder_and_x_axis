@@ -7,7 +7,7 @@
   1. [Compatibility](#compatibility)
   1. [Bill Of materials](#bill-of-materials)
   1. [Printed parts](#printed-parts)
-  1. [Printed settings](#printed-settings)
+  1. [Print settings](#print-settings)
   1. [Assembly guide](#assembly-guide)
 
 
