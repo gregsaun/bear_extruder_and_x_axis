@@ -8,6 +8,7 @@
   1. [Bill Of Materials](#bill-of-materials)
   1. [Printed Parts](#printed-parts)
   1. [Assembly Guide](#assembly-guide)
+  1. [Source](#source)
 
 ### Introduction
 
@@ -33,11 +34,10 @@ No extra hardware needed, you can use the original self tapping screws coming wi
 
 ### Printed Parts
 
-#### Download
+Download the part here: [fan_washer.stl](printed_parts/stl/fan_washer.stl?raw=true)
 
-Download fan_washer.stl from this page.
 
-#### Print settings
+### Print settings
 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Filament Type |
 |:----|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -48,3 +48,8 @@ Download fan_washer.stl from this page.
 ### Assembly Guide
 
 Place one washer on each fan mounting screws. The washers should be on the back side of the fan, where the sticker is.
+
+
+### Source
+
+Source file can be Downloaded here: [Fusion 360 file](source/fan_washer.f3d?raw=true) or [STEP file](source/fan_washer.step?raw=true).
