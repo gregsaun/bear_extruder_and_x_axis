@@ -129,3 +129,14 @@ Here is a list official optional parts for your BearMera.
 |------|-------------|------|
 | E3D Volcano | A body_front to support E3D Volcano | [optional_parts/e3d_volcano](optional_parts/e3d_volcano/) |
 | Fan washer | Allow a stronger tightening of the E3D fan by avoiding it to twist | [optional_parts/fan_washer](optional_parts/fan_washer/) |
+
+
+
+### Thank you
+
+Thank you to [E3D-Online](https://e3d-online.com) for their warm encouragement and for having sponsor this development with a free Hemera.
+
+
+### Credit, source and inspiration
+
+  * E3D Hemera Prusa i3 MK2(S) upgrade: https://e3d-online.dozuki.com/Guide/Hemera+Prusa+i3+MK2-2s+upgrade/138?lang=en
