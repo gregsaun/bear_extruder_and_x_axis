@@ -10,8 +10,9 @@
   1. [Print settings](#print-settings)
   1. [Assembly guide](#assembly-guide)
   1. [Optional parts](#optional-parts)
+  1. [Source](#source)
   1. [Thank you](#thank-you)
-  1. [Credit, source and inspiration](#credit-source-and-inspiration)
+  1. [Credit and inspiration](#credit-and-inspiration)
 
 ### Introduction
 
@@ -136,12 +137,18 @@ Here is a list official optional parts for your BearMera.
 
 
 
+### Source
+
+All source files in Fusion 360 and STEP format can be [download here](source/bearmera_source.zip?raw=true).
+
+
+
 ### Thank you
 
 Thank you to [E3D-Online](https://e3d-online.com) for their warm encouragement and for having sponsor this development with a free Hemera.
 
 
 
-### Credit, source and inspiration
+### Credit and inspiration
 
   * E3D Hemera Prusa i3 MK2(S) upgrade: https://e3d-online.dozuki.com/Guide/Hemera+Prusa+i3+MK2-2s+upgrade/138?lang=en

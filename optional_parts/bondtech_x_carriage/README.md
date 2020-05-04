@@ -9,6 +9,7 @@
   1. [Printed parts](#printed-parts)
   1. [Print settings](#print-settings)
   1. [Assembly guide](#assembly-guide)
+  1. [Source](#source)
 
 
 
@@ -97,3 +98,9 @@ You can find more details about recommended filaments in on our [FAQ](https://gu
     ![Quick assembly 2](assembly/quick_assembly_2.jpg)
   1. Finalize the assembly with the [Bear extruder and X axis guide 5 "Final adjustments and calibration"](https://guides.bear-lab.com/Guide/5.+Final+adjustments+and+calibration/14?lang=en) using the recommended firmware and settings from Bondtech.
   1. Enjoy your bondtech extruder :relaxed: !
+
+
+
+### Source
+
+All source files in Fusion 360 and STEP format can be [download here](source/bondtech_x_carriage_source.zip?raw=true).

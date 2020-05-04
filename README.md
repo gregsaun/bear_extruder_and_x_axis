@@ -9,10 +9,11 @@
   1. [Optional parts](#optional-parts)
   1. [Community](#community)
   1. [Images](#images)
+  1. [Source](#source)
   1. [Support my work](#support-my-work)
   1. [Thank you](#thank-you)
   1. [License](#license)
-  1. [Credit, sources and inspiration](#credit-sources-and-inspiration)
+  1. [Credit and inspiration](#credit-and-inspiration)
 
 ## Introduction
 
@@ -147,6 +148,13 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 > Pictures from Flobler and Grégoire Saunier
 
 
+
+### Source
+
+All source files in Fusion 360 and STEP format can be [download here](source/bear_extruder_x_axis_source.zip?raw=true).
+
+
+
 ## Support my work
 
 The Bear project is only possible thanks its supporters, you can participate via
@@ -201,7 +209,7 @@ What you __must__ do:
   * Document changes applied
 
 
-## Credit, sources and inspiration
+## Credit and inspiration
 
 * RepRap : https://reprap.org
 * Prusa : http://www.prusa3d.com
