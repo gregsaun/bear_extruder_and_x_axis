@@ -18,7 +18,7 @@ This page contains all the files and information to use the Bear X axis with the
 
 The original Bondtech Prusa Upgrade Extruder needs a dedicated Bear X carriage to be used with the Bear X axis. You can find this special Bear X carriage and all hardware/printed parts needed in the [Bill of Materials](#bill-of-materials) section below.
 
-:grey_exclamation: Note that in order to be sure inconsistent extrusion is cured with this extruder we highly recommend to use the [Sunon fan](../hotend_fan) with the Bondtech extruder.
+:grey_exclamation: Note that in order to be sure inconsistent extrusion is cured with this extruder we highly recommend to check [our recommended fans](../hotend_fan/README.md).
 
 
 
@@ -84,6 +84,7 @@ For **Slice Engineering Mosquito** hotend:
 | x_carriage_back             | 1 | 0.20mm | 20% | 3 | 5 | PETG |
 
 You can find more details about recommended filaments in on our [FAQ](https://guides.bear-lab.com/Wiki/Bear_FAQ).
+
 
 
 ### Assembly Guide
