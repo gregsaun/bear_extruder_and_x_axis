@@ -24,11 +24,13 @@ The original Bondtech Prusa Upgrade Extruder needs a dedicated Bear X carriage t
 
 ### Compatibility
 
-Due to a different belt path, the Bear X carriage for Bondtech Prusa Upgrade extruder and Bear X axis are matched to each other __and cannot be used separately__. As a unit, they are compatible with both Original Prusa frames and Bear Upgrade frames.
+Due to a different belt path, the Bear X carriage for Bondtech Prusa Upgrade extruder and Bear X axis (X ends) are matched to each other __and cannot be used separately__. As a unit, they are compatible with both Original Prusa frames and Bear Upgrade frames.
 
 The Bear X carriage for Bondtech Prusa Upgrade is not compatible with Original Prusa X axis (X ends).
 
 If you are already using the Bear X ends with another extruder, you only need to add this Bear X carriage for Bondtech Prusa Upgrade.
+
+Note that the Bondtech Prusa Upgrade extruder needs a custom firmware, independently of the X axis used.
 
 
 
