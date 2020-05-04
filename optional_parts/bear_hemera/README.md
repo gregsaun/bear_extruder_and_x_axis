@@ -5,11 +5,13 @@
 ### Table of contents
   1. [Introduction](#introduction)
   1. [Compatibility](#compatibility)
-  1. [Bill Of Materials](#bill-of-materials)
-  1. [Printed Parts](#printed-parts)
-  1. [Print Settings](#print-settings)
-  1. [Assembly Guide](#assembly-guide)
-  1. [Optional Parts](#optional-parts)
+  1. [Bill Of materials](#bill-of-materials)
+  1. [Printed parts](#printed-parts)
+  1. [Print settings](#print-settings)
+  1. [Assembly guide](#assembly-guide)
+  1. [Optional parts](#optional-parts)
+  1. [Thank you](#thank-you)
+  1. [Credit, source and inspiration](#credit-source-and-inspiration)
 
 ### Introduction
 
@@ -31,10 +33,10 @@ You will need to replace **all** printed parts if you are already using the Bear
 
 
 
-### Bill Of Materials
+### Bill Of materials
 
 
-#### Hardware BOM For Original Prusa Printers
+#### Hardware BOM for Original Prusa printers
 
 This is the list of extra material you will need from original Prusa extruder and X axis.
 
@@ -74,7 +76,7 @@ This is the list of extra material you will need from original Prusa extruder an
 
 
 
-### Printed Parts
+### Printed parts
 
 Download links for the BearMera and X axis:
   * BearMera and X axis for MK2(S) and MK2.5(S): [bearmera_mk2_mk2s_mk2.5_mk2.5s.zip](printed_parts/bearmera_mk2_mk2s_mk2.5_mk2.5s.zip?raw=true)
@@ -115,7 +117,7 @@ Note<sup>1</sup>: The nozzle_fan_duct needs to be printed with a heat resistant 
 
 
 
-### Assembly Guide
+### Assembly guide
 
 The assembly guide is available on [guides.bear-lab.com](https://guides.bear-lab.com/c/r63d85yfkvrohzf1).
 
@@ -135,6 +137,7 @@ Here is a list official optional parts for your BearMera.
 ### Thank you
 
 Thank you to [E3D-Online](https://e3d-online.com) for their warm encouragement and for having sponsor this development with a free Hemera.
+
 
 
 ### Credit, source and inspiration

@@ -5,10 +5,10 @@
 ### Table of contents
   1. [Introduction](#introduction)
   1. [Compatibility](#compatibility)
-  1. [Bill Of Materials](#bill-of-materials)
-  1. [Printed Parts](#printed-parts)
-  1. [Assembly Guide](#assembly-guide)
-  1. [Credits](#credits)
+  1. [Bill Of materials](#bill-of-materials)
+  1. [Printed parts](#printed-parts)
+  1. [Assembly guide](#assembly-guide)
+  1. [Credit](#credit)
 
 ### Introduction
 
@@ -24,7 +24,7 @@ This body_front is only compatible with Bear Hemera mount.
 
 
 
-### Bill Of Materials
+### Bill Of materials
 
 #### Extra hardware from stock BearMera
 
@@ -38,7 +38,7 @@ This is the list of extra material you will need from original Prusa extruder an
 
 
 
-### Printed Parts
+### Printed parts
 
 Download all parts for BearMera and replace body_front.stl by body_front_volcano.stl.
 
@@ -53,7 +53,7 @@ Use same [print settings as BearMera](../../README.md#print-settings)
 
 
 
-### Assembly Guide
+### Assembly guide
 
 Follow the BearMera assembly guide but with the E3D Volcano heatblock and the body_front_volcano.stl. Here are where the extra hardware should go:
 
@@ -61,6 +61,6 @@ Follow the BearMera assembly guide but with the E3D Volcano heatblock and the bo
 
 
 
-### Credits
+### Credit
 
 Thank you very much to Flobler for having designed and tested this body_front_voclano part.
