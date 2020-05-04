@@ -2,6 +2,15 @@
 
 ## Bondtech Prusa Upgrade Extruder
 
+### Table of contents
+  1. [Introduction](#introduction)
+  1. [Compatibility](#compatibility)
+  1. [Bill Of materials](#bill-of-materials)
+  1. [Printed parts](#printed-parts)
+  1. [Printed settings](#printed-settings)
+  1. [Assembly guide](#assembly-guide)
+
+
 
 ### Introduction
 
@@ -23,7 +32,7 @@ If you are already using the Bear X ends with another extruder, you will need th
 
 
 
-### Bill of Materials
+### Bill of materials
 
 This is the list of extra material you will need from original Prusa extruder
 
@@ -36,39 +45,45 @@ This is the list of extra material you will need from original Prusa extruder
 
 
 
-### Printed Parts
+### Printed parts
 
 Download the printed parts corresponding to your Bondtech extruder version (hotend and Prusa).
 
 For **E3D v6** hotend:
-  * MK2S : [bear_bondtech_e3d_mk2s_mk2.5.zip](printed_parts/bear_bondtech_e3d_mk2s_mk2.5.zip)
-  * MK2.5 : [bear_bondtech_e3d_mk2s_mk2.5.zip](printed_parts/bear_bondtech_e3d_mk2s_mk2.5.zip)
-  * MK2.5S : [bear_bondtech_e3d_mk2.5s.zip](printed_parts/bear_bondtech_e3d_mk2.5s.zip)
-  * MK3 : [bear_bondtech_e3d_mk3.zip](printed_parts/bear_bondtech_e3d_mk3.zip)
-  * MK3S : [bear_bondtech_e3d_mk3s.zip](printed_parts/bear_bondtech_e3d_mk3s.zip)
+  * MK2S : [bear_bondtech_e3d_mk2s_mk2.5.zip](printed_parts/bear_bondtech_e3d_mk2s_mk2.5.zip?raw=true)
+  * MK2.5 : [bear_bondtech_e3d_mk2s_mk2.5.zip](printed_parts/bear_bondtech_e3d_mk2s_mk2.5.zip?raw=true)
+  * MK2.5S : [bear_bondtech_e3d_mk2.5s.zip](printed_parts/bear_bondtech_e3d_mk2.5s.zip?raw=true)
+  * MK3 : [bear_bondtech_e3d_mk3.zip](printed_parts/bear_bondtech_e3d_mk3.zip?raw=true)
+  * MK3S : [bear_bondtech_e3d_mk3s.zip](printed_parts/bear_bondtech_e3d_mk3s.zip?raw=true)
 
 For **Slice Engineering Mosquito** hotend:
-  * MK2.5S : [bear_bondtech_mosquito_mk2.5s.zip](printed_parts/bear_bondtech_mosquito_mk2.5s.zip)
-  * MK3S : [bear_bondtech_mosquito_mk3s.zip](printed_parts/bear_bondtech_mosquito_mk3s.zip)
+  * MK2.5S : [bear_bondtech_mosquito_mk2.5s.zip](printed_parts/bear_bondtech_mosquito_mk2.5s.zip?raw=true)
+  * MK3S : [bear_bondtech_mosquito_mk3s.zip](printed_parts/bear_bondtech_mosquito_mk3s.zip?raw=true)
 
-##### Part list and print settings
-  * Filament type : PETG
+
+
+### Print settings
+
+:warning: Warning: The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
+
+  * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended
   * Support : No
   * Brim : No
   * Detect thin walls : No
   * Perimeters width (internal and external) : 0.45mm
 
-| Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
-|:----|:----:|:----:|:----:|:----:|:----:|
-| bondtech_x_carriage_mkX.stl | 1 | 0.20mm | 20% | 4 | 5 |
-| x_end_idler                 | 1 | 0.20mm | 20% | 4 | 5 |
-| x_end_idler_tensioner       | 1 | 0.20mm | 20% | 4 | 5 |
-| x_end_motor                 | 1 | 0.20mm | 20% | 4 | 5 |
-| cable_guide_back_a          | 1 | 0.20mm | 20% | 4 | 5 |
-| cable_guide_back_b          | 1 | 0.20mm | 20% | 4 | 5 |
-| x_carriage_back             | 1 | 0.20mm | 20% | 3 | 5 |
+| Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Filament Type |
+|:-----|:--------:|:------------:|:------:|:----------:|:-----------------:|:-------------:|
+| bondtech_x_carriage_mkX.stl | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| x_end_idler                 | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| x_end_idler_tensioner       | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| x_end_motor                 | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| cable_guide_back_a          | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| cable_guide_back_b          | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| x_carriage_back             | 1 | 0.20mm | 20% | 3 | 5 | PETG |
 
+You can find more details about recommended filaments in on our [FAQ](https://guides.bear-lab.com/Wiki/Bear_FAQ).
 
 
 ### Assembly Guide
