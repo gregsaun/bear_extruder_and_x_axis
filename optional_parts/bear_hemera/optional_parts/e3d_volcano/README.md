@@ -8,6 +8,7 @@
   1. [Bill Of materials](#bill-of-materials)
   1. [Printed parts](#printed-parts)
   1. [Assembly guide](#assembly-guide)
+  1. [Source](#source)
   1. [Credit](#credit)
 
 ### Introduction
@@ -47,6 +48,7 @@ Download all parts for BearMera and replace body_front.stl by body_front_volcano
   * BearMera and X axis for MK3(S) and MK3(S): [bearmera_mk3_mk3s.zip](../../printed_parts/bearmera_mk3_mk3s.zip?raw=true)
 
 
+
 ### Print settings
 
 Use same [print settings as BearMera](../../README.md#print-settings)
@@ -58,6 +60,12 @@ Use same [print settings as BearMera](../../README.md#print-settings)
 Follow the BearMera assembly guide but with the E3D Volcano heatblock and the body_front_volcano.stl. Here are where the extra hardware should go:
 
 ![Bear Hemera Volcano Assembly](images/bear_hemera_volcano_02.jpg)
+
+
+
+### Source
+
+Source file can be Downloaded here: [Fusion 360 file](source/bear_hemera_volcano.f3z?raw=true) or [STEP file](source/bear_hemera_volcano.step?raw=true).
 
 
 
