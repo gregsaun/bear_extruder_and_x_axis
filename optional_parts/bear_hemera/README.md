@@ -76,7 +76,7 @@ This is the list of extra material you will need from original Prusa extruder an
 
 ### Printed Parts
 
-Download links for the Bear extruder and X axis:
+Download links for the BearMera and X axis:
   * BearMera and X axis for MK2(S) and MK2.5(S): [bearmera_mk2_mk2s_mk2.5_mk2.5s.zip](printed_parts/bearmera_mk2_mk2s_mk2.5_mk2.5s.zip?raw=true)
   * BearMera and X axis for MK3(S) and MK3(S): [bearmera_mk3_mk3s.zip](printed_parts/bearmera_mk3_mk3s.zip?raw=true)
 
