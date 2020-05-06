@@ -20,9 +20,13 @@ This page contains all the files and information to use the Bear X axis with the
 
 The Hemera needs a dedicated mount to be used with the Bear X axis. All hardware and printed parts needed are available in the [Bill of Materials](#bill-of-materials) section below.
 
+Note: The BearMera reduces a little the print surface to 205x240mm (compared to 210x250mm for Original Prusa).
+
 ![Bear Hemera body](doc/images/bear_hemera_01.jpg)
 
 ### Compatibility
+
+The BearMera has a smaller print surface compared to the Original Prusa, Bear and Bondtech extruders: 205x240mm for BearMera, 210x250mm for Bear extruder.
 
 The BearMera is compatible with Original Prusa as well as Bear frame. You must use the Bear X axis in both cases.
 
