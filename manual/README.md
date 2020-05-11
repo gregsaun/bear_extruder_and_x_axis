@@ -1,4 +1,4 @@
-# Bear X axis and Extruder Manual
+# Bear X axis and Extruder Manual (BearExxa)
 
 ## Table of Content
 

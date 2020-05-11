@@ -1,4 +1,4 @@
-# Bear Extruder And X Axis
+# Bear Extruder And X Axis (BearExxa)
 
 ## Table of contents
   1. [Introduction](#introduction)
@@ -17,7 +17,7 @@
 
 ## Introduction
 
-This is an extruder and X axis for Prusa i3 printer to improve print quality, reliability and ease of maintenance. It is following the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but also compatible with Original Prusa's MK2(S) and MK3(S) frames.
+The Bear extruder and X axis (BearExxa) is an alternative extruder and X axis for Prusa i3 printer designed to improve print quality, reliability and ease of maintenance. It is following the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but also compatible with Original Prusa's MK2(S) and MK3(S) frames.
 
 The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage), [E3D Hemera](./optional_parts/bear_hemera) and [vertigo235's extruders](https://www.thingiverse.com/vertigo235/designs).
 
@@ -81,9 +81,9 @@ The firmware is available here: https://github.com/bear-lab-3d/Prusa-Firmware/re
 
 ## Printed parts
 
-Download links for the Bear extruder and X axis :
-* Bear extruder and X axis MK2.5S : [bear_extruder_x_axis_mk2.5s.zip](printed_parts/bear_extruder_x_axis_mk2.5s.zip?raw=true)
-* Bear extruder and X axis MK3S : [bear_extruder_x_axis_mk3s.zip](printed_parts/bear_extruder_x_axis_mk3s.zip?raw=true)
+Download links for the Bear extruder and X axis (BearExxa) :
+* BearExxa MK2.5S : [bear_extruder_x_axis_mk2.5s.zip](printed_parts/bear_extruder_x_axis_mk2.5s.zip?raw=true)
+* BearExxa MK3S : [bear_extruder_x_axis_mk3s.zip](printed_parts/bear_extruder_x_axis_mk3s.zip?raw=true)
 * Sources : [bear_extruder_x_axis_source.zip](source/bear_extruder_x_axis_source.zip?raw=true)
 
 You can also download them via Thingiverse: [thingiverse.com/thing:3716110](https://www.thingiverse.com/thing:3716110)
@@ -101,7 +101,7 @@ The manual contains bill of materials (BOM), print settings and assembly instruc
 
 ## Optional parts
 
-Here is a list of optional parts designed for the Bear extruder and X axis.
+Here is a list of optional parts designed for the Bear extruder and X axis (BearExxa).
 
 | Description | Link |
 |-------------|------|

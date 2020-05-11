@@ -1,4 +1,4 @@
-# Bear X axis and Extruder
+# Bear X axis and Extruder (BearExxa)
 
 ## Bill of Materials
 
