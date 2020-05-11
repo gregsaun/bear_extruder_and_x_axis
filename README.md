@@ -17,7 +17,7 @@
 
 ## Introduction
 
-The Bear extruder and X axis (BearExxa) is an alternative extruder and X axis for Prusa i3 printer designed to improve print quality, reliability and ease of maintenance. It is following the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but also compatible with Original Prusa's MK2(S) and MK3(S) frames.
+The BearExxa (Bear extruder and X axis) is an alternative extruder and X axis for Prusa i3 printer and is designed to improve print quality, reliability and ease of maintenance. It is following the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but also compatible with Original Prusa's MK2(S) and MK3(S) frames.
 
 The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage), [E3D Hemera](./optional_parts/bear_hemera) and [vertigo235's extruders](https://www.thingiverse.com/vertigo235/designs).
 
