@@ -19,7 +19,7 @@
 
 The BearExxa (Bear extruder and X axis) is an alternative extruder and X axis for Prusa i3 printer and is designed to improve print quality, reliability and ease of maintenance. It is following the [Bear Upgrade project](https://github.com/gregsaun/prusa_i3_bear_upgrade) but also compatible with Original Prusa's MK2(S) and MK3(S) frames.
 
-The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage), [E3D Hemera](./optional_parts/bear_hemera) and [vertigo235's extruders](https://www.thingiverse.com/vertigo235/designs).
+The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage), [E3D Hemera](./optional_parts/bear_hemera/README.md) and [vertigo235's extruders](https://www.thingiverse.com/vertigo235/designs).
 
 All parts are available under the GPLv3 open source license and you can download STEP source files. Feel free to fork and share!
 
@@ -42,7 +42,7 @@ All parts are available under the GPLv3 open source license and you can download
 
 ### Bear extruder
 
-  * Better heat management to reduce inconsistency, clogs and heatcreap (also check these [recommended hotend fans](optional_parts/hotend_fan))
+  * Better heat management to reduce inconsistency, clogs and heatcreap (also check these [recommended hotend fans](optional_parts/hotend_fan/README.md))
   * Stiffer extruder thanks to a uni-body structure
   * Easier installation and removal of E3D v6 hotend
   * Efficient part cooling
@@ -56,10 +56,10 @@ All parts are available under the GPLv3 open source license and you can download
 
 ### Alternative extruders (optional)
 
-The Bear X axis is also compatible with several alternative extruders. See [optional parts](optional_parts/) to get all the information and files for those alternative extruders.
+The Bear X axis is also compatible with several alternative extruders. See [optional parts](#optional-parts) to get all the information and files for those alternative extruders.
 
-  * [E3D Hemera](optional_parts/bear_hemera)
-  * [Bondtech Prusa Upgrade extruder](optional_parts/bondtech_x_carriage)
+  * [E3D Hemera](optional_parts/bear_hemera/README.md)
+  * [Bondtech Prusa Upgrade extruder](optional_parts/bondtech_x_carriage/README.md)
   * [Bear extruder for MMU2S by vertigo235](https://www.thingiverse.com/thing:3472911)
   * [Gear box for Bear extruder by vertigo235](https://www.thingiverse.com/thing:3714978)
   * [Bear Extruder BLTouch Mount by vertigo235](https://www.thingiverse.com/thing:3251530)
@@ -105,12 +105,12 @@ Here is a list of optional parts designed for the Bear extruder and X axis (Bear
 
 | Description | Link |
 |-------------|------|
-| E3D Hemera mount (BearMera) | [bear_hemera](optional_parts/bear_hemera) |
-| X carriage for Bondtech extruder | [bondtech_x_carriage](optional_parts/bondtech_x_carriage) |
-| Hotend fan (Sunon / Delta) | [hotend_fan](optional_parts/hotend_fan) |
-| X end tensioner for E3D idlers | [x_end_idler_tensioner_e3d](optional_parts/x_end_idler_tensioner_e3d) |
-| Reverse bowden adapters | [reverse_bowden](optional_parts/reverse_bowden) |
-| X carriage back for larger filament sensor cable |[x_carriage_back_larger_cable](optional_parts/x_carriage_back_larger_cable) |
+| E3D Hemera mount (BearMera) | [bear_hemera](optional_parts/bear_hemera/README.md) |
+| X carriage for Bondtech extruder | [bondtech_x_carriage](optional_parts/bondtech_x_carriage/README.md) |
+| Hotend fan (Sunon / Delta) | [hotend_fan](optional_parts/hotend_fan/README.md) |
+| X end tensioner for E3D idlers | [x_end_idler_tensioner_e3d](optional_parts/x_end_idler_tensioner_e3d/README.md) |
+| Reverse bowden adapters | [reverse_bowden](optional_parts/reverse_bowden/README.md) |
+| X carriage back for larger filament sensor cable |[x_carriage_back_larger_cable](optional_parts/x_carriage_back_larger_cable/README.md) |
 
 You can also find optional parts made by the community at [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
 
