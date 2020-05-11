@@ -1,4 +1,4 @@
-# Bear X Axis And Extruder
+# Bear X Axis And Extruder (BearExxa)
 
 ## Upgrade of Noctua hotend fan
 

@@ -1,10 +1,10 @@
-# Bear X axis and Extruder
+# Bear X axis and Extruder (BearExxa)
 
 ## Reverse Bowden
 
 ### Introduction
 
-Reverse bowden has the advantage to reduce vibration and tension from the spool holder. The PTFE will create a smoother movement of the filament (and spool holder) and so improve print quality.
+Reverse bowden has the advantage to reduce vibration and tension from the spool holder. It is also useful to guide the filament if the spool holder is not on top of the frame.
 
 The filament sensor cover can be used alone for MMU2.
 
@@ -23,9 +23,19 @@ The vslot mount is available in two versions: angled or normal.
 | M5x10 screw | 1 | |
 
 
-### Printed Parts
+### Printed parts
 
-  * Filament type : PETG
+Use the links belowsto download the STL:
+  * [fs_cover_pc4-m10_mk25s_mk3s.stl](printed_parts/fs_cover_pc4-m10_mk25s_mk3s.stl?raw=true)
+  * [vslot_mount_pc4-m10.stl](printed_parts/vslot_mount_pc4-m10.stl?raw=true)
+  * [vslot_mount_pc4-m10_angled.stl](printed_parts/vslot_mount_pc4-m10_angled?raw=true)
+
+
+### Printed Settings
+
+:warning: Warning: The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
+
+  * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended
   * Support : No
   * Brim : No
@@ -34,9 +44,9 @@ The vslot mount is available in two versions: angled or normal.
 
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers |
 |:----|:----:|:----:|:----:|:----:|:----:|
-| filament_sensor_cover_pc4-m10.stl | 1 | 0.20mm | 20% | 3 | 5 |
-| vslot_mount_pc4-m10.stl | 1 | 0.20mm | 20% | 3 | 5 |
-| vslot_mount_pc4-m10_angled.stl | 1 | 0.20mm | 20% | 3 | 5 |
+| filament_sensor_cover_pc4-m10 | 1 | 0.20mm | 20% | 3 | 5 |
+| vslot_mount_pc4-m10 | 1 | 0.20mm | 20% | 3 | 5 |
+| vslot_mount_pc4-m10_angled | 1 | 0.20mm | 20% | 3 | 5 |
 
 
 

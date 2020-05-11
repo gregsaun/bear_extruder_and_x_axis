@@ -1,4 +1,4 @@
-# Bear X axis and Extruder
+# Bear X axis and Extruder (BearExxa)
 
 ## X-End Idler Tensioner for E3D toothed idler
 
@@ -8,7 +8,7 @@
 This is a X end idler tensioner compatible with E3D toothed idler.
 
 
-### Bill of Materials
+### Bill of materials
 
 This is the list of extra material you will need from original Prusa extruder
 
@@ -20,17 +20,16 @@ This is the list of extra material you will need from original Prusa extruder
 | M3 Hex nylock nuts (DIN 985) | 2 | Same as original Bear X end idler tensioner |
 
 
+### Printed parts
 
-### Print Settings
-
-:warning: This part has several features in relation to layer thickness and number of perimeters. This is why you should really stick to the parameters below and use PrusaSlicer to slice them.
-
-To ensure your prints are good, be sure to have a well calibrated machine and extruder.
+Use this link to download the STL: [x_end_idler_tensioner_e3d.stl](printed_parts/x_end_idler_tensioner_e3d.stl?raw=true)
 
 
-### Parameters
+### Print settings
 
-  * Filament type : PETG
+:warning: Warning: The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances. Be sure to have a well calibrated machine and extruder. Check our guide here for [calibrating extrusion multiplier](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8?lang=en)
+
+  * Slicer : PrusaSlicer recommended
   * Infill type : Gyroid recommended
   * Support : No
   * Brim : No
