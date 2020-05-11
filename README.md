@@ -149,7 +149,7 @@ Here are the places were the Bear project is the most active. Do not hesitate to
 
 
 
-### Source
+## Source
 
 All source files in Fusion 360 and STEP format can be [download here](source/bear_extruder_x_axis_source.zip?raw=true).
 
