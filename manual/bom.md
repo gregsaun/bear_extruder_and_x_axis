@@ -31,10 +31,11 @@ Check the spare parts bags from your Prusa, you might already have most of this 
 
 | Parts     | Quantity | Specifications | Example Links |
 |-----------|:--------:|----------------|---------------|
-| Bondtech gears | 1 | 1.75mm/5.0mm<br/>with its 20mm shaft | [Bondtech](http://shop.bondtech.se/en/drivegears/drivegear-kit-175-direct.html) |
 | Nema 17 stepper for X axis<br/>LDO 42STH38-1004A100CM | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/doc/datasheets/LDO-42STH38-1004A100CM-RevA-for-3D.pdf?raw=true) | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/388-x-axis-stepper-motor.html) |
 | Nema 17 stepper for Z axis<br/>integrated Lead screw Tr8x8 (P2x4) and nut<br/>LDO-42STH34-1004L321E100CM | 2 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/doc/datasheets/LDO-42STH34-1004L321E100CM-RevA-for-3D.pdf?raw=true) | [Prusa](https://shop.prusa3d.com/en/spare-parts/386-stepper-motor-z-axis-right.html) |
 | Nema 17 stepper for extruder extruder<br/>LDO Cool Power 42STH40-1004ASR | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/doc/datasheets/LDO-42STH40-1004ASR_cool_power.pdf?raw=true) | |
+| Bondtech gears | 1 | 1.75mm/5.0mm<br/>with its 20mm shaft | [Bondtech](http://shop.bondtech.se/en/drivegears/drivegear-kit-175-direct.html) |
+| Hotend E3D v6<br/>40W heater<br/>0.45mm nozzle | 1 | [E3D-Online](https://e3d-online.com/v6-all-metal-hotend)
 | Hotend Fan | 1 | Check [our recommended fans](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/hotend_fan) | |
 | Nozzle Fan | 1 | Minimal specifications:<br/>- CFM: 3.8<br/>- Static Pressure: 11.3 mmH2O<br/>- Bearing type: ball bearing | [Prusa](https://shop.prusa3d.com/en/spare-parts/201-print-fan.html) |
 | Inductive Sensor | 1 | Diameter of 8mm, length around 35mm | | [Prusa](https://shop.prusa3d.com/en/spare-parts/200-pinda-probe-v2.html) |
@@ -43,7 +44,8 @@ Check the spare parts bags from your Prusa, you might already have most of this 
 | 2GT 20T idler | 1 | 3mm bore<br/>smooth or toothed<br/>Check this [optional part for E3D idler](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/x_end_idler_tensioner_e3d) | |
 | Extruder spring | 1 | Wire Diameter: 0.8mm<br/>Centre Diameter: 4.9mm<br/>Free length: 15mm<br/>Compressed length: 10mm<br/>Material: DIN 2076-B | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/599-tension-spring-1x.html) |
 | Smooth rods | 2 | 8mm diameter H6<br/>370mm long | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/589-smooth-rod-8x370-x-axis-1-piece.html) |
-| Gates LL-2GT RF belt | 1 | 6mm width<br/>880mm long | [E3D-Online store](https://e3d-online.com/gates-powergripr-gt2-belt-6mm-x-100mm) |
+| LM8UU bearings | 3 | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/140-linear-bearing-lm8uu.html) |
+| Gates LL-2GT RF belt | 1 | 6mm width<br/>880mm long | [E3D-Online](https://e3d-online.com/gates-powergripr-gt2-belt-6mm-x-100mm) |
 | Nylon cable<br/>2.85-3.00mm diameter<br/>500mm long | 1 | Check 2.85mm filament samples or 2.85mm cleaning filaments | |
 
 :pushpin: : You need to have ordered a Prusa printer and need to login on Prusa store to see the articles. You can probably find this hardware from our [official distributors](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/openbuilds_stores_list.md)
