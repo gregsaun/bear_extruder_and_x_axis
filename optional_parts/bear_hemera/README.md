@@ -76,6 +76,7 @@ This is the list of extra material you will need from original Prusa extruder an
 | 2GT 16T pulley | 1 | 3mm bore<br/> | [E3D-Online store](https://e3d-online.com/gates-powergrip-pulley-16-tooth-6mm) |
 | 2GT 20T idler | 1 | 3mm bore<br/>smooth or toothed<br/>Check this [optional part for E3D idler](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/x_end_idler_tensioner_e3d) | |
 | Smooth rods | 2 | 8mm diameter H6<br/>370mm long | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/589-smooth-rod-8x370-x-axis-1-piece.html) |
+| LM8UU bearings | 3 | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/140-linear-bearing-lm8uu.html) |
 | Gates LL-2GT RF belt | 1 | 6mm width<br/>880mm long | [E3D-Online store](https://e3d-online.com/gates-powergripr-gt2-belt-6mm-x-100mm) |
 | Nylon cable<br/>2.85-3.00mm diameter<br/>500mm long | 1 | You can use 2.85mm sample or cleaning filaments | |
 
