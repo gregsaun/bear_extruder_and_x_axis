@@ -92,15 +92,15 @@ You can find more details about recommended filaments in on our [FAQ](https://gu
 
 ### Assembly Guide
 
-  1. Follow the ["Bondtech Prusa i3 MK*** Upgrade Kit - Installation"](https://support.bondtech.se/c/Prusa) guide to assembly the Bondtech extruder body.
-  1. Assemble the Bear X axis using the [Bear extruder and X axis guide 2 "X axis"](https://guides.bear-lab.com/Guide/2.+X+axis/17?lang=en).
-  1. Assemble the Bear X carriage following this figure. You can use the [Bear extruder and X axis guide 4 "Extruder and X axis assembly"](https://guides.bear-lab.com/Guide/4.+Extruder+and+X+axis+assembly/20?lang=en) as support.
-    ![Quick assembly 2](assembly/quick_assembly_2.jpg)
-  1. Finalize the assembly with the [Bear extruder and X axis guide 5 "Final adjustments and calibration"](https://guides.bear-lab.com/Guide/5.+Final+adjustments+and+calibration/14?lang=en) using the recommended firmware and settings from Bondtech.
-  1. Enjoy your bondtech extruder :relaxed: !
+The assembly guide is available on [this page of guides.bear-lab.com](https://guides.bear-lab.com/Guide/Assembly+Guide/40).
 
 
 
 ### Source
 
 All source files in Fusion 360 and STEP format can be [download here](source/bondtech_x_carriage_source.zip?raw=true).
+
+
+### Thank you
+
+Thank you to Bondtech for having listen several of my design propositions for this extruder. Thank you to the BPE2000 group for the chat and support.
