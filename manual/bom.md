@@ -4,7 +4,7 @@
 
 ### Hardware BOM For Prusa Printers
 
-Check the spare parts bags from your Prusa, you might already have most of this list.
+There are 5 revisions of Original Prusa extruder for MK2.5(S)/MK3(S) and they come with different screws and nuts, as well as different spare bag. Make sure to double check you have all the hardware listed in this table before starting.
 
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
