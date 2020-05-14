@@ -86,7 +86,7 @@ Download links for the Bear extruder and X axis (BearExxa) :
 * BearExxa MK3S : [bear_extruder_x_axis_mk3s.zip](printed_parts/bear_extruder_x_axis_mk3s.zip?raw=true)
 * Sources : [bear_extruder_x_axis_source.zip](source/bear_extruder_x_axis_source.zip?raw=true)
 
-You can also download them via Thingiverse: [thingiverse.com/thing:3716110](https://www.thingiverse.com/thing:3716110)
+You can also download them via Thingiverse: [thingiverse.com/thing:4362586](https://www.thingiverse.com/thing:4362586)
 
 If you are looking for alternative extruders printed parts, please check the section [Optional parts](#optional-parts) below.
 
