@@ -8,9 +8,10 @@ On the table below, we can see that the original E3D v6 fan has 5.07 times more 
 
 Less heatsink cooling allows the filament to melt higher in the heatbreak. This may affect the consistency of layer deposition and increase the risk of clogging. Increase of stringing might be another artefact of a higher heatsink temperature.
 
-Fortunately, there are *almost* drop-in replacements for the Noctua from both Sunon and Delta which are more powerful but more noisier (you cannot get more pressure with same noise level...) :
+Fortunately, there are *almost* drop-in replacements for the Noctua from OEM3D, Sunon and Delta which are more powerful but more noisier (you cannot get more pressure with same noise level...) :
+  * [OEM3D Hotend cooling fan](https://www.oem3d.com/products/oem3d-hotend-cooling-fan-for-mk3s-mk2-5s) (the most powerful)
   * Sunon MF40100V1-1000U-G99
-  * Delta ASB0405HHA-AF00
+  * Delta ASB0405HHA-AF00 (despite similar specs, a bit lower than Sunon)
 
 Some distributors are selling the Sunon as a drop-in replacement with correct cable length and connector. However, you could source the fan on your own providing a cable and crimping a connector. The total cable length needs to be 700mm long. We recommend AWG 26 wire. The connector used on the RAMBo is Molex SL 70066 and contacts are Molex SL 70058.
 
