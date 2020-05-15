@@ -5,7 +5,7 @@
   1. [Features](#features)
   1. [Compatibility](#compatibility)
   1. [Printed parts](#printed-parts)
-  1. [Printed settings](#print-settings)
+  1. [Print settings](#print-settings)
   1. [Bill of materials](#bill-of-materials)
   1. [Manual](#manual)
   1. [Optional parts](#optional-parts)
