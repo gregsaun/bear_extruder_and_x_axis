@@ -5,8 +5,8 @@
   1. [Features](#features)
   1. [Compatibility](#compatibility)
   1. [Printed parts](#printed-parts)
-  1. [Printed settings](#printed-settings)
-  1. [Bill of materials](#bill-od-materials)
+  1. [Printed settings](#print-settings)
+  1. [Bill of materials](#bill-of-materials)
   1. [Manual](#manual)
   1. [Optional parts](#optional-parts)
   1. [Community](#community)
@@ -94,7 +94,7 @@ If you are looking for alternative extruders printed parts, please check the sec
 
 
 
-## Printed Settings
+## Print Settings
 
 The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances.
 
