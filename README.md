@@ -4,7 +4,9 @@
   1. [Introduction](#introduction)
   1. [Features](#features)
   1. [Compatibility](#compatibility)
-  1. [Printed parts](#Printed-parts)
+  1. [Printed parts](#printed-parts)
+  1. [Printed settings](#printed-settings)
+  1. [Bill of materials](#bill-od-materials)
   1. [Manual](#manual)
   1. [Optional parts](#optional-parts)
   1. [Community](#community)
@@ -89,6 +91,21 @@ Download links for the Bear extruder and X axis (BearExxa) :
 You can also download them via Thingiverse: [thingiverse.com/thing:4362586](https://www.thingiverse.com/thing:4362586)
 
 If you are looking for alternative extruders printed parts, please check the section [Optional parts](#optional-parts) below.
+
+
+
+## Printed Settings
+
+The parts have been designed and tested with the parameters below and it is important to follow them to avoid issues like part cracking, bad bridging, not enough stiffness or wrong tolerances.
+
+[Read the print settings here](manual/print_settings.md).
+
+
+
+## Bill of materials
+
+[Read the BOM here](manual/bom.md).
+
 
 
 ## Manual
