@@ -25,7 +25,7 @@ The vslot mount is available in two versions: angled or normal.
 
 ### Printed parts
 
-Use the links belowsto download the STL:
+Use those links to download the STL files:
   * [fs_cover_pc4-m10_mk25s_mk3s.stl](printed_parts/fs_cover_pc4-m10_mk25s_mk3s.stl?raw=true)
   * [vslot_mount_pc4-m10.stl](printed_parts/vslot_mount_pc4-m10.stl?raw=true)
   * [vslot_mount_pc4-m10_angled.stl](printed_parts/vslot_mount_pc4-m10_angled.stl?raw=true)
