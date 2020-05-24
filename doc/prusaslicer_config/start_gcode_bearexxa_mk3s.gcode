@@ -9,7 +9,6 @@ G28 W                               ; home all without mesh bed level
 M117 ALIGN Z AXIS                   ; message
 G0 X125 Y200 Z200 F1000             ; move to top (with margin when doing homing after)
 G92 Z0                              ; set current position as zero (necessary to go over max Z print height)
-;G0 Z10 F1000                        ; go to max print position
 G0 Z13 F200                         ; crash into Z tops to sync both side of Z axis
 G0 Z0 F1000                         ; go lower for homing with avoiding crashing into Z tops again
 G28 W                               ; home again
@@ -34,7 +33,7 @@ G4 S20             ; wait to clean the nozzle
 M300 S440 P200     ; 3rd beep for ready to start printing
 G4 S3              ; little wait
 ; ------
-G28 W              ; home all without mesh bed level
+;G28 W              ; home all without mesh bed level
 G80                ; mesh bed leveling
 G92 E0.0
 G1 Y-3.0 F1000.0   ; go outside print area
