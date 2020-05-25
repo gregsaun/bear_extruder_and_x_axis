@@ -6,10 +6,10 @@ G90            ;use absolute coordinates
 M83            ;extruder relative mode
 
 G92 E0         ;Reset the position of the extruder
-G1 E-20 F2000  ;Retract quickly
-G4 S1          ;Pause
-G1 E-50 F500   ;Retract slowly
-G92 E0         ;Reset the position of the extruder
+G1 E-15 F4000  ;Retract quickly
+G1 E1   F20    ;Very slow extrusion for ramming
+G1 E-40 F1000  ;Retract slowly
 
-G4             ;wait
-M84            ;disable motors
+G4        ;Wait
+M84       ;Disable motors
+M117 Filament unloaded   ;LCD Message
