@@ -34,7 +34,7 @@ There are 5 revisions of Original Prusa extruder for MK2.5(S)/MK3(S) and they co
 | Nema 17 stepper for X axis<br/>LDO 42STH38-1004A100CM | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/doc/datasheets/LDO-42STH38-1004A100CM-RevA-for-3D.pdf?raw=true) | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/388-x-axis-stepper-motor.html) |
 | Nema 17 stepper for Z axis<br/>integrated Lead screw Tr8x8 (P2x4) and nut<br/>LDO-42STH34-1004L321E100CM | 2 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/doc/datasheets/LDO-42STH34-1004L321E100CM-RevA-for-3D.pdf?raw=true) | [Prusa](https://shop.prusa3d.com/en/spare-parts/386-stepper-motor-z-axis-right.html) |
 | Nema 17 stepper for extruder extruder<br/>LDO Cool Power 42STH40-1004ASR | 1 | [Datasheet](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/doc/datasheets/LDO-42STH40-1004ASR_cool_power.pdf?raw=true) | |
-| Bondtech gears | 1 | 1.75mm/5.0mm<br/>with its 20mm shaft | [Bondtech](http://shop.bondtech.se/en/drivegears/drivegear-kit-175-direct.html) |
+| Bondtech gears | 1 | 1.75mm/5.0mm<br/>with its 20mm shaft | [Bondtech](https://www.bondtech.se/en/product/drivegear-kits/) |
 | Hotend E3D v6<br/>40W heater<br/>0.45mm nozzle | 1 | [E3D-Online](https://e3d-online.com/v6-all-metal-hotend)
 | Hotend Fan | 1 | Check [our recommended fans](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/hotend_fan) | |
 | Nozzle Fan | 1 | Minimal specifications:<br/>- CFM: 3.8<br/>- Static Pressure: 11.3 mmH2O<br/>- Bearing type: ball bearing | [Prusa](https://shop.prusa3d.com/en/spare-parts/201-print-fan.html) |
