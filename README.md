@@ -23,7 +23,7 @@ The BearExxa (Bear extruder and X axis) is an alternative extruder and X axis fo
 
 The Bear X axis also supports alternative extruders such as [Bondtech Prusa Upgrade](./optional_parts/bondtech_x_carriage/README.md), [E3D Hemera](./optional_parts/bear_hemera/README.md) and [vertigo235's extruders](https://www.thingiverse.com/vertigo235/designs).
 
-All parts are available under the GPLv3 open source license and you can download STEP source files. Feel free to fork and share!
+All parts are available under the GPLv3 open source license. You can download STL, CAD files (Autodesk Fusion 360) or STEP source files. Feel free to fork and share!
 
 :warning: The Bear X axis is **NOT** compatible with stock Prusa extruder!
 
