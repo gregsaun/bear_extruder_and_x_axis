@@ -48,7 +48,7 @@ There are 5 revisions of Original Prusa extruder for MK2.5(S)/MK3(S) and they co
 | Gates LL-2GT RF belt | 1 | 6mm width<br/>880mm long | [E3D-Online](https://e3d-online.com/gates-powergripr-gt2-belt-6mm-x-100mm) |
 | Nylon cable<br/>2.85-3.00mm diameter<br/>500mm long | 1 | Check 2.85mm filament samples or 2.85mm cleaning filaments | |
 
-:pushpin: : You need to have ordered a Prusa printer and need to login on Prusa store to see the articles. You can probably find this hardware from our [official distributors](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/openbuilds_stores_list.md)
+:pushpin: : You need to have ordered a Prusa printer and need to login on Prusa store to see the articles. You can probably find this hardware from our [official distributors](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/README.md#where-can-i-get-an-official-kit)
 
 
 
