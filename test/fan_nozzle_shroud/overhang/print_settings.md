@@ -9,12 +9,11 @@
 
   * Slicer: PrusaSlicer
   * Layer height : 0.2mm
-  * Perimeters : 2
-  * Infill : 15%
-  * Solid layers : 3 tops, 4 bottoms
-  * Infill type : Rectilinear
+  * Perimeters width (internal and external) : 0.45mm (important!)
+  * Perimeters : 2 to more
+  * Infill : does not matter
+  * Solid layers : 3 tops/bottoms or more
+  * Infill type : does not matter
   * Support : No
   * Brim : No
   * Detect thin walls : No
-  * Ensure vertical shell thickness : Yes
-  * Perimeters width (internal and external) : 0.45mm
