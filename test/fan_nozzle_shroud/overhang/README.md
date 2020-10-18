@@ -1,11 +1,13 @@
-# Hardware
+# Test settings
+
+## Hardware
 
   * Heatblock sock : no
   * Part position : center of bed
   * Nozzle : E3D 0.4mm
 
 
-# Slicer
+## Slicer
 
   * Slicer: PrusaSlicer
   * Layer height : 0.2mm
