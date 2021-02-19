@@ -47,7 +47,7 @@ This is the list of extra material you will need from original Prusa extruder an
 
 | Part     | Quantity<br>(pce) | Detail | Example Link |
 |----------|:---------------:|----------|--------------|
-| E3D Hemera                             | 1 | | [E3D-Online store](https://e3d-online.com/e3d-hemera) |
+| E3D Hemera Direct Kit                  | 1 | 24V for MK3(S)(S+)<br>12V for MK2(S) and MK2.5(S)(S+) | [E3D-Online store](https://e3d-online.com/e3d-hemera) |
 | Hotend fan                             | 1 | Stock Hemera fan<br/>or higher specifications (yet unknown) | |
 | M3x8mm socket head screw (ISO 4762)    | 3 | Check your Hemera package | [McMaster-Carr](https://www.mcmaster.com/90751a111) | |
 | M3x10mm socket head screw (ISO 4762)   | 12 | | [McMaster-Carr](https://www.mcmaster.com/#91292a113/=1coixe5) | |
