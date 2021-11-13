@@ -103,9 +103,9 @@ Download links for the BearMera and X axis:
 | Part | Quantity | Layer Height | Infill | Perimeters | Top/Bottom Layers | Filament Type |
 |:----|:----:|:----:|:----:|:----:|:----:|:----:|
 | body_back               | 1 | 0.20mm | 20% | 4 | 5 | PETG |
-| body_front              | 1 | 0.20mm | 20% | 4 | 5 | PETG |
+| body_front<sup>1</sup>  | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | cable_cover             | 1 | 0.20mm | 20% | 4 | 5 | PETG |
-| nozzle_fan_duct         | 1 | 0.20mm | 20% | 3 | 5 | Read note<sup>1</sup> below |
+| nozzle_fan_duct         | 1 | 0.20mm | 20% | 3 | 5 | Read note<sup>2</sup> below |
 | nozzle_fan_spacer       | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | pinda_mount             | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | ptfe_collet_clip        | 1 | 0.20mm | 20% | 3 | 5 | PETG |
@@ -118,7 +118,9 @@ Download links for the BearMera and X axis:
 | cable_guide_back_a      | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 | cable_guide_back_b      | 1 | 0.20mm | 20% | 4 | 5 | PETG |
 
-Note<sup>1</sup>: The nozzle_fan_duct needs to be printed with a heat resistant filament like ABS, Extrudr GreenTec Pro, annealed HTPLA, PC and probably much more. Don't forget to compensate for shrinkage accordingly to the filament type you are using.
+Note<sup>1</sup>: If you intend to use the E3D Volcano hotend with BearMera, this STL should be replaced with the [modified volcano body_front](optional_parts/e3d_volcano/) listed below among official [Optional parts](#optional-parts)
+
+Note<sup>2</sup>: The nozzle_fan_duct needs to be printed with a heat resistant filament like ABS, Extrudr GreenTec Pro, annealed HTPLA, PC and probably much more. Don't forget to compensate for shrinkage accordingly to the filament type you are using.
 
 You can find more details about recommended filaments in on our [FAQ](https://guides.bear-lab.com/Wiki/Bear_FAQ).
 
