@@ -40,7 +40,7 @@ There are 5 revisions of Original Prusa extruder for MK2.5(S)/MK3(S) and they co
 | Nozzle Fan | 1 | Minimal specifications:<br/>- CFM: 3.8<br/>- Static Pressure: 11.3 mmH2O<br/>- Bearing type: ball bearing | [Prusa](https://shop.prusa3d.com/en/spare-parts/201-print-fan.html) |
 | Inductive Sensor | 1 | Diameter of 8mm, length around 35mm | | [Prusa](https://shop.prusa3d.com/en/spare-parts/200-pinda-probe-v2.html) |
 | Filament sensor<br/>with magnets, steel ball and cables | 1 | 1x IR Sensor: [GitHub Prusa](https://github.com/prusa3d/MKxS-IR-sensor)<br/>1x Steel ball 7mm diameter<br/>1x Magnet 20x6x2<br/>1x Magnet 10x6x2<br/> | [Prusa](https://shop.prusa3d.com/en/upgrades/898-original-prusa-i3-mk3-to-mk3s-upgrade-kit.html#) |
-| 2GT 16T pulley | 1 | 3mm bore<br/> | [E3D-Online store](https://e3d-online.com/gates-powergrip-pulley-16-tooth-6mm) |
+| 2GT 16T pulley | 1 | 5mm bore<br/> | [E3D-Online store](https://e3d-online.com/gates-powergrip-pulley-16-tooth-6mm) |
 | 2GT 20T idler | 1 | 3mm bore<br/>smooth or toothed<br/>Check this [optional part for E3D idler](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/x_end_idler_tensioner_e3d) | |
 | Extruder spring | 1 | Wire Diameter: 0.8mm<br/>Centre Diameter: 4.9mm<br/>Free length: 15mm<br/>Compressed length: 10mm<br/>Material: DIN 2076-B | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/599-tension-spring-1x.html) |
 | Smooth rods | 2 | 8mm diameter H6<br/>370mm long | [Prusa](https://shop.prusa3d.com/en/mk3mk3s/589-smooth-rod-8x370-x-axis-1-piece.html) |
@@ -49,8 +49,6 @@ There are 5 revisions of Original Prusa extruder for MK2.5(S)/MK3(S) and they co
 | Nylon cable<br/>2.85-3.00mm diameter<br/>500mm long | 1 | Check 2.85mm filament samples or 2.85mm cleaning filaments | |
 
 :pushpin: : You need to have ordered a Prusa printer and need to login on Prusa store to see the articles. You can probably find this hardware from our [official distributors](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/README.md#where-can-i-get-an-official-kit)
-
-
 
 ### Printed Parts BOM
 
